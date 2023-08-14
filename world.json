@@ -1,0 +1,12 @@
+{
+  "title": "Campagne principale Knight",
+  "id": "campagne-principale-knight",
+  "system": "knight",
+  "description": "<p>Campagne principale de knight avec Rémi et Florian</p>",
+  "coreVersion": "10.303",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.303"
+  },
+  "systemVersion": "3.17.11"
+}
