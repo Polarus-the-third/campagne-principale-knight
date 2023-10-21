@@ -3,10 +3,12 @@
   "id": "campagne-principale-knight",
   "system": "knight",
   "description": "<p>Campagne principale de knight avec Rémi et Florian</p>",
-  "coreVersion": "10.303",
+  "coreVersion": "11.313",
   "compatibility": {
-    "minimum": "10",
-    "verified": "10.303"
+    "minimum": "11",
+    "verified": "11.313"
   },
-  "systemVersion": "3.21.14"
+  "systemVersion": "3.21.16",
+  "lastPlayed": "Sat Oct 21 2023 11:48:23 GMT+0200 (Central European Summer Time)",
+  "safeMode": false
 }
