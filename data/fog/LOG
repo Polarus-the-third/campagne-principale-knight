@@ -1,5 +1,3 @@
-2023/10/22-11:47:22.919 3da8 Recovering log #6
-2023/10/22-11:47:22.920 3da8 Level-0 table #8: started
-2023/10/22-11:47:22.926 3da8 Level-0 table #8: 13038 bytes OK
-2023/10/22-11:47:22.936 3da8 Delete type=0 #6
-2023/10/22-11:47:22.936 3da8 Delete type=3 #4
+2023/10/24-20:19:42.766 32b0 Recovering log #11
+2023/10/24-20:19:42.773 32b0 Delete type=0 #11
+2023/10/24-20:19:42.773 32b0 Delete type=3 #10

@@ -1,5 +1,3 @@
-2023/10/21-15:17:34.782 3bcc Recovering log #3
-2023/10/21-15:17:34.782 3bcc Level-0 table #5: started
-2023/10/21-15:17:34.785 3bcc Level-0 table #5: 4886 bytes OK
-2023/10/21-15:17:34.793 3bcc Delete type=0 #3
-2023/10/21-15:17:34.793 3bcc Delete type=3 #2
+2023/10/22-12:10:22.249 2cf0 Recovering log #8
+2023/10/22-12:10:22.254 2cf0 Delete type=0 #8
+2023/10/22-12:10:22.255 2cf0 Delete type=3 #7
