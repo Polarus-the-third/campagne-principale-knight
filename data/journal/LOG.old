@@ -1,1 +1,7 @@
-2023/11/15-19:49:39.974 9d0 Delete type=3 #1
+2023/11/15-19:59:18.066126 7f91fbf0a0 Log #29: 0 ops saved to Table #30 OK
+2023/11/15-19:59:18.066459 7f91fbf0a0 Archiving /home/foundry/data/Data/worlds/campagne-principale-knight/data/journal/000029.log: OK
+2023/11/15-19:59:18.066602 7f91fbf0a0 Log #25: 0 ops saved to Table #31 OK
+2023/11/15-19:59:18.066729 7f91fbf0a0 Archiving /home/foundry/data/Data/worlds/campagne-principale-knight/data/journal/000025.log: OK
+2023/11/15-19:59:18.066953 7f91fbf0a0 Table #27: 2 entries OK
+2023/11/15-19:59:18.067347 7f91fbf0a0 Archiving /home/foundry/data/Data/worlds/campagne-principale-knight/data/journal/MANIFEST-000028: OK
+2023/11/15-19:59:18.078078 7f91fbf0a0 **** Repaired leveldb /home/foundry/data/Data/worlds/campagne-principale-knight/data/journal; recovered 1 files; 2571 bytes. Some data may have been lost. ****
