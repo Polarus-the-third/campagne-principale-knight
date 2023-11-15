@@ -1,11 +1,5 @@
-2023/11/13-20:12:36.623 2edc Recovering log #31
-2023/11/13-20:12:36.623 2edc Level-0 table #34: started
-2023/11/13-20:12:36.637 2edc Level-0 table #34: 2088 bytes OK
-2023/11/13-20:12:36.645 2edc Delete type=0 #31
-2023/11/13-20:12:36.645 2edc Delete type=3 #29
-2023/11/13-20:12:39.839 2df8 Compacting 1@0 + 1@1 files
-2023/11/13-20:12:39.850 2df8 Generated table #36@0: 1197 keys, 317156 bytes
-2023/11/13-20:12:39.850 2df8 Compacted 1@0 + 1@1 files => 317156 bytes
-2023/11/13-20:12:39.852 2df8 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/11/13-20:12:39.852 2df8 Delete type=2 #32
-2023/11/13-20:12:39.853 2df8 Delete type=2 #34
+2023/11/15-19:49:40.125 9d0 Delete type=3 #1
+2023/11/15-19:49:46.078 39ec Compacting 2@0 + 0@1 files
+2023/11/15-19:49:46.088 39ec Generated table #44@0: 1199 keys, 317295 bytes
+2023/11/15-19:49:46.088 39ec Compacted 2@0 + 0@1 files => 317295 bytes
+2023/11/15-19:49:46.089 39ec compacted to: files[ 0 1 0 0 0 0 0 ]
