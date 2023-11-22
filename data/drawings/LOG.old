@@ -1,4 +1,1 @@
-2023/11/22-19:24:37.448 43dc Log #31: 0 ops saved to Table #32 OK
-2023/11/22-19:24:37.453 43dc Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/drawings/000031.log: OK
-2023/11/22-19:24:37.460 43dc Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/drawings/MANIFEST-000029: OK
-2023/11/22-19:24:37.475 43dc **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/drawings; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2023/11/22-19:24:37.502 43dc Delete type=3 #1
