@@ -1,8 +1,5 @@
-2023/11/15-19:59:18.403362 7f927cf0a0 Log #42: 4 ops saved to Table #43 OK
-2023/11/15-19:59:18.403733 7f927cf0a0 Archiving /home/foundry/data/Data/worlds/campagne-principale-knight/data/settings/000042.log: OK
-2023/11/15-19:59:18.403890 7f927cf0a0 Log #36: 0 ops saved to Table #44 OK
-2023/11/15-19:59:18.404016 7f927cf0a0 Archiving /home/foundry/data/Data/worlds/campagne-principale-knight/data/settings/000036.log: OK
-2023/11/15-19:59:18.404242 7f927cf0a0 Table #38: 16 entries OK
-2023/11/15-19:59:18.404329 7f927cf0a0 Table #43: 4 entries OK
-2023/11/15-19:59:18.404734 7f927cf0a0 Archiving /home/foundry/data/Data/worlds/campagne-principale-knight/data/settings/MANIFEST-000040: OK
-2023/11/15-19:59:18.413925 7f927cf0a0 **** Repaired leveldb /home/foundry/data/Data/worlds/campagne-principale-knight/data/settings; recovered 2 files; 5542 bytes. Some data may have been lost. ****
+2023/11/22-19:24:39.278 43dc Log #47: 0 ops saved to Table #50 OK
+2023/11/22-19:24:39.282 43dc Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/settings/000047.log: OK
+2023/11/22-19:24:39.324 43dc Table #49: 16 entries OK
+2023/11/22-19:24:39.335 43dc Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/settings/MANIFEST-000045: OK
+2023/11/22-19:24:39.356 43dc **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/settings; recovered 1 files; 3109 bytes. Some data may have been lost. ****
