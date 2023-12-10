@@ -1,1 +1,11 @@
-2023/12/09-18:37:32.422 3d90 Delete type=3 #1
+2023/12/09-19:37:02.114 1dfc Recovering log #78
+2023/12/09-19:37:02.123 1dfc Level-0 table #80: started
+2023/12/09-19:37:02.151 1dfc Level-0 table #80: 3042176 bytes OK
+2023/12/09-19:37:02.159 1dfc Delete type=0 #78
+2023/12/09-19:37:02.160 1dfc Delete type=3 #77
+2023/12/09-19:37:04.920 34f8 Compacting 2@0 + 0@1 files
+2023/12/09-19:37:04.934 34f8 Generated table #82@0: 1941 keys, 405145 bytes
+2023/12/09-19:37:04.934 34f8 Compacted 2@0 + 0@1 files => 405145 bytes
+2023/12/09-19:37:04.935 34f8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/12/09-19:37:04.935 34f8 Delete type=2 #75
+2023/12/09-19:37:04.935 34f8 Delete type=2 #80

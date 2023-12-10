@@ -1,1 +1,5 @@
-2023/12/09-18:37:32.699 1f60 Delete type=3 #1
+2023/12/09-19:37:02.193 1dfc Recovering log #70
+2023/12/09-19:37:02.193 1dfc Level-0 table #72: started
+2023/12/09-19:37:02.201 1dfc Level-0 table #72: 2500 bytes OK
+2023/12/09-19:37:02.210 1dfc Delete type=0 #70
+2023/12/09-19:37:02.210 1dfc Delete type=3 #69
