@@ -1,14 +1,14 @@
-2023/12/09-19:40:21.657933 7f91fbf0a0 Recovering log #59
-2023/12/09-19:40:21.679179 7f91fbf0a0 Delete type=0 #59
-2023/12/09-19:40:21.679345 7f91fbf0a0 Delete type=3 #58
-2023/12/10-00:27:08.883968 7e6893f0a0 Level-0 table #63: started
-2023/12/10-00:27:08.902884 7e6893f0a0 Level-0 table #63: 64084 bytes OK
-2023/12/10-00:27:08.909659 7e6893f0a0 Delete type=0 #61
-2023/12/10-00:27:08.958854 7e6893f0a0 Manual compaction at level-0 from '!messages!02BcBilRX6h2MSWm' @ 72057594037927935 : 1 .. '!messages!zjf8IVKvg0HB2res' @ 0 : 0; will stop at '!messages!zaa58cVUP2rujCq7' @ 954 : 1
-2023/12/10-00:27:08.958901 7e6893f0a0 Compacting 2@0 + 0@1 files
-2023/12/10-00:27:09.083560 7e6893f0a0 Generated table #64@0: 1010 keys, 1061520 bytes
-2023/12/10-00:27:09.083712 7e6893f0a0 Compacted 2@0 + 0@1 files => 1061520 bytes
-2023/12/10-00:27:09.090324 7e6893f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/12/10-00:27:09.090806 7e6893f0a0 Delete type=2 #54
-2023/12/10-00:27:09.091550 7e6893f0a0 Delete type=2 #63
-2023/12/10-00:27:09.360544 7e6893f0a0 Manual compaction at level-0 from '!messages!zaa58cVUP2rujCq7' @ 954 : 1 .. '!messages!zjf8IVKvg0HB2res' @ 0 : 0; will stop at (end)
+2024/01/17-19:56:56.415096 7f84f9f0a0 Recovering log #62
+2024/01/17-19:56:56.436661 7f84f9f0a0 Delete type=3 #60
+2024/01/17-19:56:56.436979 7f84f9f0a0 Delete type=0 #62
+2024/01/17-22:28:00.914390 7e5bf3f0a0 Level-0 table #68: started
+2024/01/17-22:28:00.930056 7e5bf3f0a0 Level-0 table #68: 26728 bytes OK
+2024/01/17-22:28:00.937333 7e5bf3f0a0 Delete type=0 #66
+2024/01/17-22:28:01.037377 7e5bf3f0a0 Manual compaction at level-0 from '!messages!02BcBilRX6h2MSWm' @ 72057594037927935 : 1 .. '!messages!zjf8IVKvg0HB2res' @ 0 : 0; will stop at '!messages!yQVmaTKHfH0A3T1X' @ 1018 : 1
+2024/01/17-22:28:01.037491 7e5bf3f0a0 Compacting 1@0 + 1@1 files
+2024/01/17-22:28:01.162978 7e5bf3f0a0 Generated table #69@0: 1065 keys, 1088995 bytes
+2024/01/17-22:28:01.163092 7e5bf3f0a0 Compacted 1@0 + 1@1 files => 1088995 bytes
+2024/01/17-22:28:01.168598 7e5bf3f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/01/17-22:28:01.169110 7e5bf3f0a0 Delete type=2 #64
+2024/01/17-22:28:01.170500 7e5bf3f0a0 Delete type=2 #68
+2024/01/17-22:28:01.517580 7e5bf3f0a0 Manual compaction at level-0 from '!messages!yQVmaTKHfH0A3T1X' @ 1018 : 1 .. '!messages!zjf8IVKvg0HB2res' @ 0 : 0; will stop at (end)
