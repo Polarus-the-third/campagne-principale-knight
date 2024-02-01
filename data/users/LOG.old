@@ -1,14 +1,5 @@
-2023/12/09-19:40:22.874261 7f91fbf0a0 Recovering log #57
-2023/12/09-19:40:22.897022 7f91fbf0a0 Delete type=0 #57
-2023/12/09-19:40:22.897194 7f91fbf0a0 Delete type=3 #56
-2023/12/10-00:27:10.356607 7e6893f0a0 Level-0 table #61: started
-2023/12/10-00:27:10.368783 7e6893f0a0 Level-0 table #61: 3874 bytes OK
-2023/12/10-00:27:10.374842 7e6893f0a0 Delete type=0 #59
-2023/12/10-00:27:10.403126 7e6893f0a0 Manual compaction at level-0 from '!users!2LHdNW5FWGBjxiZQ' @ 72057594037927935 : 1 .. '!users!bkxExVkIv36cxEOR' @ 0 : 0; will stop at '!users!bkxExVkIv36cxEOR' @ 21 : 1
-2023/12/10-00:27:10.403177 7e6893f0a0 Compacting 2@0 + 0@1 files
-2023/12/10-00:27:10.411909 7e6893f0a0 Generated table #62@0: 4 keys, 1973 bytes
-2023/12/10-00:27:10.411995 7e6893f0a0 Compacted 2@0 + 0@1 files => 1973 bytes
-2023/12/10-00:27:10.417515 7e6893f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/12/10-00:27:10.417807 7e6893f0a0 Delete type=2 #61
-2023/12/10-00:27:10.418136 7e6893f0a0 Delete type=2 #52
-2023/12/10-00:27:10.428166 7e6893f0a0 Manual compaction at level-0 from '!users!bkxExVkIv36cxEOR' @ 21 : 1 .. '!users!bkxExVkIv36cxEOR' @ 0 : 0; will stop at (end)
+2024/02/01-18:36:56.605 3b88 Log #65: 0 ops saved to Table #68 OK
+2024/02/01-18:36:56.606 3b88 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/users/000065.log: OK
+2024/02/01-18:36:56.615 3b88 Table #67: 4 entries OK
+2024/02/01-18:36:56.619 3b88 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/users/MANIFEST-000063: OK
+2024/02/01-18:36:56.622 3b88 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/users; recovered 1 files; 1973 bytes. Some data may have been lost. ****
