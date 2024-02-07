@@ -1,1 +1,7 @@
-2024/02/01-18:36:56.111 3c10 Delete type=3 #1
+2024/02/07-19:56:09.089 1c44 Log #87: 2 ops saved to Table #88 OK
+2024/02/07-19:56:09.090 1c44 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/fog/000087.log: OK
+2024/02/07-19:56:09.091 1c44 Table #77: 5 entries OK
+2024/02/07-19:56:09.096 1c44 Table #82: 46 entries OK
+2024/02/07-19:56:09.096 1c44 Table #88: 2 entries OK
+2024/02/07-19:56:09.099 1c44 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/fog/MANIFEST-000086: OK
+2024/02/07-19:56:09.104 1c44 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/fog; recovered 3 files; 2560992 bytes. Some data may have been lost. ****

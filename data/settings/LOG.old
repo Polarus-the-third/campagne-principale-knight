@@ -1,1 +1,7 @@
-2024/02/01-18:36:56.595 1270 Delete type=3 #1
+2024/02/07-19:56:09.451 1bf8 Log #90: 4 ops saved to Table #91 OK
+2024/02/07-19:56:09.452 1bf8 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/settings/000090.log: OK
+2024/02/07-19:56:09.452 1bf8 Table #84: 16 entries OK
+2024/02/07-19:56:09.452 1bf8 Table #89: 4 entries OK
+2024/02/07-19:56:09.453 1bf8 Table #91: 4 entries OK
+2024/02/07-19:56:09.459 1bf8 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/settings/MANIFEST-000088: OK
+2024/02/07-19:56:09.463 1bf8 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/settings; recovered 3 files; 8042 bytes. Some data may have been lost. ****
