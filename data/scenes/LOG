@@ -1,7 +1,22 @@
-2024/02/07-19:56:09.417 1c44 Delete type=3 #1
-2024/02/07-19:56:19.094 de8 Compacting 2@0 + 0@1 files
-2024/02/07-19:56:19.108 de8 Generated table #108@0: 2422 keys, 455389 bytes
-2024/02/07-19:56:19.108 de8 Compacted 2@0 + 0@1 files => 455389 bytes
-2024/02/07-19:56:19.110 de8 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/02/07-19:56:19.110 de8 Delete type=2 #104
-2024/02/07-19:56:19.110 de8 Delete type=2 #105
+2024/02/07-20:09:34.620497 7faafdf0a0 Recovering log #107
+2024/02/07-20:09:34.625529 7faafdf0a0 Level-0 table #110: started
+2024/02/07-20:09:34.655521 7faafdf0a0 Level-0 table #110: 183353 bytes OK
+2024/02/07-20:09:34.678493 7faafdf0a0 Delete type=3 #106
+2024/02/07-20:09:34.678707 7faafdf0a0 Delete type=0 #107
+2024/02/07-20:09:42.347539 7fa14680a0 Compacting 1@0 + 1@1 files
+2024/02/07-20:09:42.416644 7fa14680a0 Generated table #112@0: 2516 keys, 466210 bytes
+2024/02/07-20:09:42.416770 7fa14680a0 Compacted 1@0 + 1@1 files => 466210 bytes
+2024/02/07-20:09:42.422487 7fa14680a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/07-20:09:42.422955 7fa14680a0 Delete type=2 #110
+2024/02/07-20:09:42.423598 7fa14680a0 Delete type=2 #108
+2024/02/07-22:55:38.181023 7fa14680a0 Level-0 table #114: started
+2024/02/07-22:55:38.204453 7fa14680a0 Level-0 table #114: 133240 bytes OK
+2024/02/07-22:55:38.235633 7fa14680a0 Delete type=0 #111
+2024/02/07-22:55:38.271781 7fa14680a0 Manual compaction at level-0 from '!scenes!00oK7KmMLLUD1A7L' @ 72057594037927935 : 1 .. '!scenes.walls!yVY3xvUXIPFWGfp7.vtV0s7fjRcUgwrxM' @ 0 : 0; will stop at '!scenes.walls!yVY3xvUXIPFWGfp7.9Wn6tsZeJgqTu2jb' @ 14837 : 1
+2024/02/07-22:55:38.271828 7fa14680a0 Compacting 1@0 + 1@1 files
+2024/02/07-22:55:38.341555 7fa14680a0 Generated table #115@0: 2541 keys, 472060 bytes
+2024/02/07-22:55:38.341668 7fa14680a0 Compacted 1@0 + 1@1 files => 472060 bytes
+2024/02/07-22:55:38.347624 7fa14680a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/07-22:55:38.347986 7fa14680a0 Delete type=2 #114
+2024/02/07-22:55:38.348525 7fa14680a0 Delete type=2 #112
+2024/02/07-22:55:38.366661 7fa14680a0 Manual compaction at level-0 from '!scenes.walls!yVY3xvUXIPFWGfp7.9Wn6tsZeJgqTu2jb' @ 14837 : 1 .. '!scenes.walls!yVY3xvUXIPFWGfp7.vtV0s7fjRcUgwrxM' @ 0 : 0; will stop at (end)

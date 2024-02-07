@@ -1,7 +1,9 @@
-2024/02/07-19:56:08.717 27c4 Log #129: 328 ops saved to Table #131 OK
-2024/02/07-19:56:08.720 27c4 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/000129.log: OK
-2024/02/07-19:56:08.723 27c4 Table #123: 851 entries OK
-2024/02/07-19:56:08.738 27c4 Table #130: 1296 entries OK
-2024/02/07-19:56:08.744 27c4 Table #131: 328 entries OK
-2024/02/07-19:56:08.748 27c4 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/MANIFEST-000127: OK
-2024/02/07-19:56:08.754 27c4 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors; recovered 3 files; 4251671 bytes. Some data may have been lost. ****
+2024/02/07-19:56:08.767 27c4 Delete type=3 #1
+2024/02/07-19:56:19.214 de8 Compacting 3@0 + 0@1 files
+2024/02/07-19:56:19.263 de8 Generated table #134@0: 1295 keys, 2122012 bytes
+2024/02/07-19:56:19.299 de8 Generated table #135@0: 857 keys, 807657 bytes
+2024/02/07-19:56:19.299 de8 Compacted 3@0 + 0@1 files => 2929669 bytes
+2024/02/07-19:56:19.300 de8 compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/02/07-19:56:19.300 de8 Delete type=2 #123
+2024/02/07-19:56:19.300 de8 Delete type=2 #130
+2024/02/07-19:56:19.301 de8 Delete type=2 #131
