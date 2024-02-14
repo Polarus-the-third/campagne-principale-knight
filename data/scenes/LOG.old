@@ -1,7 +1,5 @@
-2024/02/07-19:56:09.417 1c44 Delete type=3 #1
-2024/02/07-19:56:19.094 de8 Compacting 2@0 + 0@1 files
-2024/02/07-19:56:19.108 de8 Generated table #108@0: 2422 keys, 455389 bytes
-2024/02/07-19:56:19.108 de8 Compacted 2@0 + 0@1 files => 455389 bytes
-2024/02/07-19:56:19.110 de8 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/02/07-19:56:19.110 de8 Delete type=2 #104
-2024/02/07-19:56:19.110 de8 Delete type=2 #105
+2024/02/14-19:22:19.148 f14 Recovering log #118
+2024/02/14-19:22:19.148 f14 Level-0 table #120: started
+2024/02/14-19:22:19.157 f14 Level-0 table #120: 2080 bytes OK
+2024/02/14-19:22:19.162 f14 Delete type=0 #118
+2024/02/14-19:22:19.162 f14 Delete type=3 #117
