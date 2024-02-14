@@ -1,5 +1,8 @@
-2024/02/14-19:22:19.206 f14 Recovering log #103
-2024/02/14-19:22:19.207 f14 Level-0 table #105: started
-2024/02/14-19:22:19.216 f14 Level-0 table #105: 2500 bytes OK
-2024/02/14-19:22:19.222 f14 Delete type=0 #103
-2024/02/14-19:22:19.223 f14 Delete type=3 #102
+2024/02/14-19:52:05.804088 7fa97af0a0 Log #109: 4 ops saved to Table #110 OK
+2024/02/14-19:52:05.804506 7fa97af0a0 Archiving /home/foundry/data/Data/worlds/campagne-principale-knight/data/settings/000109.log: OK
+2024/02/14-19:52:05.804675 7fa97af0a0 Log #103: 0 ops saved to Table #111 OK
+2024/02/14-19:52:05.804829 7fa97af0a0 Archiving /home/foundry/data/Data/worlds/campagne-principale-knight/data/settings/000103.log: OK
+2024/02/14-19:52:05.805078 7fa97af0a0 Table #105: 16 entries OK
+2024/02/14-19:52:05.805179 7fa97af0a0 Table #110: 4 entries OK
+2024/02/14-19:52:05.805639 7fa97af0a0 Archiving /home/foundry/data/Data/worlds/campagne-principale-knight/data/settings/MANIFEST-000107: OK
+2024/02/14-19:52:05.817147 7fa97af0a0 **** Repaired leveldb /home/foundry/data/Data/worlds/campagne-principale-knight/data/settings; recovered 2 files; 5542 bytes. Some data may have been lost. ****

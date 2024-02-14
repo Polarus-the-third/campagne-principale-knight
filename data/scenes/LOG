@@ -1,12 +1,18 @@
-2024/02/14-19:56:42.137 2540 Recovering log #121
-2024/02/14-19:56:42.138 2540 Level-0 table #123: started
-2024/02/14-19:56:42.142 2540 Level-0 table #123: 105964 bytes OK
-2024/02/14-19:56:42.150 2540 Delete type=0 #121
-2024/02/14-19:56:42.150 2540 Delete type=3 #119
-2024/02/14-19:56:46.354 3f58 Compacting 3@0 + 0@1 files
-2024/02/14-19:56:46.368 3f58 Generated table #125@0: 2591 keys, 478065 bytes
-2024/02/14-19:56:46.368 3f58 Compacted 3@0 + 0@1 files => 478065 bytes
-2024/02/14-19:56:46.369 3f58 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/02/14-19:56:46.369 3f58 Delete type=2 #115
-2024/02/14-19:56:46.370 3f58 Delete type=2 #120
-2024/02/14-19:56:46.370 3f58 Delete type=2 #123
+2024/02/14-19:52:05.675538 7faafdf0a0 Delete type=3 #1
+2024/02/14-19:52:11.802295 7fa14680a0 Compacting 2@0 + 0@1 files
+2024/02/14-19:52:11.890125 7fa14680a0 Generated table #129@0: 2784 keys, 512747 bytes
+2024/02/14-19:52:11.890277 7fa14680a0 Compacted 2@0 + 0@1 files => 512747 bytes
+2024/02/14-19:52:11.898133 7fa14680a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/14-19:52:11.898655 7fa14680a0 Delete type=2 #120
+2024/02/14-19:52:11.899587 7fa14680a0 Delete type=2 #125
+2024/02/14-22:51:43.438171 7fa14680a0 Level-0 table #131: started
+2024/02/14-22:51:43.467034 7fa14680a0 Level-0 table #131: 100519 bytes OK
+2024/02/14-22:51:43.476701 7fa14680a0 Delete type=0 #128
+2024/02/14-22:51:43.520855 7fa14680a0 Manual compaction at level-0 from '!scenes!00oK7KmMLLUD1A7L' @ 72057594037927935 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at '!scenes.tokens.delta!mjQRsufuoZBtwcj9.c2iOWvaC0ahW6cfW.aL2x1MWQa9RdgBGa' @ 16354 : 1
+2024/02/14-22:51:43.520932 7fa14680a0 Compacting 1@0 + 1@1 files
+2024/02/14-22:51:43.614087 7fa14680a0 Generated table #132@0: 2792 keys, 513046 bytes
+2024/02/14-22:51:43.614186 7fa14680a0 Compacted 1@0 + 1@1 files => 513046 bytes
+2024/02/14-22:51:43.619676 7fa14680a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/14-22:51:43.620019 7fa14680a0 Delete type=2 #129
+2024/02/14-22:51:43.620743 7fa14680a0 Delete type=2 #131
+2024/02/14-22:51:43.638613 7fa14680a0 Manual compaction at level-0 from '!scenes.tokens.delta!mjQRsufuoZBtwcj9.c2iOWvaC0ahW6cfW.aL2x1MWQa9RdgBGa' @ 16354 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at (end)
