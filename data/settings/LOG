@@ -1,13 +1,1 @@
-2024/02/14-19:52:05.854630 7fa97af0a0 Delete type=3 #1
-2024/02/14-22:51:43.621451 7fa14680a0 Level-0 table #115: started
-2024/02/14-22:51:43.632380 7fa14680a0 Level-0 table #115: 2500 bytes OK
-2024/02/14-22:51:43.638162 7fa14680a0 Delete type=0 #113
-2024/02/14-22:51:43.649953 7fa14680a0 Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 151 : 1
-2024/02/14-22:51:43.650006 7fa14680a0 Compacting 3@0 + 0@1 files
-2024/02/14-22:51:43.660702 7fa14680a0 Generated table #116@0: 16 keys, 3109 bytes
-2024/02/14-22:51:43.660792 7fa14680a0 Compacted 3@0 + 0@1 files => 3109 bytes
-2024/02/14-22:51:43.667530 7fa14680a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/02/14-22:51:43.667806 7fa14680a0 Delete type=2 #110
-2024/02/14-22:51:43.668126 7fa14680a0 Delete type=2 #105
-2024/02/14-22:51:43.668336 7fa14680a0 Delete type=2 #115
-2024/02/14-22:51:43.704983 7fa14680a0 Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 151 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)
+2024/02/14-23:54:01.670 1ce4 Delete type=3 #1

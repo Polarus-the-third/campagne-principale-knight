@@ -1,12 +1,1 @@
-2024/02/14-19:52:04.940515 7fa9fbf0a0 Delete type=3 #1
-2024/02/14-22:51:42.325726 7fa14680a0 Level-0 table #95: started
-2024/02/14-22:51:42.334491 7fa14680a0 Level-0 table #95: 8357 bytes OK
-2024/02/14-22:51:42.340616 7fa14680a0 Delete type=0 #93
-2024/02/14-22:51:42.699608 7fa14680a0 Manual compaction at level-0 from '!messages!02BcBilRX6h2MSWm' @ 72057594037927935 : 1 .. '!messages!zjf8IVKvg0HB2res' @ 0 : 0; will stop at '!messages!uudwxs3a3HG4mzVE' @ 1119 : 1
-2024/02/14-22:51:42.699660 7fa14680a0 Compacting 2@0 + 0@1 files
-2024/02/14-22:51:42.839356 7fa14680a0 Generated table #96@0: 1125 keys, 1132830 bytes
-2024/02/14-22:51:42.839455 7fa14680a0 Compacted 2@0 + 0@1 files => 1132830 bytes
-2024/02/14-22:51:42.845988 7fa14680a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/02/14-22:51:42.846439 7fa14680a0 Delete type=2 #87
-2024/02/14-22:51:42.847647 7fa14680a0 Delete type=2 #95
-2024/02/14-22:51:42.858348 7fa14680a0 Manual compaction at level-0 from '!messages!uudwxs3a3HG4mzVE' @ 1119 : 1 .. '!messages!zjf8IVKvg0HB2res' @ 0 : 0; will stop at (end)
+2024/02/14-23:54:00.978 2388 Delete type=3 #1

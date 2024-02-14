@@ -1,12 +1,1 @@
-2024/02/14-19:52:05.210041 7fa9fbf0a0 Delete type=3 #1
-2024/02/14-22:51:42.859541 7fa14680a0 Level-0 table #95: started
-2024/02/14-22:51:42.870839 7fa14680a0 Level-0 table #95: 441 bytes OK
-2024/02/14-22:51:42.879000 7fa14680a0 Delete type=0 #93
-2024/02/14-22:51:42.914902 7fa14680a0 Manual compaction at level-0 from '!folders!0ukUvk6tgio9Adj0' @ 72057594037927935 : 1 .. '!folders!yA1jRtknUXhT3M1Y' @ 0 : 0; will stop at '!folders!BUJXooomdbIfBuS3' @ 56 : 1
-2024/02/14-22:51:42.914949 7fa14680a0 Compacting 2@0 + 0@1 files
-2024/02/14-22:51:42.924506 7fa14680a0 Generated table #96@0: 56 keys, 5742 bytes
-2024/02/14-22:51:42.924598 7fa14680a0 Compacted 2@0 + 0@1 files => 5742 bytes
-2024/02/14-22:51:42.931136 7fa14680a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/02/14-22:51:42.931419 7fa14680a0 Delete type=2 #81
-2024/02/14-22:51:42.933687 7fa14680a0 Delete type=2 #95
-2024/02/14-22:51:43.395515 7fa14680a0 Manual compaction at level-0 from '!folders!BUJXooomdbIfBuS3' @ 56 : 1 .. '!folders!yA1jRtknUXhT3M1Y' @ 0 : 0; will stop at (end)
+2024/02/14-23:54:01.201 2388 Delete type=3 #1

@@ -1,9 +1,6 @@
-2024/02/14-19:52:04.617582 7fa9fbf0a0 Log #147: 26 ops saved to Table #148 OK
-2024/02/14-19:52:04.617968 7fa9fbf0a0 Archiving /home/foundry/data/Data/worlds/campagne-principale-knight/data/actors/000147.log: OK
-2024/02/14-19:52:04.618132 7fa9fbf0a0 Log #143: 0 ops saved to Table #149 OK
-2024/02/14-19:52:04.618277 7fa9fbf0a0 Archiving /home/foundry/data/Data/worlds/campagne-principale-knight/data/actors/000143.log: OK
-2024/02/14-19:52:04.644284 7fa9fbf0a0 Table #145: 1304 entries OK
-2024/02/14-19:52:04.655127 7fa9fbf0a0 Table #146: 859 entries OK
-2024/02/14-19:52:04.656503 7fa9fbf0a0 Table #148: 26 entries OK
-2024/02/14-19:52:04.657080 7fa9fbf0a0 Archiving /home/foundry/data/Data/worlds/campagne-principale-knight/data/actors/MANIFEST-000146: OK
-2024/02/14-19:52:04.666365 7fa9fbf0a0 **** Repaired leveldb /home/foundry/data/Data/worlds/campagne-principale-knight/data/actors; recovered 3 files; 2991581 bytes. Some data may have been lost. ****
+2024/02/14-23:54:00.730 2388 Log #154: 0 ops saved to Table #158 OK
+2024/02/14-23:54:00.731 2388 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/000154.log: OK
+2024/02/14-23:54:00.749 2388 Table #156: 1315 entries OK
+2024/02/14-23:54:00.757 2388 Table #157: 861 entries OK
+2024/02/14-23:54:00.763 2388 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/MANIFEST-000150: OK
+2024/02/14-23:54:00.769 2388 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors; recovered 2 files; 2936708 bytes. Some data may have been lost. ****
