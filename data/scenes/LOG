@@ -1,11 +1,22 @@
-2024/02/21-18:48:20.296 1c20 Recovering log #135
-2024/02/21-18:48:20.298 1c20 Level-0 table #137: started
-2024/02/21-18:48:20.308 1c20 Level-0 table #137: 51412 bytes OK
-2024/02/21-18:48:20.323 1c20 Delete type=0 #135
-2024/02/21-18:48:20.324 1c20 Delete type=3 #134
-2024/02/21-18:48:28.706 3c64 Compacting 2@0 + 0@1 files
-2024/02/21-18:48:28.745 3c64 Generated table #139@0: 2835 keys, 516394 bytes
-2024/02/21-18:48:28.745 3c64 Compacted 2@0 + 0@1 files => 516394 bytes
-2024/02/21-18:48:28.747 3c64 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/02/21-18:48:28.748 3c64 Delete type=2 #132
-2024/02/21-18:48:28.748 3c64 Delete type=2 #137
+2024/02/21-19:57:19.080211 7faafdf0a0 Recovering log #138
+2024/02/21-19:57:19.097309 7faafdf0a0 Level-0 table #141: started
+2024/02/21-19:57:19.324260 7faafdf0a0 Level-0 table #141: 2630955 bytes OK
+2024/02/21-19:57:19.343058 7faafdf0a0 Delete type=3 #136
+2024/02/21-19:57:19.343280 7faafdf0a0 Delete type=0 #138
+2024/02/21-19:57:28.633603 7fa14680a0 Compacting 1@0 + 1@1 files
+2024/02/21-19:57:28.743144 7fa14680a0 Generated table #143@0: 3233 keys, 556041 bytes
+2024/02/21-19:57:28.743281 7fa14680a0 Compacted 1@0 + 1@1 files => 556041 bytes
+2024/02/21-19:57:28.751117 7fa14680a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/21-19:57:28.751594 7fa14680a0 Delete type=2 #139
+2024/02/21-19:57:28.752734 7fa14680a0 Delete type=2 #141
+2024/02/21-22:58:17.850003 7fa14680a0 Level-0 table #145: started
+2024/02/21-22:58:17.903976 7fa14680a0 Level-0 table #145: 433564 bytes OK
+2024/02/21-22:58:17.911759 7fa14680a0 Delete type=0 #142
+2024/02/21-22:58:17.933782 7fa14680a0 Manual compaction at level-0 from '!scenes!00oK7KmMLLUD1A7L' @ 72057594037927935 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at '!scenes.walls!zpCXDPzz67CEaqdb.egMOooLDawEDahaL' @ 18835 : 1
+2024/02/21-22:58:17.933833 7fa14680a0 Compacting 1@0 + 1@1 files
+2024/02/21-22:58:18.022388 7fa14680a0 Generated table #146@0: 3291 keys, 570573 bytes
+2024/02/21-22:58:18.022497 7fa14680a0 Compacted 1@0 + 1@1 files => 570573 bytes
+2024/02/21-22:58:18.028401 7fa14680a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/21-22:58:18.028762 7fa14680a0 Delete type=2 #145
+2024/02/21-22:58:18.029527 7fa14680a0 Delete type=2 #143
+2024/02/21-22:58:18.067051 7fa14680a0 Manual compaction at level-0 from '!scenes.walls!zpCXDPzz67CEaqdb.egMOooLDawEDahaL' @ 18835 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at (end)

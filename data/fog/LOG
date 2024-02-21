@@ -1,3 +1,26 @@
-2024/02/21-18:48:19.299 1c20 Recovering log #117
-2024/02/21-18:48:19.309 1c20 Delete type=0 #117
-2024/02/21-18:48:19.309 1c20 Delete type=3 #116
+2024/02/21-19:57:18.572958 7faafdf0a0 Recovering log #119
+2024/02/21-19:57:18.573513 7faafdf0a0 Level-0 table #121: started
+2024/02/21-19:57:18.587603 7faafdf0a0 Level-0 table #121: 28529 bytes OK
+2024/02/21-19:57:18.607621 7faafdf0a0 Delete type=0 #119
+2024/02/21-19:57:18.607924 7faafdf0a0 Delete type=3 #118
+2024/02/21-20:27:32.126833 7fa14680a0 Compacting 3@0 + 0@1 files
+2024/02/21-20:27:32.393931 7fa14680a0 Generated table #123@0: 60 keys, 2509969 bytes
+2024/02/21-20:27:32.410961 7fa14680a0 Generated table #124@0: 6 keys, 90343 bytes
+2024/02/21-20:27:32.411063 7fa14680a0 Compacted 3@0 + 0@1 files => 2600312 bytes
+2024/02/21-20:27:32.417625 7fa14680a0 compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/02/21-20:27:32.417932 7fa14680a0 Delete type=2 #114
+2024/02/21-20:27:32.426362 7fa14680a0 Delete type=2 #121
+2024/02/21-20:27:32.433944 7fa14680a0 Delete type=2 #113
+2024/02/21-22:58:17.182528 7fa14680a0 Level-0 table #126: started
+2024/02/21-22:58:17.272314 7fa14680a0 Level-0 table #126: 847681 bytes OK
+2024/02/21-22:58:17.281388 7fa14680a0 Delete type=0 #122
+2024/02/21-22:58:17.306102 7fa14680a0 Manual compaction at level-0 from '!fog!0WyIOZTUaMpftstJ' @ 72057594037927935 : 1 .. '!fog!zijioER2yy7H19QD' @ 0 : 0; will stop at '!fog!ye4rIrpF7le3yHaU' @ 407 : 1
+2024/02/21-22:58:17.306178 7fa14680a0 Compacting 1@0 + 2@1 files
+2024/02/21-22:58:17.486424 7fa14680a0 Generated table #127@0: 58 keys, 2123639 bytes
+2024/02/21-22:58:17.555197 7fa14680a0 Generated table #128@0: 21 keys, 693582 bytes
+2024/02/21-22:58:17.555303 7fa14680a0 Compacted 1@0 + 2@1 files => 2817221 bytes
+2024/02/21-22:58:17.560735 7fa14680a0 compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/02/21-22:58:17.561076 7fa14680a0 Delete type=2 #124
+2024/02/21-22:58:17.561638 7fa14680a0 Delete type=2 #126
+2024/02/21-22:58:17.563060 7fa14680a0 Delete type=2 #123
+2024/02/21-22:58:17.780515 7fa14680a0 Manual compaction at level-0 from '!fog!ye4rIrpF7le3yHaU' @ 407 : 1 .. '!fog!zijioER2yy7H19QD' @ 0 : 0; will stop at (end)
