@@ -1,3 +1,5 @@
-2024/02/25-09:10:38.048 dbc Recovering log #109
-2024/02/25-09:10:38.060 dbc Delete type=0 #109
-2024/02/25-09:10:38.061 dbc Delete type=3 #108
+2024/02/26-19:41:13.072 35bc Recovering log #113
+2024/02/26-19:41:13.072 35bc Level-0 table #115: started
+2024/02/26-19:41:13.076 35bc Level-0 table #115: 4474 bytes OK
+2024/02/26-19:41:13.082 35bc Delete type=0 #113
+2024/02/26-19:41:13.082 35bc Delete type=3 #112
