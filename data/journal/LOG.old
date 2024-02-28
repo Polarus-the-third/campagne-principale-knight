@@ -1,18 +1,5 @@
-2024/02/26-18:58:57.960684 7fa97af0a0 Recovering log #113
-2024/02/26-18:58:57.960840 7fa97af0a0 Level-0 table #115: started
-2024/02/26-18:58:57.973204 7fa97af0a0 Level-0 table #115: 199 bytes OK
-2024/02/26-18:58:57.994614 7fa97af0a0 Delete type=0 #113
-2024/02/26-18:58:57.994836 7fa97af0a0 Delete type=3 #111
-2024/02/26-19:00:15.741634 7fa14680a0 Level-0 table #118: started
-2024/02/26-19:00:15.752514 7fa14680a0 Level-0 table #118: 222 bytes OK
-2024/02/26-19:00:15.758466 7fa14680a0 Delete type=0 #116
-2024/02/26-19:00:15.775427 7fa14680a0 Manual compaction at level-0 from '!journal!70kyq7dl36MOUlF0' @ 72057594037927935 : 1 .. '!journal.pages!70kyq7dl36MOUlF0.xRtamk9HXBrQsCTU' @ 0 : 0; will stop at '!journal.pages!c0iqkVNCAc3KnY8n.xRtamk9HXBrQsCTU' @ 6 : 0
-2024/02/26-19:00:15.775483 7fa14680a0 Compacting 4@0 + 0@1 files
-2024/02/26-19:00:15.786221 7fa14680a0 Generated table #119@0: 2 keys, 2732 bytes
-2024/02/26-19:00:15.786316 7fa14680a0 Compacted 4@0 + 0@1 files => 2732 bytes
-2024/02/26-19:00:15.793070 7fa14680a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/02/26-19:00:15.793356 7fa14680a0 Delete type=2 #118
-2024/02/26-19:00:15.793686 7fa14680a0 Delete type=2 #103
-2024/02/26-19:00:15.793909 7fa14680a0 Delete type=2 #115
-2024/02/26-19:00:15.794182 7fa14680a0 Delete type=2 #112
-2024/02/26-19:00:16.052608 7fa14680a0 Manual compaction at level-0 from '!journal.pages!c0iqkVNCAc3KnY8n.xRtamk9HXBrQsCTU' @ 6 : 0 .. '!journal.pages!70kyq7dl36MOUlF0.xRtamk9HXBrQsCTU' @ 0 : 0; will stop at (end)
+2024/02/28-19:46:40.050 402c Log #121: 0 ops saved to Table #122 OK
+2024/02/28-19:46:40.052 402c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/journal/000121.log: OK
+2024/02/28-19:46:40.067 402c Table #119: 2 entries OK
+2024/02/28-19:46:40.073 402c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/journal/MANIFEST-000120: OK
+2024/02/28-19:46:40.079 402c **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/journal; recovered 1 files; 2732 bytes. Some data may have been lost. ****

@@ -1,17 +1,6 @@
-2024/02/26-18:58:58.381356 7faa7cf0a0 Recovering log #140
-2024/02/26-18:58:58.381868 7faa7cf0a0 Level-0 table #143: started
-2024/02/26-18:58:58.394106 7faa7cf0a0 Level-0 table #143: 13497 bytes OK
-2024/02/26-18:58:58.415240 7faa7cf0a0 Delete type=0 #140
-2024/02/26-18:58:58.415542 7faa7cf0a0 Delete type=3 #138
-2024/02/26-19:00:16.088288 7fa14680a0 Level-0 table #146: started
-2024/02/26-19:00:16.099401 7fa14680a0 Level-0 table #146: 3950 bytes OK
-2024/02/26-19:00:16.111620 7fa14680a0 Delete type=0 #144
-2024/02/26-19:00:16.213868 7fa14680a0 Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 196 : 1
-2024/02/26-19:00:16.213926 7fa14680a0 Compacting 2@0 + 1@1 files
-2024/02/26-19:00:16.226165 7fa14680a0 Generated table #147@0: 16 keys, 3255 bytes
-2024/02/26-19:00:16.226263 7fa14680a0 Compacted 2@0 + 1@1 files => 3255 bytes
-2024/02/26-19:00:16.232228 7fa14680a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/02/26-19:00:16.232536 7fa14680a0 Delete type=2 #141
-2024/02/26-19:00:16.232878 7fa14680a0 Delete type=2 #146
-2024/02/26-19:00:16.233115 7fa14680a0 Delete type=2 #143
-2024/02/26-19:00:16.262336 7fa14680a0 Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 196 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)
+2024/02/28-19:46:40.389 4264 Log #149: 8 ops saved to Table #150 OK
+2024/02/28-19:46:40.390 4264 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/settings/000149.log: OK
+2024/02/28-19:46:40.397 4264 Table #147: 16 entries OK
+2024/02/28-19:46:40.397 4264 Table #150: 8 entries OK
+2024/02/28-19:46:40.405 4264 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/settings/MANIFEST-000148: OK
+2024/02/28-19:46:40.410 4264 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/settings; recovered 2 files; 10628 bytes. Some data may have been lost. ****
