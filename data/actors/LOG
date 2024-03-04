@@ -1,9 +1,14 @@
-2024/02/28-19:46:39.363 1de8 Delete type=3 #1
-2024/02/28-19:46:45.861 34e4 Compacting 3@0 + 0@1 files
-2024/02/28-19:46:45.912 34e4 Generated table #231@0: 1368 keys, 2142050 bytes
-2024/02/28-19:46:45.942 34e4 Generated table #232@0: 844 keys, 778862 bytes
-2024/02/28-19:46:45.942 34e4 Compacted 3@0 + 0@1 files => 2920912 bytes
-2024/02/28-19:46:45.944 34e4 compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/02/28-19:46:45.944 34e4 Delete type=2 #226
-2024/02/28-19:46:45.945 34e4 Delete type=2 #227
-2024/02/28-19:46:45.945 34e4 Delete type=2 #228
+2024/03/04-19:41:39.602542 7fa97af0a0 Delete type=3 #1
+2024/03/04-20:09:08.154696 7fa14680a0 Level-0 table #247: started
+2024/03/04-20:09:08.432665 7fa14680a0 Level-0 table #247: 2921522 bytes OK
+2024/03/04-20:09:08.439978 7fa14680a0 Delete type=0 #245
+2024/03/04-20:09:08.441566 7fa14680a0 Manual compaction at level-0 from '!actors!0dBrS2iiMIRD5TAy' @ 72057594037927935 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 12009 : 1
+2024/03/04-20:09:08.441594 7fa14680a0 Compacting 3@0 + 0@1 files
+2024/03/04-20:09:08.712668 7fa14680a0 Generated table #248@0: 1368 keys, 2143259 bytes
+2024/03/04-20:09:08.805383 7fa14680a0 Generated table #249@0: 844 keys, 778760 bytes
+2024/03/04-20:09:08.805484 7fa14680a0 Compacted 3@0 + 0@1 files => 2922019 bytes
+2024/03/04-20:09:08.810690 7fa14680a0 compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/03/04-20:09:08.811364 7fa14680a0 Delete type=2 #242
+2024/03/04-20:09:08.813211 7fa14680a0 Delete type=2 #247
+2024/03/04-20:09:08.815797 7fa14680a0 Delete type=2 #239
+2024/03/04-20:09:08.816339 7fa14680a0 Manual compaction at level-0 from '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 12009 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at (end)
