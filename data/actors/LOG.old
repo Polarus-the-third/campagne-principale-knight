@@ -1,1 +1,24 @@
-2024/03/20-20:07:18.401 3b80 Delete type=3 #1
+2024/03/20-19:30:48.931162 7faafdf0a0 Recovering log #255
+2024/03/20-19:30:48.952735 7faafdf0a0 Delete type=3 #253
+2024/03/20-19:30:48.952949 7faafdf0a0 Delete type=0 #255
+2024/03/20-19:32:47.193125 7fa14680a0 Compacting 3@0 + 0@1 files
+2024/03/20-19:32:47.559772 7fa14680a0 Generated table #258@0: 1368 keys, 2143214 bytes
+2024/03/20-19:32:47.665901 7fa14680a0 Generated table #259@0: 844 keys, 778768 bytes
+2024/03/20-19:32:47.666025 7fa14680a0 Compacted 3@0 + 0@1 files => 2921982 bytes
+2024/03/20-19:32:47.681239 7fa14680a0 compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/03/20-19:32:47.682092 7fa14680a0 Delete type=2 #254
+2024/03/20-19:32:47.691361 7fa14680a0 Delete type=2 #248
+2024/03/20-19:32:47.693635 7fa14680a0 Delete type=2 #249
+2024/03/20-19:36:29.096590 7fa14680a0 Level-0 table #261: started
+2024/03/20-19:36:29.477741 7fa14680a0 Level-0 table #261: 2921643 bytes OK
+2024/03/20-19:36:29.595127 7fa14680a0 Delete type=0 #257
+2024/03/20-19:36:29.847956 7fa14680a0 Manual compaction at level-0 from '!actors!0dBrS2iiMIRD5TAy' @ 72057594037927935 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 24068 : 1
+2024/03/20-19:36:29.848023 7fa14680a0 Compacting 1@0 + 2@1 files
+2024/03/20-19:36:30.378347 7fa14680a0 Generated table #262@0: 1368 keys, 2143378 bytes
+2024/03/20-19:36:30.767062 7fa14680a0 Generated table #263@0: 844 keys, 778775 bytes
+2024/03/20-19:36:30.787333 7fa14680a0 Compacted 1@0 + 2@1 files => 2922153 bytes
+2024/03/20-19:36:30.899285 7fa14680a0 compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/03/20-19:36:30.915982 7fa14680a0 Delete type=2 #258
+2024/03/20-19:36:30.964300 7fa14680a0 Delete type=2 #259
+2024/03/20-19:36:30.965406 7fa14680a0 Delete type=2 #261
+2024/03/20-19:36:31.170008 7fa14680a0 Manual compaction at level-0 from '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 24068 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at (end)
