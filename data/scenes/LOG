@@ -1,18 +1,11 @@
-2024/03/04-19:41:40.726113 7fa97af0a0 Delete type=3 #1
-2024/03/04-19:41:58.265545 7fa14680a0 Compacting 2@0 + 0@1 files
-2024/03/04-19:41:58.357101 7fa14680a0 Generated table #176@0: 3577 keys, 595839 bytes
-2024/03/04-19:41:58.357227 7fa14680a0 Compacted 2@0 + 0@1 files => 595839 bytes
-2024/03/04-19:41:58.363217 7fa14680a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/03/04-19:41:58.363755 7fa14680a0 Delete type=2 #171
-2024/03/04-19:41:58.364430 7fa14680a0 Delete type=2 #173
-2024/03/04-20:09:07.705615 7fa14680a0 Level-0 table #178: started
-2024/03/04-20:09:07.738141 7fa14680a0 Level-0 table #178: 234871 bytes OK
-2024/03/04-20:09:07.746006 7fa14680a0 Delete type=0 #175
-2024/03/04-20:09:07.796541 7fa14680a0 Manual compaction at level-0 from '!scenes!00oK7KmMLLUD1A7L' @ 72057594037927935 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at '!scenes.tokens.delta.items!sGGLv0N2OuQOIwpy.cFpVOMOPSi97qcYy.cFpVOMOPSi97qcYy.y6jiYXWxvYUJdIiB' @ 23317 : 1
-2024/03/04-20:09:07.796591 7fa14680a0 Compacting 1@0 + 1@1 files
-2024/03/04-20:09:07.876270 7fa14680a0 Generated table #179@0: 3581 keys, 596147 bytes
-2024/03/04-20:09:07.876371 7fa14680a0 Compacted 1@0 + 1@1 files => 596147 bytes
-2024/03/04-20:09:07.881535 7fa14680a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/03/04-20:09:07.881903 7fa14680a0 Delete type=2 #178
-2024/03/04-20:09:07.882461 7fa14680a0 Delete type=2 #176
-2024/03/04-20:09:07.903900 7fa14680a0 Manual compaction at level-0 from '!scenes.tokens.delta.items!sGGLv0N2OuQOIwpy.cFpVOMOPSi97qcYy.cFpVOMOPSi97qcYy.y6jiYXWxvYUJdIiB' @ 23317 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at (end)
+2024/03/20-20:27:47.875 4794 Recovering log #182
+2024/03/20-20:27:47.877 4794 Level-0 table #184: started
+2024/03/20-20:27:47.884 4794 Level-0 table #184: 293262 bytes OK
+2024/03/20-20:27:47.892 4794 Delete type=0 #182
+2024/03/20-20:27:47.892 4794 Delete type=3 #181
+2024/03/20-20:27:52.595 3dcc Compacting 2@0 + 0@1 files
+2024/03/20-20:27:52.614 3dcc Generated table #186@0: 3644 keys, 601797 bytes
+2024/03/20-20:27:52.614 3dcc Compacted 2@0 + 0@1 files => 601797 bytes
+2024/03/20-20:27:52.615 3dcc compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/03/20-20:27:52.616 3dcc Delete type=2 #179
+2024/03/20-20:27:52.616 3dcc Delete type=2 #184
