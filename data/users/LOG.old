@@ -1,13 +1,14 @@
-2024/03/20-19:30:50.006423 7faafdf0a0 Recovering log #135
-2024/03/20-19:30:50.031408 7faafdf0a0 Delete type=3 #134
-2024/03/20-19:30:50.031655 7faafdf0a0 Delete type=0 #135
-2024/03/20-19:36:31.515356 7fa14680a0 Level-0 table #139: started
-2024/03/20-19:36:31.521440 7fa14680a0 Level-0 table #139: 0 bytes OK
-2024/03/20-19:36:31.560916 7fa14680a0 Delete type=0 #137
-2024/03/20-19:36:31.710687 7fa14680a0 Manual compaction at level-0 from '!users!2LHdNW5FWGBjxiZQ' @ 72057594037927935 : 1 .. '!users!bkxExVkIv36cxEOR' @ 0 : 0; will stop at '!users!bkxExVkIv36cxEOR' @ 23 : 1
-2024/03/20-19:36:31.710750 7fa14680a0 Compacting 1@0 + 0@1 files
-2024/03/20-19:36:31.746939 7fa14680a0 Generated table #140@0: 4 keys, 1985 bytes
-2024/03/20-19:36:31.747054 7fa14680a0 Compacted 1@0 + 0@1 files => 1985 bytes
-2024/03/20-19:36:31.773164 7fa14680a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/03/20-19:36:31.773564 7fa14680a0 Delete type=2 #130
-2024/03/20-19:36:31.821765 7fa14680a0 Manual compaction at level-0 from '!users!bkxExVkIv36cxEOR' @ 23 : 1 .. '!users!bkxExVkIv36cxEOR' @ 0 : 0; will stop at (end)
+2024/03/20-19:37:16.131897 7fa97af0a0 Recovering log #138
+2024/03/20-19:37:16.161036 7fa97af0a0 Delete type=3 #136
+2024/03/20-19:37:16.161312 7fa97af0a0 Delete type=0 #138
+2024/03/20-22:45:58.813213 7fa14680a0 Level-0 table #144: started
+2024/03/20-22:45:58.850849 7fa14680a0 Level-0 table #144: 1951 bytes OK
+2024/03/20-22:45:58.868973 7fa14680a0 Delete type=0 #142
+2024/03/20-22:45:58.938210 7fa14680a0 Manual compaction at level-0 from '!users!2LHdNW5FWGBjxiZQ' @ 72057594037927935 : 1 .. '!users!bkxExVkIv36cxEOR' @ 0 : 0; will stop at '!users!YOziAKAIAXn7oTEp' @ 82 : 1
+2024/03/20-22:45:58.938259 7fa14680a0 Compacting 1@0 + 1@1 files
+2024/03/20-22:45:58.964236 7fa14680a0 Generated table #145@0: 4 keys, 1973 bytes
+2024/03/20-22:45:58.964330 7fa14680a0 Compacted 1@0 + 1@1 files => 1973 bytes
+2024/03/20-22:45:58.989857 7fa14680a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/03/20-22:45:58.990142 7fa14680a0 Delete type=2 #144
+2024/03/20-22:45:58.990458 7fa14680a0 Delete type=2 #140
+2024/03/20-22:45:59.013631 7fa14680a0 Manual compaction at level-0 from '!users!YOziAKAIAXn7oTEp' @ 82 : 1 .. '!users!bkxExVkIv36cxEOR' @ 0 : 0; will stop at (end)

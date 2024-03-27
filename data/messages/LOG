@@ -1,14 +1,14 @@
-2024/03/20-19:37:14.914796 7faafdf0a0 Recovering log #142
-2024/03/20-19:37:15.036738 7faafdf0a0 Delete type=3 #140
-2024/03/20-19:37:15.036956 7faafdf0a0 Delete type=0 #142
-2024/03/20-22:45:56.482528 7fa14680a0 Level-0 table #148: started
-2024/03/20-22:45:56.509745 7fa14680a0 Level-0 table #148: 158928 bytes OK
-2024/03/20-22:45:56.517766 7fa14680a0 Delete type=0 #146
-2024/03/20-22:45:57.038862 7fa14680a0 Manual compaction at level-0 from '!messages!02BcBilRX6h2MSWm' @ 72057594037927935 : 1 .. '!messages!zsh4PhWcNhjRGK3e' @ 0 : 0; will stop at '!messages!zsh4PhWcNhjRGK3e' @ 1382 : 1
-2024/03/20-22:45:57.038935 7fa14680a0 Compacting 1@0 + 1@1 files
-2024/03/20-22:45:57.268646 7fa14680a0 Generated table #149@0: 1471 keys, 1771128 bytes
-2024/03/20-22:45:57.268752 7fa14680a0 Compacted 1@0 + 1@1 files => 1771128 bytes
-2024/03/20-22:45:57.291728 7fa14680a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/03/20-22:45:57.292272 7fa14680a0 Delete type=2 #144
-2024/03/20-22:45:57.293264 7fa14680a0 Delete type=2 #148
-2024/03/20-22:45:57.362483 7fa14680a0 Manual compaction at level-0 from '!messages!zsh4PhWcNhjRGK3e' @ 1382 : 1 .. '!messages!zsh4PhWcNhjRGK3e' @ 0 : 0; will stop at (end)
+2024/03/27-20:03:02.046027 7faa7cf0a0 Recovering log #147
+2024/03/27-20:03:02.068296 7faa7cf0a0 Delete type=0 #147
+2024/03/27-20:03:02.068505 7faa7cf0a0 Delete type=3 #145
+2024/03/27-22:23:32.378457 7fa14680a0 Level-0 table #153: started
+2024/03/27-22:23:32.405484 7fa14680a0 Level-0 table #153: 143289 bytes OK
+2024/03/27-22:23:32.412053 7fa14680a0 Delete type=0 #151
+2024/03/27-22:23:32.780960 7fa14680a0 Manual compaction at level-0 from '!messages!02BcBilRX6h2MSWm' @ 72057594037927935 : 1 .. '!messages!zsh4PhWcNhjRGK3e' @ 0 : 0; will stop at '!messages!zX87W2M0zjSoZAO7' @ 1530 : 1
+2024/03/27-22:23:32.781012 7fa14680a0 Compacting 1@0 + 1@1 files
+2024/03/27-22:23:32.996944 7fa14680a0 Generated table #154@0: 1531 keys, 1915004 bytes
+2024/03/27-22:23:32.997054 7fa14680a0 Compacted 1@0 + 1@1 files => 1915004 bytes
+2024/03/27-22:23:33.003168 7fa14680a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/03/27-22:23:33.003770 7fa14680a0 Delete type=2 #149
+2024/03/27-22:23:33.004771 7fa14680a0 Delete type=2 #153
+2024/03/27-22:23:33.005358 7fa14680a0 Manual compaction at level-0 from '!messages!zX87W2M0zjSoZAO7' @ 1530 : 1 .. '!messages!zsh4PhWcNhjRGK3e' @ 0 : 0; will stop at (end)

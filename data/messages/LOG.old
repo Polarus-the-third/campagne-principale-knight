@@ -1,13 +1,14 @@
-2024/03/20-19:30:49.247283 7fa9fbf0a0 Recovering log #139
-2024/03/20-19:30:49.268908 7fa9fbf0a0 Delete type=3 #138
-2024/03/20-19:30:49.269140 7fa9fbf0a0 Delete type=0 #139
-2024/03/20-19:36:27.873716 7fa14680a0 Level-0 table #143: started
-2024/03/20-19:36:27.960319 7fa14680a0 Level-0 table #143: 0 bytes OK
-2024/03/20-19:36:28.200165 7fa14680a0 Delete type=0 #141
-2024/03/20-19:36:28.272262 7fa14680a0 Manual compaction at level-0 from '!messages!02BcBilRX6h2MSWm' @ 72057594037927935 : 1 .. '!messages!zjf8IVKvg0HB2res' @ 0 : 0; will stop at '!messages!zjf8IVKvg0HB2res' @ 712 : 1
-2024/03/20-19:36:28.272458 7fa14680a0 Compacting 1@0 + 0@1 files
-2024/03/20-19:36:28.782853 7fa14680a0 Generated table #144@0: 1366 keys, 1613767 bytes
-2024/03/20-19:36:28.783037 7fa14680a0 Compacted 1@0 + 0@1 files => 1613767 bytes
-2024/03/20-19:36:28.856798 7fa14680a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/03/20-19:36:28.857516 7fa14680a0 Delete type=2 #134
-2024/03/20-19:36:29.621603 7fa14680a0 Manual compaction at level-0 from '!messages!zjf8IVKvg0HB2res' @ 712 : 1 .. '!messages!zjf8IVKvg0HB2res' @ 0 : 0; will stop at (end)
+2024/03/20-19:37:14.914796 7faafdf0a0 Recovering log #142
+2024/03/20-19:37:15.036738 7faafdf0a0 Delete type=3 #140
+2024/03/20-19:37:15.036956 7faafdf0a0 Delete type=0 #142
+2024/03/20-22:45:56.482528 7fa14680a0 Level-0 table #148: started
+2024/03/20-22:45:56.509745 7fa14680a0 Level-0 table #148: 158928 bytes OK
+2024/03/20-22:45:56.517766 7fa14680a0 Delete type=0 #146
+2024/03/20-22:45:57.038862 7fa14680a0 Manual compaction at level-0 from '!messages!02BcBilRX6h2MSWm' @ 72057594037927935 : 1 .. '!messages!zsh4PhWcNhjRGK3e' @ 0 : 0; will stop at '!messages!zsh4PhWcNhjRGK3e' @ 1382 : 1
+2024/03/20-22:45:57.038935 7fa14680a0 Compacting 1@0 + 1@1 files
+2024/03/20-22:45:57.268646 7fa14680a0 Generated table #149@0: 1471 keys, 1771128 bytes
+2024/03/20-22:45:57.268752 7fa14680a0 Compacted 1@0 + 1@1 files => 1771128 bytes
+2024/03/20-22:45:57.291728 7fa14680a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/03/20-22:45:57.292272 7fa14680a0 Delete type=2 #144
+2024/03/20-22:45:57.293264 7fa14680a0 Delete type=2 #148
+2024/03/20-22:45:57.362483 7fa14680a0 Manual compaction at level-0 from '!messages!zsh4PhWcNhjRGK3e' @ 1382 : 1 .. '!messages!zsh4PhWcNhjRGK3e' @ 0 : 0; will stop at (end)
