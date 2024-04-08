@@ -1,7 +1,5 @@
-2024/03/20-19:37:15.572139 7fa97af0a0 Recovering log #140
-2024/03/20-19:37:15.593064 7fa97af0a0 Delete type=0 #140
-2024/03/20-19:37:15.593263 7fa97af0a0 Delete type=3 #138
-2024/03/20-22:45:57.530332 7fa14680a0 Level-0 table #146: started
-2024/03/20-22:45:57.532854 7fa14680a0 Level-0 table #146: 0 bytes OK
-2024/03/20-22:45:57.554801 7fa14680a0 Delete type=0 #144
-2024/03/20-22:45:58.115273 7fa14680a0 Manual compaction at level-0 from '!folders!6HfKR1hyEapPFy0e' @ 72057594037927935 : 1 .. '!folders!vIPjUCfoXRYkqkdM' @ 0 : 0; will stop at (end)
+2024/04/08-20:03:32.432 c0c Log #149: 0 ops saved to Table #150 OK
+2024/04/08-20:03:32.433 c0c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/folders/000149.log: OK
+2024/04/08-20:03:32.440 c0c Table #142: 22 entries OK
+2024/04/08-20:03:32.443 c0c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/folders/MANIFEST-000147: OK
+2024/04/08-20:03:32.447 c0c **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/folders; recovered 1 files; 2421 bytes. Some data may have been lost. ****

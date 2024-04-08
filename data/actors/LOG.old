@@ -1,38 +1,6 @@
-2024/03/20-19:37:14.371997 7fa9fbf0a0 Recovering log #260
-2024/03/20-19:37:14.394827 7fa9fbf0a0 Delete type=0 #260
-2024/03/20-19:37:14.394985 7fa9fbf0a0 Delete type=3 #256
-2024/03/20-21:52:46.251030 7fa14680a0 Level-0 table #267: started
-2024/03/20-21:52:46.406586 7fa14680a0 Level-0 table #267: 1284633 bytes OK
-2024/03/20-21:52:46.415072 7fa14680a0 Delete type=0 #265
-2024/03/20-21:54:01.755746 7fa14680a0 Compacting 1@0 + 2@1 files
-2024/03/20-21:54:02.035939 7fa14680a0 Generated table #268@0: 1368 keys, 2143643 bytes
-2024/03/20-21:54:02.129438 7fa14680a0 Generated table #269@0: 844 keys, 778785 bytes
-2024/03/20-21:54:02.129569 7fa14680a0 Compacted 1@0 + 2@1 files => 2922428 bytes
-2024/03/20-21:54:02.136287 7fa14680a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/03/20-21:54:02.137054 7fa14680a0 Delete type=2 #262
-2024/03/20-21:54:02.138475 7fa14680a0 Delete type=2 #267
-2024/03/20-21:54:02.139960 7fa14680a0 Delete type=2 #263
-2024/03/20-22:41:51.686325 7fa14680a0 Level-0 table #271: started
-2024/03/20-22:41:51.834350 7fa14680a0 Level-0 table #271: 1120899 bytes OK
-2024/03/20-22:41:51.841984 7fa14680a0 Delete type=0 #266
-2024/03/20-22:41:54.813213 7fa14680a0 Compacting 1@0 + 2@1 files
-2024/03/20-22:41:55.104651 7fa14680a0 Generated table #272@0: 1368 keys, 2143341 bytes
-2024/03/20-22:41:55.207755 7fa14680a0 Generated table #273@0: 844 keys, 778798 bytes
-2024/03/20-22:41:55.207892 7fa14680a0 Compacted 1@0 + 2@1 files => 2922139 bytes
-2024/03/20-22:41:55.214645 7fa14680a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/03/20-22:41:55.215279 7fa14680a0 Delete type=2 #271
-2024/03/20-22:41:55.216871 7fa14680a0 Delete type=2 #269
-2024/03/20-22:41:55.218382 7fa14680a0 Delete type=2 #268
-2024/03/20-22:45:56.445930 7fa14680a0 Level-0 table #275: started
-2024/03/20-22:45:56.466374 7fa14680a0 Level-0 table #275: 85520 bytes OK
-2024/03/20-22:45:56.472630 7fa14680a0 Delete type=0 #270
-2024/03/20-22:45:56.607822 7fa14680a0 Manual compaction at level-0 from '!actors!0dBrS2iiMIRD5TAy' @ 72057594037927935 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at '!actors.items!Quyaci7FP1OVqGwG.sUZWpZUigEBOBWDL' @ 25452 : 1
-2024/03/20-22:45:56.607877 7fa14680a0 Compacting 1@0 + 2@1 files
-2024/03/20-22:45:56.886397 7fa14680a0 Generated table #276@0: 1368 keys, 2143335 bytes
-2024/03/20-22:45:57.011322 7fa14680a0 Generated table #277@0: 844 keys, 778778 bytes
-2024/03/20-22:45:57.011424 7fa14680a0 Compacted 1@0 + 2@1 files => 2922113 bytes
-2024/03/20-22:45:57.034383 7fa14680a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/03/20-22:45:57.035049 7fa14680a0 Delete type=2 #272
-2024/03/20-22:45:57.037279 7fa14680a0 Delete type=2 #273
-2024/03/20-22:45:57.038101 7fa14680a0 Delete type=2 #275
-2024/03/20-22:45:57.336451 7fa14680a0 Manual compaction at level-0 from '!actors.items!Quyaci7FP1OVqGwG.sUZWpZUigEBOBWDL' @ 25452 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at (end)
+2024/04/08-20:03:32.049 90 Log #292: 0 ops saved to Table #296 OK
+2024/04/08-20:03:32.050 90 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/000292.log: OK
+2024/04/08-20:03:32.071 90 Table #294: 1370 entries OK
+2024/04/08-20:03:32.114 90 Table #295: 844 entries OK
+2024/04/08-20:03:32.120 90 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/MANIFEST-000278: OK
+2024/04/08-20:03:32.124 90 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors; recovered 2 files; 2923080 bytes. Some data may have been lost. ****
