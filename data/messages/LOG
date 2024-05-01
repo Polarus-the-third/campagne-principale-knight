@@ -1,7 +1,1 @@
-2024/05/01-18:00:58.706983 7f8699f0a0 Recovering log #186
-2024/05/01-18:00:58.732803 7f8699f0a0 Delete type=0 #186
-2024/05/01-18:00:58.732978 7f8699f0a0 Delete type=3 #185
-2024/05/01-18:04:01.665271 7e5b3a60a0 Level-0 table #190: started
-2024/05/01-18:04:01.673127 7e5b3a60a0 Level-0 table #190: 0 bytes OK
-2024/05/01-18:04:01.683798 7e5b3a60a0 Delete type=0 #188
-2024/05/01-18:04:02.129417 7e5b3a60a0 Manual compaction at level-0 from '!messages!02BcBilRX6h2MSWm' @ 72057594037927935 : 1 .. '!messages!zsh4PhWcNhjRGK3e' @ 0 : 0; will stop at (end)
+2024/05/01-20:54:00.054 2e20 Delete type=3 #1
