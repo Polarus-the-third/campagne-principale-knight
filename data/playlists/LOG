@@ -1,13 +1,7 @@
-2024/05/01-19:01:05.990865 7f8699f0a0 Recovering log #160
-2024/05/01-19:01:06.013119 7f8699f0a0 Delete type=0 #160
-2024/05/01-19:01:06.013279 7f8699f0a0 Delete type=3 #159
-2024/05/01-21:53:52.253860 7e5b3a60a0 Level-0 table #164: started
-2024/05/01-21:53:52.253977 7e5b3a60a0 Level-0 table #164: 0 bytes OK
-2024/05/01-21:53:52.261033 7e5b3a60a0 Delete type=0 #162
-2024/05/01-21:53:52.288072 7e5b3a60a0 Manual compaction at level-0 from '!playlists!OXjrDmLuZDtbE2w2' @ 72057594037927935 : 1 .. '!playlists.sounds!OXjrDmLuZDtbE2w2.taSntH6C45WbicXd' @ 0 : 0; will stop at '!playlists.sounds!OXjrDmLuZDtbE2w2.taSntH6C45WbicXd' @ 286 : 1
-2024/05/01-21:53:52.288116 7e5b3a60a0 Compacting 1@0 + 0@1 files
-2024/05/01-21:53:52.298351 7e5b3a60a0 Generated table #165@0: 7 keys, 1218 bytes
-2024/05/01-21:53:52.298432 7e5b3a60a0 Compacted 1@0 + 0@1 files => 1218 bytes
-2024/05/01-21:53:52.304427 7e5b3a60a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/05/01-21:53:52.304704 7e5b3a60a0 Delete type=2 #150
-2024/05/01-21:53:52.386993 7e5b3a60a0 Manual compaction at level-0 from '!playlists.sounds!OXjrDmLuZDtbE2w2.taSntH6C45WbicXd' @ 286 : 1 .. '!playlists.sounds!OXjrDmLuZDtbE2w2.taSntH6C45WbicXd' @ 0 : 0; will stop at (end)
+2024/05/08-18:55:48.355667 7f8699f0a0 Recovering log #163
+2024/05/08-18:55:48.377604 7f8699f0a0 Delete type=0 #163
+2024/05/08-18:55:48.377770 7f8699f0a0 Delete type=3 #161
+2024/05/08-21:51:11.341469 7e5b3a60a0 Level-0 table #169: started
+2024/05/08-21:51:11.341585 7e5b3a60a0 Level-0 table #169: 0 bytes OK
+2024/05/08-21:51:11.350572 7e5b3a60a0 Delete type=0 #167
+2024/05/08-21:51:11.419660 7e5b3a60a0 Manual compaction at level-0 from '!playlists!OXjrDmLuZDtbE2w2' @ 72057594037927935 : 1 .. '!playlists.sounds!OXjrDmLuZDtbE2w2.taSntH6C45WbicXd' @ 0 : 0; will stop at (end)
