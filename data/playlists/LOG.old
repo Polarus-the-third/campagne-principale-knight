@@ -1,13 +1,5 @@
-2024/05/01-19:01:05.990865 7f8699f0a0 Recovering log #160
-2024/05/01-19:01:06.013119 7f8699f0a0 Delete type=0 #160
-2024/05/01-19:01:06.013279 7f8699f0a0 Delete type=3 #159
-2024/05/01-21:53:52.253860 7e5b3a60a0 Level-0 table #164: started
-2024/05/01-21:53:52.253977 7e5b3a60a0 Level-0 table #164: 0 bytes OK
-2024/05/01-21:53:52.261033 7e5b3a60a0 Delete type=0 #162
-2024/05/01-21:53:52.288072 7e5b3a60a0 Manual compaction at level-0 from '!playlists!OXjrDmLuZDtbE2w2' @ 72057594037927935 : 1 .. '!playlists.sounds!OXjrDmLuZDtbE2w2.taSntH6C45WbicXd' @ 0 : 0; will stop at '!playlists.sounds!OXjrDmLuZDtbE2w2.taSntH6C45WbicXd' @ 286 : 1
-2024/05/01-21:53:52.288116 7e5b3a60a0 Compacting 1@0 + 0@1 files
-2024/05/01-21:53:52.298351 7e5b3a60a0 Generated table #165@0: 7 keys, 1218 bytes
-2024/05/01-21:53:52.298432 7e5b3a60a0 Compacted 1@0 + 0@1 files => 1218 bytes
-2024/05/01-21:53:52.304427 7e5b3a60a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/05/01-21:53:52.304704 7e5b3a60a0 Delete type=2 #150
-2024/05/01-21:53:52.386993 7e5b3a60a0 Manual compaction at level-0 from '!playlists.sounds!OXjrDmLuZDtbE2w2.taSntH6C45WbicXd' @ 286 : 1 .. '!playlists.sounds!OXjrDmLuZDtbE2w2.taSntH6C45WbicXd' @ 0 : 0; will stop at (end)
+2024/05/29-19:06:11.368 b00 Log #168: 0 ops saved to Table #169 OK
+2024/05/29-19:06:11.374 b00 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/playlists/000168.log: OK
+2024/05/29-19:06:11.391 b00 Table #165: 7 entries OK
+2024/05/29-19:06:11.398 b00 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/playlists/MANIFEST-000166: OK
+2024/05/29-19:06:11.405 b00 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/playlists; recovered 1 files; 1218 bytes. Some data may have been lost. ****

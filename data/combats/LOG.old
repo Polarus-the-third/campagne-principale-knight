@@ -1,14 +1,5 @@
-2024/05/01-19:01:04.860134 7f871af0a0 Recovering log #183
-2024/05/01-19:01:04.942414 7f871af0a0 Delete type=3 #182
-2024/05/01-19:01:04.942603 7f871af0a0 Delete type=0 #183
-2024/05/01-21:53:51.041011 7e5b3a60a0 Level-0 table #187: started
-2024/05/01-21:53:51.052575 7e5b3a60a0 Level-0 table #187: 2408 bytes OK
-2024/05/01-21:53:51.060188 7e5b3a60a0 Delete type=0 #185
-2024/05/01-21:53:51.449693 7e5b3a60a0 Manual compaction at level-0 from '!combats!1xC2JCY7WMZ6fgvK' @ 72057594037927935 : 1 .. '!combats.combatants!rtCl8bok4Mi7CNry.xFem2jFzGG2Hr3VV' @ 0 : 0; will stop at '!combats.combatants!rtCl8bok4Mi7CNry.q3lEpiFmYwj34Oja' @ 414 : 0
-2024/05/01-21:53:51.449742 7e5b3a60a0 Compacting 2@0 + 0@1 files
-2024/05/01-21:53:51.460516 7e5b3a60a0 Generated table #188@0: 34 keys, 3948 bytes
-2024/05/01-21:53:51.460610 7e5b3a60a0 Compacted 2@0 + 0@1 files => 3948 bytes
-2024/05/01-21:53:51.467694 7e5b3a60a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/05/01-21:53:51.467983 7e5b3a60a0 Delete type=2 #187
-2024/05/01-21:53:51.468297 7e5b3a60a0 Delete type=2 #173
-2024/05/01-21:53:51.823417 7e5b3a60a0 Manual compaction at level-0 from '!combats.combatants!rtCl8bok4Mi7CNry.q3lEpiFmYwj34Oja' @ 414 : 0 .. '!combats.combatants!rtCl8bok4Mi7CNry.xFem2jFzGG2Hr3VV' @ 0 : 0; will stop at (end)
+2024/05/29-19:06:10.808 2d30 Log #191: 0 ops saved to Table #192 OK
+2024/05/29-19:06:10.810 2d30 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/combats/000191.log: OK
+2024/05/29-19:06:10.821 2d30 Table #188: 34 entries OK
+2024/05/29-19:06:10.827 2d30 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/combats/MANIFEST-000189: OK
+2024/05/29-19:06:10.835 2d30 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/combats; recovered 1 files; 3948 bytes. Some data may have been lost. ****

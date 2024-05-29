@@ -1,16 +1,6 @@
-2024/05/01-19:01:05.047251 7f871af0a0 Recovering log #219
-2024/05/01-19:01:05.104109 7f871af0a0 Delete type=0 #219
-2024/05/01-19:01:05.104274 7f871af0a0 Delete type=3 #218
-2024/05/01-21:53:51.835608 7e5b3a60a0 Level-0 table #223: started
-2024/05/01-21:53:51.882971 7e5b3a60a0 Level-0 table #223: 521450 bytes OK
-2024/05/01-21:53:51.889356 7e5b3a60a0 Delete type=0 #221
-2024/05/01-21:53:51.908043 7e5b3a60a0 Manual compaction at level-0 from '!fog!15ejNXSp6SXpDAnV' @ 72057594037927935 : 1 .. '!fog!z3Zs7ptleHWpsytf' @ 0 : 0; will stop at '!fog!z3Zs7ptleHWpsytf' @ 135 : 1
-2024/05/01-21:53:51.908088 7e5b3a60a0 Compacting 3@0 + 0@1 files
-2024/05/01-21:53:52.089640 7e5b3a60a0 Generated table #224@0: 77 keys, 2191223 bytes
-2024/05/01-21:53:52.168299 7e5b3a60a0 Generated table #225@0: 32 keys, 798514 bytes
-2024/05/01-21:53:52.168411 7e5b3a60a0 Compacted 3@0 + 0@1 files => 2989737 bytes
-2024/05/01-21:53:52.175199 7e5b3a60a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/05/01-21:53:52.175684 7e5b3a60a0 Delete type=2 #209
-2024/05/01-21:53:52.176819 7e5b3a60a0 Delete type=2 #223
-2024/05/01-21:53:52.177928 7e5b3a60a0 Delete type=2 #208
-2024/05/01-21:53:52.224036 7e5b3a60a0 Manual compaction at level-0 from '!fog!z3Zs7ptleHWpsytf' @ 135 : 1 .. '!fog!z3Zs7ptleHWpsytf' @ 0 : 0; will stop at (end)
+2024/05/29-19:06:10.944 188c Log #228: 0 ops saved to Table #232 OK
+2024/05/29-19:06:10.945 188c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/fog/000228.log: OK
+2024/05/29-19:06:10.960 188c Table #230: 76 entries OK
+2024/05/29-19:06:10.965 188c Table #231: 37 entries OK
+2024/05/29-19:06:10.973 188c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/fog/MANIFEST-000226: OK
+2024/05/29-19:06:10.980 188c **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/fog; recovered 2 files; 3040866 bytes. Some data may have been lost. ****
