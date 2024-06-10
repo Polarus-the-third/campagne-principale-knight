@@ -1,16 +1,7 @@
-2024/05/30-18:37:33.553707 7f855df0a0 Recovering log #216
-2024/05/30-18:37:33.577717 7f855df0a0 Delete type=3 #214
-2024/05/30-18:37:33.577924 7f855df0a0 Delete type=0 #216
-2024/05/30-21:10:27.628811 7e5ef3f0a0 Level-0 table #223: started
-2024/05/30-21:10:27.653380 7e5ef3f0a0 Level-0 table #223: 91314 bytes OK
-2024/05/30-21:10:27.661395 7e5ef3f0a0 Delete type=0 #221
-2024/05/30-21:10:28.015009 7e5ef3f0a0 Manual compaction at level-0 from '!messages!02BcBilRX6h2MSWm' @ 72057594037927935 : 1 .. '!messages!zwmXmdv7EJ2SpLb1' @ 0 : 0; will stop at '!messages!zXnfj9iQrFOAY4S4' @ 1822 : 1
-2024/05/30-21:10:28.015054 7e5ef3f0a0 Compacting 1@0 + 2@1 files
-2024/05/30-21:10:28.250669 7e5ef3f0a0 Generated table #224@0: 1602 keys, 2126697 bytes
-2024/05/30-21:10:28.299040 7e5ef3f0a0 Generated table #225@0: 245 keys, 364942 bytes
-2024/05/30-21:10:28.299135 7e5ef3f0a0 Compacted 1@0 + 2@1 files => 2491639 bytes
-2024/05/30-21:10:28.304261 7e5ef3f0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/05/30-21:10:28.304899 7e5ef3f0a0 Delete type=2 #218
-2024/05/30-21:10:28.312498 7e5ef3f0a0 Delete type=2 #223
-2024/05/30-21:10:28.312927 7e5ef3f0a0 Delete type=2 #219
-2024/05/30-21:10:28.342229 7e5ef3f0a0 Manual compaction at level-0 from '!messages!zXnfj9iQrFOAY4S4' @ 1822 : 1 .. '!messages!zwmXmdv7EJ2SpLb1' @ 0 : 0; will stop at (end)
+2024/06/10-18:57:27.794 3220 Log #227: 2 ops saved to Table #228 OK
+2024/06/10-18:57:27.795 3220 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/000227.log: OK
+2024/06/10-18:57:27.809 3220 Table #224: 1602 entries OK
+2024/06/10-18:57:27.811 3220 Table #225: 245 entries OK
+2024/06/10-18:57:27.811 3220 Table #228: 2 entries OK
+2024/06/10-18:57:27.815 3220 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/MANIFEST-000226: OK
+2024/06/10-18:57:27.819 3220 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages; recovered 3 files; 2492841 bytes. Some data may have been lost. ****

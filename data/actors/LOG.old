@@ -1,27 +1,7 @@
-2024/05/30-18:37:33.262927 7f865ff0a0 Recovering log #386
-2024/05/30-18:37:33.291830 7f865ff0a0 Delete type=3 #381
-2024/05/30-18:37:33.292042 7f865ff0a0 Delete type=0 #386
-2024/05/30-20:11:04.480102 7e5ef3f0a0 Level-0 table #392: started
-2024/05/30-20:11:04.686842 7e5ef3f0a0 Level-0 table #392: 1915157 bytes OK
-2024/05/30-20:11:04.695152 7e5ef3f0a0 Delete type=0 #390
-2024/05/30-20:11:06.187894 7e5ef3f0a0 Compacting 1@0 + 2@1 files
-2024/05/30-20:11:06.460235 7e5ef3f0a0 Generated table #393@0: 1433 keys, 2195203 bytes
-2024/05/30-20:11:06.557374 7e5ef3f0a0 Generated table #394@0: 848 keys, 783008 bytes
-2024/05/30-20:11:06.557490 7e5ef3f0a0 Compacted 1@0 + 2@1 files => 2978211 bytes
-2024/05/30-20:11:06.564618 7e5ef3f0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/05/30-20:11:06.565319 7e5ef3f0a0 Delete type=2 #392
-2024/05/30-20:11:06.567691 7e5ef3f0a0 Delete type=2 #385
-2024/05/30-20:11:06.569001 7e5ef3f0a0 Delete type=2 #388
-2024/05/30-21:10:27.566917 7e5ef3f0a0 Level-0 table #396: started
-2024/05/30-21:10:27.602803 7e5ef3f0a0 Level-0 table #396: 257566 bytes OK
-2024/05/30-21:10:27.611057 7e5ef3f0a0 Delete type=0 #391
-2024/05/30-21:10:27.681516 7e5ef3f0a0 Manual compaction at level-0 from '!actors!0dBrS2iiMIRD5TAy' @ 72057594037927935 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at '!actors.items!QcMiNBlY3Wy1eFrP.z4fMBWWeQ5CBRtmL' @ 34403 : 0
-2024/05/30-21:10:27.681580 7e5ef3f0a0 Compacting 1@0 + 2@1 files
-2024/05/30-21:10:27.918842 7e5ef3f0a0 Generated table #397@0: 1433 keys, 2195037 bytes
-2024/05/30-21:10:28.004695 7e5ef3f0a0 Generated table #398@0: 847 keys, 781767 bytes
-2024/05/30-21:10:28.004793 7e5ef3f0a0 Compacted 1@0 + 2@1 files => 2976804 bytes
-2024/05/30-21:10:28.010967 7e5ef3f0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/05/30-21:10:28.011579 7e5ef3f0a0 Delete type=2 #393
-2024/05/30-21:10:28.013573 7e5ef3f0a0 Delete type=2 #396
-2024/05/30-21:10:28.014097 7e5ef3f0a0 Delete type=2 #394
-2024/05/30-21:10:28.330114 7e5ef3f0a0 Manual compaction at level-0 from '!actors.items!QcMiNBlY3Wy1eFrP.z4fMBWWeQ5CBRtmL' @ 34403 : 0 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at (end)
+2024/06/10-18:57:27.677 23ec Log #400: 2 ops saved to Table #401 OK
+2024/06/10-18:57:27.679 23ec Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/000400.log: OK
+2024/06/10-18:57:27.689 23ec Table #397: 1433 entries OK
+2024/06/10-18:57:27.694 23ec Table #398: 847 entries OK
+2024/06/10-18:57:27.695 23ec Table #401: 2 entries OK
+2024/06/10-18:57:27.699 23ec Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/MANIFEST-000399: OK
+2024/06/10-18:57:27.702 23ec **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors; recovered 3 files; 2987777 bytes. Some data may have been lost. ****
