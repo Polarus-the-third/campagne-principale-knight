@@ -1,16 +1,3 @@
-2024/05/30-18:37:33.790070 7f855df0a0 Recovering log #243
-2024/05/30-18:37:33.813313 7f855df0a0 Delete type=3 #241
-2024/05/30-18:37:33.813532 7f855df0a0 Delete type=0 #243
-2024/05/30-21:10:28.342807 7e5ef3f0a0 Level-0 table #250: started
-2024/05/30-21:10:28.361901 7e5ef3f0a0 Level-0 table #250: 104380 bytes OK
-2024/05/30-21:10:28.369180 7e5ef3f0a0 Delete type=0 #248
-2024/05/30-21:10:28.389620 7e5ef3f0a0 Manual compaction at level-0 from '!fog!15ejNXSp6SXpDAnV' @ 72057594037927935 : 1 .. '!fog!z3Zs7ptleHWpsytf' @ 0 : 0; will stop at '!fog!sQRMCVdsGOt144ot' @ 884 : 1
-2024/05/30-21:10:28.389670 7e5ef3f0a0 Compacting 1@0 + 2@1 files
-2024/05/30-21:10:28.572407 7e5ef3f0a0 Generated table #251@0: 80 keys, 2109329 bytes
-2024/05/30-21:10:28.656303 7e5ef3f0a0 Generated table #252@0: 39 keys, 996000 bytes
-2024/05/30-21:10:28.656415 7e5ef3f0a0 Compacted 1@0 + 2@1 files => 3105329 bytes
-2024/05/30-21:10:28.662294 7e5ef3f0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/05/30-21:10:28.663001 7e5ef3f0a0 Delete type=2 #245
-2024/05/30-21:10:28.664113 7e5ef3f0a0 Delete type=2 #250
-2024/05/30-21:10:28.664563 7e5ef3f0a0 Delete type=2 #246
-2024/05/30-21:10:28.676294 7e5ef3f0a0 Manual compaction at level-0 from '!fog!sQRMCVdsGOt144ot' @ 884 : 1 .. '!fog!z3Zs7ptleHWpsytf' @ 0 : 0; will stop at (end)
+2024/06/05-19:32:12.890002 7f80e4f0a0 Recovering log #249
+2024/06/05-19:32:12.921092 7f80e4f0a0 Delete type=0 #249
+2024/06/05-19:32:12.928386 7f80e4f0a0 Delete type=3 #247

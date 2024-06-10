@@ -1,13 +1,14 @@
-2024/05/29-19:15:10.736880 7f85def0a0 Recovering log #199
-2024/05/29-19:15:10.759550 7f85def0a0 Delete type=0 #199
-2024/05/29-19:15:10.759735 7f85def0a0 Delete type=3 #198
-2024/05/29-21:20:41.366542 7e5ef3f0a0 Level-0 table #203: started
-2024/05/29-21:20:41.368119 7e5ef3f0a0 Level-0 table #203: 0 bytes OK
-2024/05/29-21:20:41.378185 7e5ef3f0a0 Delete type=0 #201
-2024/05/29-21:20:41.414720 7e5ef3f0a0 Manual compaction at level-0 from '!users!2LHdNW5FWGBjxiZQ' @ 72057594037927935 : 1 .. '!users!bkxExVkIv36cxEOR' @ 0 : 0; will stop at '!users!bkxExVkIv36cxEOR' @ 23 : 1
-2024/05/29-21:20:41.414770 7e5ef3f0a0 Compacting 1@0 + 0@1 files
-2024/05/29-21:20:41.423066 7e5ef3f0a0 Generated table #204@0: 4 keys, 1985 bytes
-2024/05/29-21:20:41.423152 7e5ef3f0a0 Compacted 1@0 + 0@1 files => 1985 bytes
-2024/05/29-21:20:41.429120 7e5ef3f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/05/29-21:20:41.429396 7e5ef3f0a0 Delete type=2 #187
-2024/05/29-21:20:41.430694 7e5ef3f0a0 Manual compaction at level-0 from '!users!bkxExVkIv36cxEOR' @ 23 : 1 .. '!users!bkxExVkIv36cxEOR' @ 0 : 0; will stop at (end)
+2024/05/30-18:37:34.679105 7f84dcf0a0 Recovering log #202
+2024/05/30-18:37:34.702208 7f84dcf0a0 Delete type=3 #200
+2024/05/30-18:37:34.702515 7f84dcf0a0 Delete type=0 #202
+2024/05/30-21:10:28.899869 7e5ef3f0a0 Level-0 table #208: started
+2024/05/30-21:10:28.908490 7e5ef3f0a0 Level-0 table #208: 1401 bytes OK
+2024/05/30-21:10:28.915153 7e5ef3f0a0 Delete type=0 #206
+2024/05/30-21:10:28.934956 7e5ef3f0a0 Manual compaction at level-0 from '!users!2LHdNW5FWGBjxiZQ' @ 72057594037927935 : 1 .. '!users!bkxExVkIv36cxEOR' @ 0 : 0; will stop at '!users!YOziAKAIAXn7oTEp' @ 98 : 1
+2024/05/30-21:10:28.935022 7e5ef3f0a0 Compacting 1@0 + 1@1 files
+2024/05/30-21:10:28.945290 7e5ef3f0a0 Generated table #209@0: 4 keys, 1985 bytes
+2024/05/30-21:10:28.945383 7e5ef3f0a0 Compacted 1@0 + 1@1 files => 1985 bytes
+2024/05/30-21:10:28.950613 7e5ef3f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/05/30-21:10:28.950902 7e5ef3f0a0 Delete type=2 #204
+2024/05/30-21:10:28.951196 7e5ef3f0a0 Delete type=2 #208
+2024/05/30-21:10:28.987780 7e5ef3f0a0 Manual compaction at level-0 from '!users!YOziAKAIAXn7oTEp' @ 98 : 1 .. '!users!bkxExVkIv36cxEOR' @ 0 : 0; will stop at (end)
