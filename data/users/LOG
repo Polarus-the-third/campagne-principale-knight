@@ -1,14 +1,14 @@
-2024/06/10-18:59:49.476976 7f80e4f0a0 Recovering log #216
-2024/06/10-18:59:49.501442 7f80e4f0a0 Delete type=3 #215
-2024/06/10-18:59:49.501696 7f80e4f0a0 Delete type=0 #216
-2024/06/10-22:16:20.384053 7e5b0bf0a0 Level-0 table #220: started
-2024/06/10-22:16:20.394396 7e5b0bf0a0 Level-0 table #220: 1950 bytes OK
-2024/06/10-22:16:20.401129 7e5b0bf0a0 Delete type=0 #218
-2024/06/10-22:16:20.440322 7e5b0bf0a0 Manual compaction at level-0 from '!users!2LHdNW5FWGBjxiZQ' @ 72057594037927935 : 1 .. '!users!bkxExVkIv36cxEOR' @ 0 : 0; will stop at '!users!YOziAKAIAXn7oTEp' @ 102 : 1
-2024/06/10-22:16:20.440378 7e5b0bf0a0 Compacting 2@0 + 0@1 files
-2024/06/10-22:16:20.450246 7e5b0bf0a0 Generated table #221@0: 4 keys, 1985 bytes
-2024/06/10-22:16:20.450343 7e5b0bf0a0 Compacted 2@0 + 0@1 files => 1985 bytes
-2024/06/10-22:16:20.455728 7e5b0bf0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/06/10-22:16:20.456039 7e5b0bf0a0 Delete type=2 #209
-2024/06/10-22:16:20.457195 7e5b0bf0a0 Delete type=2 #220
-2024/06/10-22:16:20.458102 7e5b0bf0a0 Manual compaction at level-0 from '!users!YOziAKAIAXn7oTEp' @ 102 : 1 .. '!users!bkxExVkIv36cxEOR' @ 0 : 0; will stop at (end)
+2024/06/17-18:41:00.475736 7f80e4f0a0 Recovering log #219
+2024/06/17-18:41:00.502182 7f80e4f0a0 Delete type=0 #219
+2024/06/17-18:41:00.502408 7f80e4f0a0 Delete type=3 #217
+2024/06/17-21:02:46.369779 7e5b0bf0a0 Level-0 table #225: started
+2024/06/17-21:02:46.380121 7e5b0bf0a0 Level-0 table #225: 1043 bytes OK
+2024/06/17-21:02:46.386499 7e5b0bf0a0 Delete type=0 #223
+2024/06/17-21:02:46.415903 7e5b0bf0a0 Manual compaction at level-0 from '!users!2LHdNW5FWGBjxiZQ' @ 72057594037927935 : 1 .. '!users!bkxExVkIv36cxEOR' @ 0 : 0; will stop at '!users!YOziAKAIAXn7oTEp' @ 112 : 1
+2024/06/17-21:02:46.415960 7e5b0bf0a0 Compacting 1@0 + 1@1 files
+2024/06/17-21:02:46.426063 7e5b0bf0a0 Generated table #226@0: 4 keys, 1964 bytes
+2024/06/17-21:02:46.426162 7e5b0bf0a0 Compacted 1@0 + 1@1 files => 1964 bytes
+2024/06/17-21:02:46.432236 7e5b0bf0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/06/17-21:02:46.432526 7e5b0bf0a0 Delete type=2 #225
+2024/06/17-21:02:46.432863 7e5b0bf0a0 Delete type=2 #221
+2024/06/17-21:02:46.446522 7e5b0bf0a0 Manual compaction at level-0 from '!users!YOziAKAIAXn7oTEp' @ 112 : 1 .. '!users!bkxExVkIv36cxEOR' @ 0 : 0; will stop at (end)
