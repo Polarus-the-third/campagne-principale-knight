@@ -1,1 +1,5 @@
-2024/06/26-18:56:45.612 be4 Delete type=3 #1
+2024/06/26-19:45:09.936 2ea8 Recovering log #241
+2024/06/26-19:45:09.936 2ea8 Level-0 table #243: started
+2024/06/26-19:45:09.959 2ea8 Level-0 table #243: 461 bytes OK
+2024/06/26-19:45:09.976 2ea8 Delete type=0 #241
+2024/06/26-19:45:09.978 2ea8 Delete type=3 #240

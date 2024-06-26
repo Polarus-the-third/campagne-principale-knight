@@ -1,1 +1,11 @@
-2024/06/26-18:56:45.875 be4 Delete type=3 #1
+2024/06/26-19:45:10.198 2ea8 Recovering log #315
+2024/06/26-19:45:10.203 2ea8 Level-0 table #317: started
+2024/06/26-19:45:10.222 2ea8 Level-0 table #317: 770463 bytes OK
+2024/06/26-19:45:10.233 2ea8 Delete type=0 #315
+2024/06/26-19:45:10.233 2ea8 Delete type=3 #314
+2024/06/26-19:45:15.376 188c Compacting 2@0 + 0@1 files
+2024/06/26-19:45:15.460 188c Generated table #319@0: 10202 keys, 1311264 bytes
+2024/06/26-19:45:15.461 188c Compacted 2@0 + 0@1 files => 1311264 bytes
+2024/06/26-19:45:15.463 188c compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/06/26-19:45:15.463 188c Delete type=2 #312
+2024/06/26-19:45:15.464 188c Delete type=2 #317
