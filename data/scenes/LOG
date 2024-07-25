@@ -1,7 +1,22 @@
-2024/07/25-20:28:01.262 2900 Delete type=3 #1
-2024/07/25-20:28:08.446 2490 Compacting 2@0 + 0@1 files
-2024/07/25-20:28:08.482 2490 Generated table #332@0: 10276 keys, 1324150 bytes
-2024/07/25-20:28:08.482 2490 Compacted 2@0 + 0@1 files => 1324150 bytes
-2024/07/25-20:28:08.483 2490 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/07/25-20:28:08.484 2490 Delete type=2 #326
-2024/07/25-20:28:08.484 2490 Delete type=2 #329
+2024/07/25-18:52:43.254226 7f8267f0a0 Recovering log #331
+2024/07/25-18:52:43.257538 7f8267f0a0 Level-0 table #334: started
+2024/07/25-18:52:43.316495 7f8267f0a0 Level-0 table #334: 490812 bytes OK
+2024/07/25-18:52:43.338487 7f8267f0a0 Delete type=0 #331
+2024/07/25-18:52:43.339228 7f8267f0a0 Delete type=3 #330
+2024/07/25-18:52:51.596015 7e5b0bf0a0 Compacting 1@0 + 1@1 files
+2024/07/25-18:52:51.832083 7e5b0bf0a0 Generated table #336@0: 10356 keys, 1341453 bytes
+2024/07/25-18:52:51.832285 7e5b0bf0a0 Compacted 1@0 + 1@1 files => 1341453 bytes
+2024/07/25-18:52:51.839336 7e5b0bf0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/07/25-18:52:51.839997 7e5b0bf0a0 Delete type=2 #332
+2024/07/25-18:52:51.841625 7e5b0bf0a0 Delete type=2 #334
+2024/07/25-21:47:36.707024 7e5b0bf0a0 Level-0 table #338: started
+2024/07/25-21:47:37.013371 7e5b0bf0a0 Level-0 table #338: 3360935 bytes OK
+2024/07/25-21:47:37.021093 7e5b0bf0a0 Delete type=0 #335
+2024/07/25-21:47:37.061605 7e5b0bf0a0 Manual compaction at level-0 from '!scenes!00oK7KmMLLUD1A7L' @ 72057594037927935 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at '!scenes.walls!ImqG23Dof3VXa2zg.xwpt0QACnrSPeSSs' @ 46267 : 1
+2024/07/25-21:47:37.061663 7e5b0bf0a0 Compacting 1@0 + 1@1 files
+2024/07/25-21:47:37.255721 7e5b0bf0a0 Generated table #339@0: 10512 keys, 1377220 bytes
+2024/07/25-21:47:37.255847 7e5b0bf0a0 Compacted 1@0 + 1@1 files => 1377220 bytes
+2024/07/25-21:47:37.262224 7e5b0bf0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/07/25-21:47:37.263134 7e5b0bf0a0 Delete type=2 #338
+2024/07/25-21:47:37.267017 7e5b0bf0a0 Delete type=2 #336
+2024/07/25-21:47:37.303109 7e5b0bf0a0 Manual compaction at level-0 from '!scenes.walls!ImqG23Dof3VXa2zg.xwpt0QACnrSPeSSs' @ 46267 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at (end)
