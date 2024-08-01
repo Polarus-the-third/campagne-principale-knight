@@ -1,1 +1,25 @@
-2024/08/01-20:54:01.879 42f8 Delete type=3 #1
+2024/08/01-19:04:31.221685 7f81e6f0a0 Recovering log #466
+2024/08/01-19:04:31.256362 7f81e6f0a0 Delete type=3 #465
+2024/08/01-19:04:31.256656 7f81e6f0a0 Delete type=0 #466
+2024/08/01-20:23:40.993622 7e5b0bf0a0 Level-0 table #470: started
+2024/08/01-20:23:41.113784 7e5b0bf0a0 Level-0 table #470: 1035603 bytes OK
+2024/08/01-20:23:41.123534 7e5b0bf0a0 Delete type=0 #468
+2024/08/01-20:23:49.620981 7e5b0bf0a0 Compacting 3@0 + 0@1 files
+2024/08/01-20:23:49.885074 7e5b0bf0a0 Generated table #471@0: 1479 keys, 2214213 bytes
+2024/08/01-20:23:49.989659 7e5b0bf0a0 Generated table #472@0: 848 keys, 782912 bytes
+2024/08/01-20:23:49.989823 7e5b0bf0a0 Compacted 3@0 + 0@1 files => 2997125 bytes
+2024/08/01-20:23:49.996023 7e5b0bf0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/08/01-20:23:49.996599 7e5b0bf0a0 Delete type=2 #460
+2024/08/01-20:23:49.997858 7e5b0bf0a0 Delete type=2 #463
+2024/08/01-20:23:49.999369 7e5b0bf0a0 Delete type=2 #470
+2024/08/01-21:09:45.995341 7e5b0bf0a0 Level-0 table #474: started
+2024/08/01-21:09:46.076825 7e5b0bf0a0 Level-0 table #474: 662296 bytes OK
+2024/08/01-21:09:46.082759 7e5b0bf0a0 Delete type=0 #469
+2024/08/01-21:09:46.155850 7e5b0bf0a0 Manual compaction at level-0 from '!actors!0dBrS2iiMIRD5TAy' @ 72057594037927935 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at '!actors.items!QcMiNBlY3Wy1eFrP.luMQJ0OiriJGBJFJ' @ 35247 : 1
+2024/08/01-21:09:46.155917 7e5b0bf0a0 Compacting 1@0 + 1@1 files
+2024/08/01-21:09:46.420826 7e5b0bf0a0 Generated table #475@0: 1479 keys, 2214429 bytes
+2024/08/01-21:09:46.421053 7e5b0bf0a0 Compacted 1@0 + 1@1 files => 2214429 bytes
+2024/08/01-21:09:46.428464 7e5b0bf0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/08/01-21:09:46.429301 7e5b0bf0a0 Delete type=2 #471
+2024/08/01-21:09:46.431685 7e5b0bf0a0 Delete type=2 #474
+2024/08/01-21:09:46.817974 7e5b0bf0a0 Manual compaction at level-0 from '!actors.items!QcMiNBlY3Wy1eFrP.luMQJ0OiriJGBJFJ' @ 35247 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at (end)
