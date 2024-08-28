@@ -1,16 +1,6 @@
-2024/08/01-19:04:31.549523 7f80e4f0a0 Recovering log #278
-2024/08/01-19:04:31.572095 7f80e4f0a0 Delete type=3 #277
-2024/08/01-19:04:31.572346 7f80e4f0a0 Delete type=0 #278
-2024/08/01-21:09:46.094854 7e5b0bf0a0 Level-0 table #282: started
-2024/08/01-21:09:46.125299 7e5b0bf0a0 Level-0 table #282: 102139 bytes OK
-2024/08/01-21:09:46.132263 7e5b0bf0a0 Delete type=0 #280
-2024/08/01-21:09:46.432700 7e5b0bf0a0 Manual compaction at level-0 from '!messages!02BcBilRX6h2MSWm' @ 72057594037927935 : 1 .. '!messages!zwmXmdv7EJ2SpLb1' @ 0 : 0; will stop at '!messages!zwmXmdv7EJ2SpLb1' @ 1789 : 1
-2024/08/01-21:09:46.432750 7e5b0bf0a0 Compacting 3@0 + 0@1 files
-2024/08/01-21:09:46.689409 7e5b0bf0a0 Generated table #283@0: 1527 keys, 2122476 bytes
-2024/08/01-21:09:46.792355 7e5b0bf0a0 Generated table #284@0: 578 keys, 812689 bytes
-2024/08/01-21:09:46.792462 7e5b0bf0a0 Compacted 3@0 + 0@1 files => 2935165 bytes
-2024/08/01-21:09:46.797775 7e5b0bf0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/08/01-21:09:46.798457 7e5b0bf0a0 Delete type=2 #274
-2024/08/01-21:09:46.799741 7e5b0bf0a0 Delete type=2 #282
-2024/08/01-21:09:46.800204 7e5b0bf0a0 Delete type=2 #275
-2024/08/01-21:09:46.843928 7e5b0bf0a0 Manual compaction at level-0 from '!messages!zwmXmdv7EJ2SpLb1' @ 1789 : 1 .. '!messages!zwmXmdv7EJ2SpLb1' @ 0 : 0; will stop at (end)
+2024/08/28-20:30:31.808 408c Log #287: 0 ops saved to Table #291 OK
+2024/08/28-20:30:31.809 408c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/000287.log: OK
+2024/08/28-20:30:31.827 408c Table #289: 1535 entries OK
+2024/08/28-20:30:31.836 408c Table #290: 657 entries OK
+2024/08/28-20:30:31.841 408c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/MANIFEST-000285: OK
+2024/08/28-20:30:31.845 408c **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages; recovered 2 files; 3077715 bytes. Some data may have been lost. ****
