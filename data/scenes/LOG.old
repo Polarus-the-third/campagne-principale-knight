@@ -1,11 +1,5 @@
-2024/08/28-18:33:52.713789 7f8554f0a0 Recovering log #356
-2024/08/28-18:33:52.714297 7f8554f0a0 Level-0 table #358: started
-2024/08/28-18:33:52.730984 7f8554f0a0 Level-0 table #358: 51997 bytes OK
-2024/08/28-18:33:52.754885 7f8554f0a0 Delete type=0 #356
-2024/08/28-18:33:52.755233 7f8554f0a0 Delete type=3 #355
-2024/08/28-18:34:01.944656 7e5f93f0a0 Compacting 2@0 + 0@1 files
-2024/08/28-18:34:02.163650 7e5f93f0a0 Generated table #360@0: 10458 keys, 1366725 bytes
-2024/08/28-18:34:02.163809 7e5f93f0a0 Compacted 2@0 + 0@1 files => 1366725 bytes
-2024/08/28-18:34:02.170082 7e5f93f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/08/28-18:34:02.170528 7e5f93f0a0 Delete type=2 #358
-2024/08/28-18:34:02.171275 7e5f93f0a0 Delete type=2 #353
+2024/09/04-18:33:26.263 aac Log #365: 0 ops saved to Table #368 OK
+2024/09/04-18:33:26.264 aac Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/scenes/000365.log: OK
+2024/09/04-18:33:26.276 aac Table #367: 10428 entries OK
+2024/09/04-18:33:26.280 aac Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/scenes/MANIFEST-000361: OK
+2024/09/04-18:33:26.284 aac **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/scenes; recovered 1 files; 1360934 bytes. Some data may have been lost. ****

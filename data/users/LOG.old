@@ -1,3 +1,5 @@
-2024/08/28-18:33:53.119099 7f8656f0a0 Recovering log #271
-2024/08/28-18:33:53.144700 7f8656f0a0 Delete type=0 #271
-2024/08/28-18:33:53.144887 7f8656f0a0 Delete type=3 #270
+2024/09/04-18:33:26.413 aac Log #277: 0 ops saved to Table #280 OK
+2024/09/04-18:33:26.414 aac Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/users/000277.log: OK
+2024/09/04-18:33:26.420 aac Table #279: 4 entries OK
+2024/09/04-18:33:26.426 aac Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/users/MANIFEST-000274: OK
+2024/09/04-18:33:26.431 aac **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/users; recovered 1 files; 1953 bytes. Some data may have been lost. ****
