@@ -1,17 +1,14 @@
-2024/09/11-19:05:22.083 2430 Recovering log #347
-2024/09/11-19:05:22.085 2430 Level-0 table #349: started
-2024/09/11-19:05:22.088 2430 Level-0 table #349: 4115 bytes OK
-2024/09/11-19:05:22.098 2430 Delete type=0 #347
-2024/09/11-19:05:22.099 2430 Delete type=3 #346
-2024/09/11-20:26:33.732 2ea0 Level-0 table #352: started
-2024/09/11-20:26:33.736 2ea0 Level-0 table #352: 4115 bytes OK
-2024/09/11-20:26:33.738 2ea0 Delete type=0 #350
-2024/09/11-20:26:33.758 2ea0 Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 441 : 1
-2024/09/11-20:26:33.758 2ea0 Compacting 3@0 + 0@1 files
-2024/09/11-20:26:33.771 2ea0 Generated table #353@0: 17 keys, 3816 bytes
-2024/09/11-20:26:33.771 2ea0 Compacted 3@0 + 0@1 files => 3816 bytes
-2024/09/11-20:26:33.774 2ea0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/09/11-20:26:33.774 2ea0 Delete type=2 #344
-2024/09/11-20:26:33.774 2ea0 Delete type=2 #349
-2024/09/11-20:26:33.774 2ea0 Delete type=2 #352
-2024/09/11-20:26:33.777 2ea0 Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 441 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)
+2024/09/11-18:30:41.435561 7f99e1f0a0 Recovering log #351
+2024/09/11-18:30:41.460057 7f99e1f0a0 Delete type=3 #348
+2024/09/11-18:30:41.460280 7f99e1f0a0 Delete type=0 #351
+2024/09/11-21:49:03.759930 7e73eff0a0 Level-0 table #357: started
+2024/09/11-21:49:03.771056 7e73eff0a0 Level-0 table #357: 6374 bytes OK
+2024/09/11-21:49:03.777814 7e73eff0a0 Delete type=0 #355
+2024/09/11-21:49:03.788187 7e73eff0a0 Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 449 : 1
+2024/09/11-21:49:03.788229 7e73eff0a0 Compacting 1@0 + 1@1 files
+2024/09/11-21:49:03.805569 7e73eff0a0 Generated table #358@0: 17 keys, 3816 bytes
+2024/09/11-21:49:03.805660 7e73eff0a0 Compacted 1@0 + 1@1 files => 3816 bytes
+2024/09/11-21:49:03.812810 7e73eff0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/09/11-21:49:03.813102 7e73eff0a0 Delete type=2 #353
+2024/09/11-21:49:03.813426 7e73eff0a0 Delete type=2 #357
+2024/09/11-21:49:03.844698 7e73eff0a0 Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 449 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)

@@ -1,13 +1,14 @@
-2024/09/11-19:05:21.768 2bd0 Recovering log #266
-2024/09/11-19:05:21.775 2bd0 Delete type=0 #266
-2024/09/11-19:05:21.776 2bd0 Delete type=3 #265
-2024/09/11-20:26:33.489 2ea0 Level-0 table #270: started
-2024/09/11-20:26:33.489 2ea0 Level-0 table #270: 0 bytes OK
-2024/09/11-20:26:33.491 2ea0 Delete type=0 #268
-2024/09/11-20:26:33.589 2ea0 Manual compaction at level-0 from '!playlists!8E7kZjSoTCsYj36d' @ 72057594037927935 : 1 .. '!playlists.sounds!mzusO9ibZO6N4fy0.svOH6FivRGqKPEpG' @ 0 : 0; will stop at '!playlists.sounds!mzusO9ibZO6N4fy0.svOH6FivRGqKPEpG' @ 634 : 1
-2024/09/11-20:26:33.589 2ea0 Compacting 1@0 + 0@1 files
-2024/09/11-20:26:33.603 2ea0 Generated table #271@0: 24 keys, 3374 bytes
-2024/09/11-20:26:33.603 2ea0 Compacted 1@0 + 0@1 files => 3374 bytes
-2024/09/11-20:26:33.606 2ea0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/09/11-20:26:33.607 2ea0 Delete type=2 #263
-2024/09/11-20:26:33.616 2ea0 Manual compaction at level-0 from '!playlists.sounds!mzusO9ibZO6N4fy0.svOH6FivRGqKPEpG' @ 634 : 1 .. '!playlists.sounds!mzusO9ibZO6N4fy0.svOH6FivRGqKPEpG' @ 0 : 0; will stop at (end)
+2024/09/11-18:30:41.036895 7f99e1f0a0 Recovering log #269
+2024/09/11-18:30:41.062097 7f99e1f0a0 Delete type=3 #267
+2024/09/11-18:30:41.062318 7f99e1f0a0 Delete type=0 #269
+2024/09/11-21:49:03.525758 7e73eff0a0 Level-0 table #275: started
+2024/09/11-21:49:03.539967 7e73eff0a0 Level-0 table #275: 9850 bytes OK
+2024/09/11-21:49:03.546098 7e73eff0a0 Delete type=0 #273
+2024/09/11-21:49:03.742201 7e73eff0a0 Manual compaction at level-0 from '!playlists!8E7kZjSoTCsYj36d' @ 72057594037927935 : 1 .. '!playlists.sounds!mzusO9ibZO6N4fy0.svOH6FivRGqKPEpG' @ 0 : 0; will stop at '!playlists.sounds!mzusO9ibZO6N4fy0.svOH6FivRGqKPEpG' @ 649 : 1
+2024/09/11-21:49:03.742250 7e73eff0a0 Compacting 1@0 + 1@1 files
+2024/09/11-21:49:03.751680 7e73eff0a0 Generated table #276@0: 24 keys, 3377 bytes
+2024/09/11-21:49:03.751774 7e73eff0a0 Compacted 1@0 + 1@1 files => 3377 bytes
+2024/09/11-21:49:03.759073 7e73eff0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/09/11-21:49:03.759367 7e73eff0a0 Delete type=2 #271
+2024/09/11-21:49:03.759710 7e73eff0a0 Delete type=2 #275
+2024/09/11-21:49:03.788072 7e73eff0a0 Manual compaction at level-0 from '!playlists.sounds!mzusO9ibZO6N4fy0.svOH6FivRGqKPEpG' @ 649 : 1 .. '!playlists.sounds!mzusO9ibZO6N4fy0.svOH6FivRGqKPEpG' @ 0 : 0; will stop at (end)
