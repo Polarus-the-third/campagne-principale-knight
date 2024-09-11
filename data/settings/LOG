@@ -1,17 +1,17 @@
-2024/09/04-18:45:17.513697 7f9960f0a0 Recovering log #338
-2024/09/04-18:45:17.513942 7f9960f0a0 Level-0 table #340: started
-2024/09/04-18:45:17.527114 7f9960f0a0 Level-0 table #340: 4115 bytes OK
-2024/09/04-18:45:17.548735 7f9960f0a0 Delete type=3 #337
-2024/09/04-18:45:17.549016 7f9960f0a0 Delete type=0 #338
-2024/09/04-22:02:19.880788 7e73eff0a0 Level-0 table #343: started
-2024/09/04-22:02:19.900175 7e73eff0a0 Level-0 table #343: 4115 bytes OK
-2024/09/04-22:02:19.907674 7e73eff0a0 Delete type=0 #341
-2024/09/04-22:02:19.940539 7e73eff0a0 Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 433 : 1
-2024/09/04-22:02:19.940594 7e73eff0a0 Compacting 3@0 + 0@1 files
-2024/09/04-22:02:19.951447 7e73eff0a0 Generated table #344@0: 17 keys, 3816 bytes
-2024/09/04-22:02:19.951541 7e73eff0a0 Compacted 3@0 + 0@1 files => 3816 bytes
-2024/09/04-22:02:19.957709 7e73eff0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/09/04-22:02:19.958003 7e73eff0a0 Delete type=2 #335
-2024/09/04-22:02:19.958341 7e73eff0a0 Delete type=2 #343
-2024/09/04-22:02:19.958651 7e73eff0a0 Delete type=2 #340
-2024/09/04-22:02:19.988973 7e73eff0a0 Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 433 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)
+2024/09/11-19:05:22.083 2430 Recovering log #347
+2024/09/11-19:05:22.085 2430 Level-0 table #349: started
+2024/09/11-19:05:22.088 2430 Level-0 table #349: 4115 bytes OK
+2024/09/11-19:05:22.098 2430 Delete type=0 #347
+2024/09/11-19:05:22.099 2430 Delete type=3 #346
+2024/09/11-20:26:33.732 2ea0 Level-0 table #352: started
+2024/09/11-20:26:33.736 2ea0 Level-0 table #352: 4115 bytes OK
+2024/09/11-20:26:33.738 2ea0 Delete type=0 #350
+2024/09/11-20:26:33.758 2ea0 Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 441 : 1
+2024/09/11-20:26:33.758 2ea0 Compacting 3@0 + 0@1 files
+2024/09/11-20:26:33.771 2ea0 Generated table #353@0: 17 keys, 3816 bytes
+2024/09/11-20:26:33.771 2ea0 Compacted 3@0 + 0@1 files => 3816 bytes
+2024/09/11-20:26:33.774 2ea0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/09/11-20:26:33.774 2ea0 Delete type=2 #344
+2024/09/11-20:26:33.774 2ea0 Delete type=2 #349
+2024/09/11-20:26:33.774 2ea0 Delete type=2 #352
+2024/09/11-20:26:33.777 2ea0 Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 441 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)
