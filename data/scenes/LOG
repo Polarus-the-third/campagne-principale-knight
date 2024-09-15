@@ -1,14 +1,14 @@
-2024/09/11-18:30:41.114542 7f99e1f0a0 Recovering log #384
-2024/09/11-18:30:41.139016 7f99e1f0a0 Delete type=3 #381
-2024/09/11-18:30:41.139234 7f99e1f0a0 Delete type=0 #384
-2024/09/11-21:49:03.493188 7e73eff0a0 Level-0 table #390: started
-2024/09/11-21:49:03.517295 7e73eff0a0 Level-0 table #390: 127302 bytes OK
-2024/09/11-21:49:03.524500 7e73eff0a0 Delete type=0 #388
-2024/09/11-21:49:03.547897 7e73eff0a0 Manual compaction at level-0 from '!scenes!00oK7KmMLLUD1A7L' @ 72057594037927935 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at '!scenes.walls!OqIRnbmkuuJXwrxV.F8NnqHes6L0czG3Y' @ 50789 : 1
-2024/09/11-21:49:03.547977 7e73eff0a0 Compacting 1@0 + 1@1 files
-2024/09/11-21:49:03.732706 7e73eff0a0 Generated table #391@0: 10650 keys, 1411732 bytes
-2024/09/11-21:49:03.732817 7e73eff0a0 Compacted 1@0 + 1@1 files => 1411732 bytes
-2024/09/11-21:49:03.740072 7e73eff0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/09/11-21:49:03.740394 7e73eff0a0 Delete type=2 #390
-2024/09/11-21:49:03.740992 7e73eff0a0 Delete type=2 #386
-2024/09/11-21:49:03.787666 7e73eff0a0 Manual compaction at level-0 from '!scenes.walls!OqIRnbmkuuJXwrxV.F8NnqHes6L0czG3Y' @ 50789 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at (end)
+2024/09/15-18:31:01.798 a3c Recovering log #395
+2024/09/15-18:31:01.804 a3c Delete type=0 #395
+2024/09/15-18:31:01.804 a3c Delete type=3 #393
+2024/09/15-18:32:33.885 43fc Level-0 table #401: started
+2024/09/15-18:32:33.901 43fc Level-0 table #401: 1390 bytes OK
+2024/09/15-18:32:33.904 43fc Delete type=0 #399
+2024/09/15-18:32:33.910 43fc Manual compaction at level-0 from '!scenes!00oK7KmMLLUD1A7L' @ 72057594037927935 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at '!scenes!gl4vt3xQdxPmNQfs' @ 50969 : 1
+2024/09/15-18:32:33.910 43fc Compacting 1@0 + 1@1 files
+2024/09/15-18:32:33.952 43fc Generated table #402@0: 10650 keys, 1411734 bytes
+2024/09/15-18:32:33.952 43fc Compacted 1@0 + 1@1 files => 1411734 bytes
+2024/09/15-18:32:33.953 43fc compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/09/15-18:32:33.955 43fc Delete type=2 #397
+2024/09/15-18:32:33.955 43fc Delete type=2 #401
+2024/09/15-18:32:33.976 43fc Manual compaction at level-0 from '!scenes!gl4vt3xQdxPmNQfs' @ 50969 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at (end)

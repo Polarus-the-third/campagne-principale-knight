@@ -1,14 +1,14 @@
-2024/09/11-18:30:41.435561 7f99e1f0a0 Recovering log #351
-2024/09/11-18:30:41.460057 7f99e1f0a0 Delete type=3 #348
-2024/09/11-18:30:41.460280 7f99e1f0a0 Delete type=0 #351
-2024/09/11-21:49:03.759930 7e73eff0a0 Level-0 table #357: started
-2024/09/11-21:49:03.771056 7e73eff0a0 Level-0 table #357: 6374 bytes OK
-2024/09/11-21:49:03.777814 7e73eff0a0 Delete type=0 #355
-2024/09/11-21:49:03.788187 7e73eff0a0 Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 449 : 1
-2024/09/11-21:49:03.788229 7e73eff0a0 Compacting 1@0 + 1@1 files
-2024/09/11-21:49:03.805569 7e73eff0a0 Generated table #358@0: 17 keys, 3816 bytes
-2024/09/11-21:49:03.805660 7e73eff0a0 Compacted 1@0 + 1@1 files => 3816 bytes
-2024/09/11-21:49:03.812810 7e73eff0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/09/11-21:49:03.813102 7e73eff0a0 Delete type=2 #353
-2024/09/11-21:49:03.813426 7e73eff0a0 Delete type=2 #357
-2024/09/11-21:49:03.844698 7e73eff0a0 Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 449 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)
+2024/09/15-18:31:01.873 330 Recovering log #362
+2024/09/15-18:31:01.880 330 Delete type=0 #362
+2024/09/15-18:31:01.880 330 Delete type=3 #360
+2024/09/15-18:32:33.904 43fc Level-0 table #368: started
+2024/09/15-18:32:33.908 43fc Level-0 table #368: 4236 bytes OK
+2024/09/15-18:32:33.910 43fc Delete type=0 #366
+2024/09/15-18:32:33.958 43fc Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!usFKjHAkuVWTRwbo' @ 461 : 1
+2024/09/15-18:32:33.958 43fc Compacting 1@0 + 1@1 files
+2024/09/15-18:32:33.970 43fc Generated table #369@0: 17 keys, 3820 bytes
+2024/09/15-18:32:33.970 43fc Compacted 1@0 + 1@1 files => 3820 bytes
+2024/09/15-18:32:33.973 43fc compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/09/15-18:32:33.973 43fc Delete type=2 #364
+2024/09/15-18:32:33.973 43fc Delete type=2 #368
+2024/09/15-18:32:33.976 43fc Manual compaction at level-0 from '!settings!usFKjHAkuVWTRwbo' @ 461 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)

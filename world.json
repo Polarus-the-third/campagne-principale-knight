@@ -8,10 +8,10 @@
     "minimum": "11",
     "verified": "11.313"
   },
-  "systemVersion": "3.24.8",
-  "lastPlayed": "Wed Sep 11 2024 21:49:02 GMT+0000 (Coordinated Universal Time)",
+  "systemVersion": "3.29.5",
+  "lastPlayed": "Sun Sep 15 2024 18:32:33 GMT+0200 (Central European Summer Time)",
   "safeMode": false,
-  "playtime": 1147216,
+  "playtime": 1147359,
   "background": "modules/knight-compendium/assets/npc/arthur.webp",
   "joinTheme": "default"
 }

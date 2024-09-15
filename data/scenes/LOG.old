@@ -1,17 +1,12 @@
-2024/09/11-19:05:21.905 2bd0 Recovering log #380
-2024/09/11-19:05:21.906 2bd0 Level-0 table #382: started
-2024/09/11-19:05:21.933 2bd0 Level-0 table #382: 2775 bytes OK
-2024/09/11-19:05:21.940 2bd0 Delete type=0 #380
-2024/09/11-19:05:21.941 2bd0 Delete type=3 #379
-2024/09/11-20:26:33.669 2ea0 Level-0 table #385: started
-2024/09/11-20:26:33.674 2ea0 Level-0 table #385: 77158 bytes OK
-2024/09/11-20:26:33.679 2ea0 Delete type=0 #383
-2024/09/11-20:26:33.690 2ea0 Manual compaction at level-0 from '!scenes!00oK7KmMLLUD1A7L' @ 72057594037927935 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at '!scenes!jH57P999gm3zG3ro' @ 50383 : 1
-2024/09/11-20:26:33.690 2ea0 Compacting 3@0 + 0@1 files
-2024/09/11-20:26:33.723 2ea0 Generated table #386@0: 10636 keys, 1408736 bytes
-2024/09/11-20:26:33.723 2ea0 Compacted 3@0 + 0@1 files => 1408736 bytes
-2024/09/11-20:26:33.726 2ea0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/09/11-20:26:33.726 2ea0 Delete type=2 #377
-2024/09/11-20:26:33.726 2ea0 Delete type=2 #382
-2024/09/11-20:26:33.727 2ea0 Delete type=2 #385
-2024/09/11-20:26:33.738 2ea0 Manual compaction at level-0 from '!scenes!jH57P999gm3zG3ro' @ 50383 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at (end)
+2024/09/15-17:48:57.043 a3c Delete type=3 #1
+2024/09/15-17:50:46.406 43fc Level-0 table #396: started
+2024/09/15-17:50:46.437 43fc Level-0 table #396: 1390 bytes OK
+2024/09/15-17:50:46.439 43fc Delete type=0 #394
+2024/09/15-17:50:46.478 43fc Manual compaction at level-0 from '!scenes!00oK7KmMLLUD1A7L' @ 72057594037927935 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at '!scenes!gl4vt3xQdxPmNQfs' @ 50968 : 1
+2024/09/15-17:50:46.479 43fc Compacting 2@0 + 0@1 files
+2024/09/15-17:50:46.533 43fc Generated table #397@0: 10650 keys, 1411721 bytes
+2024/09/15-17:50:46.533 43fc Compacted 2@0 + 0@1 files => 1411721 bytes
+2024/09/15-17:50:46.535 43fc compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/09/15-17:50:46.535 43fc Delete type=2 #391
+2024/09/15-17:50:46.536 43fc Delete type=2 #396
+2024/09/15-17:50:46.539 43fc Manual compaction at level-0 from '!scenes!gl4vt3xQdxPmNQfs' @ 50968 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at (end)

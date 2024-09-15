@@ -1,13 +1,11 @@
-2024/09/11-19:05:21.768 2bd0 Recovering log #266
-2024/09/11-19:05:21.775 2bd0 Delete type=0 #266
-2024/09/11-19:05:21.776 2bd0 Delete type=3 #265
-2024/09/11-20:26:33.489 2ea0 Level-0 table #270: started
-2024/09/11-20:26:33.489 2ea0 Level-0 table #270: 0 bytes OK
-2024/09/11-20:26:33.491 2ea0 Delete type=0 #268
-2024/09/11-20:26:33.589 2ea0 Manual compaction at level-0 from '!playlists!8E7kZjSoTCsYj36d' @ 72057594037927935 : 1 .. '!playlists.sounds!mzusO9ibZO6N4fy0.svOH6FivRGqKPEpG' @ 0 : 0; will stop at '!playlists.sounds!mzusO9ibZO6N4fy0.svOH6FivRGqKPEpG' @ 634 : 1
-2024/09/11-20:26:33.589 2ea0 Compacting 1@0 + 0@1 files
-2024/09/11-20:26:33.603 2ea0 Generated table #271@0: 24 keys, 3374 bytes
-2024/09/11-20:26:33.603 2ea0 Compacted 1@0 + 0@1 files => 3374 bytes
-2024/09/11-20:26:33.606 2ea0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/09/11-20:26:33.607 2ea0 Delete type=2 #263
-2024/09/11-20:26:33.616 2ea0 Manual compaction at level-0 from '!playlists.sounds!mzusO9ibZO6N4fy0.svOH6FivRGqKPEpG' @ 634 : 1 .. '!playlists.sounds!mzusO9ibZO6N4fy0.svOH6FivRGqKPEpG' @ 0 : 0; will stop at (end)
+2024/09/15-17:48:56.908 4378 Delete type=3 #1
+2024/09/15-17:50:46.310 43fc Level-0 table #281: started
+2024/09/15-17:50:46.310 43fc Level-0 table #281: 0 bytes OK
+2024/09/15-17:50:46.313 43fc Delete type=0 #279
+2024/09/15-17:50:46.340 43fc Manual compaction at level-0 from '!playlists!8E7kZjSoTCsYj36d' @ 72057594037927935 : 1 .. '!playlists.sounds!mzusO9ibZO6N4fy0.svOH6FivRGqKPEpG' @ 0 : 0; will stop at '!playlists.sounds!mzusO9ibZO6N4fy0.svOH6FivRGqKPEpG' @ 759 : 1
+2024/09/15-17:50:46.340 43fc Compacting 1@0 + 0@1 files
+2024/09/15-17:50:46.367 43fc Generated table #282@0: 24 keys, 3377 bytes
+2024/09/15-17:50:46.367 43fc Compacted 1@0 + 0@1 files => 3377 bytes
+2024/09/15-17:50:46.369 43fc compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/09/15-17:50:46.369 43fc Delete type=2 #276
+2024/09/15-17:50:46.372 43fc Manual compaction at level-0 from '!playlists.sounds!mzusO9ibZO6N4fy0.svOH6FivRGqKPEpG' @ 759 : 1 .. '!playlists.sounds!mzusO9ibZO6N4fy0.svOH6FivRGqKPEpG' @ 0 : 0; will stop at (end)
