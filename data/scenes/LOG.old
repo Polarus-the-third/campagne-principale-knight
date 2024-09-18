@@ -1,12 +1,14 @@
-2024/09/15-17:48:57.043 a3c Delete type=3 #1
-2024/09/15-17:50:46.406 43fc Level-0 table #396: started
-2024/09/15-17:50:46.437 43fc Level-0 table #396: 1390 bytes OK
-2024/09/15-17:50:46.439 43fc Delete type=0 #394
-2024/09/15-17:50:46.478 43fc Manual compaction at level-0 from '!scenes!00oK7KmMLLUD1A7L' @ 72057594037927935 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at '!scenes!gl4vt3xQdxPmNQfs' @ 50968 : 1
-2024/09/15-17:50:46.479 43fc Compacting 2@0 + 0@1 files
-2024/09/15-17:50:46.533 43fc Generated table #397@0: 10650 keys, 1411721 bytes
-2024/09/15-17:50:46.533 43fc Compacted 2@0 + 0@1 files => 1411721 bytes
-2024/09/15-17:50:46.535 43fc compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/09/15-17:50:46.535 43fc Delete type=2 #391
-2024/09/15-17:50:46.536 43fc Delete type=2 #396
-2024/09/15-17:50:46.539 43fc Manual compaction at level-0 from '!scenes!gl4vt3xQdxPmNQfs' @ 50968 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at (end)
+2024/09/15-18:31:01.798 a3c Recovering log #395
+2024/09/15-18:31:01.804 a3c Delete type=0 #395
+2024/09/15-18:31:01.804 a3c Delete type=3 #393
+2024/09/15-18:32:33.885 43fc Level-0 table #401: started
+2024/09/15-18:32:33.901 43fc Level-0 table #401: 1390 bytes OK
+2024/09/15-18:32:33.904 43fc Delete type=0 #399
+2024/09/15-18:32:33.910 43fc Manual compaction at level-0 from '!scenes!00oK7KmMLLUD1A7L' @ 72057594037927935 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at '!scenes!gl4vt3xQdxPmNQfs' @ 50969 : 1
+2024/09/15-18:32:33.910 43fc Compacting 1@0 + 1@1 files
+2024/09/15-18:32:33.952 43fc Generated table #402@0: 10650 keys, 1411734 bytes
+2024/09/15-18:32:33.952 43fc Compacted 1@0 + 1@1 files => 1411734 bytes
+2024/09/15-18:32:33.953 43fc compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/09/15-18:32:33.955 43fc Delete type=2 #397
+2024/09/15-18:32:33.955 43fc Delete type=2 #401
+2024/09/15-18:32:33.976 43fc Manual compaction at level-0 from '!scenes!gl4vt3xQdxPmNQfs' @ 50969 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at (end)

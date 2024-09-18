@@ -1,12 +1,14 @@
-2024/09/15-17:48:57.230 a3c Delete type=3 #1
-2024/09/15-17:50:46.391 43fc Level-0 table #363: started
-2024/09/15-17:50:46.403 43fc Level-0 table #363: 4115 bytes OK
-2024/09/15-17:50:46.406 43fc Delete type=0 #361
-2024/09/15-17:50:46.452 43fc Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 455 : 1
-2024/09/15-17:50:46.452 43fc Compacting 2@0 + 0@1 files
-2024/09/15-17:50:46.473 43fc Generated table #364@0: 17 keys, 3813 bytes
-2024/09/15-17:50:46.473 43fc Compacted 2@0 + 0@1 files => 3813 bytes
-2024/09/15-17:50:46.475 43fc compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/09/15-17:50:46.477 43fc Delete type=2 #358
-2024/09/15-17:50:46.477 43fc Delete type=2 #363
-2024/09/15-17:50:46.539 43fc Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 455 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)
+2024/09/15-18:31:01.873 330 Recovering log #362
+2024/09/15-18:31:01.880 330 Delete type=0 #362
+2024/09/15-18:31:01.880 330 Delete type=3 #360
+2024/09/15-18:32:33.904 43fc Level-0 table #368: started
+2024/09/15-18:32:33.908 43fc Level-0 table #368: 4236 bytes OK
+2024/09/15-18:32:33.910 43fc Delete type=0 #366
+2024/09/15-18:32:33.958 43fc Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!usFKjHAkuVWTRwbo' @ 461 : 1
+2024/09/15-18:32:33.958 43fc Compacting 1@0 + 1@1 files
+2024/09/15-18:32:33.970 43fc Generated table #369@0: 17 keys, 3820 bytes
+2024/09/15-18:32:33.970 43fc Compacted 1@0 + 1@1 files => 3820 bytes
+2024/09/15-18:32:33.973 43fc compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/09/15-18:32:33.973 43fc Delete type=2 #364
+2024/09/15-18:32:33.973 43fc Delete type=2 #368
+2024/09/15-18:32:33.976 43fc Manual compaction at level-0 from '!settings!usFKjHAkuVWTRwbo' @ 461 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)
