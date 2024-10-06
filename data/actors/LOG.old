@@ -1,15 +1,14 @@
-2024/10/06-15:40:39.932 14e4 Recovering log #560
-2024/10/06-15:40:39.943 14e4 Delete type=0 #560
-2024/10/06-15:40:39.943 14e4 Delete type=3 #558
-2024/10/06-17:00:53.991 aac Level-0 table #567: started
-2024/10/06-17:00:54.000 aac Level-0 table #567: 306496 bytes OK
-2024/10/06-17:00:54.003 aac Delete type=0 #565
-2024/10/06-17:00:54.086 aac Manual compaction at level-0 from '!actors!0dBrS2iiMIRD5TAy' @ 72057594037927935 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at '!actors.effects!oHKiR87mGihXHfjS.w4CMIL4snVP1Th0h' @ 38576 : 1
-2024/10/06-17:00:54.086 aac Compacting 1@0 + 1@1 files
-2024/10/06-17:00:54.131 aac Generated table #568@0: 1522 keys, 2124088 bytes
-2024/10/06-17:00:54.134 aac Generated table #569@0: 7 keys, 16207 bytes
-2024/10/06-17:00:54.135 aac Compacted 1@0 + 1@1 files => 2140295 bytes
-2024/10/06-17:00:54.136 aac compacted to: files[ 0 3 0 0 0 0 0 ]
-2024/10/06-17:00:54.137 aac Delete type=2 #562
-2024/10/06-17:00:54.137 aac Delete type=2 #567
-2024/10/06-17:00:54.152 aac Manual compaction at level-0 from '!actors.effects!oHKiR87mGihXHfjS.w4CMIL4snVP1Th0h' @ 38576 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at (end)
+2024/10/06-17:02:26.562 40f4 Recovering log #566
+2024/10/06-17:02:26.569 40f4 Delete type=0 #566
+2024/10/06-17:02:26.570 40f4 Delete type=3 #564
+2024/10/06-17:21:01.885 e40 Level-0 table #573: started
+2024/10/06-17:21:01.888 e40 Level-0 table #573: 20812 bytes OK
+2024/10/06-17:21:01.891 e40 Delete type=0 #571
+2024/10/06-17:21:01.898 e40 Manual compaction at level-0 from '!actors!0dBrS2iiMIRD5TAy' @ 72057594037927935 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at '!actors.effects!HWxfyF205oeXSJR4.LiNcZNT4WrMEpnSF' @ 38599 : 1
+2024/10/06-17:21:01.898 e40 Compacting 1@0 + 1@1 files
+2024/10/06-17:21:01.947 e40 Generated table #574@0: 1522 keys, 2124147 bytes
+2024/10/06-17:21:01.947 e40 Compacted 1@0 + 1@1 files => 2124147 bytes
+2024/10/06-17:21:01.948 e40 compacted to: files[ 0 3 0 0 0 0 0 ]
+2024/10/06-17:21:01.948 e40 Delete type=2 #568
+2024/10/06-17:21:01.949 e40 Delete type=2 #573
+2024/10/06-17:21:01.956 e40 Manual compaction at level-0 from '!actors.effects!HWxfyF205oeXSJR4.LiNcZNT4WrMEpnSF' @ 38599 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at (end)

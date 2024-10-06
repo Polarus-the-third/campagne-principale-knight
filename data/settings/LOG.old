@@ -1,14 +1,14 @@
-2024/10/06-15:40:40.296 4264 Recovering log #386
-2024/10/06-15:40:40.305 4264 Delete type=0 #386
-2024/10/06-15:40:40.305 4264 Delete type=3 #384
-2024/10/06-17:00:54.232 aac Level-0 table #392: started
-2024/10/06-17:00:54.236 aac Level-0 table #392: 24435 bytes OK
-2024/10/06-17:00:54.238 aac Delete type=0 #390
-2024/10/06-17:00:54.288 aac Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 480 : 1
-2024/10/06-17:00:54.288 aac Compacting 1@0 + 1@1 files
-2024/10/06-17:00:54.301 aac Generated table #393@0: 17 keys, 3820 bytes
-2024/10/06-17:00:54.301 aac Compacted 1@0 + 1@1 files => 3820 bytes
-2024/10/06-17:00:54.303 aac compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/10/06-17:00:54.304 aac Delete type=2 #388
-2024/10/06-17:00:54.304 aac Delete type=2 #392
-2024/10/06-17:00:54.318 aac Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 480 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)
+2024/10/06-17:02:26.931 40f4 Recovering log #391
+2024/10/06-17:02:26.937 40f4 Delete type=0 #391
+2024/10/06-17:02:26.937 40f4 Delete type=3 #389
+2024/10/06-17:21:02.032 e40 Level-0 table #397: started
+2024/10/06-17:21:02.035 e40 Level-0 table #397: 4115 bytes OK
+2024/10/06-17:21:02.038 e40 Delete type=0 #395
+2024/10/06-17:21:02.040 e40 Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 502 : 1
+2024/10/06-17:21:02.040 e40 Compacting 1@0 + 1@1 files
+2024/10/06-17:21:02.051 e40 Generated table #398@0: 17 keys, 3817 bytes
+2024/10/06-17:21:02.051 e40 Compacted 1@0 + 1@1 files => 3817 bytes
+2024/10/06-17:21:02.053 e40 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/10/06-17:21:02.053 e40 Delete type=2 #393
+2024/10/06-17:21:02.053 e40 Delete type=2 #397
+2024/10/06-17:21:02.074 e40 Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 502 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)
