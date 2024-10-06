@@ -1,12 +1,7 @@
-2024/10/06-14:48:56.831 2af4 Delete type=3 #1
-2024/10/06-15:39:22.087 aac Level-0 table #325: started
-2024/10/06-15:39:22.106 aac Level-0 table #325: 837 bytes OK
-2024/10/06-15:39:22.109 aac Delete type=0 #323
-2024/10/06-15:39:22.117 aac Manual compaction at level-0 from '!folders!02Dt4Sj1FptZvupx' @ 72057594037927935 : 1 .. '!folders!zLkZE2Wi6qUgwXBd' @ 0 : 0; will stop at '!folders!vFErNoVWkVWgzMtH' @ 132 : 1
-2024/10/06-15:39:22.118 aac Compacting 2@0 + 0@1 files
-2024/10/06-15:39:22.135 aac Generated table #326@0: 36 keys, 4049 bytes
-2024/10/06-15:39:22.135 aac Compacted 2@0 + 0@1 files => 4049 bytes
-2024/10/06-15:39:22.137 aac compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/10/06-15:39:22.137 aac Delete type=2 #317
-2024/10/06-15:39:22.137 aac Delete type=2 #325
-2024/10/06-15:39:22.159 aac Manual compaction at level-0 from '!folders!vFErNoVWkVWgzMtH' @ 132 : 1 .. '!folders!zLkZE2Wi6qUgwXBd' @ 0 : 0; will stop at (end)
+2024/10/06-15:40:40.104 2f84 Recovering log #324
+2024/10/06-15:40:40.114 2f84 Delete type=0 #324
+2024/10/06-15:40:40.114 2f84 Delete type=3 #322
+2024/10/06-17:00:54.149 aac Level-0 table #330: started
+2024/10/06-17:00:54.149 aac Level-0 table #330: 0 bytes OK
+2024/10/06-17:00:54.151 aac Delete type=0 #328
+2024/10/06-17:00:54.161 aac Manual compaction at level-0 from '!folders!02Dt4Sj1FptZvupx' @ 72057594037927935 : 1 .. '!folders!zLkZE2Wi6qUgwXBd' @ 0 : 0; will stop at (end)

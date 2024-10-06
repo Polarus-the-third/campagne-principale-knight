@@ -1,11 +1,14 @@
-2024/10/06-14:48:56.673 14e4 Delete type=3 #1
-2024/10/06-15:39:21.922 aac Level-0 table #323: started
-2024/10/06-15:39:21.923 aac Level-0 table #323: 0 bytes OK
-2024/10/06-15:39:21.926 aac Delete type=0 #321
-2024/10/06-15:39:22.077 aac Manual compaction at level-0 from '!combats!1xC2JCY7WMZ6fgvK' @ 72057594037927935 : 1 .. '!combats.combatants!rtCl8bok4Mi7CNry.xFem2jFzGG2Hr3VV' @ 0 : 0; will stop at '!combats.combatants!rtCl8bok4Mi7CNry.xFem2jFzGG2Hr3VV' @ 351 : 1
-2024/10/06-15:39:22.077 aac Compacting 1@0 + 0@1 files
-2024/10/06-15:39:22.083 aac Generated table #324@0: 62 keys, 7074 bytes
-2024/10/06-15:39:22.083 aac Compacted 1@0 + 0@1 files => 7074 bytes
-2024/10/06-15:39:22.085 aac compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/10/06-15:39:22.086 aac Delete type=2 #305
-2024/10/06-15:39:22.110 aac Manual compaction at level-0 from '!combats.combatants!rtCl8bok4Mi7CNry.xFem2jFzGG2Hr3VV' @ 351 : 1 .. '!combats.combatants!rtCl8bok4Mi7CNry.xFem2jFzGG2Hr3VV' @ 0 : 0; will stop at (end)
+2024/10/06-15:40:40.049 14e4 Recovering log #322
+2024/10/06-15:40:40.058 14e4 Delete type=0 #322
+2024/10/06-15:40:40.058 14e4 Delete type=3 #320
+2024/10/06-17:00:54.138 aac Level-0 table #328: started
+2024/10/06-17:00:54.146 aac Level-0 table #328: 527 bytes OK
+2024/10/06-17:00:54.149 aac Delete type=0 #326
+2024/10/06-17:00:54.152 aac Manual compaction at level-0 from '!combats!1xC2JCY7WMZ6fgvK' @ 72057594037927935 : 1 .. '!combats.combatants!rtCl8bok4Mi7CNry.xFem2jFzGG2Hr3VV' @ 0 : 0; will stop at '!combats!rn6KMF0KGfhceo3a' @ 1181 : 1
+2024/10/06-17:00:54.152 aac Compacting 1@0 + 1@1 files
+2024/10/06-17:00:54.156 aac Generated table #329@0: 63 keys, 7142 bytes
+2024/10/06-17:00:54.156 aac Compacted 1@0 + 1@1 files => 7142 bytes
+2024/10/06-17:00:54.158 aac compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/10/06-17:00:54.158 aac Delete type=2 #324
+2024/10/06-17:00:54.159 aac Delete type=2 #328
+2024/10/06-17:00:54.165 aac Manual compaction at level-0 from '!combats!rn6KMF0KGfhceo3a' @ 1181 : 1 .. '!combats.combatants!rtCl8bok4Mi7CNry.xFem2jFzGG2Hr3VV' @ 0 : 0; will stop at (end)

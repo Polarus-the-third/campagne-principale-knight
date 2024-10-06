@@ -1,7 +1,7 @@
-2024/10/06-15:40:40.118 14e4 Recovering log #328
-2024/10/06-15:40:40.126 14e4 Delete type=0 #328
-2024/10/06-15:40:40.126 14e4 Delete type=3 #326
-2024/10/06-17:00:54.161 aac Level-0 table #334: started
-2024/10/06-17:00:54.161 aac Level-0 table #334: 0 bytes OK
-2024/10/06-17:00:54.164 aac Delete type=0 #332
-2024/10/06-17:00:54.173 aac Manual compaction at level-0 from '!items!2s54S2HrtRVd71ML' @ 72057594037927935 : 1 .. '!items!y3TyjWi5Se7LWTpw' @ 0 : 0; will stop at (end)
+2024/10/06-17:02:26.783 40f4 Recovering log #333
+2024/10/06-17:02:26.788 40f4 Delete type=0 #333
+2024/10/06-17:02:26.789 40f4 Delete type=3 #331
+2024/10/06-17:21:01.960 e40 Level-0 table #338: started
+2024/10/06-17:21:01.960 e40 Level-0 table #338: 0 bytes OK
+2024/10/06-17:21:01.963 e40 Delete type=0 #336
+2024/10/06-17:21:01.969 e40 Manual compaction at level-0 from '!items!2s54S2HrtRVd71ML' @ 72057594037927935 : 1 .. '!items!y3TyjWi5Se7LWTpw' @ 0 : 0; will stop at (end)

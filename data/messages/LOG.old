@@ -1,13 +1,16 @@
-2024/10/06-14:48:56.613 14e4 Delete type=3 #1
-2024/10/06-15:39:21.915 aac Level-0 table #354: started
-2024/10/06-15:39:21.916 aac Level-0 table #354: 0 bytes OK
-2024/10/06-15:39:21.919 aac Delete type=0 #352
-2024/10/06-15:39:21.930 aac Manual compaction at level-0 from '!messages!01MxC7oD9Mttcq1P' @ 72057594037927935 : 1 .. '!messages!zwmXmdv7EJ2SpLb1' @ 0 : 0; will stop at '!messages!zwmXmdv7EJ2SpLb1' @ 1789 : 1
-2024/10/06-15:39:21.931 aac Compacting 2@0 + 0@1 files
-2024/10/06-15:39:21.988 aac Generated table #355@0: 1556 keys, 2122427 bytes
-2024/10/06-15:39:22.071 aac Generated table #356@0: 841 keys, 1199177 bytes
-2024/10/06-15:39:22.071 aac Compacted 2@0 + 0@1 files => 3321604 bytes
-2024/10/06-15:39:22.073 aac compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/10/06-15:39:22.073 aac Delete type=2 #345
-2024/10/06-15:39:22.075 aac Delete type=2 #346
-2024/10/06-15:39:22.087 aac Manual compaction at level-0 from '!messages!zwmXmdv7EJ2SpLb1' @ 1789 : 1 .. '!messages!zwmXmdv7EJ2SpLb1' @ 0 : 0; will stop at (end)
+2024/10/06-15:40:40.011 4264 Recovering log #353
+2024/10/06-15:40:40.019 4264 Delete type=0 #353
+2024/10/06-15:40:40.019 4264 Delete type=3 #351
+2024/10/06-17:00:53.971 aac Level-0 table #360: started
+2024/10/06-17:00:53.986 aac Level-0 table #360: 1837 bytes OK
+2024/10/06-17:00:53.989 aac Delete type=0 #358
+2024/10/06-17:00:54.003 aac Manual compaction at level-0 from '!messages!01MxC7oD9Mttcq1P' @ 72057594037927935 : 1 .. '!messages!zwmXmdv7EJ2SpLb1' @ 0 : 0; will stop at '!messages!xse9uySSsSHWdrgC' @ 2426 : 1
+2024/10/06-17:00:54.003 aac Compacting 1@0 + 2@1 files
+2024/10/06-17:00:54.054 aac Generated table #361@0: 1556 keys, 2122169 bytes
+2024/10/06-17:00:54.083 aac Generated table #362@0: 848 keys, 1203274 bytes
+2024/10/06-17:00:54.083 aac Compacted 1@0 + 2@1 files => 3325443 bytes
+2024/10/06-17:00:54.085 aac compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/10/06-17:00:54.085 aac Delete type=2 #355
+2024/10/06-17:00:54.086 aac Delete type=2 #356
+2024/10/06-17:00:54.086 aac Delete type=2 #360
+2024/10/06-17:00:54.149 aac Manual compaction at level-0 from '!messages!xse9uySSsSHWdrgC' @ 2426 : 1 .. '!messages!zwmXmdv7EJ2SpLb1' @ 0 : 0; will stop at (end)
