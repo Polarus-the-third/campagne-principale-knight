@@ -1,14 +1,14 @@
-2024/09/18-21:41:12.006168 7f7b7ef0a0 Recovering log #408
-2024/09/18-21:41:12.029356 7f7b7ef0a0 Delete type=3 #405
-2024/09/18-21:41:12.029695 7f7b7ef0a0 Delete type=0 #408
-2024/09/18-21:41:49.959328 7e47b7f0a0 Level-0 table #414: started
-2024/09/18-21:41:49.972241 7e47b7f0a0 Level-0 table #414: 1224 bytes OK
-2024/09/18-21:41:49.979780 7e47b7f0a0 Delete type=0 #412
-2024/09/18-21:41:50.019615 7e47b7f0a0 Manual compaction at level-0 from '!scenes!00oK7KmMLLUD1A7L' @ 72057594037927935 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at '!scenes!8SjWwcfy4RJNsKLT' @ 51176 : 1
-2024/09/18-21:41:50.019672 7e47b7f0a0 Compacting 1@0 + 1@1 files
-2024/09/18-21:41:50.211768 7e47b7f0a0 Generated table #415@0: 10673 keys, 1417827 bytes
-2024/09/18-21:41:50.211879 7e47b7f0a0 Compacted 1@0 + 1@1 files => 1417827 bytes
-2024/09/18-21:41:50.217341 7e47b7f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/09/18-21:41:50.217927 7e47b7f0a0 Delete type=2 #410
-2024/09/18-21:41:50.219458 7e47b7f0a0 Delete type=2 #414
-2024/09/18-21:41:50.240834 7e47b7f0a0 Manual compaction at level-0 from '!scenes!8SjWwcfy4RJNsKLT' @ 51176 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at (end)
+2024/10/06-15:40:40.197 2f84 Recovering log #419
+2024/10/06-15:40:40.205 2f84 Delete type=0 #419
+2024/10/06-15:40:40.205 2f84 Delete type=3 #417
+2024/10/06-17:00:54.219 aac Level-0 table #425: started
+2024/10/06-17:00:54.227 aac Level-0 table #425: 361062 bytes OK
+2024/10/06-17:00:54.230 aac Delete type=0 #423
+2024/10/06-17:00:54.250 aac Manual compaction at level-0 from '!scenes!00oK7KmMLLUD1A7L' @ 72057594037927935 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at '!scenes.tokens.delta!R0V2FsA7OUVazH2H.zEniy6Dvb648dW4H.xAVzDkkm2cJM1DsO' @ 51980 : 1
+2024/10/06-17:00:54.250 aac Compacting 1@0 + 1@1 files
+2024/10/06-17:00:54.282 aac Generated table #426@0: 10758 keys, 1435090 bytes
+2024/10/06-17:00:54.282 aac Compacted 1@0 + 1@1 files => 1435090 bytes
+2024/10/06-17:00:54.284 aac compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/10/06-17:00:54.284 aac Delete type=2 #421
+2024/10/06-17:00:54.285 aac Delete type=2 #425
+2024/10/06-17:00:54.318 aac Manual compaction at level-0 from '!scenes.tokens.delta!R0V2FsA7OUVazH2H.zEniy6Dvb648dW4H.xAVzDkkm2cJM1DsO' @ 51980 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at (end)

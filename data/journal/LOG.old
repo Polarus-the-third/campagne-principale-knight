@@ -1,14 +1,11 @@
-2024/09/18-18:45:55.569643 7f7bfff0a0 Recovering log #303
-2024/09/18-18:45:55.595667 7f7bfff0a0 Delete type=0 #303
-2024/09/18-18:45:55.595849 7f7bfff0a0 Delete type=3 #302
-2024/09/18-21:41:00.016045 7e47b7f0a0 Level-0 table #307: started
-2024/09/18-21:41:00.026102 7e47b7f0a0 Level-0 table #307: 16175 bytes OK
-2024/09/18-21:41:00.032115 7e47b7f0a0 Delete type=0 #305
-2024/09/18-21:41:00.033415 7e47b7f0a0 Manual compaction at level-0 from '!journal!70kyq7dl36MOUlF0' @ 72057594037927935 : 1 .. '!journal.pages!mk0SgTJZ66eUm9hC.CoOorwnYC9voeuqx' @ 0 : 0; will stop at '!journal.pages!mk0SgTJZ66eUm9hC.q26EDpIZhUlfOoYv' @ 75 : 1
-2024/09/18-21:41:00.033446 7e47b7f0a0 Compacting 1@0 + 1@1 files
-2024/09/18-21:41:00.051092 7e47b7f0a0 Generated table #308@0: 10 keys, 6614 bytes
-2024/09/18-21:41:00.051186 7e47b7f0a0 Compacted 1@0 + 1@1 files => 6614 bytes
-2024/09/18-21:41:00.056986 7e47b7f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/09/18-21:41:00.057272 7e47b7f0a0 Delete type=2 #307
-2024/09/18-21:41:00.057637 7e47b7f0a0 Delete type=2 #297
-2024/09/18-21:41:00.103739 7e47b7f0a0 Manual compaction at level-0 from '!journal.pages!mk0SgTJZ66eUm9hC.q26EDpIZhUlfOoYv' @ 75 : 1 .. '!journal.pages!mk0SgTJZ66eUm9hC.CoOorwnYC9voeuqx' @ 0 : 0; will stop at (end)
+2024/10/06-14:48:56.915 4264 Delete type=3 #1
+2024/10/06-15:39:22.114 aac Level-0 table #316: started
+2024/10/06-15:39:22.114 aac Level-0 table #316: 0 bytes OK
+2024/10/06-15:39:22.117 aac Delete type=0 #314
+2024/10/06-15:39:22.150 aac Manual compaction at level-0 from '!journal!70kyq7dl36MOUlF0' @ 72057594037927935 : 1 .. '!journal.pages!mk0SgTJZ66eUm9hC.CoOorwnYC9voeuqx' @ 0 : 0; will stop at '!journal.pages!mk0SgTJZ66eUm9hC.CoOorwnYC9voeuqx' @ 122 : 1
+2024/10/06-15:39:22.150 aac Compacting 1@0 + 0@1 files
+2024/10/06-15:39:22.155 aac Generated table #317@0: 10 keys, 6614 bytes
+2024/10/06-15:39:22.155 aac Compacted 1@0 + 0@1 files => 6614 bytes
+2024/10/06-15:39:22.158 aac compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/10/06-15:39:22.158 aac Delete type=2 #308
+2024/10/06-15:39:22.178 aac Manual compaction at level-0 from '!journal.pages!mk0SgTJZ66eUm9hC.CoOorwnYC9voeuqx' @ 122 : 1 .. '!journal.pages!mk0SgTJZ66eUm9hC.CoOorwnYC9voeuqx' @ 0 : 0; will stop at (end)

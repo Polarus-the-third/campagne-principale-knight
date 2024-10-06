@@ -1,7 +1,16 @@
-2024/09/18-21:41:11.582192 7f7a7cf0a0 Recovering log #343
-2024/09/18-21:41:11.605745 7f7a7cf0a0 Delete type=3 #341
-2024/09/18-21:41:11.605971 7f7a7cf0a0 Delete type=0 #343
-2024/09/18-21:41:49.844322 7e47b7f0a0 Level-0 table #350: started
-2024/09/18-21:41:49.845028 7e47b7f0a0 Level-0 table #350: 0 bytes OK
-2024/09/18-21:41:49.853083 7e47b7f0a0 Delete type=0 #348
-2024/09/18-21:41:49.872526 7e47b7f0a0 Manual compaction at level-0 from '!messages!01MxC7oD9Mttcq1P' @ 72057594037927935 : 1 .. '!messages!zwmXmdv7EJ2SpLb1' @ 0 : 0; will stop at (end)
+2024/10/06-15:40:40.011 4264 Recovering log #353
+2024/10/06-15:40:40.019 4264 Delete type=0 #353
+2024/10/06-15:40:40.019 4264 Delete type=3 #351
+2024/10/06-17:00:53.971 aac Level-0 table #360: started
+2024/10/06-17:00:53.986 aac Level-0 table #360: 1837 bytes OK
+2024/10/06-17:00:53.989 aac Delete type=0 #358
+2024/10/06-17:00:54.003 aac Manual compaction at level-0 from '!messages!01MxC7oD9Mttcq1P' @ 72057594037927935 : 1 .. '!messages!zwmXmdv7EJ2SpLb1' @ 0 : 0; will stop at '!messages!xse9uySSsSHWdrgC' @ 2426 : 1
+2024/10/06-17:00:54.003 aac Compacting 1@0 + 2@1 files
+2024/10/06-17:00:54.054 aac Generated table #361@0: 1556 keys, 2122169 bytes
+2024/10/06-17:00:54.083 aac Generated table #362@0: 848 keys, 1203274 bytes
+2024/10/06-17:00:54.083 aac Compacted 1@0 + 2@1 files => 3325443 bytes
+2024/10/06-17:00:54.085 aac compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/10/06-17:00:54.085 aac Delete type=2 #355
+2024/10/06-17:00:54.086 aac Delete type=2 #356
+2024/10/06-17:00:54.086 aac Delete type=2 #360
+2024/10/06-17:00:54.149 aac Manual compaction at level-0 from '!messages!xse9uySSsSHWdrgC' @ 2426 : 1 .. '!messages!zwmXmdv7EJ2SpLb1' @ 0 : 0; will stop at (end)

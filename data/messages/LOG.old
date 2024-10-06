@@ -1,16 +1,13 @@
-2024/09/18-18:45:55.229661 7f7b7ef0a0 Recovering log #340
-2024/09/18-18:45:55.250749 7f7b7ef0a0 Delete type=3 #339
-2024/09/18-18:45:55.250975 7f7b7ef0a0 Delete type=0 #340
-2024/09/18-21:40:58.833486 7e47b7f0a0 Level-0 table #344: started
-2024/09/18-21:40:58.852176 7e47b7f0a0 Level-0 table #344: 11494 bytes OK
-2024/09/18-21:40:58.861389 7e47b7f0a0 Delete type=0 #342
-2024/09/18-21:40:58.957963 7e47b7f0a0 Manual compaction at level-0 from '!messages!01MxC7oD9Mttcq1P' @ 72057594037927935 : 1 .. '!messages!zwmXmdv7EJ2SpLb1' @ 0 : 0; will stop at '!messages!vln8NgNLAaRVAtGT' @ 2405 : 1
-2024/09/18-21:40:58.958013 7e47b7f0a0 Compacting 1@0 + 2@1 files
-2024/09/18-21:40:59.216626 7e47b7f0a0 Generated table #345@0: 1556 keys, 2122427 bytes
-2024/09/18-21:40:59.350439 7e47b7f0a0 Generated table #346@0: 841 keys, 1199177 bytes
-2024/09/18-21:40:59.350542 7e47b7f0a0 Compacted 1@0 + 2@1 files => 3321604 bytes
-2024/09/18-21:40:59.356767 7e47b7f0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/09/18-21:40:59.357330 7e47b7f0a0 Delete type=2 #333
-2024/09/18-21:40:59.364773 7e47b7f0a0 Delete type=2 #334
-2024/09/18-21:40:59.366956 7e47b7f0a0 Delete type=2 #344
-2024/09/18-21:40:59.631878 7e47b7f0a0 Manual compaction at level-0 from '!messages!vln8NgNLAaRVAtGT' @ 2405 : 1 .. '!messages!zwmXmdv7EJ2SpLb1' @ 0 : 0; will stop at (end)
+2024/10/06-14:48:56.613 14e4 Delete type=3 #1
+2024/10/06-15:39:21.915 aac Level-0 table #354: started
+2024/10/06-15:39:21.916 aac Level-0 table #354: 0 bytes OK
+2024/10/06-15:39:21.919 aac Delete type=0 #352
+2024/10/06-15:39:21.930 aac Manual compaction at level-0 from '!messages!01MxC7oD9Mttcq1P' @ 72057594037927935 : 1 .. '!messages!zwmXmdv7EJ2SpLb1' @ 0 : 0; will stop at '!messages!zwmXmdv7EJ2SpLb1' @ 1789 : 1
+2024/10/06-15:39:21.931 aac Compacting 2@0 + 0@1 files
+2024/10/06-15:39:21.988 aac Generated table #355@0: 1556 keys, 2122427 bytes
+2024/10/06-15:39:22.071 aac Generated table #356@0: 841 keys, 1199177 bytes
+2024/10/06-15:39:22.071 aac Compacted 2@0 + 0@1 files => 3321604 bytes
+2024/10/06-15:39:22.073 aac compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/10/06-15:39:22.073 aac Delete type=2 #345
+2024/10/06-15:39:22.075 aac Delete type=2 #346
+2024/10/06-15:39:22.087 aac Manual compaction at level-0 from '!messages!zwmXmdv7EJ2SpLb1' @ 1789 : 1 .. '!messages!zwmXmdv7EJ2SpLb1' @ 0 : 0; will stop at (end)

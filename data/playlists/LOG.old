@@ -1,14 +1,11 @@
-2024/09/18-18:45:55.645009 7f7bfff0a0 Recovering log #288
-2024/09/18-18:45:55.665454 7f7bfff0a0 Delete type=0 #288
-2024/09/18-18:45:55.665667 7f7bfff0a0 Delete type=3 #287
-2024/09/18-21:41:00.073820 7e47b7f0a0 Level-0 table #292: started
-2024/09/18-21:41:00.084832 7e47b7f0a0 Level-0 table #292: 5953 bytes OK
-2024/09/18-21:41:00.092996 7e47b7f0a0 Delete type=0 #290
-2024/09/18-21:41:00.103897 7e47b7f0a0 Manual compaction at level-0 from '!playlists!8E7kZjSoTCsYj36d' @ 72057594037927935 : 1 .. '!playlists.sounds!mzusO9ibZO6N4fy0.svOH6FivRGqKPEpG' @ 0 : 0; will stop at '!playlists.sounds!mzusO9ibZO6N4fy0.svOH6FivRGqKPEpG' @ 772 : 1
-2024/09/18-21:41:00.103940 7e47b7f0a0 Compacting 1@0 + 1@1 files
-2024/09/18-21:41:00.114426 7e47b7f0a0 Generated table #293@0: 24 keys, 3392 bytes
-2024/09/18-21:41:00.114515 7e47b7f0a0 Compacted 1@0 + 1@1 files => 3392 bytes
-2024/09/18-21:41:00.121085 7e47b7f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/09/18-21:41:00.121371 7e47b7f0a0 Delete type=2 #282
-2024/09/18-21:41:00.121728 7e47b7f0a0 Delete type=2 #292
-2024/09/18-21:41:00.179795 7e47b7f0a0 Manual compaction at level-0 from '!playlists.sounds!mzusO9ibZO6N4fy0.svOH6FivRGqKPEpG' @ 772 : 1 .. '!playlists.sounds!mzusO9ibZO6N4fy0.svOH6FivRGqKPEpG' @ 0 : 0; will stop at (end)
+2024/10/06-14:48:57.015 2af4 Delete type=3 #1
+2024/10/06-15:39:22.138 aac Level-0 table #301: started
+2024/10/06-15:39:22.138 aac Level-0 table #301: 0 bytes OK
+2024/10/06-15:39:22.140 aac Delete type=0 #299
+2024/10/06-15:39:22.159 aac Manual compaction at level-0 from '!playlists!8E7kZjSoTCsYj36d' @ 72057594037927935 : 1 .. '!playlists.sounds!mzusO9ibZO6N4fy0.svOH6FivRGqKPEpG' @ 0 : 0; will stop at '!playlists.sounds!mzusO9ibZO6N4fy0.svOH6FivRGqKPEpG' @ 831 : 1
+2024/10/06-15:39:22.159 aac Compacting 1@0 + 0@1 files
+2024/10/06-15:39:22.173 aac Generated table #302@0: 24 keys, 3392 bytes
+2024/10/06-15:39:22.173 aac Compacted 1@0 + 0@1 files => 3392 bytes
+2024/10/06-15:39:22.175 aac compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/10/06-15:39:22.176 aac Delete type=2 #293
+2024/10/06-15:39:22.182 aac Manual compaction at level-0 from '!playlists.sounds!mzusO9ibZO6N4fy0.svOH6FivRGqKPEpG' @ 831 : 1 .. '!playlists.sounds!mzusO9ibZO6N4fy0.svOH6FivRGqKPEpG' @ 0 : 0; will stop at (end)

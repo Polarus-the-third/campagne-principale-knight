@@ -1,17 +1,12 @@
-2024/09/18-18:45:55.714079 7f7bfff0a0 Recovering log #404
-2024/09/18-18:45:55.714283 7f7bfff0a0 Level-0 table #406: started
-2024/09/18-18:45:55.725116 7f7bfff0a0 Level-0 table #406: 1390 bytes OK
-2024/09/18-18:45:55.747143 7f7bfff0a0 Delete type=0 #404
-2024/09/18-18:45:55.747361 7f7bfff0a0 Delete type=3 #403
-2024/09/18-21:41:00.122019 7e47b7f0a0 Level-0 table #409: started
-2024/09/18-21:41:00.145736 7e47b7f0a0 Level-0 table #409: 65280 bytes OK
-2024/09/18-21:41:00.151692 7e47b7f0a0 Delete type=0 #407
-2024/09/18-21:41:00.189908 7e47b7f0a0 Manual compaction at level-0 from '!scenes!00oK7KmMLLUD1A7L' @ 72057594037927935 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at '!scenes!gl4vt3xQdxPmNQfs' @ 50970 : 1
-2024/09/18-21:41:00.189957 7e47b7f0a0 Compacting 2@0 + 1@1 files
-2024/09/18-21:41:00.362691 7e47b7f0a0 Generated table #410@0: 10673 keys, 1417842 bytes
-2024/09/18-21:41:00.362796 7e47b7f0a0 Compacted 2@0 + 1@1 files => 1417842 bytes
-2024/09/18-21:41:00.368313 7e47b7f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/09/18-21:41:00.368597 7e47b7f0a0 Delete type=2 #406
-2024/09/18-21:41:00.369139 7e47b7f0a0 Delete type=2 #402
-2024/09/18-21:41:00.370569 7e47b7f0a0 Delete type=2 #409
-2024/09/18-21:41:00.398662 7e47b7f0a0 Manual compaction at level-0 from '!scenes!gl4vt3xQdxPmNQfs' @ 50970 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at (end)
+2024/10/06-14:48:57.133 4264 Delete type=3 #1
+2024/10/06-15:39:22.185 aac Level-0 table #420: started
+2024/10/06-15:39:22.189 aac Level-0 table #420: 19791 bytes OK
+2024/10/06-15:39:22.192 aac Delete type=0 #418
+2024/10/06-15:39:22.217 aac Manual compaction at level-0 from '!scenes!00oK7KmMLLUD1A7L' @ 72057594037927935 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at '!scenes.tokens.delta!R0V2FsA7OUVazH2H.xTaR0Ti6oTDhByY9.ekhvNzFnbFINEd3j' @ 51193 : 1
+2024/10/06-15:39:22.217 aac Compacting 2@0 + 0@1 files
+2024/10/06-15:39:22.255 aac Generated table #421@0: 10676 keys, 1417702 bytes
+2024/10/06-15:39:22.255 aac Compacted 2@0 + 0@1 files => 1417702 bytes
+2024/10/06-15:39:22.257 aac compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/10/06-15:39:22.257 aac Delete type=2 #415
+2024/10/06-15:39:22.258 aac Delete type=2 #420
+2024/10/06-15:39:22.273 aac Manual compaction at level-0 from '!scenes.tokens.delta!R0V2FsA7OUVazH2H.xTaR0Ti6oTDhByY9.ekhvNzFnbFINEd3j' @ 51193 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at (end)

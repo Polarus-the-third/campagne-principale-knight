@@ -1,14 +1,14 @@
-2024/09/18-21:41:12.456276 7f7a7cf0a0 Recovering log #375
-2024/09/18-21:41:12.484655 7f7a7cf0a0 Delete type=3 #372
-2024/09/18-21:41:12.485224 7f7a7cf0a0 Delete type=0 #375
-2024/09/18-21:41:49.980212 7e47b7f0a0 Level-0 table #381: started
-2024/09/18-21:41:49.990687 7e47b7f0a0 Level-0 table #381: 4115 bytes OK
-2024/09/18-21:41:49.998910 7e47b7f0a0 Delete type=0 #379
-2024/09/18-21:41:50.219741 7e47b7f0a0 Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 472 : 1
-2024/09/18-21:41:50.219796 7e47b7f0a0 Compacting 1@0 + 1@1 files
-2024/09/18-21:41:50.228444 7e47b7f0a0 Generated table #382@0: 17 keys, 3817 bytes
-2024/09/18-21:41:50.228540 7e47b7f0a0 Compacted 1@0 + 1@1 files => 3817 bytes
-2024/09/18-21:41:50.234373 7e47b7f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/09/18-21:41:50.234701 7e47b7f0a0 Delete type=2 #381
-2024/09/18-21:41:50.235073 7e47b7f0a0 Delete type=2 #377
-2024/09/18-21:41:50.240925 7e47b7f0a0 Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 472 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)
+2024/10/06-15:40:40.296 4264 Recovering log #386
+2024/10/06-15:40:40.305 4264 Delete type=0 #386
+2024/10/06-15:40:40.305 4264 Delete type=3 #384
+2024/10/06-17:00:54.232 aac Level-0 table #392: started
+2024/10/06-17:00:54.236 aac Level-0 table #392: 24435 bytes OK
+2024/10/06-17:00:54.238 aac Delete type=0 #390
+2024/10/06-17:00:54.288 aac Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 480 : 1
+2024/10/06-17:00:54.288 aac Compacting 1@0 + 1@1 files
+2024/10/06-17:00:54.301 aac Generated table #393@0: 17 keys, 3820 bytes
+2024/10/06-17:00:54.301 aac Compacted 1@0 + 1@1 files => 3820 bytes
+2024/10/06-17:00:54.303 aac compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/10/06-17:00:54.304 aac Delete type=2 #388
+2024/10/06-17:00:54.304 aac Delete type=2 #392
+2024/10/06-17:00:54.318 aac Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 480 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)
