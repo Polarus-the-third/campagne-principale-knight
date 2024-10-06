@@ -1,3 +1,22 @@
-2024/10/06-17:22:21.080 3044 Recovering log #429
-2024/10/06-17:22:21.086 3044 Delete type=0 #429
-2024/10/06-17:22:21.086 3044 Delete type=3 #427
+2024/10/06-15:27:13.085488 7f7afdf0a0 Recovering log #433
+2024/10/06-15:27:13.085796 7f7afdf0a0 Level-0 table #435: started
+2024/10/06-15:27:13.096838 7f7afdf0a0 Level-0 table #435: 11139 bytes OK
+2024/10/06-15:27:13.120987 7f7afdf0a0 Delete type=3 #432
+2024/10/06-15:27:13.121207 7f7afdf0a0 Delete type=0 #433
+2024/10/06-15:27:21.517790 7e47b7f0a0 Compacting 1@0 + 1@1 files
+2024/10/06-15:27:21.769701 7e47b7f0a0 Generated table #437@0: 10792 keys, 1441290 bytes
+2024/10/06-15:27:21.769840 7e47b7f0a0 Compacted 1@0 + 1@1 files => 1441290 bytes
+2024/10/06-15:27:21.779297 7e47b7f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/10/06-15:27:21.779959 7e47b7f0a0 Delete type=2 #431
+2024/10/06-15:27:21.782029 7e47b7f0a0 Delete type=2 #435
+2024/10/06-18:29:48.748335 7e47b7f0a0 Level-0 table #439: started
+2024/10/06-18:29:48.845467 7e47b7f0a0 Level-0 table #439: 961508 bytes OK
+2024/10/06-18:29:48.852865 7e47b7f0a0 Delete type=0 #436
+2024/10/06-18:29:48.856410 7e47b7f0a0 Manual compaction at level-0 from '!scenes!00oK7KmMLLUD1A7L' @ 72057594037927935 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at '!scenes.tokens.delta.effects!R0V2FsA7OUVazH2H.bc3J5D7IAAsbR2SQ.POUtLUuZmaQL7UWM.fvXgmGpAXvhL3Wfh' @ 53763 : 1
+2024/10/06-18:29:48.856716 7e47b7f0a0 Compacting 1@0 + 1@1 files
+2024/10/06-18:29:49.052477 7e47b7f0a0 Generated table #440@0: 10902 keys, 1463756 bytes
+2024/10/06-18:29:49.052586 7e47b7f0a0 Compacted 1@0 + 1@1 files => 1463756 bytes
+2024/10/06-18:29:49.058513 7e47b7f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/10/06-18:29:49.058962 7e47b7f0a0 Delete type=2 #439
+2024/10/06-18:29:49.060200 7e47b7f0a0 Delete type=2 #437
+2024/10/06-18:29:49.117605 7e47b7f0a0 Manual compaction at level-0 from '!scenes.tokens.delta.effects!R0V2FsA7OUVazH2H.bc3J5D7IAAsbR2SQ.POUtLUuZmaQL7UWM.fvXgmGpAXvhL3Wfh' @ 53763 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at (end)
