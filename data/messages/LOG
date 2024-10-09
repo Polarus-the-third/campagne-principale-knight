@@ -1,16 +1,13 @@
-2024/10/06-15:27:12.551251 7f7b7ef0a0 Recovering log #368
-2024/10/06-15:27:12.576070 7f7b7ef0a0 Delete type=0 #368
-2024/10/06-15:27:12.576239 7f7b7ef0a0 Delete type=3 #367
-2024/10/06-18:29:47.670641 7e47b7f0a0 Level-0 table #372: started
-2024/10/06-18:29:47.681038 7e47b7f0a0 Level-0 table #372: 5494 bytes OK
-2024/10/06-18:29:47.689720 7e47b7f0a0 Delete type=0 #370
-2024/10/06-18:29:47.730116 7e47b7f0a0 Manual compaction at level-0 from '!messages!01MxC7oD9Mttcq1P' @ 72057594037927935 : 1 .. '!messages!zwmXmdv7EJ2SpLb1' @ 0 : 0; will stop at '!messages!xonn9cEAIM5au83H' @ 2436 : 1
-2024/10/06-18:29:47.730176 7e47b7f0a0 Compacting 1@0 + 2@1 files
-2024/10/06-18:29:47.958356 7e47b7f0a0 Generated table #373@0: 1565 keys, 2125508 bytes
-2024/10/06-18:29:48.096242 7e47b7f0a0 Generated table #374@0: 852 keys, 1204650 bytes
-2024/10/06-18:29:48.096396 7e47b7f0a0 Compacted 1@0 + 2@1 files => 3330158 bytes
-2024/10/06-18:29:48.103052 7e47b7f0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/10/06-18:29:48.103596 7e47b7f0a0 Delete type=2 #362
-2024/10/06-18:29:48.105180 7e47b7f0a0 Delete type=2 #372
-2024/10/06-18:29:48.105787 7e47b7f0a0 Delete type=2 #361
-2024/10/06-18:29:48.356958 7e47b7f0a0 Manual compaction at level-0 from '!messages!xonn9cEAIM5au83H' @ 2436 : 1 .. '!messages!zwmXmdv7EJ2SpLb1' @ 0 : 0; will stop at (end)
+2024/10/09-19:33:03.624 1794 Delete type=3 #1
+2024/10/09-20:40:38.146 3a70 Level-0 table #379: started
+2024/10/09-20:40:38.146 3a70 Level-0 table #379: 0 bytes OK
+2024/10/09-20:40:38.149 3a70 Delete type=0 #377
+2024/10/09-20:40:38.173 3a70 Manual compaction at level-0 from '!messages!01MxC7oD9Mttcq1P' @ 72057594037927935 : 1 .. '!messages!zwmXmdv7EJ2SpLb1' @ 0 : 0; will stop at '!messages!zwmXmdv7EJ2SpLb1' @ 1789 : 1
+2024/10/09-20:40:38.173 3a70 Compacting 2@0 + 0@1 files
+2024/10/09-20:40:38.224 3a70 Generated table #380@0: 1565 keys, 2125508 bytes
+2024/10/09-20:40:38.257 3a70 Generated table #381@0: 852 keys, 1204650 bytes
+2024/10/09-20:40:38.257 3a70 Compacted 2@0 + 0@1 files => 3330158 bytes
+2024/10/09-20:40:38.259 3a70 compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/10/09-20:40:38.260 3a70 Delete type=2 #373
+2024/10/09-20:40:38.261 3a70 Delete type=2 #374
+2024/10/09-20:40:38.279 3a70 Manual compaction at level-0 from '!messages!zwmXmdv7EJ2SpLb1' @ 1789 : 1 .. '!messages!zwmXmdv7EJ2SpLb1' @ 0 : 0; will stop at (end)
