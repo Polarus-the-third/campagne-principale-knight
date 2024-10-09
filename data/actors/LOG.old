@@ -1,8 +1,17 @@
-2024/10/09-19:33:03.422 45ac Log #579: 0 ops saved to Table #583 OK
-2024/10/09-19:33:03.423 45ac Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/000579.log: OK
-2024/10/09-19:33:03.447 45ac Table #563: 854 entries OK
-2024/10/09-19:33:03.449 45ac Table #569: 7 entries OK
-2024/10/09-19:33:03.461 45ac Table #581: 1529 entries OK
-2024/10/09-19:33:03.468 45ac Table #582: 1 entries OK
-2024/10/09-19:33:03.472 45ac Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/MANIFEST-000577: OK
-2024/10/09-19:33:03.476 45ac **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors; recovered 4 files; 3037160 bytes. Some data may have been lost. ****
+2024/10/09-19:33:03.488 45ac Delete type=3 #1
+2024/10/09-19:33:03.490 3a70 Moved #581 to level-1 2123729 bytes OK: files[ 3 1 0 0 0 0 0 ]
+2024/10/09-20:40:38.000 3a70 Level-0 table #587: started
+2024/10/09-20:40:38.011 3a70 Level-0 table #587: 166904 bytes OK
+2024/10/09-20:40:38.013 3a70 Delete type=0 #585
+2024/10/09-20:40:38.023 3a70 Manual compaction at level-0 from '!actors!0dBrS2iiMIRD5TAy' @ 72057594037927935 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 36999 : 1
+2024/10/09-20:40:38.023 3a70 Compacting 4@0 + 1@1 files
+2024/10/09-20:40:38.081 3a70 Generated table #588@0: 1532 keys, 2124460 bytes
+2024/10/09-20:40:38.122 3a70 Generated table #589@0: 870 keys, 922142 bytes
+2024/10/09-20:40:38.122 3a70 Compacted 4@0 + 1@1 files => 3046602 bytes
+2024/10/09-20:40:38.123 3a70 compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/10/09-20:40:38.123 3a70 Delete type=2 #563
+2024/10/09-20:40:38.124 3a70 Delete type=2 #569
+2024/10/09-20:40:38.124 3a70 Delete type=2 #581
+2024/10/09-20:40:38.124 3a70 Delete type=2 #582
+2024/10/09-20:40:38.125 3a70 Delete type=2 #587
+2024/10/09-20:40:38.134 3a70 Manual compaction at level-0 from '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 36999 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at (end)
