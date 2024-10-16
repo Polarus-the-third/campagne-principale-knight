@@ -1,13 +1,17 @@
-2024/10/09-19:33:03.763 286c Delete type=3 #1
-2024/10/09-20:40:38.377 3a70 Level-0 table #407: started
-2024/10/09-20:40:38.378 3a70 Level-0 table #407: 0 bytes OK
-2024/10/09-20:40:38.398 3a70 Delete type=0 #405
-2024/10/09-20:40:38.426 3a70 Manual compaction at level-0 from '!fog!15ejNXSp6SXpDAnV' @ 72057594037927935 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at '!fog!zX1366SDnWYaVGAp' @ 1183 : 1
-2024/10/09-20:40:38.426 3a70 Compacting 2@0 + 0@1 files
-2024/10/09-20:40:38.452 3a70 Generated table #408@0: 103 keys, 2194568 bytes
-2024/10/09-20:40:38.469 3a70 Generated table #409@0: 63 keys, 1411538 bytes
-2024/10/09-20:40:38.469 3a70 Compacted 2@0 + 0@1 files => 3606106 bytes
-2024/10/09-20:40:38.471 3a70 compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/10/09-20:40:38.472 3a70 Delete type=2 #401
-2024/10/09-20:40:38.472 3a70 Delete type=2 #402
-2024/10/09-20:40:38.475 3a70 Manual compaction at level-0 from '!fog!zX1366SDnWYaVGAp' @ 1183 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at (end)
+2024/10/16-19:02:02.968 3cc4 Recovering log #423
+2024/10/16-19:02:02.974 3cc4 Delete type=0 #423
+2024/10/16-19:02:02.974 3cc4 Delete type=3 #422
+2024/10/16-20:04:18.143 25f4 Level-0 table #427: started
+2024/10/16-20:04:18.147 25f4 Level-0 table #427: 4531 bytes OK
+2024/10/16-20:04:18.149 25f4 Delete type=0 #425
+2024/10/16-20:04:18.158 25f4 Manual compaction at level-0 from '!fog!15ejNXSp6SXpDAnV' @ 72057594037927935 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at '!fog!zX1366SDnWYaVGAp' @ 1183 : 1
+2024/10/16-20:04:18.158 25f4 Compacting 4@0 + 0@1 files
+2024/10/16-20:04:18.184 25f4 Generated table #428@0: 104 keys, 2195633 bytes
+2024/10/16-20:04:18.204 25f4 Generated table #429@0: 64 keys, 1412646 bytes
+2024/10/16-20:04:18.204 25f4 Compacted 4@0 + 0@1 files => 3608279 bytes
+2024/10/16-20:04:18.206 25f4 compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/10/16-20:04:18.207 25f4 Delete type=2 #414
+2024/10/16-20:04:18.207 25f4 Delete type=2 #415
+2024/10/16-20:04:18.208 25f4 Delete type=2 #420
+2024/10/16-20:04:18.208 25f4 Delete type=2 #427
+2024/10/16-20:04:18.223 25f4 Manual compaction at level-0 from '!fog!zX1366SDnWYaVGAp' @ 1183 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at (end)
