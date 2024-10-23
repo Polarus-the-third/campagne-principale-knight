@@ -1,1 +1,14 @@
-2024/10/23-21:27:14.792 4bd8 Delete type=3 #1
+2024/10/23-19:29:00.633802 7f7afdf0a0 Recovering log #378
+2024/10/23-19:29:00.659502 7f7afdf0a0 Delete type=3 #377
+2024/10/23-19:29:00.659695 7f7afdf0a0 Delete type=0 #378
+2024/10/23-21:31:53.018293 7e47b7f0a0 Level-0 table #382: started
+2024/10/23-21:31:53.079499 7e47b7f0a0 Level-0 table #382: 3479 bytes OK
+2024/10/23-21:31:53.086589 7e47b7f0a0 Delete type=0 #380
+2024/10/23-21:31:53.880359 7e47b7f0a0 Manual compaction at level-0 from '!combats!1xC2JCY7WMZ6fgvK' @ 72057594037927935 : 1 .. '!combats.combatants!rtCl8bok4Mi7CNry.xFem2jFzGG2Hr3VV' @ 0 : 0; will stop at '!combats.combatants!GFrSBmYLQjHTO0lS.xtnbuB3Hq9pi3b2P' @ 1505 : 0
+2024/10/23-21:31:53.880415 7e47b7f0a0 Compacting 2@0 + 0@1 files
+2024/10/23-21:31:53.895399 7e47b7f0a0 Generated table #383@0: 68 keys, 8077 bytes
+2024/10/23-21:31:53.895491 7e47b7f0a0 Compacted 2@0 + 0@1 files => 8077 bytes
+2024/10/23-21:31:53.900527 7e47b7f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/10/23-21:31:53.900851 7e47b7f0a0 Delete type=2 #382
+2024/10/23-21:31:53.901178 7e47b7f0a0 Delete type=2 #372
+2024/10/23-21:31:53.918826 7e47b7f0a0 Manual compaction at level-0 from '!combats.combatants!GFrSBmYLQjHTO0lS.xtnbuB3Hq9pi3b2P' @ 1505 : 0 .. '!combats.combatants!rtCl8bok4Mi7CNry.xFem2jFzGG2Hr3VV' @ 0 : 0; will stop at (end)
