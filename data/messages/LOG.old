@@ -1,16 +1,6 @@
-2024/10/16-18:54:08.483092 7f7b7ef0a0 Recovering log #407
-2024/10/16-18:54:08.506754 7f7b7ef0a0 Delete type=3 #405
-2024/10/16-18:54:08.507004 7f7b7ef0a0 Delete type=0 #407
-2024/10/16-22:29:25.884431 7e47b7f0a0 Level-0 table #414: started
-2024/10/16-22:29:25.929698 7e47b7f0a0 Level-0 table #414: 271723 bytes OK
-2024/10/16-22:29:25.936365 7e47b7f0a0 Delete type=0 #412
-2024/10/16-22:29:26.202342 7e47b7f0a0 Manual compaction at level-0 from '!messages!01MxC7oD9Mttcq1P' @ 72057594037927935 : 1 .. '!messages!zwmXmdv7EJ2SpLb1' @ 0 : 0; will stop at '!messages!zrvhc4jZ4AVH1GqY' @ 2648 : 1
-2024/10/16-22:29:26.202386 7e47b7f0a0 Compacting 1@0 + 2@1 files
-2024/10/16-22:29:26.432151 7e47b7f0a0 Generated table #415@0: 1541 keys, 2125099 bytes
-2024/10/16-22:29:26.600622 7e47b7f0a0 Generated table #416@0: 1095 keys, 1530910 bytes
-2024/10/16-22:29:26.600723 7e47b7f0a0 Compacted 1@0 + 2@1 files => 3656009 bytes
-2024/10/16-22:29:26.606844 7e47b7f0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/10/16-22:29:26.607343 7e47b7f0a0 Delete type=2 #410
-2024/10/16-22:29:26.608691 7e47b7f0a0 Delete type=2 #414
-2024/10/16-22:29:26.609458 7e47b7f0a0 Delete type=2 #409
-2024/10/16-22:29:26.648471 7e47b7f0a0 Manual compaction at level-0 from '!messages!zrvhc4jZ4AVH1GqY' @ 2648 : 1 .. '!messages!zwmXmdv7EJ2SpLb1' @ 0 : 0; will stop at (end)
+2024/10/23-21:27:14.660 2e3c Log #419: 0 ops saved to Table #420 OK
+2024/10/23-21:27:14.661 2e3c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/000419.log: OK
+2024/10/23-21:27:14.678 2e3c Table #415: 1541 entries OK
+2024/10/23-21:27:14.687 2e3c Table #416: 1095 entries OK
+2024/10/23-21:27:14.692 2e3c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/MANIFEST-000417: OK
+2024/10/23-21:27:14.696 2e3c **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages; recovered 2 files; 3656009 bytes. Some data may have been lost. ****

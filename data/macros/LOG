@@ -1,7 +1,1 @@
-2024/10/16-22:30:14.854117 7f7afdf0a0 Recovering log #347
-2024/10/16-22:30:14.880689 7f7afdf0a0 Delete type=3 #345
-2024/10/16-22:30:14.880933 7f7afdf0a0 Delete type=0 #347
-2024/10/16-22:31:02.772302 7e47b7f0a0 Level-0 table #352: started
-2024/10/16-22:31:02.772422 7e47b7f0a0 Level-0 table #352: 0 bytes OK
-2024/10/16-22:31:02.779486 7e47b7f0a0 Delete type=0 #350
-2024/10/16-22:31:02.779989 7e47b7f0a0 Manual compaction at level-0 from '!macros!1BWLCcCMwoAnsyeJ' @ 72057594037927935 : 1 .. '!macros!zIULypgpiE964AMY' @ 0 : 0; will stop at (end)
+2024/10/23-21:27:15.066 4bd8 Delete type=3 #1

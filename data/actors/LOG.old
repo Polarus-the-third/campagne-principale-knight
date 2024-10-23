@@ -1,14 +1,6 @@
-2024/10/16-18:54:08.275561 7f7a7cf0a0 Recovering log #620
-2024/10/16-18:54:08.299815 7f7a7cf0a0 Delete type=3 #615
-2024/10/16-18:54:08.300063 7f7a7cf0a0 Delete type=0 #620
-2024/10/16-22:29:25.830263 7e47b7f0a0 Level-0 table #626: started
-2024/10/16-22:29:25.867669 7e47b7f0a0 Level-0 table #626: 258667 bytes OK
-2024/10/16-22:29:25.874118 7e47b7f0a0 Delete type=0 #624
-2024/10/16-22:29:25.957817 7e47b7f0a0 Manual compaction at level-0 from '!actors!0dBrS2iiMIRD5TAy' @ 72057594037927935 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at '!actors.effects!eHLXxVr5Bj7rT5zg.e3ZTxpKdUxLVUPeg' @ 38929 : 1
-2024/10/16-22:29:25.957868 7e47b7f0a0 Compacting 1@0 + 1@1 files
-2024/10/16-22:29:26.187795 7e47b7f0a0 Generated table #627@0: 1536 keys, 2126313 bytes
-2024/10/16-22:29:26.187904 7e47b7f0a0 Compacted 1@0 + 1@1 files => 2126313 bytes
-2024/10/16-22:29:26.195082 7e47b7f0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/10/16-22:29:26.195438 7e47b7f0a0 Delete type=2 #626
-2024/10/16-22:29:26.196324 7e47b7f0a0 Delete type=2 #622
-2024/10/16-22:29:26.630366 7e47b7f0a0 Manual compaction at level-0 from '!actors.effects!eHLXxVr5Bj7rT5zg.e3ZTxpKdUxLVUPeg' @ 38929 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at (end)
+2024/10/23-21:27:14.455 23d4 Log #630: 0 ops saved to Table #631 OK
+2024/10/23-21:27:14.457 23d4 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/000630.log: OK
+2024/10/23-21:27:14.462 23d4 Table #619: 879 entries OK
+2024/10/23-21:27:14.476 23d4 Table #627: 1536 entries OK
+2024/10/23-21:27:14.481 23d4 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/MANIFEST-000628: OK
+2024/10/23-21:27:14.490 23d4 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors; recovered 2 files; 3057246 bytes. Some data may have been lost. ****

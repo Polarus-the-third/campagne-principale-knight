@@ -1,7 +1,1 @@
-2024/10/16-22:30:14.924957 7f7afdf0a0 Recovering log #357
-2024/10/16-22:30:14.950346 7f7afdf0a0 Delete type=3 #355
-2024/10/16-22:30:14.950587 7f7afdf0a0 Delete type=0 #357
-2024/10/16-22:31:02.764706 7e47b7f0a0 Level-0 table #362: started
-2024/10/16-22:31:02.764819 7e47b7f0a0 Level-0 table #362: 0 bytes OK
-2024/10/16-22:31:02.772008 7e47b7f0a0 Delete type=0 #360
-2024/10/16-22:31:02.779924 7e47b7f0a0 Manual compaction at level-0 from '!tables!ErNIiQyToQGLyaJO' @ 72057594037927935 : 1 .. '!tables.results!wIh5zDWwti4SRd9v.y63JtSNupP6bC1jE' @ 0 : 0; will stop at (end)
+2024/10/23-21:27:15.156 23d4 Delete type=3 #1
