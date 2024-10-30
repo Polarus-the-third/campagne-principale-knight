@@ -1,1 +1,5 @@
-2024/10/23-21:27:15.342 23d4 Delete type=3 #1
+2024/10/30-19:48:01.593 a54 Log #461: 0 ops saved to Table #464 OK
+2024/10/30-19:48:01.593 a54 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/settings/000461.log: OK
+2024/10/30-19:48:01.602 a54 Table #463: 17 entries OK
+2024/10/30-19:48:01.606 a54 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/settings/MANIFEST-000458: OK
+2024/10/30-19:48:01.610 a54 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/settings; recovered 1 files; 3902 bytes. Some data may have been lost. ****
