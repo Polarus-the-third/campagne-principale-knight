@@ -1,14 +1,12 @@
-2024/11/07-19:58:42.658014 7f7bfff0a0 Recovering log #509
-2024/11/07-19:58:42.683860 7f7bfff0a0 Delete type=0 #509
-2024/11/07-19:58:42.684102 7f7bfff0a0 Delete type=3 #505
-2024/11/07-22:34:22.241034 7e47b7f0a0 Level-0 table #515: started
-2024/11/07-22:34:22.269800 7e47b7f0a0 Level-0 table #515: 140820 bytes OK
-2024/11/07-22:34:22.277703 7e47b7f0a0 Delete type=0 #513
-2024/11/07-22:34:22.298102 7e47b7f0a0 Manual compaction at level-0 from '!scenes!00oK7KmMLLUD1A7L' @ 72057594037927935 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at '!scenes.tokens.delta.items!MkjZPZcyypP5UoBt.gsQzHbFc4cI5tRWh.RYDi5ISvHEX0LVbG.HshQsRTTE81NJoRa' @ 57054 : 1
-2024/11/07-22:34:22.298154 7e47b7f0a0 Compacting 1@0 + 1@1 files
-2024/11/07-22:34:22.486277 7e47b7f0a0 Generated table #516@0: 11012 keys, 1529499 bytes
-2024/11/07-22:34:22.486382 7e47b7f0a0 Compacted 1@0 + 1@1 files => 1529499 bytes
-2024/11/07-22:34:22.491587 7e47b7f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/11/07-22:34:22.492090 7e47b7f0a0 Delete type=2 #511
-2024/11/07-22:34:22.500598 7e47b7f0a0 Delete type=2 #515
-2024/11/07-22:34:22.535988 7e47b7f0a0 Manual compaction at level-0 from '!scenes.tokens.delta.items!MkjZPZcyypP5UoBt.gsQzHbFc4cI5tRWh.RYDi5ISvHEX0LVbG.HshQsRTTE81NJoRa' @ 57054 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at (end)
+2024/11/20-20:13:11.276 45e0 Delete type=3 #1
+2024/11/20-20:22:38.508 1bf8 Level-0 table #521: started
+2024/11/20-20:22:38.515 1bf8 Level-0 table #521: 21706 bytes OK
+2024/11/20-20:22:38.518 1bf8 Delete type=0 #519
+2024/11/20-20:22:38.532 1bf8 Manual compaction at level-0 from '!scenes!00oK7KmMLLUD1A7L' @ 72057594037927935 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at '!scenes!xXQW7Wd125ZdJmjU' @ 57358 : 1
+2024/11/20-20:22:38.532 1bf8 Compacting 2@0 + 0@1 files
+2024/11/20-20:22:38.567 1bf8 Generated table #522@0: 11018 keys, 1533716 bytes
+2024/11/20-20:22:38.567 1bf8 Compacted 2@0 + 0@1 files => 1533716 bytes
+2024/11/20-20:22:38.569 1bf8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/11/20-20:22:38.569 1bf8 Delete type=2 #516
+2024/11/20-20:22:38.569 1bf8 Delete type=2 #521
+2024/11/20-20:22:38.582 1bf8 Manual compaction at level-0 from '!scenes!xXQW7Wd125ZdJmjU' @ 57358 : 1 .. '!scenes.walls!zpCXDPzz67CEaqdb.ztlMGBKBBt18gU1i' @ 0 : 0; will stop at (end)

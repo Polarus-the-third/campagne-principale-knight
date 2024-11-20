@@ -1,14 +1,11 @@
-2024/11/07-19:58:42.098223 7f7a7cf0a0 Recovering log #389
-2024/11/07-19:58:42.122205 7f7a7cf0a0 Delete type=0 #389
-2024/11/07-19:58:42.122366 7f7a7cf0a0 Delete type=3 #387
-2024/11/07-22:34:20.958914 7e47b7f0a0 Level-0 table #395: started
-2024/11/07-22:34:20.975908 7e47b7f0a0 Level-0 table #395: 7269 bytes OK
-2024/11/07-22:34:20.981695 7e47b7f0a0 Delete type=0 #393
-2024/11/07-22:34:21.821247 7e47b7f0a0 Manual compaction at level-0 from '!combats!1xC2JCY7WMZ6fgvK' @ 72057594037927935 : 1 .. '!combats.combatants!rtCl8bok4Mi7CNry.xFem2jFzGG2Hr3VV' @ 0 : 0; will stop at '!combats.combatants!mgtnsydVCmltHgol.Hy8Y2joGszA9ZeCp' @ 1691 : 1
-2024/11/07-22:34:21.821291 7e47b7f0a0 Compacting 1@0 + 1@1 files
-2024/11/07-22:34:21.832875 7e47b7f0a0 Generated table #396@0: 87 keys, 10267 bytes
-2024/11/07-22:34:21.832968 7e47b7f0a0 Compacted 1@0 + 1@1 files => 10267 bytes
-2024/11/07-22:34:21.839114 7e47b7f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/11/07-22:34:21.839415 7e47b7f0a0 Delete type=2 #395
-2024/11/07-22:34:21.839749 7e47b7f0a0 Delete type=2 #391
-2024/11/07-22:34:21.854508 7e47b7f0a0 Manual compaction at level-0 from '!combats.combatants!mgtnsydVCmltHgol.Hy8Y2joGszA9ZeCp' @ 1691 : 1 .. '!combats.combatants!rtCl8bok4Mi7CNry.xFem2jFzGG2Hr3VV' @ 0 : 0; will stop at (end)
+2024/11/20-20:13:10.996 1428 Delete type=3 #1
+2024/11/20-20:22:38.390 1bf8 Level-0 table #401: started
+2024/11/20-20:22:38.390 1bf8 Level-0 table #401: 0 bytes OK
+2024/11/20-20:22:38.393 1bf8 Delete type=0 #399
+2024/11/20-20:22:38.407 1bf8 Manual compaction at level-0 from '!combats!1xC2JCY7WMZ6fgvK' @ 72057594037927935 : 1 .. '!combats.combatants!rtCl8bok4Mi7CNry.xFem2jFzGG2Hr3VV' @ 0 : 0; will stop at '!combats.combatants!rtCl8bok4Mi7CNry.xFem2jFzGG2Hr3VV' @ 351 : 1
+2024/11/20-20:22:38.407 1bf8 Compacting 1@0 + 0@1 files
+2024/11/20-20:22:38.414 1bf8 Generated table #402@0: 87 keys, 10267 bytes
+2024/11/20-20:22:38.414 1bf8 Compacted 1@0 + 0@1 files => 10267 bytes
+2024/11/20-20:22:38.416 1bf8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/11/20-20:22:38.417 1bf8 Delete type=2 #396
+2024/11/20-20:22:38.433 1bf8 Manual compaction at level-0 from '!combats.combatants!rtCl8bok4Mi7CNry.xFem2jFzGG2Hr3VV' @ 351 : 1 .. '!combats.combatants!rtCl8bok4Mi7CNry.xFem2jFzGG2Hr3VV' @ 0 : 0; will stop at (end)
