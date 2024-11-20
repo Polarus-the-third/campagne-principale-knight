@@ -1,13 +1,3 @@
-2024/11/20-20:13:11.046 43c0 Delete type=3 #1
-2024/11/20-20:22:38.452 1bf8 Level-0 table #478: started
-2024/11/20-20:22:38.452 1bf8 Level-0 table #478: 0 bytes OK
-2024/11/20-20:22:38.456 1bf8 Delete type=0 #476
-2024/11/20-20:22:38.462 1bf8 Manual compaction at level-0 from '!fog!15ejNXSp6SXpDAnV' @ 72057594037927935 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at '!fog!zX1366SDnWYaVGAp' @ 1183 : 1
-2024/11/20-20:22:38.462 1bf8 Compacting 2@0 + 0@1 files
-2024/11/20-20:22:38.486 1bf8 Generated table #479@0: 106 keys, 2198154 bytes
-2024/11/20-20:22:38.503 1bf8 Generated table #480@0: 65 keys, 1413905 bytes
-2024/11/20-20:22:38.503 1bf8 Compacted 2@0 + 0@1 files => 3612059 bytes
-2024/11/20-20:22:38.505 1bf8 compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/11/20-20:22:38.507 1bf8 Delete type=2 #472
-2024/11/20-20:22:38.507 1bf8 Delete type=2 #473
-2024/11/20-20:22:38.532 1bf8 Manual compaction at level-0 from '!fog!zX1366SDnWYaVGAp' @ 1183 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at (end)
+2024/11/20-20:31:08.011 1d4c Recovering log #477
+2024/11/20-20:31:08.015 1d4c Delete type=0 #477
+2024/11/20-20:31:08.015 1d4c Delete type=3 #475
