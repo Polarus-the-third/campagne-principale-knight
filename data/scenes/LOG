@@ -1,14 +1,12 @@
-2024/11/26-19:48:20.604108 7f7afdf0a0 Recovering log #540
-2024/11/26-19:48:20.629333 7f7afdf0a0 Delete type=3 #538
-2024/11/26-19:48:20.629549 7f7afdf0a0 Delete type=0 #540
-2024/11/26-22:30:42.281927 7e47b7f0a0 Level-0 table #546: started
-2024/11/26-22:30:42.332403 7e47b7f0a0 Level-0 table #546: 322279 bytes OK
-2024/11/26-22:30:42.340785 7e47b7f0a0 Delete type=0 #544
-2024/11/26-22:30:42.342485 7e47b7f0a0 Manual compaction at level-0 from '!scenes!00oK7KmMLLUD1A7L' @ 72057594037927935 : 1 .. '!scenes.walls!zsClI9IBPH22Pgco.zvaouun0zG8D2vX1' @ 0 : 0; will stop at '!scenes.walls!zsClI9IBPH22Pgco.zvaouun0zG8D2vX1' @ 57865 : 1
-2024/11/26-22:30:42.342527 7e47b7f0a0 Compacting 1@0 + 1@1 files
-2024/11/26-22:30:42.537321 7e47b7f0a0 Generated table #547@0: 11131 keys, 1556181 bytes
-2024/11/26-22:30:42.537428 7e47b7f0a0 Compacted 1@0 + 1@1 files => 1556181 bytes
-2024/11/26-22:30:42.543463 7e47b7f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/11/26-22:30:42.543803 7e47b7f0a0 Delete type=2 #546
-2024/11/26-22:30:42.544619 7e47b7f0a0 Delete type=2 #542
-2024/11/26-22:30:42.598134 7e47b7f0a0 Manual compaction at level-0 from '!scenes.walls!zsClI9IBPH22Pgco.zvaouun0zG8D2vX1' @ 57865 : 1 .. '!scenes.walls!zsClI9IBPH22Pgco.zvaouun0zG8D2vX1' @ 0 : 0; will stop at (end)
+2024/11/26-23:40:29.779 3d18 Delete type=3 #1
+2024/11/27-00:03:46.811 3594 Level-0 table #552: started
+2024/11/27-00:03:46.814 3594 Level-0 table #552: 16110 bytes OK
+2024/11/27-00:03:46.816 3594 Delete type=0 #550
+2024/11/27-00:03:46.821 3594 Manual compaction at level-0 from '!scenes!00oK7KmMLLUD1A7L' @ 72057594037927935 : 1 .. '!scenes.walls!zsClI9IBPH22Pgco.zvaouun0zG8D2vX1' @ 0 : 0; will stop at '!scenes.tokens.delta.effects!vKIlXg77TNZfIibV.xuyzu1NwheUQSqC9.xuyzu1NwheUQSqC9.ot3oH1zH9UxocwT2' @ 58437 : 0
+2024/11/27-00:03:46.821 3594 Compacting 2@0 + 0@1 files
+2024/11/27-00:03:46.854 3594 Generated table #553@0: 11104 keys, 1544265 bytes
+2024/11/27-00:03:46.854 3594 Compacted 2@0 + 0@1 files => 1544265 bytes
+2024/11/27-00:03:46.856 3594 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/11/27-00:03:46.856 3594 Delete type=2 #547
+2024/11/27-00:03:46.856 3594 Delete type=2 #552
+2024/11/27-00:03:46.866 3594 Manual compaction at level-0 from '!scenes.tokens.delta.effects!vKIlXg77TNZfIibV.xuyzu1NwheUQSqC9.xuyzu1NwheUQSqC9.ot3oH1zH9UxocwT2' @ 58437 : 0 .. '!scenes.walls!zsClI9IBPH22Pgco.zvaouun0zG8D2vX1' @ 0 : 0; will stop at (end)

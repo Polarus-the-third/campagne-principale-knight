@@ -1,17 +1,20 @@
-2024/11/26-19:48:20.137023 7f7afdf0a0 Recovering log #471
-2024/11/26-19:48:20.157390 7f7afdf0a0 Delete type=0 #471
-2024/11/26-19:48:20.157563 7f7afdf0a0 Delete type=3 #469
-2024/11/26-22:30:40.887163 7e47b7f0a0 Level-0 table #479: started
-2024/11/26-22:30:40.901860 7e47b7f0a0 Level-0 table #479: 35447 bytes OK
-2024/11/26-22:30:40.908491 7e47b7f0a0 Delete type=0 #477
-2024/11/26-22:30:41.304895 7e47b7f0a0 Manual compaction at level-0 from '!messages!01MxC7oD9Mttcq1P' @ 72057594037927935 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at '!messages!z56ImRqDYrrlWLcp' @ 3048 : 1
-2024/11/26-22:30:41.304940 7e47b7f0a0 Compacting 1@0 + 2@1 files
-2024/11/26-22:30:41.542418 7e47b7f0a0 Generated table #480@0: 1507 keys, 2122886 bytes
-2024/11/26-22:30:41.776408 7e47b7f0a0 Generated table #481@0: 1445 keys, 2123819 bytes
-2024/11/26-22:30:41.788308 7e47b7f0a0 Generated table #482@0: 26 keys, 31524 bytes
-2024/11/26-22:30:41.788412 7e47b7f0a0 Compacted 1@0 + 2@1 files => 4278229 bytes
-2024/11/26-22:30:41.794615 7e47b7f0a0 compacted to: files[ 0 5 0 0 0 0 0 ]
-2024/11/26-22:30:41.795235 7e47b7f0a0 Delete type=2 #479
-2024/11/26-22:30:41.796224 7e47b7f0a0 Delete type=2 #473
-2024/11/26-22:30:41.798972 7e47b7f0a0 Delete type=2 #474
-2024/11/26-22:30:41.832399 7e47b7f0a0 Manual compaction at level-0 from '!messages!z56ImRqDYrrlWLcp' @ 3048 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at (end)
+2024/11/26-23:40:29.417 ec0 Delete type=3 #1
+2024/11/26-23:40:29.419 3594 Moved #480 to level-1 2122886 bytes OK: files[ 4 1 0 0 0 0 0 ]
+2024/11/26-23:40:29.422 3594 Moved #481 to level-1 2123819 bytes OK: files[ 3 2 0 0 0 0 0 ]
+2024/11/27-00:03:46.517 3594 Level-0 table #487: started
+2024/11/27-00:03:46.546 3594 Level-0 table #487: 662098 bytes OK
+2024/11/27-00:03:46.548 3594 Delete type=0 #485
+2024/11/27-00:03:46.566 3594 Manual compaction at level-0 from '!messages!01MxC7oD9Mttcq1P' @ 72057594037927935 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at '!messages!zziIz9bKne0jJ3qQ' @ 2893 : 1
+2024/11/27-00:03:46.566 3594 Compacting 4@0 + 2@1 files
+2024/11/27-00:03:46.613 3594 Generated table #488@0: 1378 keys, 2124030 bytes
+2024/11/27-00:03:46.706 3594 Generated table #489@0: 1180 keys, 2117321 bytes
+2024/11/27-00:03:46.738 3594 Generated table #490@0: 456 keys, 728712 bytes
+2024/11/27-00:03:46.738 3594 Compacted 4@0 + 2@1 files => 4970063 bytes
+2024/11/27-00:03:46.739 3594 compacted to: files[ 0 3 0 0 0 0 0 ]
+2024/11/27-00:03:46.739 3594 Delete type=2 #468
+2024/11/27-00:03:46.740 3594 Delete type=2 #475
+2024/11/27-00:03:46.740 3594 Delete type=2 #480
+2024/11/27-00:03:46.740 3594 Delete type=2 #481
+2024/11/27-00:03:46.740 3594 Delete type=2 #482
+2024/11/27-00:03:46.741 3594 Delete type=2 #487
+2024/11/27-00:03:46.754 3594 Manual compaction at level-0 from '!messages!zziIz9bKne0jJ3qQ' @ 2893 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at (end)

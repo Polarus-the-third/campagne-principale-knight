@@ -1,17 +1,9 @@
-2024/11/26-20:02:03.696 37f8 Recovering log #464
-2024/11/26-20:02:03.703 37f8 Delete type=0 #464
-2024/11/26-20:02:03.703 37f8 Delete type=3 #462
-2024/11/26-20:44:11.001 12e0 Level-0 table #472: started
-2024/11/26-20:44:11.004 12e0 Level-0 table #472: 16404 bytes OK
-2024/11/26-20:44:11.008 12e0 Delete type=0 #470
-2024/11/26-20:44:11.025 12e0 Manual compaction at level-0 from '!messages!01MxC7oD9Mttcq1P' @ 72057594037927935 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at '!messages!clFbdhFaTQEvehgO' @ 3022 : 1
-2024/11/26-20:44:11.025 12e0 Compacting 1@0 + 2@1 files
-2024/11/26-20:44:11.084 12e0 Generated table #473@0: 1499 keys, 2122370 bytes
-2024/11/26-20:44:11.135 12e0 Generated table #474@0: 1452 keys, 2122294 bytes
-2024/11/26-20:44:11.139 12e0 Generated table #475@0: 14 keys, 15788 bytes
-2024/11/26-20:44:11.139 12e0 Compacted 1@0 + 2@1 files => 4260452 bytes
-2024/11/26-20:44:11.140 12e0 compacted to: files[ 0 4 0 0 0 0 0 ]
-2024/11/26-20:44:11.140 12e0 Delete type=2 #466
-2024/11/26-20:44:11.141 12e0 Delete type=2 #467
-2024/11/26-20:44:11.141 12e0 Delete type=2 #472
-2024/11/26-20:44:11.176 12e0 Manual compaction at level-0 from '!messages!clFbdhFaTQEvehgO' @ 3022 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at (end)
+2024/11/26-23:40:29.363 ec0 Log #478: 0 ops saved to Table #483 OK
+2024/11/26-23:40:29.364 ec0 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/000478.log: OK
+2024/11/26-23:40:29.364 ec0 Table #468: 15 entries OK
+2024/11/26-23:40:29.364 ec0 Table #475: 14 entries OK
+2024/11/26-23:40:29.382 ec0 Table #480: 1507 entries OK
+2024/11/26-23:40:29.395 ec0 Table #481: 1445 entries OK
+2024/11/26-23:40:29.396 ec0 Table #482: 26 entries OK
+2024/11/26-23:40:29.400 ec0 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/MANIFEST-000476: OK
+2024/11/26-23:40:29.404 ec0 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages; recovered 5 files; 4308232 bytes. Some data may have been lost. ****

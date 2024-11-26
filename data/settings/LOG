@@ -1,14 +1,12 @@
-2024/11/26-19:48:20.920670 7f7bfff0a0 Recovering log #500
-2024/11/26-19:48:20.944443 7f7bfff0a0 Delete type=3 #498
-2024/11/26-19:48:20.944659 7f7bfff0a0 Delete type=0 #500
-2024/11/26-22:30:42.545947 7e47b7f0a0 Level-0 table #506: started
-2024/11/26-22:30:42.556765 7e47b7f0a0 Level-0 table #506: 4364 bytes OK
-2024/11/26-22:30:42.563952 7e47b7f0a0 Delete type=0 #504
-2024/11/26-22:30:42.598229 7e47b7f0a0 Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 614 : 1
-2024/11/26-22:30:42.598273 7e47b7f0a0 Compacting 1@0 + 1@1 files
-2024/11/26-22:30:42.614950 7e47b7f0a0 Generated table #507@0: 17 keys, 3902 bytes
-2024/11/26-22:30:42.615042 7e47b7f0a0 Compacted 1@0 + 1@1 files => 3902 bytes
-2024/11/26-22:30:42.622248 7e47b7f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/11/26-22:30:42.622521 7e47b7f0a0 Delete type=2 #506
-2024/11/26-22:30:42.622838 7e47b7f0a0 Delete type=2 #502
-2024/11/26-22:30:42.650438 7e47b7f0a0 Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 614 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)
+2024/11/26-23:40:29.873 2dec Delete type=3 #1
+2024/11/27-00:03:46.860 3594 Level-0 table #512: started
+2024/11/27-00:03:46.863 3594 Level-0 table #512: 6904 bytes OK
+2024/11/27-00:03:46.866 3594 Delete type=0 #510
+2024/11/27-00:03:46.875 3594 Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!usFKjHAkuVWTRwbo' @ 620 : 1
+2024/11/27-00:03:46.875 3594 Compacting 2@0 + 0@1 files
+2024/11/27-00:03:46.885 3594 Generated table #513@0: 17 keys, 3902 bytes
+2024/11/27-00:03:46.885 3594 Compacted 2@0 + 0@1 files => 3902 bytes
+2024/11/27-00:03:46.887 3594 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/11/27-00:03:46.887 3594 Delete type=2 #507
+2024/11/27-00:03:46.888 3594 Delete type=2 #512
+2024/11/27-00:03:46.904 3594 Manual compaction at level-0 from '!settings!usFKjHAkuVWTRwbo' @ 620 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)
