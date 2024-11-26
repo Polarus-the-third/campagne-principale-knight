@@ -1,16 +1,14 @@
-2024/11/20-20:00:58.622385 7f7afdf0a0 Recovering log #482
-2024/11/20-20:00:58.644687 7f7afdf0a0 Delete type=0 #482
-2024/11/20-20:00:58.644844 7f7afdf0a0 Delete type=3 #481
-2024/11/20-23:12:22.714160 7e47b7f0a0 Level-0 table #486: started
-2024/11/20-23:12:22.726069 7e47b7f0a0 Level-0 table #486: 5704 bytes OK
-2024/11/20-23:12:22.733748 7e47b7f0a0 Delete type=0 #484
-2024/11/20-23:12:22.764639 7e47b7f0a0 Manual compaction at level-0 from '!fog!15ejNXSp6SXpDAnV' @ 72057594037927935 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at '!fog!utu9ST25Di8xU2y3' @ 1230 : 1
-2024/11/20-23:12:22.764688 7e47b7f0a0 Compacting 1@0 + 2@1 files
-2024/11/20-23:12:22.941935 7e47b7f0a0 Generated table #487@0: 106 keys, 2198154 bytes
-2024/11/20-23:12:23.060546 7e47b7f0a0 Generated table #488@0: 65 keys, 1413905 bytes
-2024/11/20-23:12:23.060647 7e47b7f0a0 Compacted 1@0 + 2@1 files => 3612059 bytes
-2024/11/20-23:12:23.066206 7e47b7f0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/11/20-23:12:23.066854 7e47b7f0a0 Delete type=2 #479
-2024/11/20-23:12:23.068127 7e47b7f0a0 Delete type=2 #486
-2024/11/20-23:12:23.068727 7e47b7f0a0 Delete type=2 #480
-2024/11/20-23:12:23.089386 7e47b7f0a0 Manual compaction at level-0 from '!fog!utu9ST25Di8xU2y3' @ 1230 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at (end)
+2024/11/26-20:02:03.762 289c Recovering log #492
+2024/11/26-20:02:03.770 289c Delete type=0 #492
+2024/11/26-20:02:03.770 289c Delete type=3 #490
+2024/11/26-20:44:11.008 12e0 Level-0 table #499: started
+2024/11/26-20:44:11.020 12e0 Level-0 table #499: 1130 bytes OK
+2024/11/26-20:44:11.023 12e0 Delete type=0 #497
+2024/11/26-20:44:11.141 12e0 Manual compaction at level-0 from '!fog!15ejNXSp6SXpDAnV' @ 72057594037927935 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at '!fog!52D2eFN3oPGbsPwF' @ 1232 : 1
+2024/11/26-20:44:11.141 12e0 Compacting 1@0 + 1@1 files
+2024/11/26-20:44:11.169 12e0 Generated table #500@0: 106 keys, 2198912 bytes
+2024/11/26-20:44:11.169 12e0 Compacted 1@0 + 1@1 files => 2198912 bytes
+2024/11/26-20:44:11.172 12e0 compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/11/26-20:44:11.172 12e0 Delete type=2 #494
+2024/11/26-20:44:11.172 12e0 Delete type=2 #499
+2024/11/26-20:44:11.176 12e0 Manual compaction at level-0 from '!fog!52D2eFN3oPGbsPwF' @ 1232 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at (end)
