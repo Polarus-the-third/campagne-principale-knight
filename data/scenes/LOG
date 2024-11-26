@@ -1,12 +1,14 @@
-2024/11/26-23:40:29.779 3d18 Delete type=3 #1
-2024/11/27-00:03:46.811 3594 Level-0 table #552: started
-2024/11/27-00:03:46.814 3594 Level-0 table #552: 16110 bytes OK
-2024/11/27-00:03:46.816 3594 Delete type=0 #550
-2024/11/27-00:03:46.821 3594 Manual compaction at level-0 from '!scenes!00oK7KmMLLUD1A7L' @ 72057594037927935 : 1 .. '!scenes.walls!zsClI9IBPH22Pgco.zvaouun0zG8D2vX1' @ 0 : 0; will stop at '!scenes.tokens.delta.effects!vKIlXg77TNZfIibV.xuyzu1NwheUQSqC9.xuyzu1NwheUQSqC9.ot3oH1zH9UxocwT2' @ 58437 : 0
-2024/11/27-00:03:46.821 3594 Compacting 2@0 + 0@1 files
-2024/11/27-00:03:46.854 3594 Generated table #553@0: 11104 keys, 1544265 bytes
-2024/11/27-00:03:46.854 3594 Compacted 2@0 + 0@1 files => 1544265 bytes
-2024/11/27-00:03:46.856 3594 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/11/27-00:03:46.856 3594 Delete type=2 #547
-2024/11/27-00:03:46.856 3594 Delete type=2 #552
-2024/11/27-00:03:46.866 3594 Manual compaction at level-0 from '!scenes.tokens.delta.effects!vKIlXg77TNZfIibV.xuyzu1NwheUQSqC9.xuyzu1NwheUQSqC9.ot3oH1zH9UxocwT2' @ 58437 : 0 .. '!scenes.walls!zsClI9IBPH22Pgco.zvaouun0zG8D2vX1' @ 0 : 0; will stop at (end)
+2024/11/26-23:05:49.635155 7f7bfff0a0 Recovering log #551
+2024/11/26-23:05:49.659149 7f7bfff0a0 Delete type=0 #551
+2024/11/26-23:05:49.659307 7f7bfff0a0 Delete type=3 #549
+2024/11/26-23:06:23.329981 7e47b7f0a0 Level-0 table #557: started
+2024/11/26-23:06:23.340184 7e47b7f0a0 Level-0 table #557: 2045 bytes OK
+2024/11/26-23:06:23.346488 7e47b7f0a0 Delete type=0 #555
+2024/11/26-23:06:23.384468 7e47b7f0a0 Manual compaction at level-0 from '!scenes!00oK7KmMLLUD1A7L' @ 72057594037927935 : 1 .. '!scenes.walls!zsClI9IBPH22Pgco.zvaouun0zG8D2vX1' @ 0 : 0; will stop at '!scenes!zsClI9IBPH22Pgco' @ 58539 : 1
+2024/11/26-23:06:23.384523 7e47b7f0a0 Compacting 1@0 + 1@1 files
+2024/11/26-23:06:23.590605 7e47b7f0a0 Generated table #558@0: 11104 keys, 1544261 bytes
+2024/11/26-23:06:23.590717 7e47b7f0a0 Compacted 1@0 + 1@1 files => 1544261 bytes
+2024/11/26-23:06:23.596936 7e47b7f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/11/26-23:06:23.597540 7e47b7f0a0 Delete type=2 #553
+2024/11/26-23:06:23.600167 7e47b7f0a0 Delete type=2 #557
+2024/11/26-23:06:23.601182 7e47b7f0a0 Manual compaction at level-0 from '!scenes!zsClI9IBPH22Pgco' @ 58539 : 1 .. '!scenes.walls!zsClI9IBPH22Pgco.zvaouun0zG8D2vX1' @ 0 : 0; will stop at (end)

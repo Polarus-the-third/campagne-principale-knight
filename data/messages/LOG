@@ -1,20 +1,7 @@
-2024/11/26-23:40:29.417 ec0 Delete type=3 #1
-2024/11/26-23:40:29.419 3594 Moved #480 to level-1 2122886 bytes OK: files[ 4 1 0 0 0 0 0 ]
-2024/11/26-23:40:29.422 3594 Moved #481 to level-1 2123819 bytes OK: files[ 3 2 0 0 0 0 0 ]
-2024/11/27-00:03:46.517 3594 Level-0 table #487: started
-2024/11/27-00:03:46.546 3594 Level-0 table #487: 662098 bytes OK
-2024/11/27-00:03:46.548 3594 Delete type=0 #485
-2024/11/27-00:03:46.566 3594 Manual compaction at level-0 from '!messages!01MxC7oD9Mttcq1P' @ 72057594037927935 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at '!messages!zziIz9bKne0jJ3qQ' @ 2893 : 1
-2024/11/27-00:03:46.566 3594 Compacting 4@0 + 2@1 files
-2024/11/27-00:03:46.613 3594 Generated table #488@0: 1378 keys, 2124030 bytes
-2024/11/27-00:03:46.706 3594 Generated table #489@0: 1180 keys, 2117321 bytes
-2024/11/27-00:03:46.738 3594 Generated table #490@0: 456 keys, 728712 bytes
-2024/11/27-00:03:46.738 3594 Compacted 4@0 + 2@1 files => 4970063 bytes
-2024/11/27-00:03:46.739 3594 compacted to: files[ 0 3 0 0 0 0 0 ]
-2024/11/27-00:03:46.739 3594 Delete type=2 #468
-2024/11/27-00:03:46.740 3594 Delete type=2 #475
-2024/11/27-00:03:46.740 3594 Delete type=2 #480
-2024/11/27-00:03:46.740 3594 Delete type=2 #481
-2024/11/27-00:03:46.740 3594 Delete type=2 #482
-2024/11/27-00:03:46.741 3594 Delete type=2 #487
-2024/11/27-00:03:46.754 3594 Manual compaction at level-0 from '!messages!zziIz9bKne0jJ3qQ' @ 2893 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at (end)
+2024/11/26-23:05:49.170229 7f7bfff0a0 Recovering log #486
+2024/11/26-23:05:49.203180 7f7bfff0a0 Delete type=0 #486
+2024/11/26-23:05:49.203346 7f7bfff0a0 Delete type=3 #484
+2024/11/26-23:06:23.209534 7e47b7f0a0 Level-0 table #494: started
+2024/11/26-23:06:23.209653 7e47b7f0a0 Level-0 table #494: 0 bytes OK
+2024/11/26-23:06:23.225609 7e47b7f0a0 Delete type=0 #492
+2024/11/26-23:06:23.234781 7e47b7f0a0 Manual compaction at level-0 from '!messages!01MxC7oD9Mttcq1P' @ 72057594037927935 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at (end)
