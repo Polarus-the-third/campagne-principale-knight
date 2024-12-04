@@ -1,3 +1,6 @@
-2024/12/04-18:36:36.593 c8 Recovering log #743
-2024/12/04-18:36:36.601 c8 Delete type=0 #743
-2024/12/04-18:36:36.601 c8 Delete type=3 #742
+2024/12/04-18:45:38.773 3500 Log #749: 0 ops saved to Table #753 OK
+2024/12/04-18:45:38.775 3500 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/000749.log: OK
+2024/12/04-18:45:38.786 3500 Table #751: 1105 entries OK
+2024/12/04-18:45:38.792 3500 Table #752: 914 entries OK
+2024/12/04-18:45:38.797 3500 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/MANIFEST-000746: OK
+2024/12/04-18:45:38.801 3500 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors; recovered 2 files; 3099862 bytes. Some data may have been lost. ****
