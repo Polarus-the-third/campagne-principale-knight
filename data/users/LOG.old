@@ -1,5 +1,1 @@
-2024/12/19-19:52:49.146 1d74 Log #471: 0 ops saved to Table #474 OK
-2024/12/19-19:52:49.146 1d74 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/users/000471.log: OK
-2024/12/19-19:52:49.157 1d74 Table #473: 4 entries OK
-2024/12/19-19:52:49.161 1d74 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/users/MANIFEST-000469: OK
-2024/12/19-19:52:49.166 1d74 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/users; recovered 1 files; 1956 bytes. Some data may have been lost. ****
+2024/12/19-19:52:49.178 1d74 Delete type=3 #1
