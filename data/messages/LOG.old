@@ -1,8 +1,14 @@
-2024/12/11-21:32:02.663428 7f7f46f0a0 Recovering log #565
-2024/12/11-21:32:02.688402 7f7f46f0a0 Delete type=0 #565
-2024/12/11-21:32:02.688593 7f7f46f0a0 Delete type=3 #564
-2024/12/11-21:37:43.429579 7e51abf0a0 Compacting 1@1 + 1@2 files
-2024/12/11-21:37:43.781376 7e51abf0a0 Generated table #568@1: 312 keys, 2235583 bytes
-2024/12/11-21:37:44.053897 7e51abf0a0 Generated table #569@1: 929 keys, 2049617 bytes
-2024/12/11-21:37:44.054041 7e51abf0a0 Compacted 1@1 + 1@2 files => 4285200 bytes
-2024/12/11-21:37:44.061915 7e51abf0a0 compacted to: files[ 1 5 2 0 0 0 0 ]
+2024/12/19-19:52:48.125 1e7c Log #594: 0 ops saved to Table #612 OK
+2024/12/19-19:52:48.126 1e7c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/000594.log: OK
+2024/12/19-19:52:48.143 1e7c Table #602: 269 entries OK
+2024/12/19-19:52:48.162 1e7c Table #603: 423 entries OK
+2024/12/19-19:52:48.252 1e7c Table #604: 598 entries OK
+2024/12/19-19:52:48.270 1e7c Table #605: 330 entries OK
+2024/12/19-19:52:48.272 1e7c Table #606: 23 entries OK
+2024/12/19-19:52:48.292 1e7c Table #607: 373 entries OK
+2024/12/19-19:52:48.370 1e7c Table #608: 355 entries OK
+2024/12/19-19:52:48.389 1e7c Table #609: 537 entries OK
+2024/12/19-19:52:48.408 1e7c Table #610: 362 entries OK
+2024/12/19-19:52:48.410 1e7c Table #611: 15 entries OK
+2024/12/19-19:52:48.414 1e7c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/MANIFEST-000570: OK
+2024/12/19-19:52:48.417 1e7c **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages; recovered 10 files; 17201344 bytes. Some data may have been lost. ****

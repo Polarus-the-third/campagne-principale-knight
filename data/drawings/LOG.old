@@ -1,3 +1,4 @@
-2024/12/11-21:32:03.463919 7f7ec5f0a0 Recovering log #388
-2024/12/11-21:32:03.485283 7f7ec5f0a0 Delete type=0 #388
-2024/12/11-21:32:03.485530 7f7ec5f0a0 Delete type=3 #387
+2024/12/19-19:52:48.567 1e7c Log #393: 0 ops saved to Table #394 OK
+2024/12/19-19:52:48.567 1e7c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/drawings/000393.log: OK
+2024/12/19-19:52:48.572 1e7c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/drawings/MANIFEST-000391: OK
+2024/12/19-19:52:48.575 1e7c **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/drawings; recovered 0 files; 0 bytes. Some data may have been lost. ****
