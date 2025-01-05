@@ -1,22 +1,5 @@
-2024/12/19-20:45:16.784 2710 Recovering log #608
-2024/12/19-20:45:16.784 2710 Level-0 table #610: started
-2024/12/19-20:45:16.789 2710 Level-0 table #610: 149603 bytes OK
-2024/12/19-20:45:16.796 2710 Delete type=0 #608
-2024/12/19-20:45:16.796 2710 Delete type=3 #607
-2024/12/19-20:45:20.868 3ef8 Compacting 2@0 + 0@1 files
-2024/12/19-20:45:20.912 3ef8 Generated table #612@0: 11511 keys, 1591805 bytes
-2024/12/19-20:45:20.912 3ef8 Compacted 2@0 + 0@1 files => 1591805 bytes
-2024/12/19-20:45:20.913 3ef8 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/12/19-20:45:20.914 3ef8 Delete type=2 #605
-2024/12/19-20:45:20.914 3ef8 Delete type=2 #610
-2024/12/19-20:49:08.308 3ef8 Level-0 table #614: started
-2024/12/19-20:49:08.313 3ef8 Level-0 table #614: 4567 bytes OK
-2024/12/19-20:49:08.316 3ef8 Delete type=0 #611
-2024/12/19-20:49:08.324 3ef8 Manual compaction at level-0 from '!scenes!00oK7KmMLLUD1A7L' @ 72057594037927935 : 1 .. '!scenes.walls!zsClI9IBPH22Pgco.zvaouun0zG8D2vX1' @ 0 : 0; will stop at '!scenes!PsrtBf3vE4cZbPoR' @ 62156 : 1
-2024/12/19-20:49:08.324 3ef8 Compacting 1@0 + 1@1 files
-2024/12/19-20:49:08.363 3ef8 Generated table #615@0: 11511 keys, 1591805 bytes
-2024/12/19-20:49:08.363 3ef8 Compacted 1@0 + 1@1 files => 1591805 bytes
-2024/12/19-20:49:08.364 3ef8 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/12/19-20:49:08.364 3ef8 Delete type=2 #612
-2024/12/19-20:49:08.365 3ef8 Delete type=2 #614
-2024/12/19-20:49:08.381 3ef8 Manual compaction at level-0 from '!scenes!PsrtBf3vE4cZbPoR' @ 62156 : 1 .. '!scenes.walls!zsClI9IBPH22Pgco.zvaouun0zG8D2vX1' @ 0 : 0; will stop at (end)
+2025/01/05-13:29:32.592 3584 Log #617: 0 ops saved to Table #618 OK
+2025/01/05-13:29:32.593 3584 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/scenes/000617.log: OK
+2025/01/05-13:29:32.604 3584 Table #615: 11511 entries OK
+2025/01/05-13:29:32.608 3584 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/scenes/MANIFEST-000616: OK
+2025/01/05-13:29:32.612 3584 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/scenes; recovered 1 files; 1591805 bytes. Some data may have been lost. ****

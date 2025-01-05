@@ -1,52 +1,14 @@
-2024/12/19-20:45:16.446 27c0 Recovering log #614
-2024/12/19-20:45:16.452 27c0 Delete type=0 #614
-2024/12/19-20:45:16.452 27c0 Delete type=3 #613
-2024/12/19-20:49:08.450 3ef8 Level-0 table #618: started
-2024/12/19-20:49:08.450 3ef8 Level-0 table #618: 0 bytes OK
-2024/12/19-20:49:08.451 3ef8 Delete type=0 #616
-2024/12/19-20:49:08.451 3ef8 Manual compaction at level-0 from '!messages!01MxC7oD9Mttcq1P' @ 72057594037927935 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at '!messages!zziIz9bKne0jJ3qQ' @ 2893 : 1
-2024/12/19-20:49:08.451 3ef8 Compacting 3@0 + 0@1 files
-2024/12/19-20:49:08.524 3ef8 Generated table #619@0: 537 keys, 2141758 bytes
-2024/12/19-20:49:08.586 3ef8 Generated table #620@0: 362 keys, 2232975 bytes
-2024/12/19-20:49:08.589 3ef8 Generated table #621@0: 15 keys, 14215 bytes
-2024/12/19-20:49:08.589 3ef8 Compacted 3@0 + 0@1 files => 4388948 bytes
-2024/12/19-20:49:08.591 3ef8 compacted to: files[ 0 8 2 0 0 0 0 ]
-2024/12/19-20:49:08.592 3ef8 Delete type=2 #609
-2024/12/19-20:49:08.592 3ef8 Delete type=2 #610
-2024/12/19-20:49:08.593 3ef8 Delete type=2 #611
-2024/12/19-20:49:08.595 3ef8 Moved #604 to level-2 2204337 bytes OK: files[ 0 7 3 0 0 0 0 ]
-2024/12/19-20:49:08.595 3ef8 Manual compaction at level-0 from '!messages!zziIz9bKne0jJ3qQ' @ 2893 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at (end)
-2024/12/19-20:49:08.596 3ef8 Moved #605 to level-2 2106317 bytes OK: files[ 0 6 4 0 0 0 0 ]
-2024/12/19-20:49:08.596 3ef8 Manual compaction at level-1 from '!messages!01MxC7oD9Mttcq1P' @ 72057594037927935 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at '!messages!cuj1g53eAprdF9QR' @ 1487 : 1
-2024/12/19-20:49:08.596 3ef8 Compacting 2@1 + 0@2 files
-2024/12/19-20:49:08.650 3ef8 Generated table #622@1: 373 keys, 2110448 bytes
-2024/12/19-20:49:08.653 3ef8 Generated table #623@1: 23 keys, 21693 bytes
-2024/12/19-20:49:08.653 3ef8 Compacted 2@1 + 0@2 files => 2132141 bytes
-2024/12/19-20:49:08.654 3ef8 compacted to: files[ 0 4 6 0 0 0 0 ]
-2024/12/19-20:49:08.654 3ef8 Delete type=2 #606
-2024/12/19-20:49:08.654 3ef8 Delete type=2 #607
-2024/12/19-20:49:08.655 3ef8 Manual compaction at level-1 from '!messages!cuj1g53eAprdF9QR' @ 1487 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at '!messages!j46VaASOMnxB64vt' @ 3058 : 1
-2024/12/19-20:49:08.655 3ef8 Compacting 1@1 + 0@2 files
-2024/12/19-20:49:08.770 3ef8 Generated table #624@1: 355 keys, 2150034 bytes
-2024/12/19-20:49:08.770 3ef8 Compacted 1@1 + 0@2 files => 2150034 bytes
-2024/12/19-20:49:08.771 3ef8 compacted to: files[ 0 3 7 0 0 0 0 ]
-2024/12/19-20:49:08.771 3ef8 Delete type=2 #608
-2024/12/19-20:49:08.771 3ef8 Manual compaction at level-1 from '!messages!j46VaASOMnxB64vt' @ 3058 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at '!messages!tO5qfFkOUSqhxRlW' @ 3245 : 1
-2024/12/19-20:49:08.771 3ef8 Compacting 1@1 + 0@2 files
-2024/12/19-20:49:08.830 3ef8 Generated table #625@1: 537 keys, 2141758 bytes
-2024/12/19-20:49:08.831 3ef8 Compacted 1@1 + 0@2 files => 2141758 bytes
-2024/12/19-20:49:08.832 3ef8 compacted to: files[ 0 2 8 0 0 0 0 ]
-2024/12/19-20:49:08.832 3ef8 Delete type=2 #619
-2024/12/19-20:49:08.833 3ef8 Manual compaction at level-1 from '!messages!tO5qfFkOUSqhxRlW' @ 3245 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at '!messages!zeOH0MUx5CPLnaIG' @ 3311 : 1
-2024/12/19-20:49:08.833 3ef8 Compacting 1@1 + 0@2 files
-2024/12/19-20:49:08.886 3ef8 Generated table #626@1: 362 keys, 2232975 bytes
-2024/12/19-20:49:08.886 3ef8 Compacted 1@1 + 0@2 files => 2232975 bytes
-2024/12/19-20:49:08.886 3ef8 compacted to: files[ 0 1 9 0 0 0 0 ]
-2024/12/19-20:49:08.886 3ef8 Delete type=2 #620
-2024/12/19-20:49:08.888 3ef8 Manual compaction at level-1 from '!messages!zeOH0MUx5CPLnaIG' @ 3311 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at '!messages!zziIz9bKne0jJ3qQ' @ 2893 : 1
-2024/12/19-20:49:08.888 3ef8 Compacting 1@1 + 0@2 files
-2024/12/19-20:49:08.893 3ef8 Generated table #627@1: 15 keys, 14215 bytes
-2024/12/19-20:49:08.893 3ef8 Compacted 1@1 + 0@2 files => 14215 bytes
-2024/12/19-20:49:08.894 3ef8 compacted to: files[ 0 0 10 0 0 0 0 ]
-2024/12/19-20:49:08.895 3ef8 Delete type=2 #621
-2024/12/19-20:49:08.896 3ef8 Manual compaction at level-1 from '!messages!zziIz9bKne0jJ3qQ' @ 2893 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at (end)
+2025/01/05-13:29:31.919 20f4 Log #629: 0 ops saved to Table #630 OK
+2025/01/05-13:29:31.920 20f4 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/000629.log: OK
+2025/01/05-13:29:31.932 20f4 Table #602: 269 entries OK
+2025/01/05-13:29:31.946 20f4 Table #603: 423 entries OK
+2025/01/05-13:29:31.978 20f4 Table #604: 598 entries OK
+2025/01/05-13:29:32.006 20f4 Table #605: 330 entries OK
+2025/01/05-13:29:32.025 20f4 Table #622: 373 entries OK
+2025/01/05-13:29:32.025 20f4 Table #623: 23 entries OK
+2025/01/05-13:29:32.041 20f4 Table #624: 355 entries OK
+2025/01/05-13:29:32.054 20f4 Table #625: 537 entries OK
+2025/01/05-13:29:32.071 20f4 Table #626: 362 entries OK
+2025/01/05-13:29:32.071 20f4 Table #627: 15 entries OK
+2025/01/05-13:29:32.074 20f4 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/MANIFEST-000628: OK
+2025/01/05-13:29:32.078 20f4 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages; recovered 10 files; 17201318 bytes. Some data may have been lost. ****
