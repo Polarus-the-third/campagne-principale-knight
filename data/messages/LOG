@@ -1,10 +1,8 @@
-2025/01/05-13:29:32.089 20f4 Delete type=3 #1
-2025/01/05-13:29:32.091 2034 Moved #602 to level-1 2108719 bytes OK: files[ 9 1 0 0 0 0 0 ]
-2025/01/05-13:29:32.092 2034 Moved #603 to level-1 2110822 bytes OK: files[ 8 2 0 0 0 0 0 ]
-2025/01/05-13:29:32.092 2034 Moved #604 to level-1 2204337 bytes OK: files[ 7 3 0 0 0 0 0 ]
-2025/01/05-13:29:32.093 2034 Moved #605 to level-1 2106317 bytes OK: files[ 6 4 0 0 0 0 0 ]
-2025/01/05-13:29:32.094 2034 Moved #622 to level-1 2110448 bytes OK: files[ 5 5 0 0 0 0 0 ]
-2025/01/05-13:29:32.095 2034 Moved #623 to level-1 21693 bytes OK: files[ 4 6 0 0 0 0 0 ]
-2025/01/05-13:29:32.096 2034 Moved #602 to level-2 2108719 bytes OK: files[ 4 5 1 0 0 0 0 ]
-2025/01/05-13:29:32.097 2034 Moved #624 to level-1 2150034 bytes OK: files[ 3 6 1 0 0 0 0 ]
-2025/01/05-13:29:32.098 2034 Moved #603 to level-2 2110822 bytes OK: files[ 3 5 2 0 0 0 0 ]
+2025/01/05-15:47:44.839 14a4 Recovering log #650
+2025/01/05-15:47:44.845 14a4 Delete type=0 #650
+2025/01/05-15:47:44.845 14a4 Delete type=3 #648
+2025/01/05-16:07:49.971 3b84 Level-0 table #656: started
+2025/01/05-16:07:49.972 3b84 Level-0 table #656: 0 bytes OK
+2025/01/05-16:07:49.975 3b84 Delete type=0 #654
+2025/01/05-16:07:49.984 3b84 Manual compaction at level-0 from '!messages!01MxC7oD9Mttcq1P' @ 72057594037927935 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at (end)
+2025/01/05-16:07:49.984 3b84 Manual compaction at level-1 from '!messages!01MxC7oD9Mttcq1P' @ 72057594037927935 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at (end)

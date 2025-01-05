@@ -1,9 +1,7 @@
-2025/01/05-13:29:31.829 20f4 Delete type=3 #1
-2025/01/05-13:30:30.184 2034 Compacting 3@0 + 0@1 files
-2025/01/05-13:30:30.243 2034 Generated table #849@0: 1108 keys, 2123101 bytes
-2025/01/05-13:30:30.288 2034 Generated table #850@0: 916 keys, 983787 bytes
-2025/01/05-13:30:30.288 2034 Compacted 3@0 + 0@1 files => 3106888 bytes
-2025/01/05-13:30:30.289 2034 compacted to: files[ 0 2 0 0 0 0 0 ]
-2025/01/05-13:30:30.289 2034 Delete type=2 #842
-2025/01/05-13:30:30.289 2034 Delete type=2 #843
-2025/01/05-13:30:30.289 2034 Delete type=2 #846
+2025/01/05-15:47:44.772 2694 Recovering log #862
+2025/01/05-15:47:44.779 2694 Delete type=0 #862
+2025/01/05-15:47:44.779 2694 Delete type=3 #860
+2025/01/05-16:07:49.967 3b84 Level-0 table #867: started
+2025/01/05-16:07:49.967 3b84 Level-0 table #867: 0 bytes OK
+2025/01/05-16:07:49.971 3b84 Delete type=0 #865
+2025/01/05-16:07:49.984 3b84 Manual compaction at level-0 from '!actors!0dBrS2iiMIRD5TAy' @ 72057594037927935 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at (end)
