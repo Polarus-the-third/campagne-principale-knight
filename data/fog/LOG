@@ -1,27 +1,5 @@
-2025/01/23-19:44:53.843935 7f96fdf0a0 Recovering log #621
-2025/01/23-19:44:53.850468 7f96fdf0a0 Level-0 table #623: started
-2025/01/23-19:44:53.867131 7f96fdf0a0 Level-0 table #623: 6294 bytes OK
-2025/01/23-19:44:53.887092 7f96fdf0a0 Delete type=3 #620
-2025/01/23-19:44:53.887327 7f96fdf0a0 Delete type=0 #621
-2025/01/23-19:44:53.887607 7f872bf0a0 Compacting 4@0 + 0@1 files
-2025/01/23-19:44:54.161211 7f872bf0a0 Generated table #625@0: 90 keys, 2114342 bytes
-2025/01/23-19:44:54.353969 7f872bf0a0 Generated table #626@0: 99 keys, 1924482 bytes
-2025/01/23-19:44:54.355271 7f872bf0a0 Compacted 4@0 + 0@1 files => 4038824 bytes
-2025/01/23-19:44:54.363189 7f872bf0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2025/01/23-19:44:54.363499 7f872bf0a0 Delete type=2 #618
-2025/01/23-19:44:54.364311 7f872bf0a0 Delete type=2 #610
-2025/01/23-19:44:54.365945 7f872bf0a0 Delete type=2 #623
-2025/01/23-19:44:54.366672 7f872bf0a0 Delete type=2 #611
-2025/01/23-22:20:33.320656 7f872bf0a0 Level-0 table #628: started
-2025/01/23-22:20:33.446418 7f872bf0a0 Level-0 table #628: 478501 bytes OK
-2025/01/23-22:20:33.454944 7f872bf0a0 Delete type=0 #624
-2025/01/23-22:20:33.478534 7f872bf0a0 Manual compaction at level-0 from '!fog!0xBdrxbk0OuCPSIp' @ 72057594037927935 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at '!fog!f7wcxyMvwYU0hlLr' @ 1682 : 1
-2025/01/23-22:20:33.478607 7f872bf0a0 Compacting 1@0 + 2@1 files
-2025/01/23-22:20:33.881150 7f872bf0a0 Generated table #629@0: 90 keys, 2137209 bytes
-2025/01/23-22:20:34.112832 7f872bf0a0 Generated table #630@0: 100 keys, 1956422 bytes
-2025/01/23-22:20:34.112952 7f872bf0a0 Compacted 1@0 + 2@1 files => 4093631 bytes
-2025/01/23-22:20:34.118412 7f872bf0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2025/01/23-22:20:34.119245 7f872bf0a0 Delete type=2 #626
-2025/01/23-22:20:34.121645 7f872bf0a0 Delete type=2 #628
-2025/01/23-22:20:34.123619 7f872bf0a0 Delete type=2 #625
-2025/01/23-22:20:34.159669 7f872bf0a0 Manual compaction at level-0 from '!fog!f7wcxyMvwYU0hlLr' @ 1682 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at (end)
+2025/01/29-20:39:36.034 1d80 Recovering log #633
+2025/01/29-20:39:36.034 1d80 Level-0 table #635: started
+2025/01/29-20:39:36.046 1d80 Level-0 table #635: 3103 bytes OK
+2025/01/29-20:39:36.054 1d80 Delete type=0 #633
+2025/01/29-20:39:36.055 1d80 Delete type=3 #632

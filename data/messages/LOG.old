@@ -1,3 +1,9 @@
-2025/01/23-18:53:25.236 dd4 Recovering log #692
-2025/01/23-18:53:25.247 dd4 Delete type=0 #692
-2025/01/23-18:53:25.249 dd4 Delete type=3 #691
+2025/01/29-19:33:47.034 356c Delete type=3 #1
+2025/01/29-19:33:47.036 6f4 Moved #705 to level-1 2215354 bytes OK: files[ 8 1 0 0 0 0 0 ]
+2025/01/29-19:33:47.038 6f4 Moved #706 to level-1 2169531 bytes OK: files[ 7 2 0 0 0 0 0 ]
+2025/01/29-19:33:47.040 6f4 Moved #707 to level-1 2111255 bytes OK: files[ 6 3 0 0 0 0 0 ]
+2025/01/29-19:33:47.041 6f4 Moved #713 to level-1 2170455 bytes OK: files[ 5 4 0 0 0 0 0 ]
+2025/01/29-19:33:47.042 6f4 Moved #714 to level-1 2233336 bytes OK: files[ 4 5 0 0 0 0 0 ]
+2025/01/29-19:33:47.043 6f4 Moved #705 to level-2 2215354 bytes OK: files[ 4 4 1 0 0 0 0 ]
+2025/01/29-19:33:47.044 6f4 Moved #715 to level-1 2198293 bytes OK: files[ 3 5 1 0 0 0 0 ]
+2025/01/29-19:33:47.045 6f4 Moved #706 to level-2 2169531 bytes OK: files[ 3 4 2 0 0 0 0 ]

@@ -1,22 +1,11 @@
-2025/01/23-19:44:54.645423 7f96fdf0a0 Recovering log #662
-2025/01/23-19:44:54.725709 7f96fdf0a0 Level-0 table #665: started
-2025/01/23-19:44:54.849879 7f96fdf0a0 Level-0 table #665: 1303072 bytes OK
-2025/01/23-19:44:54.873153 7f96fdf0a0 Delete type=3 #660
-2025/01/23-19:44:54.873386 7f96fdf0a0 Delete type=0 #662
-2025/01/23-19:45:17.285509 7f872bf0a0 Compacting 1@0 + 1@1 files
-2025/01/23-19:45:17.582592 7f872bf0a0 Generated table #667@0: 11789 keys, 1627963 bytes
-2025/01/23-19:45:17.582714 7f872bf0a0 Compacted 1@0 + 1@1 files => 1627963 bytes
-2025/01/23-19:45:17.589285 7f872bf0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/01/23-19:45:17.590028 7f872bf0a0 Delete type=2 #665
-2025/01/23-19:45:17.593121 7f872bf0a0 Delete type=2 #663
-2025/01/23-22:20:31.898343 7f872bf0a0 Level-0 table #669: started
-2025/01/23-22:20:32.515093 7f872bf0a0 Level-0 table #669: 2391054 bytes OK
-2025/01/23-22:20:32.542886 7f872bf0a0 Delete type=0 #666
-2025/01/23-22:20:32.572431 7f872bf0a0 Manual compaction at level-0 from '!scenes!00oK7KmMLLUD1A7L' @ 72057594037927935 : 1 .. '!scenes.walls!zsClI9IBPH22Pgco.zvaouun0zG8D2vX1' @ 0 : 0; will stop at '!scenes.walls!N73i59AzS3Y6WiYY.zenzCHeb7P9LzFBS' @ 65513 : 1
-2025/01/23-22:20:32.572486 7f872bf0a0 Compacting 1@0 + 1@1 files
-2025/01/23-22:20:33.278266 7f872bf0a0 Generated table #670@0: 11811 keys, 1634072 bytes
-2025/01/23-22:20:33.278457 7f872bf0a0 Compacted 1@0 + 1@1 files => 1634072 bytes
-2025/01/23-22:20:33.287224 7f872bf0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/01/23-22:20:33.287936 7f872bf0a0 Delete type=2 #667
-2025/01/23-22:20:33.290257 7f872bf0a0 Delete type=2 #669
-2025/01/23-22:20:33.455803 7f872bf0a0 Manual compaction at level-0 from '!scenes.walls!N73i59AzS3Y6WiYY.zenzCHeb7P9LzFBS' @ 65513 : 1 .. '!scenes.walls!zsClI9IBPH22Pgco.zvaouun0zG8D2vX1' @ 0 : 0; will stop at (end)
+2025/01/29-20:39:36.193 1d80 Recovering log #673
+2025/01/29-20:39:36.193 1d80 Level-0 table #675: started
+2025/01/29-20:39:36.199 1d80 Level-0 table #675: 21519 bytes OK
+2025/01/29-20:39:36.204 1d80 Delete type=0 #673
+2025/01/29-20:39:36.204 1d80 Delete type=3 #672
+2025/01/29-20:39:40.678 2e94 Compacting 2@0 + 0@1 files
+2025/01/29-20:39:40.721 2e94 Generated table #677@0: 11822 keys, 1636540 bytes
+2025/01/29-20:39:40.721 2e94 Compacted 2@0 + 0@1 files => 1636540 bytes
+2025/01/29-20:39:40.725 2e94 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/01/29-20:39:40.725 2e94 Delete type=2 #670
+2025/01/29-20:39:40.726 2e94 Delete type=2 #675
