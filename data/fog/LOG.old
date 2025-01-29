@@ -1,1 +1,27 @@
-2025/01/29-19:33:47.273 b60 Delete type=3 #1
+2025/01/29-20:03:10.680962 7f977ef0a0 Recovering log #636
+2025/01/29-20:03:10.685520 7f977ef0a0 Level-0 table #638: started
+2025/01/29-20:03:10.705904 7f977ef0a0 Level-0 table #638: 2447 bytes OK
+2025/01/29-20:03:10.727904 7f977ef0a0 Delete type=3 #634
+2025/01/29-20:03:10.728166 7f977ef0a0 Delete type=0 #636
+2025/01/29-20:03:10.728459 7f872bf0a0 Compacting 4@0 + 0@1 files
+2025/01/29-20:03:11.537385 7f872bf0a0 Generated table #640@0: 92 keys, 2139484 bytes
+2025/01/29-20:03:11.819804 7f872bf0a0 Generated table #641@0: 100 keys, 1956422 bytes
+2025/01/29-20:03:11.819944 7f872bf0a0 Compacted 4@0 + 0@1 files => 4095906 bytes
+2025/01/29-20:03:11.855259 7f872bf0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/01/29-20:03:11.856126 7f872bf0a0 Delete type=2 #630
+2025/01/29-20:03:11.860307 7f872bf0a0 Delete type=2 #629
+2025/01/29-20:03:11.862121 7f872bf0a0 Delete type=2 #635
+2025/01/29-20:03:11.862421 7f872bf0a0 Delete type=2 #638
+2025/01/29-23:07:29.775715 7f872bf0a0 Level-0 table #643: started
+2025/01/29-23:07:29.794624 7f872bf0a0 Level-0 table #643: 2067 bytes OK
+2025/01/29-23:07:29.802031 7f872bf0a0 Delete type=0 #639
+2025/01/29-23:07:29.824026 7f872bf0a0 Manual compaction at level-0 from '!fog!0xBdrxbk0OuCPSIp' @ 72057594037927935 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at '!fog!fJh1fzbgTqYN0hAh' @ 1711 : 1
+2025/01/29-23:07:29.824074 7f872bf0a0 Compacting 1@0 + 2@1 files
+2025/01/29-23:07:30.121888 7f872bf0a0 Generated table #644@0: 93 keys, 2139636 bytes
+2025/01/29-23:07:30.299610 7f872bf0a0 Generated table #645@0: 101 keys, 1957105 bytes
+2025/01/29-23:07:30.299712 7f872bf0a0 Compacted 1@0 + 2@1 files => 4096741 bytes
+2025/01/29-23:07:30.306903 7f872bf0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/01/29-23:07:30.307216 7f872bf0a0 Delete type=2 #643
+2025/01/29-23:07:30.308037 7f872bf0a0 Delete type=2 #640
+2025/01/29-23:07:30.309788 7f872bf0a0 Delete type=2 #641
+2025/01/29-23:07:30.357974 7f872bf0a0 Manual compaction at level-0 from '!fog!fJh1fzbgTqYN0hAh' @ 1711 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at (end)

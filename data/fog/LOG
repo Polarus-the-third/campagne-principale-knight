@@ -1,5 +1,7 @@
-2025/01/29-20:39:36.034 1d80 Recovering log #633
-2025/01/29-20:39:36.034 1d80 Level-0 table #635: started
-2025/01/29-20:39:36.046 1d80 Level-0 table #635: 3103 bytes OK
-2025/01/29-20:39:36.054 1d80 Delete type=0 #633
-2025/01/29-20:39:36.055 1d80 Delete type=3 #632
+2025/01/29-23:08:44.941452 7f96fdf0a0 Recovering log #642
+2025/01/29-23:08:44.968139 7f96fdf0a0 Delete type=0 #642
+2025/01/29-23:08:44.968330 7f96fdf0a0 Delete type=3 #637
+2025/01/29-23:08:50.715278 7f872bf0a0 Level-0 table #649: started
+2025/01/29-23:08:50.715384 7f872bf0a0 Level-0 table #649: 0 bytes OK
+2025/01/29-23:08:50.722951 7f872bf0a0 Delete type=0 #647
+2025/01/29-23:08:50.723729 7f872bf0a0 Manual compaction at level-0 from '!fog!0xBdrxbk0OuCPSIp' @ 72057594037927935 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at (end)

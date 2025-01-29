@@ -1,3 +1,7 @@
-2025/01/29-20:39:36.006 1d80 Recovering log #527
-2025/01/29-20:39:36.012 1d80 Delete type=0 #527
-2025/01/29-20:39:36.012 1d80 Delete type=3 #526
+2025/01/29-23:08:44.858121 7f96fdf0a0 Recovering log #532
+2025/01/29-23:08:44.880306 7f96fdf0a0 Delete type=0 #532
+2025/01/29-23:08:44.880502 7f96fdf0a0 Delete type=3 #530
+2025/01/29-23:08:50.677725 7f872bf0a0 Level-0 table #538: started
+2025/01/29-23:08:50.677849 7f872bf0a0 Level-0 table #538: 0 bytes OK
+2025/01/29-23:08:50.686318 7f872bf0a0 Delete type=0 #536
+2025/01/29-23:08:50.686767 7f872bf0a0 Manual compaction at level-0 from '!combats!1xC2JCY7WMZ6fgvK' @ 72057594037927935 : 1 .. '!combats.combatants!rtCl8bok4Mi7CNry.xFem2jFzGG2Hr3VV' @ 0 : 0; will stop at (end)
