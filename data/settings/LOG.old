@@ -1,18 +1,5 @@
-2025/01/29-20:03:11.832511 7f96fdf0a0 Recovering log #636
-2025/01/29-20:03:11.840891 7f96fdf0a0 Level-0 table #638: started
-2025/01/29-20:03:11.873774 7f96fdf0a0 Level-0 table #638: 4373 bytes OK
-2025/01/29-20:03:11.963495 7f96fdf0a0 Delete type=3 #634
-2025/01/29-20:03:11.963763 7f96fdf0a0 Delete type=0 #636
-2025/01/29-23:07:31.400378 7f872bf0a0 Level-0 table #641: started
-2025/01/29-23:07:31.412083 7f872bf0a0 Level-0 table #641: 4373 bytes OK
-2025/01/29-23:07:31.422657 7f872bf0a0 Delete type=0 #639
-2025/01/29-23:07:31.424206 7f872bf0a0 Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 747 : 1
-2025/01/29-23:07:31.424275 7f872bf0a0 Compacting 4@0 + 0@1 files
-2025/01/29-23:07:31.437073 7f872bf0a0 Generated table #642@0: 17 keys, 3910 bytes
-2025/01/29-23:07:31.437241 7f872bf0a0 Compacted 4@0 + 0@1 files => 3910 bytes
-2025/01/29-23:07:31.443820 7f872bf0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/01/29-23:07:31.444335 7f872bf0a0 Delete type=2 #630
-2025/01/29-23:07:31.444941 7f872bf0a0 Delete type=2 #635
-2025/01/29-23:07:31.445404 7f872bf0a0 Delete type=2 #641
-2025/01/29-23:07:31.445888 7f872bf0a0 Delete type=2 #638
-2025/01/29-23:07:31.447681 7f872bf0a0 Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 747 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)
+2025/01/30-19:35:30.008 1f4c Log #645: 0 ops saved to Table #648 OK
+2025/01/30-19:35:30.011 1f4c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/settings/000645.log: OK
+2025/01/30-19:35:30.021 1f4c Table #647: 17 entries OK
+2025/01/30-19:35:30.024 1f4c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/settings/MANIFEST-000643: OK
+2025/01/30-19:35:30.031 1f4c **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/settings; recovered 1 files; 3910 bytes. Some data may have been lost. ****
