@@ -1,5 +1,1 @@
-2025/01/30-19:35:29.389 4e7c Log #537: 0 ops saved to Table #538 OK
-2025/01/30-19:35:29.391 4e7c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/combats/000537.log: OK
-2025/01/30-19:35:29.393 4e7c Table #534: 88 entries OK
-2025/01/30-19:35:29.397 4e7c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/combats/MANIFEST-000535: OK
-2025/01/30-19:35:29.400 4e7c **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/combats; recovered 1 files; 10362 bytes. Some data may have been lost. ****
+2025/01/30-19:35:29.413 4e7c Delete type=3 #1

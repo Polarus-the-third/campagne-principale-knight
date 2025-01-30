@@ -1,13 +1,9 @@
-2025/01/30-19:35:29.086 5318 Log #745: 0 ops saved to Table #746 OK
-2025/01/30-19:35:29.087 5318 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/000745.log: OK
-2025/01/30-19:35:29.110 5318 Table #729: 297 entries OK
-2025/01/30-19:35:29.132 5318 Table #735: 267 entries OK
-2025/01/30-19:35:29.150 5318 Table #736: 410 entries OK
-2025/01/30-19:35:29.165 5318 Table #737: 537 entries OK
-2025/01/30-19:35:29.182 5318 Table #738: 414 entries OK
-2025/01/30-19:35:29.199 5318 Table #739: 348 entries OK
-2025/01/30-19:35:29.217 5318 Table #740: 443 entries OK
-2025/01/30-19:35:29.234 5318 Table #741: 466 entries OK
-2025/01/30-19:35:29.247 5318 Table #742: 224 entries OK
-2025/01/30-19:35:29.252 5318 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/MANIFEST-000743: OK
-2025/01/30-19:35:29.255 5318 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages; recovered 9 files; 19176399 bytes. Some data may have been lost. ****
+2025/01/30-19:35:29.268 5318 Delete type=3 #1
+2025/01/30-19:35:29.270 3678 Moved #735 to level-1 2215553 bytes OK: files[ 8 1 0 0 0 0 0 ]
+2025/01/30-19:35:29.271 3678 Moved #736 to level-1 2169531 bytes OK: files[ 7 2 0 0 0 0 0 ]
+2025/01/30-19:35:29.271 3678 Moved #737 to level-1 2109155 bytes OK: files[ 6 3 0 0 0 0 0 ]
+2025/01/30-19:35:29.272 3678 Moved #729 to level-1 2173420 bytes OK: files[ 5 4 0 0 0 0 0 ]
+2025/01/30-19:35:29.273 3678 Moved #738 to level-1 2233336 bytes OK: files[ 4 5 0 0 0 0 0 ]
+2025/01/30-19:35:29.274 3678 Moved #735 to level-2 2215553 bytes OK: files[ 4 4 1 0 0 0 0 ]
+2025/01/30-19:35:29.276 3678 Moved #739 to level-1 2201848 bytes OK: files[ 3 5 1 0 0 0 0 ]
+2025/01/30-19:35:29.277 3678 Moved #736 to level-2 2169531 bytes OK: files[ 3 4 2 0 0 0 0 ]
