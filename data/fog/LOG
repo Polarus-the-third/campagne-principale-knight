@@ -1,14 +1,16 @@
-2025/02/06-19:36:39.015 4670 Delete type=3 #1
-2025/02/06-20:32:37.838 41cc Level-0 table #658: started
-2025/02/06-20:32:37.838 41cc Level-0 table #658: 0 bytes OK
-2025/02/06-20:32:37.841 41cc Delete type=0 #656
-2025/02/06-20:32:37.869 41cc Manual compaction at level-0 from '!fog!0xBdrxbk0OuCPSIp' @ 72057594037927935 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at '!fog!k8Ecde1DtnafXPzX' @ 1713 : 1
-2025/02/06-20:32:37.869 41cc Compacting 3@0 + 0@1 files
-2025/02/06-20:32:37.896 41cc Generated table #659@0: 93 keys, 2139636 bytes
-2025/02/06-20:32:37.914 41cc Generated table #660@0: 102 keys, 1957816 bytes
-2025/02/06-20:32:37.914 41cc Compacted 3@0 + 0@1 files => 4097452 bytes
-2025/02/06-20:32:37.916 41cc compacted to: files[ 0 2 0 0 0 0 0 ]
-2025/02/06-20:32:37.916 41cc Delete type=2 #644
-2025/02/06-20:32:37.917 41cc Delete type=2 #645
-2025/02/06-20:32:37.918 41cc Delete type=2 #654
-2025/02/06-20:32:37.978 41cc Manual compaction at level-0 from '!fog!k8Ecde1DtnafXPzX' @ 1713 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at (end)
+2025/02/06-19:49:36.497416 7fa4ebf0a0 Recovering log #657
+2025/02/06-19:49:36.521731 7fa4ebf0a0 Delete type=0 #657
+2025/02/06-19:49:36.521923 7fa4ebf0a0 Delete type=3 #655
+2025/02/06-22:22:11.365944 7f872bf0a0 Level-0 table #664: started
+2025/02/06-22:22:11.404808 7f872bf0a0 Level-0 table #664: 61207 bytes OK
+2025/02/06-22:22:11.411404 7f872bf0a0 Delete type=0 #662
+2025/02/06-22:22:11.430169 7f872bf0a0 Manual compaction at level-0 from '!fog!0xBdrxbk0OuCPSIp' @ 72057594037927935 : 1 .. '!fog!zXnI4cFC8vlVF10Z' @ 0 : 0; will stop at '!fog!zXnI4cFC8vlVF10Z' @ 1724 : 1
+2025/02/06-22:22:11.430218 7f872bf0a0 Compacting 1@0 + 2@1 files
+2025/02/06-22:22:12.065887 7f872bf0a0 Generated table #665@0: 96 keys, 2113696 bytes
+2025/02/06-22:22:12.317049 7f872bf0a0 Generated table #666@0: 110 keys, 2041065 bytes
+2025/02/06-22:22:12.317162 7f872bf0a0 Compacted 1@0 + 2@1 files => 4154761 bytes
+2025/02/06-22:22:12.324071 7f872bf0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/02/06-22:22:12.325950 7f872bf0a0 Delete type=2 #660
+2025/02/06-22:22:12.328895 7f872bf0a0 Delete type=2 #659
+2025/02/06-22:22:12.330524 7f872bf0a0 Delete type=2 #664
+2025/02/06-22:22:12.461541 7f872bf0a0 Manual compaction at level-0 from '!fog!zXnI4cFC8vlVF10Z' @ 1724 : 1 .. '!fog!zXnI4cFC8vlVF10Z' @ 0 : 0; will stop at (end)

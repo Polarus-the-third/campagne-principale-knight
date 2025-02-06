@@ -1,6 +1,18 @@
-2025/02/06-19:36:39.905 eec Log #692: 21 ops saved to Table #693 OK
-2025/02/06-19:36:39.908 eec Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/scenes/000692.log: OK
-2025/02/06-19:36:39.932 eec Table #684: 11851 entries OK
-2025/02/06-19:36:39.932 eec Table #693: 21 entries OK
-2025/02/06-19:36:39.935 eec Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/scenes/MANIFEST-000691: OK
-2025/02/06-19:36:39.943 eec **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/scenes; recovered 2 files; 1650589 bytes. Some data may have been lost. ****
+2025/02/06-19:36:39.961 eec Delete type=3 #1
+2025/02/06-19:36:46.679 41cc Compacting 2@0 + 0@1 files
+2025/02/06-19:36:46.726 41cc Generated table #696@0: 11855 keys, 1644449 bytes
+2025/02/06-19:36:46.726 41cc Compacted 2@0 + 0@1 files => 1644449 bytes
+2025/02/06-19:36:46.727 41cc compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/02/06-19:36:46.727 41cc Delete type=2 #684
+2025/02/06-19:36:46.728 41cc Delete type=2 #693
+2025/02/06-20:32:37.844 41cc Level-0 table #698: started
+2025/02/06-20:32:37.856 41cc Level-0 table #698: 1240 bytes OK
+2025/02/06-20:32:37.861 41cc Delete type=0 #695
+2025/02/06-20:32:37.929 41cc Manual compaction at level-0 from '!scenes!00oK7KmMLLUD1A7L' @ 72057594037927935 : 1 .. '!scenes.walls!zsClI9IBPH22Pgco.zvaouun0zG8D2vX1' @ 0 : 0; will stop at '!scenes!sbHprt0vtXT0FOCq' @ 66483 : 1
+2025/02/06-20:32:37.929 41cc Compacting 1@0 + 1@1 files
+2025/02/06-20:32:37.974 41cc Generated table #699@0: 11855 keys, 1644463 bytes
+2025/02/06-20:32:37.974 41cc Compacted 1@0 + 1@1 files => 1644463 bytes
+2025/02/06-20:32:37.975 41cc compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/02/06-20:32:37.977 41cc Delete type=2 #696
+2025/02/06-20:32:37.978 41cc Delete type=2 #698
+2025/02/06-20:32:37.978 41cc Manual compaction at level-0 from '!scenes!sbHprt0vtXT0FOCq' @ 66483 : 1 .. '!scenes.walls!zsClI9IBPH22Pgco.zvaouun0zG8D2vX1' @ 0 : 0; will stop at (end)
