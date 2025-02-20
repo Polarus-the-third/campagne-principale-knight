@@ -1,66 +1,13 @@
-2025/02/06-19:36:38.587 2fc0 Delete type=3 #1
-2025/02/06-19:36:38.588 41cc Compacting 8@0 + 0@1 files
-2025/02/06-19:36:38.660 41cc Generated table #754@0: 268 keys, 2216040 bytes
-2025/02/06-19:36:38.716 41cc Generated table #755@0: 411 keys, 2170747 bytes
-2025/02/06-19:36:38.787 41cc Generated table #756@0: 537 keys, 2109155 bytes
-2025/02/06-19:36:38.900 41cc Generated table #757@0: 297 keys, 2173420 bytes
-2025/02/06-19:36:39.007 41cc Generated table #758@0: 414 keys, 2233336 bytes
-2025/02/06-19:36:39.114 41cc Generated table #759@0: 348 keys, 2201848 bytes
-2025/02/06-19:36:39.214 41cc Generated table #760@0: 444 keys, 2196627 bytes
-2025/02/06-19:36:39.215 41cc Compacted 8@0 + 0@1 files => 15301173 bytes
-2025/02/06-19:36:39.216 41cc compacted to: files[ 2 7 0 0 0 0 0 ]
-2025/02/06-19:36:39.217 41cc Delete type=2 #729
-2025/02/06-19:36:39.218 41cc Delete type=2 #735
-2025/02/06-19:36:39.219 41cc Delete type=2 #736
-2025/02/06-19:36:39.220 41cc Delete type=2 #737
-2025/02/06-19:36:39.221 41cc Delete type=2 #738
-2025/02/06-19:36:39.222 41cc Delete type=2 #739
-2025/02/06-19:36:39.223 41cc Delete type=2 #740
-2025/02/06-19:36:39.225 41cc Delete type=2 #751
-2025/02/06-19:36:39.228 41cc Moved #754 to level-2 2216040 bytes OK: files[ 2 6 1 0 0 0 0 ]
-2025/02/06-19:36:39.229 41cc Moved #755 to level-2 2170747 bytes OK: files[ 2 5 2 0 0 0 0 ]
-2025/02/06-19:36:39.232 41cc Moved #756 to level-2 2109155 bytes OK: files[ 2 4 3 0 0 0 0 ]
-2025/02/06-20:32:38.177 41cc Level-0 table #762: started
-2025/02/06-20:32:38.177 41cc Level-0 table #762: 0 bytes OK
-2025/02/06-20:32:38.181 41cc Delete type=0 #753
-2025/02/06-20:32:38.184 41cc Manual compaction at level-0 from '!messages!01MxC7oD9Mttcq1P' @ 72057594037927935 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at '!messages!zziIz9bKne0jJ3qQ' @ 2893 : 1
-2025/02/06-20:32:38.184 41cc Compacting 2@0 + 0@1 files
-2025/02/06-20:32:38.364 41cc Generated table #763@0: 466 keys, 2220426 bytes
-2025/02/06-20:32:38.444 41cc Generated table #764@0: 224 keys, 1656794 bytes
-2025/02/06-20:32:38.444 41cc Compacted 2@0 + 0@1 files => 3877220 bytes
-2025/02/06-20:32:38.445 41cc compacted to: files[ 0 6 3 0 0 0 0 ]
-2025/02/06-20:32:38.445 41cc Delete type=2 #741
-2025/02/06-20:32:38.445 41cc Delete type=2 #742
-2025/02/06-20:32:38.446 41cc Manual compaction at level-0 from '!messages!zziIz9bKne0jJ3qQ' @ 2893 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at (end)
-2025/02/06-20:32:38.447 41cc Moved #757 to level-2 2173420 bytes OK: files[ 0 5 4 0 0 0 0 ]
-2025/02/06-20:32:38.447 41cc Manual compaction at level-1 from '!messages!01MxC7oD9Mttcq1P' @ 72057594037927935 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at '!messages!ZtZFLoe4sC0AIcS6' @ 3220 : 1
-2025/02/06-20:32:38.447 41cc Compacting 1@1 + 0@2 files
-2025/02/06-20:32:38.523 41cc Generated table #765@1: 414 keys, 2233336 bytes
-2025/02/06-20:32:38.525 41cc Compacted 1@1 + 0@2 files => 2233336 bytes
-2025/02/06-20:32:38.526 41cc compacted to: files[ 0 4 5 0 0 0 0 ]
-2025/02/06-20:32:38.528 41cc Delete type=2 #758
-2025/02/06-20:32:38.530 41cc Manual compaction at level-1 from '!messages!ZtZFLoe4sC0AIcS6' @ 3220 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at '!messages!fgv3NQUHK0ChgmQC' @ 3060 : 1
-2025/02/06-20:32:38.530 41cc Compacting 1@1 + 0@2 files
-2025/02/06-20:32:38.624 41cc Generated table #766@1: 348 keys, 2201848 bytes
-2025/02/06-20:32:38.625 41cc Compacted 1@1 + 0@2 files => 2201848 bytes
-2025/02/06-20:32:38.627 41cc compacted to: files[ 0 3 6 0 0 0 0 ]
-2025/02/06-20:32:38.627 41cc Delete type=2 #759
-2025/02/06-20:32:38.629 41cc Manual compaction at level-1 from '!messages!fgv3NQUHK0ChgmQC' @ 3060 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at '!messages!ntbPtNptPg35iHmJ' @ 3386 : 1
-2025/02/06-20:32:38.629 41cc Compacting 1@1 + 0@2 files
-2025/02/06-20:32:38.733 41cc Generated table #767@1: 444 keys, 2196627 bytes
-2025/02/06-20:32:38.733 41cc Compacted 1@1 + 0@2 files => 2196627 bytes
-2025/02/06-20:32:38.734 41cc compacted to: files[ 0 2 7 0 0 0 0 ]
-2025/02/06-20:32:38.734 41cc Delete type=2 #760
-2025/02/06-20:32:38.735 41cc Manual compaction at level-1 from '!messages!ntbPtNptPg35iHmJ' @ 3386 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at '!messages!vvdF0fXzJ2NngjPp' @ 3119 : 1
-2025/02/06-20:32:38.735 41cc Compacting 1@1 + 0@2 files
-2025/02/06-20:32:38.812 41cc Generated table #768@1: 466 keys, 2220426 bytes
-2025/02/06-20:32:38.812 41cc Compacted 1@1 + 0@2 files => 2220426 bytes
-2025/02/06-20:32:38.813 41cc compacted to: files[ 0 1 8 0 0 0 0 ]
-2025/02/06-20:32:38.813 41cc Delete type=2 #763
-2025/02/06-20:32:38.814 41cc Manual compaction at level-1 from '!messages!vvdF0fXzJ2NngjPp' @ 3119 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at '!messages!zziIz9bKne0jJ3qQ' @ 2893 : 1
-2025/02/06-20:32:38.814 41cc Compacting 1@1 + 0@2 files
-2025/02/06-20:32:38.871 41cc Generated table #769@1: 224 keys, 1656794 bytes
-2025/02/06-20:32:38.871 41cc Compacted 1@1 + 0@2 files => 1656794 bytes
-2025/02/06-20:32:38.872 41cc compacted to: files[ 0 0 9 0 0 0 0 ]
-2025/02/06-20:32:38.872 41cc Delete type=2 #764
-2025/02/06-20:32:38.873 41cc Manual compaction at level-1 from '!messages!zziIz9bKne0jJ3qQ' @ 2893 : 1 .. '!messages!zziIz9bKne0jJ3qQ' @ 0 : 0; will stop at (end)
+2025/02/20-19:09:45.589 42dc Log #772: 0 ops saved to Table #782 OK
+2025/02/20-19:09:45.590 42dc Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/000772.log: OK
+2025/02/20-19:09:45.607 42dc Table #754: 268 entries OK
+2025/02/20-19:09:45.626 42dc Table #774: 415 entries OK
+2025/02/20-19:09:45.644 42dc Table #775: 537 entries OK
+2025/02/20-19:09:45.661 42dc Table #776: 302 entries OK
+2025/02/20-19:09:45.680 42dc Table #777: 416 entries OK
+2025/02/20-19:09:45.699 42dc Table #778: 348 entries OK
+2025/02/20-19:09:45.721 42dc Table #779: 444 entries OK
+2025/02/20-19:09:45.739 42dc Table #780: 469 entries OK
+2025/02/20-19:09:45.755 42dc Table #781: 228 entries OK
+2025/02/20-19:09:45.758 42dc Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/MANIFEST-000770: OK
+2025/02/20-19:09:45.762 42dc **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages; recovered 9 files; 19190253 bytes. Some data may have been lost. ****
