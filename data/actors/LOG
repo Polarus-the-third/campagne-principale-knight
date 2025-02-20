@@ -1,1 +1,5 @@
-2025/02/20-19:09:45.482 2dfc Delete type=3 #1
+2025/02/20-20:32:45.166 3b4c Recovering log #941
+2025/02/20-20:32:45.166 3b4c Level-0 table #943: started
+2025/02/20-20:32:45.170 3b4c Level-0 table #943: 12091 bytes OK
+2025/02/20-20:32:45.179 3b4c Delete type=0 #941
+2025/02/20-20:32:45.179 3b4c Delete type=3 #940
