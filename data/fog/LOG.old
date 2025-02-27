@@ -1,6 +1,1 @@
-2025/02/27-19:24:30.048 3fcc Log #678: 0 ops saved to Table #682 OK
-2025/02/27-19:24:30.049 3fcc Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/fog/000678.log: OK
-2025/02/27-19:24:30.059 3fcc Table #680: 98 entries OK
-2025/02/27-19:24:30.120 3fcc Table #681: 116 entries OK
-2025/02/27-19:24:30.123 3fcc Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/fog/MANIFEST-000675: OK
-2025/02/27-19:24:30.130 3fcc **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/fog; recovered 2 files; 4202068 bytes. Some data may have been lost. ****
+2025/02/27-19:24:30.143 3fcc Delete type=3 #1

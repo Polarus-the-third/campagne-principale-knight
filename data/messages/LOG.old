@@ -1,16 +1,14 @@
-2025/02/27-19:24:29.605 1670 Log #819: 0 ops saved to Table #837 OK
-2025/02/27-19:24:29.606 1670 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/000819.log: OK
-2025/02/27-19:24:29.621 1670 Table #825: 245 entries OK
-2025/02/27-19:24:29.639 1670 Table #826: 277 entries OK
-2025/02/27-19:24:29.657 1670 Table #827: 367 entries OK
-2025/02/27-19:24:29.675 1670 Table #828: 418 entries OK
-2025/02/27-19:24:29.693 1670 Table #829: 232 entries OK
-2025/02/27-19:24:29.709 1670 Table #830: 366 entries OK
-2025/02/27-19:24:29.714 1670 Table #831: 1 entries OK
-2025/02/27-19:24:29.732 1670 Table #832: 209 entries OK
-2025/02/27-19:24:29.752 1670 Table #833: 362 entries OK
-2025/02/27-19:24:29.769 1670 Table #834: 376 entries OK
-2025/02/27-19:24:29.786 1670 Table #835: 346 entries OK
-2025/02/27-19:24:29.804 1670 Table #836: 344 entries OK
-2025/02/27-19:24:29.807 1670 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/MANIFEST-000787: OK
-2025/02/27-19:24:29.813 1670 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages; recovered 12 files; 23883225 bytes. Some data may have been lost. ****
+2025/02/27-19:24:29.824 1670 Delete type=3 #1
+2025/02/27-19:24:29.825 19d8 Moved #825 to level-1 2248592 bytes OK: files[ 11 1 0 0 0 0 0 ]
+2025/02/27-19:24:29.826 19d8 Moved #826 to level-1 2143978 bytes OK: files[ 10 2 0 0 0 0 0 ]
+2025/02/27-19:24:29.829 19d8 Moved #827 to level-1 2263812 bytes OK: files[ 9 3 0 0 0 0 0 ]
+2025/02/27-19:24:29.830 19d8 Moved #828 to level-1 2126951 bytes OK: files[ 8 4 0 0 0 0 0 ]
+2025/02/27-19:24:29.831 19d8 Moved #829 to level-1 2131783 bytes OK: files[ 7 5 0 0 0 0 0 ]
+2025/02/27-19:24:29.832 19d8 Moved #830 to level-1 2111624 bytes OK: files[ 6 6 0 0 0 0 0 ]
+2025/02/27-19:24:29.833 19d8 Moved #831 to level-1 157301 bytes OK: files[ 5 7 0 0 0 0 0 ]
+2025/02/27-19:24:29.833 19d8 Moved #825 to level-2 2248592 bytes OK: files[ 5 6 1 0 0 0 0 ]
+2025/02/27-19:24:29.835 19d8 Moved #832 to level-1 2110093 bytes OK: files[ 4 7 1 0 0 0 0 ]
+2025/02/27-19:24:29.836 19d8 Moved #826 to level-2 2143978 bytes OK: files[ 4 6 2 0 0 0 0 ]
+2025/02/27-19:24:29.837 19d8 Moved #827 to level-2 2263812 bytes OK: files[ 4 5 3 0 0 0 0 ]
+2025/02/27-19:24:29.838 19d8 Moved #833 to level-1 2221375 bytes OK: files[ 3 6 3 0 0 0 0 ]
+2025/02/27-19:24:29.839 19d8 Moved #828 to level-2 2126951 bytes OK: files[ 3 5 4 0 0 0 0 ]
