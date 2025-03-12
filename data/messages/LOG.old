@@ -1,16 +1,3 @@
-2025/03/05-20:04:05.581 1104 Log #842: 0 ops saved to Table #864 OK
-2025/03/05-20:04:05.582 1104 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/000842.log: OK
-2025/03/05-20:04:05.598 1104 Table #852: 247 entries OK
-2025/03/05-20:04:05.614 1104 Table #853: 280 entries OK
-2025/03/05-20:04:05.632 1104 Table #854: 369 entries OK
-2025/03/05-20:04:05.652 1104 Table #855: 420 entries OK
-2025/03/05-20:04:05.670 1104 Table #856: 233 entries OK
-2025/03/05-20:04:05.687 1104 Table #857: 369 entries OK
-2025/03/05-20:04:05.705 1104 Table #858: 207 entries OK
-2025/03/05-20:04:05.723 1104 Table #859: 325 entries OK
-2025/03/05-20:04:05.739 1104 Table #860: 399 entries OK
-2025/03/05-20:04:05.755 1104 Table #861: 343 entries OK
-2025/03/05-20:04:05.773 1104 Table #862: 365 entries OK
-2025/03/05-20:04:05.775 1104 Table #863: 16 entries OK
-2025/03/05-20:04:05.778 1104 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/MANIFEST-000840: OK
-2025/03/05-20:04:05.782 1104 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages; recovered 12 files; 23908877 bytes. Some data may have been lost. ****
+2025/03/12-22:28:33.040 5544 Recovering log #874
+2025/03/12-22:28:33.048 5544 Delete type=0 #874
+2025/03/12-22:28:33.049 5544 Delete type=3 #873

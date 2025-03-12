@@ -1,15 +1,16 @@
-2025/03/05-20:04:05.795 1104 Delete type=3 #1
-2025/03/05-20:04:05.797 297c Moved #852 to level-1 2250530 bytes OK: files[ 11 1 0 0 0 0 0 ]
-2025/03/05-20:04:05.798 297c Moved #853 to level-1 2146920 bytes OK: files[ 10 2 0 0 0 0 0 ]
-2025/03/05-20:04:05.800 297c Moved #854 to level-1 2265443 bytes OK: files[ 9 3 0 0 0 0 0 ]
-2025/03/05-20:04:05.801 297c Moved #855 to level-1 2127671 bytes OK: files[ 8 4 0 0 0 0 0 ]
-2025/03/05-20:04:05.802 297c Moved #856 to level-1 2133134 bytes OK: files[ 7 5 0 0 0 0 0 ]
-2025/03/05-20:04:05.803 297c Moved #857 to level-1 2108383 bytes OK: files[ 6 6 0 0 0 0 0 ]
-2025/03/05-20:04:05.804 297c Moved #858 to level-1 2146200 bytes OK: files[ 5 7 0 0 0 0 0 ]
-2025/03/05-20:04:05.805 297c Moved #852 to level-2 2250530 bytes OK: files[ 5 6 1 0 0 0 0 ]
-2025/03/05-20:04:05.807 297c Moved #859 to level-1 2127261 bytes OK: files[ 4 7 1 0 0 0 0 ]
-2025/03/05-20:04:05.808 297c Moved #853 to level-2 2146920 bytes OK: files[ 4 6 2 0 0 0 0 ]
-2025/03/05-20:04:05.809 297c Moved #854 to level-2 2265443 bytes OK: files[ 4 5 3 0 0 0 0 ]
-2025/03/05-20:04:05.810 297c Moved #855 to level-2 2127671 bytes OK: files[ 4 4 4 0 0 0 0 ]
-2025/03/05-20:04:05.811 297c Moved #860 to level-1 2242436 bytes OK: files[ 3 5 4 0 0 0 0 ]
-2025/03/05-20:04:05.812 297c Moved #856 to level-2 2133134 bytes OK: files[ 3 4 5 0 0 0 0 ]
+2025/03/12-22:30:01.748 53ac Recovering log #876
+2025/03/12-22:30:01.755 53ac Delete type=0 #876
+2025/03/12-22:30:01.756 53ac Delete type=3 #875
+2025/03/12-22:30:29.978 2f80 Compacting 1@1 + 5@2 files
+2025/03/12-22:30:30.056 2f80 Compacted 1@1 + 5@2 files => 0 bytes
+2025/03/12-22:30:30.058 2f80 compacted to: files[ 0 0 0 0 0 0 0 ]
+2025/03/12-22:30:30.683 2f80 Level-0 table #880: started
+2025/03/12-22:30:30.683 2f80 Level-0 table #880: 0 bytes OK
+2025/03/12-22:30:30.685 2f80 Delete type=2 #852
+2025/03/12-22:30:30.687 2f80 Delete type=2 #853
+2025/03/12-22:30:30.691 2f80 Delete type=2 #854
+2025/03/12-22:30:30.693 2f80 Delete type=2 #855
+2025/03/12-22:30:30.694 2f80 Delete type=2 #856
+2025/03/12-22:30:30.696 2f80 Delete type=2 #872
+2025/03/12-22:30:30.697 2f80 Delete type=0 #878
+2025/03/12-22:30:30.698 2f80 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
