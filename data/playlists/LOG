@@ -1,13 +1,7 @@
-2025/03/12-22:30:01.948 3c24 Recovering log #553
-2025/03/12-22:30:01.955 3c24 Delete type=0 #553
-2025/03/12-22:30:01.955 3c24 Delete type=3 #552
-2025/03/12-22:30:30.363 2f80 Level-0 table #557: started
-2025/03/12-22:30:30.363 2f80 Level-0 table #557: 0 bytes OK
-2025/03/12-22:30:30.365 2f80 Delete type=0 #555
-2025/03/12-22:30:30.374 2f80 Manual compaction at level-0 from '!playlists!8E7kZjSoTCsYj36d' @ 72057594037927935 : 1 .. '!playlists.sounds!xdren7ctqREwpSy1.iZDACQ4qSySVl3lM' @ 0 : 0; will stop at '!playlists.sounds!xdren7ctqREwpSy1.iZDACQ4qSySVl3lM' @ 1048 : 1
-2025/03/12-22:30:30.374 2f80 Compacting 1@0 + 0@1 files
-2025/03/12-22:30:30.379 2f80 Generated table #558@0: 42 keys, 6433 bytes
-2025/03/12-22:30:30.379 2f80 Compacted 1@0 + 0@1 files => 6433 bytes
-2025/03/12-22:30:30.380 2f80 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/03/12-22:30:30.382 2f80 Delete type=2 #542
-2025/03/12-22:30:30.387 2f80 Manual compaction at level-0 from '!playlists.sounds!xdren7ctqREwpSy1.iZDACQ4qSySVl3lM' @ 1048 : 1 .. '!playlists.sounds!xdren7ctqREwpSy1.iZDACQ4qSySVl3lM' @ 0 : 0; will stop at (end)
+2025/03/13-19:52:43.169787 7f9ceaf0a0 Recovering log #565
+2025/03/13-19:52:43.193545 7f9ceaf0a0 Delete type=3 #563
+2025/03/13-19:52:43.193885 7f9ceaf0a0 Delete type=0 #565
+2025/03/13-22:14:21.662483 7e676bf0a0 Level-0 table #570: started
+2025/03/13-22:14:21.663276 7e676bf0a0 Level-0 table #570: 0 bytes OK
+2025/03/13-22:14:21.672440 7e676bf0a0 Delete type=0 #568
+2025/03/13-22:14:21.736896 7e676bf0a0 Manual compaction at level-0 from '!playlists!8E7kZjSoTCsYj36d' @ 72057594037927935 : 1 .. '!playlists.sounds!xdren7ctqREwpSy1.iZDACQ4qSySVl3lM' @ 0 : 0; will stop at (end)
