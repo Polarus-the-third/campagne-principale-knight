@@ -1,14 +1,14 @@
-2025/03/13-19:52:43.260311 7f9ceaf0a0 Recovering log #761
-2025/03/13-19:52:43.282225 7f9ceaf0a0 Delete type=0 #761
-2025/03/13-19:52:43.282395 7f9ceaf0a0 Delete type=3 #759
-2025/03/13-22:14:21.682976 7e676bf0a0 Level-0 table #766: started
-2025/03/13-22:14:21.729008 7e676bf0a0 Level-0 table #766: 400391 bytes OK
-2025/03/13-22:14:21.735765 7e676bf0a0 Delete type=0 #764
-2025/03/13-22:14:21.759643 7e676bf0a0 Manual compaction at level-0 from '!scenes!0LdKTkvbYcLGd0iB' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.walls!ntTQwG925KAI1ja6.k8qFKd5dhO5GFFMz' @ 73413 : 1
-2025/03/13-22:14:21.759701 7e676bf0a0 Compacting 1@0 + 1@1 files
-2025/03/13-22:14:21.869587 7e676bf0a0 Generated table #767@0: 6965 keys, 798116 bytes
-2025/03/13-22:14:21.869705 7e676bf0a0 Compacted 1@0 + 1@1 files => 798116 bytes
-2025/03/13-22:14:21.876396 7e676bf0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/03/13-22:14:21.876809 7e676bf0a0 Delete type=2 #758
-2025/03/13-22:14:21.877603 7e676bf0a0 Delete type=2 #766
-2025/03/13-22:14:21.916596 7e676bf0a0 Manual compaction at level-0 from '!scenes.walls!ntTQwG925KAI1ja6.k8qFKd5dhO5GFFMz' @ 73413 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)
+2025/04/03-18:15:59.257376 7f8efdf0a0 Recovering log #765
+2025/04/03-18:15:59.281529 7f8efdf0a0 Delete type=3 #763
+2025/04/03-18:15:59.281755 7f8efdf0a0 Delete type=0 #765
+2025/04/03-22:29:22.168107 7e65c7f0a0 Level-0 table #771: started
+2025/04/03-22:29:22.184594 7e65c7f0a0 Level-0 table #771: 65321 bytes OK
+2025/04/03-22:29:22.192051 7e65c7f0a0 Delete type=0 #769
+2025/04/03-22:29:22.203732 7e65c7f0a0 Manual compaction at level-0 from '!scenes!0LdKTkvbYcLGd0iB' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.tokens.delta!sbHprt0vtXT0FOCq.6qlPCy5HK2QGQBFb.7pAU8mn17RE3pTgT' @ 74115 : 0
+2025/04/03-22:29:22.203794 7e65c7f0a0 Compacting 1@0 + 1@1 files
+2025/04/03-22:29:22.312807 7e65c7f0a0 Generated table #772@0: 6974 keys, 803253 bytes
+2025/04/03-22:29:22.312914 7e65c7f0a0 Compacted 1@0 + 1@1 files => 803253 bytes
+2025/04/03-22:29:22.318983 7e65c7f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/04/03-22:29:22.319470 7e65c7f0a0 Delete type=2 #767
+2025/04/03-22:29:22.320215 7e65c7f0a0 Delete type=2 #771
+2025/04/03-22:29:22.347139 7e65c7f0a0 Manual compaction at level-0 from '!scenes.tokens.delta!sbHprt0vtXT0FOCq.6qlPCy5HK2QGQBFb.7pAU8mn17RE3pTgT' @ 74115 : 0 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)
