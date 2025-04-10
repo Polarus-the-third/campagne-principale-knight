@@ -1,1 +1,26 @@
-2025/04/09-18:58:06.798 2618 Delete type=3 #1
+2025/04/09-18:14:48.896452 7f8efdf0a0 Recovering log #736
+2025/04/09-18:14:48.896967 7f8efdf0a0 Level-0 table #738: started
+2025/04/09-18:14:48.907909 7f8efdf0a0 Level-0 table #738: 10671 bytes OK
+2025/04/09-18:14:48.930485 7f8efdf0a0 Delete type=3 #735
+2025/04/09-18:14:48.930727 7f8efdf0a0 Delete type=0 #736
+2025/04/09-18:19:13.279417 7e65c7f0a0 Compacting 3@0 + 0@1 files
+2025/04/09-18:19:13.470014 7e65c7f0a0 Generated table #740@0: 122 keys, 2108657 bytes
+2025/04/09-18:19:13.620487 7e65c7f0a0 Generated table #741@0: 87 keys, 1350215 bytes
+2025/04/09-18:19:13.620595 7e65c7f0a0 Compacted 3@0 + 0@1 files => 3458872 bytes
+2025/04/09-18:19:13.626788 7e65c7f0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/04/09-18:19:13.627600 7e65c7f0a0 Delete type=2 #732
+2025/04/09-18:19:13.629813 7e65c7f0a0 Delete type=2 #733
+2025/04/09-18:19:13.630755 7e65c7f0a0 Delete type=2 #738
+2025/04/09-22:25:23.882133 7e65c7f0a0 Level-0 table #743: started
+2025/04/09-22:25:23.901800 7e65c7f0a0 Level-0 table #743: 92850 bytes OK
+2025/04/09-22:25:23.907337 7e65c7f0a0 Delete type=0 #739
+2025/04/09-22:25:23.919633 7e65c7f0a0 Manual compaction at level-0 from '!fog!0T5QRxMKjd0QLfpa' @ 72057594037927935 : 1 .. '!fog!zXnI4cFC8vlVF10Z' @ 0 : 0; will stop at '!fog!xRItKDQvlBks2YvW' @ 1923 : 1
+2025/04/09-22:25:23.919681 7e65c7f0a0 Compacting 1@0 + 2@1 files
+2025/04/09-22:25:24.091378 7e65c7f0a0 Generated table #744@0: 127 keys, 2111312 bytes
+2025/04/09-22:25:24.208176 7e65c7f0a0 Generated table #745@0: 91 keys, 1360433 bytes
+2025/04/09-22:25:24.208285 7e65c7f0a0 Compacted 1@0 + 2@1 files => 3471745 bytes
+2025/04/09-22:25:24.215599 7e65c7f0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/04/09-22:25:24.216238 7e65c7f0a0 Delete type=2 #741
+2025/04/09-22:25:24.218788 7e65c7f0a0 Delete type=2 #743
+2025/04/09-22:25:24.219679 7e65c7f0a0 Delete type=2 #740
+2025/04/09-22:25:24.259799 7e65c7f0a0 Manual compaction at level-0 from '!fog!xRItKDQvlBks2YvW' @ 1923 : 1 .. '!fog!zXnI4cFC8vlVF10Z' @ 0 : 0; will stop at (end)
