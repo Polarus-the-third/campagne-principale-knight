@@ -1,17 +1,5 @@
-2025/04/09-18:14:49.698178 7f9cdbf0a0 Recovering log #730
-2025/04/09-18:14:49.698466 7f9cdbf0a0 Level-0 table #732: started
-2025/04/09-18:14:49.714350 7f9cdbf0a0 Level-0 table #732: 4374 bytes OK
-2025/04/09-18:14:49.735829 7f9cdbf0a0 Delete type=3 #729
-2025/04/09-18:14:49.736093 7f9cdbf0a0 Delete type=0 #730
-2025/04/09-22:25:24.692437 7e65c7f0a0 Level-0 table #735: started
-2025/04/09-22:25:24.702802 7e65c7f0a0 Level-0 table #735: 4373 bytes OK
-2025/04/09-22:25:24.709588 7e65c7f0a0 Delete type=0 #733
-2025/04/09-22:25:24.722554 7e65c7f0a0 Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 848 : 1
-2025/04/09-22:25:24.722610 7e65c7f0a0 Compacting 3@0 + 0@1 files
-2025/04/09-22:25:24.732470 7e65c7f0a0 Generated table #736@0: 19 keys, 4307 bytes
-2025/04/09-22:25:24.732571 7e65c7f0a0 Compacted 3@0 + 0@1 files => 4307 bytes
-2025/04/09-22:25:24.740037 7e65c7f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/04/09-22:25:24.740373 7e65c7f0a0 Delete type=2 #735
-2025/04/09-22:25:24.740734 7e65c7f0a0 Delete type=2 #732
-2025/04/09-22:25:24.740968 7e65c7f0a0 Delete type=2 #727
-2025/04/09-22:25:24.778125 7e65c7f0a0 Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 848 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)
+2025/04/16-19:54:52.816 470c Log #739: 0 ops saved to Table #742 OK
+2025/04/16-19:54:52.817 470c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/settings/000739.log: OK
+2025/04/16-19:54:52.820 470c Table #741: 19 entries OK
+2025/04/16-19:54:52.825 470c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/settings/MANIFEST-000737: OK
+2025/04/16-19:54:52.829 470c **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/settings; recovered 1 files; 4307 bytes. Some data may have been lost. ****

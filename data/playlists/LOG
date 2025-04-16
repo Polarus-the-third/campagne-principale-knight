@@ -1,7 +1,1 @@
-2025/04/10-19:05:07.362124 7f8f7ef0a0 Recovering log #579
-2025/04/10-19:05:07.445556 7f8f7ef0a0 Delete type=0 #579
-2025/04/10-19:05:07.445722 7f8f7ef0a0 Delete type=3 #577
-2025/04/10-21:45:33.133140 7e65c7f0a0 Level-0 table #585: started
-2025/04/10-21:45:33.133275 7e65c7f0a0 Level-0 table #585: 0 bytes OK
-2025/04/10-21:45:33.142934 7e65c7f0a0 Delete type=0 #583
-2025/04/10-21:45:33.178452 7e65c7f0a0 Manual compaction at level-0 from '!playlists!8E7kZjSoTCsYj36d' @ 72057594037927935 : 1 .. '!playlists.sounds!xdren7ctqREwpSy1.iZDACQ4qSySVl3lM' @ 0 : 0; will stop at (end)
+2025/04/16-19:54:52.641 3f9c Delete type=3 #1
