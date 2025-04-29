@@ -1,7 +1,1 @@
-2025/04/29-19:41:33.087 4d78 Log #624: 0 ops saved to Table #626 OK
-2025/04/29-19:41:33.088 4d78 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/items/000624.log: OK
-2025/04/29-19:41:33.088 4d78 Log #625: 0 ops saved to Table #627 OK
-2025/04/29-19:41:33.089 4d78 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/items/000625.log: OK
-2025/04/29-19:41:33.095 4d78 Table #618: 924 entries OK
-2025/04/29-19:41:33.100 4d78 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/items/MANIFEST-000623: OK
-2025/04/29-19:41:33.104 4d78 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/items; recovered 1 files; 1061011 bytes. Some data may have been lost. ****
+2025/04/29-19:41:33.116 4d78 Delete type=3 #1
