@@ -1,14 +1,9 @@
-2025/04/21-12:00:29.146457 7f8cb7f0a0 Recovering log #1039
-2025/04/21-12:00:29.198553 7f8cb7f0a0 Delete type=3 #1029
-2025/04/21-12:00:29.198886 7f8cb7f0a0 Delete type=0 #1039
-2025/04/21-14:37:59.667115 7f6ef590a0 Level-0 table #1046: started
-2025/04/21-14:37:59.707036 7f6ef590a0 Level-0 table #1046: 10138 bytes OK
-2025/04/21-14:37:59.714136 7f6ef590a0 Delete type=0 #1044
-2025/04/21-14:37:59.714867 7f6ef590a0 Manual compaction at level-0 from '!actors!0dBrS2iiMIRD5TAy' @ 72057594037927935 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at '!actors!axdGym5TelbNWmMd' @ 54583 : 1
-2025/04/21-14:37:59.714901 7f6ef590a0 Compacting 1@0 + 1@1 files
-2025/04/21-14:38:00.235113 7f6ef590a0 Generated table #1047@0: 1072 keys, 2122220 bytes
-2025/04/21-14:38:00.235233 7f6ef590a0 Compacted 1@0 + 1@1 files => 2122220 bytes
-2025/04/21-14:38:00.245336 7f6ef590a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2025/04/21-14:38:00.246109 7f6ef590a0 Delete type=2 #1041
-2025/04/21-14:38:00.248953 7f6ef590a0 Delete type=2 #1046
-2025/04/21-14:38:00.298476 7f6ef590a0 Manual compaction at level-0 from '!actors!axdGym5TelbNWmMd' @ 54583 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at (end)
+2025/04/29-19:41:32.721 3c6c Log #1050: 0 ops saved to Table #1062 OK
+2025/04/29-19:41:32.722 3c6c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/001050.log: OK
+2025/04/29-19:41:32.722 3c6c Log #1058: 0 ops saved to Table #1063 OK
+2025/04/29-19:41:32.723 3c6c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/001058.log: OK
+2025/04/29-19:41:32.735 3c6c Table #1060: 1072 entries OK
+2025/04/29-19:41:32.760 3c6c Table #1061: 1045 entries OK
+2025/04/29-19:41:32.768 3c6c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/MANIFEST-001048: OK
+2025/04/29-19:41:32.770 3c6c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/MANIFEST-001049: OK
+2025/04/29-19:41:32.774 3c6c **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors; recovered 2 files; 3211749 bytes. Some data may have been lost. ****

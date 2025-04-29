@@ -1,7 +1,6 @@
-2025/04/21-12:00:30.289987 7f7efdf0a0 Recovering log #524
-2025/04/21-12:00:30.338774 7f7efdf0a0 Delete type=0 #524
-2025/04/21-12:00:30.344299 7f7efdf0a0 Delete type=3 #522
-2025/04/21-14:37:59.644367 7f6ef590a0 Level-0 table #529: started
-2025/04/21-14:37:59.652748 7f6ef590a0 Level-0 table #529: 0 bytes OK
-2025/04/21-14:37:59.661071 7f6ef590a0 Delete type=0 #527
-2025/04/21-14:37:59.714769 7f6ef590a0 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2025/04/29-19:41:32.973 814 Log #531: 0 ops saved to Table #533 OK
+2025/04/29-19:41:32.974 814 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/drawings/000531.log: OK
+2025/04/29-19:41:32.975 814 Log #532: 0 ops saved to Table #534 OK
+2025/04/29-19:41:32.975 814 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/drawings/000532.log: OK
+2025/04/29-19:41:32.979 814 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/drawings/MANIFEST-000530: OK
+2025/04/29-19:41:32.984 814 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/drawings; recovered 0 files; 0 bytes. Some data may have been lost. ****

@@ -1,45 +1,8 @@
-2025/04/21-12:00:29.605731 7f7efdf0a0 Recovering log #949
-2025/04/21-12:00:29.638350 7f7efdf0a0 Delete type=0 #949
-2025/04/21-12:00:29.638562 7f7efdf0a0 Delete type=3 #929
-2025/04/21-14:38:00.589470 7f6ef590a0 Level-0 table #959: started
-2025/04/21-14:38:00.601225 7f6ef590a0 Level-0 table #959: 4308 bytes OK
-2025/04/21-14:38:00.608751 7f6ef590a0 Delete type=0 #957
-2025/04/21-14:38:00.621462 7f6ef590a0 Manual compaction at level-0 from '!messages!05etoLG2snRyTY3n' @ 72057594037927935 : 1 .. '!messages!zpmTYxzmGFZKmQKI' @ 0 : 0; will stop at '!messages!weaJmZhzbEMNdvpa' @ 7577 : 1
-2025/04/21-14:38:00.621905 7f6ef590a0 Compacting 1@0 + 4@1 files
-2025/04/21-14:38:01.078180 7f6ef590a0 Generated table #960@0: 56 keys, 2129758 bytes
-2025/04/21-14:38:01.392625 7f6ef590a0 Generated table #961@0: 38 keys, 2218439 bytes
-2025/04/21-14:38:01.665023 7f6ef590a0 Generated table #962@0: 72 keys, 2192181 bytes
-2025/04/21-14:38:01.940938 7f6ef590a0 Generated table #963@0: 73 keys, 2087534 bytes
-2025/04/21-14:38:01.941060 7f6ef590a0 Compacted 1@0 + 4@1 files => 8627912 bytes
-2025/04/21-14:38:01.946687 7f6ef590a0 compacted to: files[ 0 4 1 0 0 0 0 ]
-2025/04/21-14:38:01.947542 7f6ef590a0 Delete type=2 #952
-2025/04/21-14:38:01.951101 7f6ef590a0 Delete type=2 #955
-2025/04/21-14:38:01.953234 7f6ef590a0 Delete type=2 #954
-2025/04/21-14:38:01.956724 7f6ef590a0 Delete type=2 #959
-2025/04/21-14:38:01.957664 7f6ef590a0 Delete type=2 #953
-2025/04/21-14:38:01.985729 7f6ef590a0 Manual compaction at level-0 from '!messages!weaJmZhzbEMNdvpa' @ 7577 : 1 .. '!messages!zpmTYxzmGFZKmQKI' @ 0 : 0; will stop at (end)
-2025/04/21-14:38:01.996507 7f6ef590a0 Manual compaction at level-1 from '!messages!05etoLG2snRyTY3n' @ 72057594037927935 : 1 .. '!messages!zpmTYxzmGFZKmQKI' @ 0 : 0; will stop at '!messages!SPzkzWRLtdH4dGds' @ 7424 : 1
-2025/04/21-14:38:01.996994 7f6ef590a0 Compacting 1@1 + 0@2 files
-2025/04/21-14:38:02.263936 7f6ef590a0 Generated table #964@1: 56 keys, 2129758 bytes
-2025/04/21-14:38:02.264053 7f6ef590a0 Compacted 1@1 + 0@2 files => 2129758 bytes
-2025/04/21-14:38:02.269497 7f6ef590a0 compacted to: files[ 0 3 2 0 0 0 0 ]
-2025/04/21-14:38:02.270357 7f6ef590a0 Delete type=2 #960
-2025/04/21-14:38:02.306126 7f6ef590a0 Manual compaction at level-1 from '!messages!SPzkzWRLtdH4dGds' @ 7424 : 1 .. '!messages!zpmTYxzmGFZKmQKI' @ 0 : 0; will stop at '!messages!ZWRfJZ3yN9U3aCiL' @ 7422 : 1
-2025/04/21-14:38:02.306183 7f6ef590a0 Compacting 1@1 + 0@2 files
-2025/04/21-14:38:02.578895 7f6ef590a0 Generated table #965@1: 38 keys, 2218439 bytes
-2025/04/21-14:38:02.579014 7f6ef590a0 Compacted 1@1 + 0@2 files => 2218439 bytes
-2025/04/21-14:38:02.584360 7f6ef590a0 compacted to: files[ 0 2 3 0 0 0 0 ]
-2025/04/21-14:38:02.585270 7f6ef590a0 Delete type=2 #961
-2025/04/21-14:38:02.618176 7f6ef590a0 Manual compaction at level-1 from '!messages!ZWRfJZ3yN9U3aCiL' @ 7422 : 1 .. '!messages!zpmTYxzmGFZKmQKI' @ 0 : 0; will stop at '!messages!nHVyaBh26vUVBNkh' @ 7478 : 1
-2025/04/21-14:38:02.618226 7f6ef590a0 Compacting 1@1 + 0@2 files
-2025/04/21-14:38:02.893521 7f6ef590a0 Generated table #966@1: 72 keys, 2192181 bytes
-2025/04/21-14:38:02.893634 7f6ef590a0 Compacted 1@1 + 0@2 files => 2192181 bytes
-2025/04/21-14:38:02.899182 7f6ef590a0 compacted to: files[ 0 1 4 0 0 0 0 ]
-2025/04/21-14:38:02.900010 7f6ef590a0 Delete type=2 #962
-2025/04/21-14:38:02.915908 7f6ef590a0 Manual compaction at level-1 from '!messages!nHVyaBh26vUVBNkh' @ 7478 : 1 .. '!messages!zpmTYxzmGFZKmQKI' @ 0 : 0; will stop at '!messages!zpmTYxzmGFZKmQKI' @ 7387 : 1
-2025/04/21-14:38:02.915962 7f6ef590a0 Compacting 1@1 + 0@2 files
-2025/04/21-14:38:03.175389 7f6ef590a0 Generated table #967@1: 73 keys, 2087534 bytes
-2025/04/21-14:38:03.175495 7f6ef590a0 Compacted 1@1 + 0@2 files => 2087534 bytes
-2025/04/21-14:38:03.181673 7f6ef590a0 compacted to: files[ 0 0 5 0 0 0 0 ]
-2025/04/21-14:38:03.182503 7f6ef590a0 Delete type=2 #963
-2025/04/21-14:38:03.198830 7f6ef590a0 Manual compaction at level-1 from '!messages!zpmTYxzmGFZKmQKI' @ 7387 : 1 .. '!messages!zpmTYxzmGFZKmQKI' @ 0 : 0; will stop at (end)
+2025/04/29-19:41:32.882 3c6c Log #970: 0 ops saved to Table #978 OK
+2025/04/29-19:41:32.883 3c6c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/000970.log: OK
+2025/04/29-19:41:32.884 3c6c Log #974: 0 ops saved to Table #979 OK
+2025/04/29-19:41:32.885 3c6c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/000974.log: OK
+2025/04/29-19:41:32.895 3c6c Table #977: 61 entries OK
+2025/04/29-19:41:32.899 3c6c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/MANIFEST-000968: OK
+2025/04/29-19:41:32.900 3c6c Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/MANIFEST-000969: OK
+2025/04/29-19:41:32.905 3c6c **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages; recovered 1 files; 1967516 bytes. Some data may have been lost. ****
