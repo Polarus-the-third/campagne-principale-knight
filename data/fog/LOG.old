@@ -1,1 +1,16 @@
-2025/06/03-19:16:48.200 4a08 Delete type=3 #1
+2025/06/04-20:37:54.789 2544 Recovering log #798
+2025/06/04-20:37:54.805 2544 Delete type=0 #798
+2025/06/04-20:37:54.805 2544 Delete type=3 #797
+2025/06/04-20:44:58.766 4098 Level-0 table #802: started
+2025/06/04-20:44:58.779 4098 Level-0 table #802: 2540 bytes OK
+2025/06/04-20:44:58.782 4098 Delete type=0 #800
+2025/06/04-20:44:58.794 4098 Manual compaction at level-0 from '!fog!0T5QRxMKjd0QLfpa' @ 72057594037927935 : 1 .. '!fog!zXnI4cFC8vlVF10Z' @ 0 : 0; will stop at '!fog!zXnI4cFC8vlVF10Z' @ 1744 : 1
+2025/06/04-20:44:58.794 4098 Compacting 3@0 + 0@1 files
+2025/06/04-20:44:58.820 4098 Generated table #803@0: 153 keys, 2140571 bytes
+2025/06/04-20:44:58.837 4098 Generated table #804@0: 106 keys, 1404796 bytes
+2025/06/04-20:44:58.838 4098 Compacted 3@0 + 0@1 files => 3545367 bytes
+2025/06/04-20:44:58.841 4098 compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/06/04-20:44:58.841 4098 Delete type=2 #794
+2025/06/04-20:44:58.843 4098 Delete type=2 #795
+2025/06/04-20:44:58.843 4098 Delete type=2 #802
+2025/06/04-20:44:58.858 4098 Manual compaction at level-0 from '!fog!zXnI4cFC8vlVF10Z' @ 1744 : 1 .. '!fog!zXnI4cFC8vlVF10Z' @ 0 : 0; will stop at (end)
