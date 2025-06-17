@@ -1,15 +1,22 @@
-2025/06/04-20:37:54.678 47ec Recovering log #1014
-2025/06/04-20:37:54.678 47ec Delete type=0 #1014
-2025/06/04-20:37:54.678 47ec Delete type=3 #1013
-2025/06/04-20:44:59.197 4098 Level-0 table #1018: started
-2025/06/04-20:44:59.197 4098 Level-0 table #1018: 0 bytes OK
-2025/06/04-20:44:59.216 4098 Delete type=0 #1016
-2025/06/04-20:44:59.217 4098 Manual compaction at level-0 from '!messages!084Ogw0AL8mjDmtJ' @ 72057594037927935 : 1 .. '!messages!yg2U58KacNtllVKQ' @ 0 : 0; will stop at '!messages!yg2U58KacNtllVKQ' @ 8186 : 1
-2025/06/04-20:44:59.217 4098 Compacting 2@0 + 0@1 files
-2025/06/04-20:44:59.344 4098 Generated table #1019@0: 41 keys, 2213701 bytes
-2025/06/04-20:44:59.389 4098 Generated table #1020@0: 31 keys, 1592448 bytes
-2025/06/04-20:44:59.389 4098 Compacted 2@0 + 0@1 files => 3806149 bytes
-2025/06/04-20:44:59.391 4098 compacted to: files[ 0 2 0 0 0 0 0 ]
-2025/06/04-20:44:59.391 4098 Delete type=2 #1010
-2025/06/04-20:44:59.391 4098 Delete type=2 #1011
-2025/06/04-20:44:59.392 4098 Manual compaction at level-0 from '!messages!yg2U58KacNtllVKQ' @ 8186 : 1 .. '!messages!yg2U58KacNtllVKQ' @ 0 : 0; will stop at (end)
+2025/06/17-20:20:23.878 2bc0 Recovering log #1029
+2025/06/17-20:20:23.883 2bc0 Delete type=0 #1029
+2025/06/17-20:20:23.885 2bc0 Delete type=3 #1027
+2025/06/17-21:45:52.442 38a4 Level-0 table #1035: started
+2025/06/17-21:45:52.474 38a4 Level-0 table #1035: 905608 bytes OK
+2025/06/17-21:45:52.477 38a4 Delete type=0 #1033
+2025/06/17-21:49:33.640 38a4 Level-0 table #1037: started
+2025/06/17-21:49:33.662 38a4 Level-0 table #1037: 876670 bytes OK
+2025/06/17-21:49:33.665 38a4 Delete type=0 #1034
+2025/06/17-21:50:21.115 38a4 Level-0 table #1039: started
+2025/06/17-21:50:21.136 38a4 Level-0 table #1039: 146299 bytes OK
+2025/06/17-21:50:21.150 38a4 Delete type=0 #1036
+2025/06/17-21:50:21.154 38a4 Manual compaction at level-0 from '!messages!0EoD4hip1N40z2E6' @ 72057594037927935 : 1 .. '!messages!zqzCTLoa9c9t6Giw' @ 0 : 0; will stop at '!messages!xkrmUWznoZoH8NcS' @ 8340 : 1
+2025/06/17-21:50:21.161 38a4 Compacting 3@0 + 1@1 files
+2025/06/17-21:50:21.256 38a4 Generated table #1040@0: 65 keys, 1991748 bytes
+2025/06/17-21:50:21.256 38a4 Compacted 3@0 + 1@1 files => 1991748 bytes
+2025/06/17-21:50:21.258 38a4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/06/17-21:50:21.260 38a4 Delete type=2 #1031
+2025/06/17-21:50:21.260 38a4 Delete type=2 #1035
+2025/06/17-21:50:21.261 38a4 Delete type=2 #1037
+2025/06/17-21:50:21.261 38a4 Delete type=2 #1039
+2025/06/17-21:50:21.261 38a4 Manual compaction at level-0 from '!messages!xkrmUWznoZoH8NcS' @ 8340 : 1 .. '!messages!zqzCTLoa9c9t6Giw' @ 0 : 0; will stop at (end)
