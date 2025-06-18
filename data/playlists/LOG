@@ -1,16 +1,14 @@
-2025/06/18-19:46:54.748 638 Recovering log #647
-2025/06/18-19:46:54.748 638 Level-0 table #649: started
-2025/06/18-19:46:54.765 638 Level-0 table #649: 1767 bytes OK
-2025/06/18-19:46:54.772 638 Delete type=0 #647
-2025/06/18-19:46:54.772 638 Delete type=3 #646
-2025/06/18-20:45:00.569 273c Level-0 table #652: started
-2025/06/18-20:45:00.569 273c Level-0 table #652: 0 bytes OK
-2025/06/18-20:45:00.571 273c Delete type=0 #650
-2025/06/18-20:45:00.590 273c Manual compaction at level-0 from '!playlists!8E7kZjSoTCsYj36d' @ 72057594037927935 : 1 .. '!playlists.sounds!xdren7ctqREwpSy1.iZDACQ4qSySVl3lM' @ 0 : 0; will stop at '!playlists.sounds!X7sWFavdc2V5WWDo.rigZ5MvgQ9aB0Xxk' @ 1413 : 1
-2025/06/18-20:45:00.590 273c Compacting 1@0 + 1@1 files
-2025/06/18-20:45:00.593 273c Generated table #653@0: 53 keys, 8269 bytes
-2025/06/18-20:45:00.593 273c Compacted 1@0 + 1@1 files => 8269 bytes
-2025/06/18-20:45:00.594 273c compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/06/18-20:45:00.595 273c Delete type=2 #641
-2025/06/18-20:45:00.595 273c Delete type=2 #649
-2025/06/18-20:45:00.627 273c Manual compaction at level-0 from '!playlists.sounds!X7sWFavdc2V5WWDo.rigZ5MvgQ9aB0Xxk' @ 1413 : 1 .. '!playlists.sounds!xdren7ctqREwpSy1.iZDACQ4qSySVl3lM' @ 0 : 0; will stop at (end)
+2025/06/18-18:51:05.591381 7f976bf0a0 Recovering log #651
+2025/06/18-18:51:05.615831 7f976bf0a0 Delete type=0 #651
+2025/06/18-18:51:05.616010 7f976bf0a0 Delete type=3 #648
+2025/06/18-21:59:23.612935 7e6f77f0a0 Level-0 table #657: started
+2025/06/18-21:59:23.626210 7e6f77f0a0 Level-0 table #657: 6424 bytes OK
+2025/06/18-21:59:23.633206 7e6f77f0a0 Delete type=0 #655
+2025/06/18-21:59:23.681353 7e6f77f0a0 Manual compaction at level-0 from '!playlists!8E7kZjSoTCsYj36d' @ 72057594037927935 : 1 .. '!playlists.sounds!xdren7ctqREwpSy1.iZDACQ4qSySVl3lM' @ 0 : 0; will stop at '!playlists.sounds!X7sWFavdc2V5WWDo.rigZ5MvgQ9aB0Xxk' @ 1426 : 1
+2025/06/18-21:59:23.681412 7e6f77f0a0 Compacting 1@0 + 1@1 files
+2025/06/18-21:59:23.693292 7e6f77f0a0 Generated table #658@0: 53 keys, 8290 bytes
+2025/06/18-21:59:23.693402 7e6f77f0a0 Compacted 1@0 + 1@1 files => 8290 bytes
+2025/06/18-21:59:23.701278 7e6f77f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/06/18-21:59:23.701632 7e6f77f0a0 Delete type=2 #653
+2025/06/18-21:59:23.702039 7e6f77f0a0 Delete type=2 #657
+2025/06/18-21:59:23.862547 7e6f77f0a0 Manual compaction at level-0 from '!playlists.sounds!X7sWFavdc2V5WWDo.rigZ5MvgQ9aB0Xxk' @ 1426 : 1 .. '!playlists.sounds!xdren7ctqREwpSy1.iZDACQ4qSySVl3lM' @ 0 : 0; will stop at (end)

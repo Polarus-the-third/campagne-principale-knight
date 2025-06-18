@@ -1,16 +1,16 @@
-2025/06/18-19:46:54.482 638 Recovering log #823
-2025/06/18-19:46:54.482 638 Delete type=0 #823
-2025/06/18-19:46:54.482 638 Delete type=3 #822
-2025/06/18-20:45:00.471 273c Level-0 table #827: started
-2025/06/18-20:45:00.474 273c Level-0 table #827: 4782 bytes OK
-2025/06/18-20:45:00.476 273c Delete type=0 #825
-2025/06/18-20:45:00.498 273c Manual compaction at level-0 from '!fog!0T5QRxMKjd0QLfpa' @ 72057594037927935 : 1 .. '!fog!zXnI4cFC8vlVF10Z' @ 0 : 0; will stop at '!fog!t9f5ACcmDi7Qs9vJ' @ 2103 : 0
-2025/06/18-20:45:00.499 273c Compacting 1@0 + 2@1 files
-2025/06/18-20:45:00.527 273c Generated table #828@0: 156 keys, 2144205 bytes
-2025/06/18-20:45:00.548 273c Generated table #829@0: 105 keys, 1403728 bytes
-2025/06/18-20:45:00.548 273c Compacted 1@0 + 2@1 files => 3547933 bytes
-2025/06/18-20:45:00.552 273c compacted to: files[ 0 2 0 0 0 0 0 ]
-2025/06/18-20:45:00.553 273c Delete type=2 #816
-2025/06/18-20:45:00.554 273c Delete type=2 #817
-2025/06/18-20:45:00.554 273c Delete type=2 #827
-2025/06/18-20:45:00.565 273c Manual compaction at level-0 from '!fog!t9f5ACcmDi7Qs9vJ' @ 2103 : 0 .. '!fog!zXnI4cFC8vlVF10Z' @ 0 : 0; will stop at (end)
+2025/06/18-18:51:05.305189 7f976bf0a0 Recovering log #826
+2025/06/18-18:51:05.330336 7f976bf0a0 Delete type=3 #824
+2025/06/18-18:51:05.330591 7f976bf0a0 Delete type=0 #826
+2025/06/18-21:59:23.200967 7e6f77f0a0 Level-0 table #833: started
+2025/06/18-21:59:23.215728 7e6f77f0a0 Level-0 table #833: 17231 bytes OK
+2025/06/18-21:59:23.222673 7e6f77f0a0 Delete type=0 #831
+2025/06/18-21:59:23.252231 7e6f77f0a0 Manual compaction at level-0 from '!fog!0T5QRxMKjd0QLfpa' @ 72057594037927935 : 1 .. '!fog!zXnI4cFC8vlVF10Z' @ 0 : 0; will stop at '!fog!vKciGU7hHjW3fPTN' @ 2108 : 1
+2025/06/18-21:59:23.252288 7e6f77f0a0 Compacting 1@0 + 2@1 files
+2025/06/18-21:59:23.437199 7e6f77f0a0 Generated table #834@0: 152 keys, 2111095 bytes
+2025/06/18-21:59:23.571626 7e6f77f0a0 Generated table #835@0: 113 keys, 1449909 bytes
+2025/06/18-21:59:23.571738 7e6f77f0a0 Compacted 1@0 + 2@1 files => 3561004 bytes
+2025/06/18-21:59:23.577448 7e6f77f0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/06/18-21:59:23.578298 7e6f77f0a0 Delete type=2 #828
+2025/06/18-21:59:23.583765 7e6f77f0a0 Delete type=2 #833
+2025/06/18-21:59:23.584617 7e6f77f0a0 Delete type=2 #829
+2025/06/18-21:59:23.600302 7e6f77f0a0 Manual compaction at level-0 from '!fog!vKciGU7hHjW3fPTN' @ 2108 : 1 .. '!fog!zXnI4cFC8vlVF10Z' @ 0 : 0; will stop at (end)
