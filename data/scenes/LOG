@@ -1,14 +1,12 @@
-2025/06/18-18:51:05.677010 7f976bf0a0 Recovering log #858
-2025/06/18-18:51:05.702883 7f976bf0a0 Delete type=3 #856
-2025/06/18-18:51:05.703153 7f976bf0a0 Delete type=0 #858
-2025/06/18-21:59:23.644476 7e6f77f0a0 Level-0 table #864: started
-2025/06/18-21:59:23.673029 7e6f77f0a0 Level-0 table #864: 125383 bytes OK
-2025/06/18-21:59:23.680308 7e6f77f0a0 Delete type=0 #862
-2025/06/18-21:59:23.721387 7e6f77f0a0 Manual compaction at level-0 from '!scenes!042D1rUQwW1sLGxG' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.walls!yVY3xvUXIPFWGfp7.vtV0s7fjRcUgwrxM' @ 79971 : 0
-2025/06/18-21:59:23.721448 7e6f77f0a0 Compacting 1@0 + 1@1 files
-2025/06/18-21:59:23.850878 7e6f77f0a0 Generated table #865@0: 6808 keys, 815460 bytes
-2025/06/18-21:59:23.850988 7e6f77f0a0 Compacted 1@0 + 1@1 files => 815460 bytes
-2025/06/18-21:59:23.858198 7e6f77f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/06/18-21:59:23.858816 7e6f77f0a0 Delete type=2 #860
-2025/06/18-21:59:23.861895 7e6f77f0a0 Delete type=2 #864
-2025/06/18-21:59:23.905440 7e6f77f0a0 Manual compaction at level-0 from '!scenes.walls!yVY3xvUXIPFWGfp7.vtV0s7fjRcUgwrxM' @ 79971 : 0 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)
+2025/06/25-18:46:22.668 bc4 Delete type=3 #1
+2025/06/25-19:21:25.330 59a0 Level-0 table #870: started
+2025/06/25-19:21:25.337 59a0 Level-0 table #870: 18131 bytes OK
+2025/06/25-19:21:25.338 59a0 Delete type=0 #868
+2025/06/25-19:21:25.346 59a0 Manual compaction at level-0 from '!scenes!042D1rUQwW1sLGxG' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.walls!T9CLsFBEH3OTqxeh.rZvKBALt6UlFasyB' @ 80372 : 0
+2025/06/25-19:21:25.346 59a0 Compacting 2@0 + 0@1 files
+2025/06/25-19:21:25.369 59a0 Generated table #871@0: 6616 keys, 762064 bytes
+2025/06/25-19:21:25.370 59a0 Compacted 2@0 + 0@1 files => 762064 bytes
+2025/06/25-19:21:25.371 59a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/06/25-19:21:25.372 59a0 Delete type=2 #865
+2025/06/25-19:21:25.372 59a0 Delete type=2 #870
+2025/06/25-19:21:25.382 59a0 Manual compaction at level-0 from '!scenes.walls!T9CLsFBEH3OTqxeh.rZvKBALt6UlFasyB' @ 80372 : 0 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)

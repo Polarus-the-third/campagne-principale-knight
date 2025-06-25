@@ -1,16 +1,14 @@
-2025/06/18-18:51:05.305189 7f976bf0a0 Recovering log #826
-2025/06/18-18:51:05.330336 7f976bf0a0 Delete type=3 #824
-2025/06/18-18:51:05.330591 7f976bf0a0 Delete type=0 #826
-2025/06/18-21:59:23.200967 7e6f77f0a0 Level-0 table #833: started
-2025/06/18-21:59:23.215728 7e6f77f0a0 Level-0 table #833: 17231 bytes OK
-2025/06/18-21:59:23.222673 7e6f77f0a0 Delete type=0 #831
-2025/06/18-21:59:23.252231 7e6f77f0a0 Manual compaction at level-0 from '!fog!0T5QRxMKjd0QLfpa' @ 72057594037927935 : 1 .. '!fog!zXnI4cFC8vlVF10Z' @ 0 : 0; will stop at '!fog!vKciGU7hHjW3fPTN' @ 2108 : 1
-2025/06/18-21:59:23.252288 7e6f77f0a0 Compacting 1@0 + 2@1 files
-2025/06/18-21:59:23.437199 7e6f77f0a0 Generated table #834@0: 152 keys, 2111095 bytes
-2025/06/18-21:59:23.571626 7e6f77f0a0 Generated table #835@0: 113 keys, 1449909 bytes
-2025/06/18-21:59:23.571738 7e6f77f0a0 Compacted 1@0 + 2@1 files => 3561004 bytes
-2025/06/18-21:59:23.577448 7e6f77f0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2025/06/18-21:59:23.578298 7e6f77f0a0 Delete type=2 #828
-2025/06/18-21:59:23.583765 7e6f77f0a0 Delete type=2 #833
-2025/06/18-21:59:23.584617 7e6f77f0a0 Delete type=2 #829
-2025/06/18-21:59:23.600302 7e6f77f0a0 Manual compaction at level-0 from '!fog!vKciGU7hHjW3fPTN' @ 2108 : 1 .. '!fog!zXnI4cFC8vlVF10Z' @ 0 : 0; will stop at (end)
+2025/06/25-18:46:22.194 bc4 Delete type=3 #1
+2025/06/25-19:21:25.141 59a0 Level-0 table #840: started
+2025/06/25-19:21:25.157 59a0 Level-0 table #840: 782 bytes OK
+2025/06/25-19:21:25.160 59a0 Delete type=0 #838
+2025/06/25-19:21:25.174 59a0 Manual compaction at level-0 from '!fog!0hekiryIhAdXoN60' @ 72057594037927935 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at '!fog!zXnI4cFC8vlVF10Z' @ 1744 : 1
+2025/06/25-19:21:25.174 59a0 Compacting 3@0 + 0@1 files
+2025/06/25-19:21:25.199 59a0 Generated table #841@0: 157 keys, 2216895 bytes
+2025/06/25-19:21:25.219 59a0 Generated table #842@0: 82 keys, 1183300 bytes
+2025/06/25-19:21:25.219 59a0 Compacted 3@0 + 0@1 files => 3400195 bytes
+2025/06/25-19:21:25.221 59a0 compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/06/25-19:21:25.222 59a0 Delete type=2 #834
+2025/06/25-19:21:25.222 59a0 Delete type=2 #835
+2025/06/25-19:21:25.222 59a0 Delete type=2 #840
+2025/06/25-19:21:25.295 59a0 Manual compaction at level-0 from '!fog!zXnI4cFC8vlVF10Z' @ 1744 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at (end)
