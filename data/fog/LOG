@@ -1,14 +1,16 @@
-2025/06/25-18:46:22.194 bc4 Delete type=3 #1
-2025/06/25-19:21:25.141 59a0 Level-0 table #840: started
-2025/06/25-19:21:25.157 59a0 Level-0 table #840: 782 bytes OK
-2025/06/25-19:21:25.160 59a0 Delete type=0 #838
-2025/06/25-19:21:25.174 59a0 Manual compaction at level-0 from '!fog!0hekiryIhAdXoN60' @ 72057594037927935 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at '!fog!zXnI4cFC8vlVF10Z' @ 1744 : 1
-2025/06/25-19:21:25.174 59a0 Compacting 3@0 + 0@1 files
-2025/06/25-19:21:25.199 59a0 Generated table #841@0: 157 keys, 2216895 bytes
-2025/06/25-19:21:25.219 59a0 Generated table #842@0: 82 keys, 1183300 bytes
-2025/06/25-19:21:25.219 59a0 Compacted 3@0 + 0@1 files => 3400195 bytes
-2025/06/25-19:21:25.221 59a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2025/06/25-19:21:25.222 59a0 Delete type=2 #834
-2025/06/25-19:21:25.222 59a0 Delete type=2 #835
-2025/06/25-19:21:25.222 59a0 Delete type=2 #840
-2025/06/25-19:21:25.295 59a0 Manual compaction at level-0 from '!fog!zXnI4cFC8vlVF10Z' @ 1744 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at (end)
+2025/06/25-18:36:19.051116 7f95e8f0a0 Recovering log #839
+2025/06/25-18:36:19.075068 7f95e8f0a0 Delete type=3 #837
+2025/06/25-18:36:19.075372 7f95e8f0a0 Delete type=0 #839
+2025/06/25-22:00:37.032199 7e6f77f0a0 Level-0 table #846: started
+2025/06/25-22:00:37.087464 7e6f77f0a0 Level-0 table #846: 56234 bytes OK
+2025/06/25-22:00:37.106449 7e6f77f0a0 Delete type=0 #844
+2025/06/25-22:00:37.161553 7e6f77f0a0 Manual compaction at level-0 from '!fog!0hekiryIhAdXoN60' @ 72057594037927935 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at '!fog!kyUMf1wWEqVG93IL' @ 2143 : 1
+2025/06/25-22:00:37.161608 7e6f77f0a0 Compacting 1@0 + 2@1 files
+2025/06/25-22:00:37.415361 7e6f77f0a0 Generated table #847@0: 165 keys, 2219097 bytes
+2025/06/25-22:00:37.558759 7e6f77f0a0 Generated table #848@0: 83 keys, 1184961 bytes
+2025/06/25-22:00:37.558869 7e6f77f0a0 Compacted 1@0 + 2@1 files => 3404058 bytes
+2025/06/25-22:00:37.588109 7e6f77f0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/06/25-22:00:37.588992 7e6f77f0a0 Delete type=2 #841
+2025/06/25-22:00:37.593884 7e6f77f0a0 Delete type=2 #842
+2025/06/25-22:00:37.596478 7e6f77f0a0 Delete type=2 #846
+2025/06/25-22:00:37.626236 7e6f77f0a0 Manual compaction at level-0 from '!fog!kyUMf1wWEqVG93IL' @ 2143 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at (end)
