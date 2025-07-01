@@ -1,5 +1,11 @@
-2025/07/01-21:08:19.348 3988 Log #690: 0 ops saved to Table #691 OK
-2025/07/01-21:08:19.348 3988 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/folders/000690.log: OK
-2025/07/01-21:08:19.351 3988 Table #687: 60 entries OK
-2025/07/01-21:08:19.354 3988 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/folders/MANIFEST-000688: OK
-2025/07/01-21:08:19.356 3988 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/folders; recovered 1 files; 6894 bytes. Some data may have been lost. ****
+2025/07/01-21:08:19.375 3988 Delete type=3 #1
+2025/07/01-21:16:36.420 4bdc Level-0 table #695: started
+2025/07/01-21:16:36.420 4bdc Level-0 table #695: 0 bytes OK
+2025/07/01-21:16:36.422 4bdc Delete type=0 #693
+2025/07/01-21:16:36.459 4bdc Manual compaction at level-0 from '!folders!02Dt4Sj1FptZvupx' @ 72057594037927935 : 1 .. '!folders!y5UJp412VO3hdG5k' @ 0 : 0; will stop at '!folders!y5UJp412VO3hdG5k' @ 207 : 1
+2025/07/01-21:16:36.459 4bdc Compacting 1@0 + 0@1 files
+2025/07/01-21:16:36.463 4bdc Generated table #696@0: 60 keys, 6894 bytes
+2025/07/01-21:16:36.463 4bdc Compacted 1@0 + 0@1 files => 6894 bytes
+2025/07/01-21:16:36.466 4bdc compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/07/01-21:16:36.466 4bdc Delete type=2 #687
+2025/07/01-21:16:36.545 4bdc Manual compaction at level-0 from '!folders!y5UJp412VO3hdG5k' @ 207 : 1 .. '!folders!y5UJp412VO3hdG5k' @ 0 : 0; will stop at (end)

@@ -1,6 +1,14 @@
-2025/07/01-21:08:19.275 40c0 Log #845: 0 ops saved to Table #849 OK
-2025/07/01-21:08:19.275 40c0 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/fog/000845.log: OK
-2025/07/01-21:08:19.287 40c0 Table #847: 165 entries OK
-2025/07/01-21:08:19.296 40c0 Table #848: 83 entries OK
-2025/07/01-21:08:19.299 40c0 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/fog/MANIFEST-000843: OK
-2025/07/01-21:08:19.303 40c0 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/fog; recovered 2 files; 3404058 bytes. Some data may have been lost. ****
+2025/07/01-21:08:19.318 40c0 Delete type=3 #1
+2025/07/01-21:16:36.624 4bdc Level-0 table #853: started
+2025/07/01-21:16:36.636 4bdc Level-0 table #853: 310 bytes OK
+2025/07/01-21:16:36.639 4bdc Delete type=0 #851
+2025/07/01-21:16:36.652 4bdc Manual compaction at level-0 from '!fog!15ejNXSp6SXpDAnV' @ 72057594037927935 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at '!fog!zX1366SDnWYaVGAp' @ 1183 : 1
+2025/07/01-21:16:36.652 4bdc Compacting 3@0 + 0@1 files
+2025/07/01-21:16:36.679 4bdc Generated table #854@0: 160 keys, 2207441 bytes
+2025/07/01-21:16:36.700 4bdc Generated table #855@0: 82 keys, 1184661 bytes
+2025/07/01-21:16:36.700 4bdc Compacted 3@0 + 0@1 files => 3392102 bytes
+2025/07/01-21:16:36.702 4bdc compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/07/01-21:16:36.702 4bdc Delete type=2 #847
+2025/07/01-21:16:36.703 4bdc Delete type=2 #848
+2025/07/01-21:16:36.703 4bdc Delete type=2 #853
+2025/07/01-21:16:36.718 4bdc Manual compaction at level-0 from '!fog!zX1366SDnWYaVGAp' @ 1183 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at (end)
