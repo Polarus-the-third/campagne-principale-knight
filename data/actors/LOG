@@ -1,16 +1,13 @@
-2025/06/25-18:36:18.726866 7f95e8f0a0 Recovering log #1143
-2025/06/25-18:36:18.748264 7f95e8f0a0 Delete type=0 #1143
-2025/06/25-18:36:18.748456 7f95e8f0a0 Delete type=3 #1141
-2025/06/25-22:00:36.204776 7e6f77f0a0 Level-0 table #1150: started
-2025/06/25-22:00:36.265336 7e6f77f0a0 Level-0 table #1150: 154942 bytes OK
-2025/06/25-22:00:36.287813 7e6f77f0a0 Delete type=0 #1148
-2025/06/25-22:00:36.410153 7e6f77f0a0 Manual compaction at level-0 from '!actors!0dBrS2iiMIRD5TAy' @ 72057594037927935 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at '!actors.items!L4T2hUZAbUdvjw6v.xZ48FYrmPc2tyMFj' @ 57522 : 1
-2025/06/25-22:00:36.410212 7e6f77f0a0 Compacting 1@0 + 2@1 files
-2025/06/25-22:00:36.704843 7e6f77f0a0 Generated table #1151@0: 1067 keys, 2122194 bytes
-2025/06/25-22:00:36.879706 7e6f77f0a0 Generated table #1152@0: 1078 keys, 1140956 bytes
-2025/06/25-22:00:36.879817 7e6f77f0a0 Compacted 1@0 + 2@1 files => 3263150 bytes
-2025/06/25-22:00:36.898399 7e6f77f0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2025/06/25-22:00:36.898820 7e6f77f0a0 Delete type=2 #1150
-2025/06/25-22:00:36.900037 7e6f77f0a0 Delete type=2 #1145
-2025/06/25-22:00:36.904647 7e6f77f0a0 Delete type=2 #1146
-2025/06/25-22:00:37.008050 7e6f77f0a0 Manual compaction at level-0 from '!actors.items!L4T2hUZAbUdvjw6v.xZ48FYrmPc2tyMFj' @ 57522 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at (end)
+2025/07/01-21:08:19.042 20dc Delete type=3 #1
+2025/07/01-21:16:36.290 4bdc Level-0 table #1157: started
+2025/07/01-21:16:36.290 4bdc Level-0 table #1157: 0 bytes OK
+2025/07/01-21:16:36.293 4bdc Delete type=0 #1155
+2025/07/01-21:16:36.300 4bdc Manual compaction at level-0 from '!actors!0dBrS2iiMIRD5TAy' @ 72057594037927935 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 56090 : 1
+2025/07/01-21:16:36.300 4bdc Compacting 2@0 + 0@1 files
+2025/07/01-21:16:36.352 4bdc Generated table #1158@0: 1067 keys, 2122194 bytes
+2025/07/01-21:16:36.401 4bdc Generated table #1159@0: 1078 keys, 1140956 bytes
+2025/07/01-21:16:36.401 4bdc Compacted 2@0 + 0@1 files => 3263150 bytes
+2025/07/01-21:16:36.403 4bdc compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/07/01-21:16:36.403 4bdc Delete type=2 #1151
+2025/07/01-21:16:36.403 4bdc Delete type=2 #1152
+2025/07/01-21:16:36.414 4bdc Manual compaction at level-0 from '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 56090 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at (end)

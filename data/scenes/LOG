@@ -1,14 +1,12 @@
-2025/06/25-18:36:19.375337 7f95e8f0a0 Recovering log #869
-2025/06/25-18:36:19.402600 7f95e8f0a0 Delete type=3 #867
-2025/06/25-18:36:19.402869 7f95e8f0a0 Delete type=0 #869
-2025/06/25-22:00:37.730775 7e6f77f0a0 Level-0 table #875: started
-2025/06/25-22:00:37.791146 7e6f77f0a0 Level-0 table #875: 103061 bytes OK
-2025/06/25-22:00:37.813145 7e6f77f0a0 Delete type=0 #873
-2025/06/25-22:00:37.856531 7e6f77f0a0 Manual compaction at level-0 from '!scenes!042D1rUQwW1sLGxG' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.tokens.delta!vJEWNZjWEL3caHGY.uXCfAa7OmY8QdYOa.oUqlHI4sy9tOu4dc' @ 80682 : 1
-2025/06/25-22:00:37.856805 7e6f77f0a0 Compacting 1@0 + 1@1 files
-2025/06/25-22:00:37.998439 7e6f77f0a0 Generated table #876@0: 6610 keys, 761068 bytes
-2025/06/25-22:00:37.998556 7e6f77f0a0 Compacted 1@0 + 1@1 files => 761068 bytes
-2025/06/25-22:00:38.013434 7e6f77f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/06/25-22:00:38.013959 7e6f77f0a0 Delete type=2 #871
-2025/06/25-22:00:38.016864 7e6f77f0a0 Delete type=2 #875
-2025/06/25-22:00:38.087589 7e6f77f0a0 Manual compaction at level-0 from '!scenes.tokens.delta!vJEWNZjWEL3caHGY.uXCfAa7OmY8QdYOa.oUqlHI4sy9tOu4dc' @ 80682 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)
+2025/07/01-21:08:19.757 40c0 Delete type=3 #1
+2025/07/01-21:16:36.554 4bdc Level-0 table #881: started
+2025/07/01-21:16:36.560 4bdc Level-0 table #881: 8075 bytes OK
+2025/07/01-21:16:36.562 4bdc Delete type=0 #879
+2025/07/01-21:16:36.580 4bdc Manual compaction at level-0 from '!scenes!0LdKTkvbYcLGd0iB' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 29630 : 1
+2025/07/01-21:16:36.580 4bdc Compacting 2@0 + 0@1 files
+2025/07/01-21:16:36.602 4bdc Generated table #882@0: 6518 keys, 738415 bytes
+2025/07/01-21:16:36.602 4bdc Compacted 2@0 + 0@1 files => 738415 bytes
+2025/07/01-21:16:36.604 4bdc compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/07/01-21:16:36.604 4bdc Delete type=2 #876
+2025/07/01-21:16:36.605 4bdc Delete type=2 #881
+2025/07/01-21:16:36.615 4bdc Manual compaction at level-0 from '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 29630 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)

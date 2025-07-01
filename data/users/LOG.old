@@ -1,11 +1,5 @@
-2025/06/25-18:46:22.828 29f8 Delete type=3 #1
-2025/06/25-19:21:25.379 59a0 Level-0 table #683: started
-2025/06/25-19:21:25.379 59a0 Level-0 table #683: 0 bytes OK
-2025/06/25-19:21:25.381 59a0 Delete type=0 #681
-2025/06/25-19:21:25.393 59a0 Manual compaction at level-0 from '!users!58CcLdiQSdoQVhE5' @ 72057594037927935 : 1 .. '!users!pXlcbPywTCw2L90K' @ 0 : 0; will stop at '!users!pXlcbPywTCw2L90K' @ 307 : 1
-2025/06/25-19:21:25.393 59a0 Compacting 1@0 + 0@1 files
-2025/06/25-19:21:25.409 59a0 Generated table #684@0: 6 keys, 2518 bytes
-2025/06/25-19:21:25.409 59a0 Compacted 1@0 + 0@1 files => 2518 bytes
-2025/06/25-19:21:25.412 59a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/06/25-19:21:25.412 59a0 Delete type=2 #665
-2025/06/25-19:21:25.416 59a0 Manual compaction at level-0 from '!users!pXlcbPywTCw2L90K' @ 307 : 1 .. '!users!pXlcbPywTCw2L90K' @ 0 : 0; will stop at (end)
+2025/07/01-21:08:19.886 40c0 Log #687: 0 ops saved to Table #688 OK
+2025/07/01-21:08:19.887 40c0 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/users/000687.log: OK
+2025/07/01-21:08:19.895 40c0 Table #684: 6 entries OK
+2025/07/01-21:08:19.903 40c0 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/users/MANIFEST-000685: OK
+2025/07/01-21:08:19.911 40c0 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/users; recovered 1 files; 2518 bytes. Some data may have been lost. ****
