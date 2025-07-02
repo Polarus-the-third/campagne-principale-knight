@@ -1,7 +1,7 @@
-2025/07/02-18:43:03.962 1544 Recovering log #709
-2025/07/02-18:43:03.962 1544 Delete type=0 #709
-2025/07/02-18:43:03.962 1544 Delete type=3 #708
-2025/07/02-19:11:39.768 40b8 Level-0 table #713: started
-2025/07/02-19:11:39.768 40b8 Level-0 table #713: 0 bytes OK
-2025/07/02-19:11:39.770 40b8 Delete type=0 #711
-2025/07/02-19:11:39.774 40b8 Manual compaction at level-0 from '!combats!9vMkgw4NaVtK1yyW' @ 72057594037927935 : 1 .. '!combats.combatants!lvjXBkN8MIcRtWVd.bkFO0pqA34HgzNdb' @ 0 : 0; will stop at (end)
+2025/07/02-17:16:46.900907 7f95e8f0a0 Recovering log #712
+2025/07/02-17:16:46.922146 7f95e8f0a0 Delete type=0 #712
+2025/07/02-17:16:46.922341 7f95e8f0a0 Delete type=3 #710
+2025/07/02-21:41:24.403397 7e6f77f0a0 Level-0 table #717: started
+2025/07/02-21:41:24.404162 7e6f77f0a0 Level-0 table #717: 0 bytes OK
+2025/07/02-21:41:24.415375 7e6f77f0a0 Delete type=0 #715
+2025/07/02-21:41:25.087080 7e6f77f0a0 Manual compaction at level-0 from '!combats!9vMkgw4NaVtK1yyW' @ 72057594037927935 : 1 .. '!combats.combatants!lvjXBkN8MIcRtWVd.bkFO0pqA34HgzNdb' @ 0 : 0; will stop at (end)

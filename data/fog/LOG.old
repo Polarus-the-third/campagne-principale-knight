@@ -1,3 +1,7 @@
-2025/07/02-18:33:03.940 4320 Recovering log #858
-2025/07/02-18:33:03.945 4320 Delete type=0 #858
-2025/07/02-18:33:03.945 4320 Delete type=3 #856
+2025/07/02-18:43:04.007 1544 Recovering log #861
+2025/07/02-18:43:04.013 1544 Delete type=0 #861
+2025/07/02-18:43:04.013 1544 Delete type=3 #860
+2025/07/02-19:11:39.780 40b8 Level-0 table #865: started
+2025/07/02-19:11:39.780 40b8 Level-0 table #865: 0 bytes OK
+2025/07/02-19:11:39.782 40b8 Delete type=0 #863
+2025/07/02-19:11:39.787 40b8 Manual compaction at level-0 from '!fog!15ejNXSp6SXpDAnV' @ 72057594037927935 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at (end)
