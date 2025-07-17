@@ -1,13 +1,43 @@
-2025/07/17-20:09:52.135 7a4 Recovering log #1097
-2025/07/17-20:09:52.144 7a4 Delete type=0 #1097
-2025/07/17-20:09:52.144 7a4 Delete type=3 #1096
-2025/07/17-20:14:54.777 128c Level-0 table #1101: started
-2025/07/17-20:14:54.777 128c Level-0 table #1101: 0 bytes OK
-2025/07/17-20:14:54.779 128c Delete type=0 #1099
-2025/07/17-20:14:54.794 128c Manual compaction at level-0 from '!messages!0vxPBrUhaAFWXYBY' @ 72057594037927935 : 1 .. '!messages!vJyrnHctEAQLepfa' @ 0 : 0; will stop at '!messages!vJyrnHctEAQLepfa' @ 8594 : 1
-2025/07/17-20:14:54.794 128c Compacting 1@0 + 0@1 files
-2025/07/17-20:14:54.798 128c Generated table #1102@0: 15 keys, 9187 bytes
-2025/07/17-20:14:54.798 128c Compacted 1@0 + 0@1 files => 9187 bytes
-2025/07/17-20:14:54.800 128c compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/07/17-20:14:54.802 128c Delete type=2 #1092
-2025/07/17-20:14:54.888 128c Manual compaction at level-0 from '!messages!vJyrnHctEAQLepfa' @ 8594 : 1 .. '!messages!vJyrnHctEAQLepfa' @ 0 : 0; will stop at (end)
+2025/07/17-18:50:19.125624 7f7bbff0a0 Recovering log #1100
+2025/07/17-18:50:19.150085 7f7bbff0a0 Delete type=3 #1098
+2025/07/17-18:50:19.150363 7f7bbff0a0 Delete type=0 #1100
+2025/07/17-20:15:03.895786 7e49eff0a0 Level-0 table #1106: started
+2025/07/17-20:15:04.036015 7e49eff0a0 Level-0 table #1106: 973717 bytes OK
+2025/07/17-20:15:04.042997 7e49eff0a0 Delete type=0 #1104
+2025/07/17-20:37:01.697589 7e49eff0a0 Level-0 table #1108: started
+2025/07/17-20:37:01.812802 7e49eff0a0 Level-0 table #1108: 1009621 bytes OK
+2025/07/17-20:37:01.819891 7e49eff0a0 Delete type=0 #1105
+2025/07/17-20:44:22.260976 7e49eff0a0 Level-0 table #1110: started
+2025/07/17-20:44:22.374034 7e49eff0a0 Level-0 table #1110: 976091 bytes OK
+2025/07/17-20:44:22.380428 7e49eff0a0 Delete type=0 #1107
+2025/07/17-20:54:05.496774 7e49eff0a0 Level-0 table #1112: started
+2025/07/17-20:54:05.605051 7e49eff0a0 Level-0 table #1112: 927049 bytes OK
+2025/07/17-20:54:05.612919 7e49eff0a0 Delete type=0 #1109
+2025/07/17-20:54:05.620839 7e49eff0a0 Compacting 4@0 + 1@1 files
+2025/07/17-20:54:05.894466 7e49eff0a0 Generated table #1113@0: 57 keys, 2123128 bytes
+2025/07/17-20:54:06.203087 7e49eff0a0 Generated table #1114@0: 20 keys, 1737370 bytes
+2025/07/17-20:54:06.203238 7e49eff0a0 Compacted 4@0 + 1@1 files => 3860498 bytes
+2025/07/17-20:54:06.209292 7e49eff0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/07/17-20:54:06.210031 7e49eff0a0 Delete type=2 #1108
+2025/07/17-20:54:06.212733 7e49eff0a0 Delete type=2 #1106
+2025/07/17-20:54:06.215344 7e49eff0a0 Delete type=2 #1110
+2025/07/17-20:54:06.217567 7e49eff0a0 Delete type=2 #1102
+2025/07/17-20:54:06.218172 7e49eff0a0 Delete type=2 #1112
+2025/07/17-21:01:25.070493 7e49eff0a0 Level-0 table #1116: started
+2025/07/17-21:01:25.262761 7e49eff0a0 Level-0 table #1116: 1026562 bytes OK
+2025/07/17-21:01:25.271390 7e49eff0a0 Delete type=0 #1111
+2025/07/17-22:08:25.124054 7e49eff0a0 Level-0 table #1118: started
+2025/07/17-22:08:25.172049 7e49eff0a0 Level-0 table #1118: 377708 bytes OK
+2025/07/17-22:08:25.185542 7e49eff0a0 Delete type=0 #1115
+2025/07/17-22:08:25.223576 7e49eff0a0 Manual compaction at level-0 from '!messages!0FZCDgxsptyN8G0y' @ 72057594037927935 : 1 .. '!messages!zwILw86yI0mVuA8t' @ 0 : 0; will stop at '!messages!qDel7LDQnYzW6qQz' @ 8705 : 1
+2025/07/17-22:08:25.223627 7e49eff0a0 Compacting 2@0 + 2@1 files
+2025/07/17-22:08:25.585312 7e49eff0a0 Generated table #1119@0: 63 keys, 2112696 bytes
+2025/07/17-22:08:25.835320 7e49eff0a0 Generated table #1120@0: 29 keys, 2257344 bytes
+2025/07/17-22:08:25.944890 7e49eff0a0 Generated table #1121@0: 13 keys, 891576 bytes
+2025/07/17-22:08:25.944994 7e49eff0a0 Compacted 2@0 + 2@1 files => 5261616 bytes
+2025/07/17-22:08:25.950200 7e49eff0a0 compacted to: files[ 0 3 0 0 0 0 0 ]
+2025/07/17-22:08:25.951020 7e49eff0a0 Delete type=2 #1113
+2025/07/17-22:08:25.954946 7e49eff0a0 Delete type=2 #1118
+2025/07/17-22:08:25.956021 7e49eff0a0 Delete type=2 #1116
+2025/07/17-22:08:25.958179 7e49eff0a0 Delete type=2 #1114
+2025/07/17-22:08:25.976318 7e49eff0a0 Manual compaction at level-0 from '!messages!qDel7LDQnYzW6qQz' @ 8705 : 1 .. '!messages!zwILw86yI0mVuA8t' @ 0 : 0; will stop at (end)

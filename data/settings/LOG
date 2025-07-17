@@ -1,18 +1,14 @@
-2025/07/17-20:09:52.495 20b4 Recovering log #862
-2025/07/17-20:09:52.495 20b4 Level-0 table #864: started
-2025/07/17-20:09:52.499 20b4 Level-0 table #864: 4374 bytes OK
-2025/07/17-20:09:52.506 20b4 Delete type=0 #862
-2025/07/17-20:09:52.506 20b4 Delete type=3 #860
-2025/07/17-20:14:54.990 128c Level-0 table #867: started
-2025/07/17-20:14:54.994 128c Level-0 table #867: 4373 bytes OK
-2025/07/17-20:14:54.996 128c Delete type=0 #865
-2025/07/17-20:14:55.061 128c Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 962 : 1
-2025/07/17-20:14:55.061 128c Compacting 4@0 + 0@1 files
-2025/07/17-20:14:55.066 128c Generated table #868@0: 19 keys, 4304 bytes
-2025/07/17-20:14:55.066 128c Compacted 4@0 + 0@1 files => 4304 bytes
-2025/07/17-20:14:55.068 128c compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/07/17-20:14:55.069 128c Delete type=2 #856
-2025/07/17-20:14:55.069 128c Delete type=2 #861
-2025/07/17-20:14:55.070 128c Delete type=2 #864
-2025/07/17-20:14:55.070 128c Delete type=2 #867
-2025/07/17-20:14:55.070 128c Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 962 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)
+2025/07/17-18:50:20.103292 7f7abdf0a0 Recovering log #866
+2025/07/17-18:50:20.128745 7f7abdf0a0 Delete type=3 #863
+2025/07/17-18:50:20.129130 7f7abdf0a0 Delete type=0 #866
+2025/07/17-22:08:24.979148 7e49eff0a0 Level-0 table #872: started
+2025/07/17-22:08:24.992418 7e49eff0a0 Level-0 table #872: 4373 bytes OK
+2025/07/17-22:08:24.999332 7e49eff0a0 Delete type=0 #870
+2025/07/17-22:08:25.189146 7e49eff0a0 Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 974 : 1
+2025/07/17-22:08:25.189210 7e49eff0a0 Compacting 1@0 + 1@1 files
+2025/07/17-22:08:25.199985 7e49eff0a0 Generated table #873@0: 19 keys, 4307 bytes
+2025/07/17-22:08:25.200079 7e49eff0a0 Compacted 1@0 + 1@1 files => 4307 bytes
+2025/07/17-22:08:25.205321 7e49eff0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/07/17-22:08:25.205643 7e49eff0a0 Delete type=2 #868
+2025/07/17-22:08:25.206000 7e49eff0a0 Delete type=2 #872
+2025/07/17-22:08:25.961260 7e49eff0a0 Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 974 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)

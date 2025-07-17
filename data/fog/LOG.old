@@ -1,12 +1,20 @@
-2025/07/17-18:44:05.705 2da8 Recovering log #874
-2025/07/17-18:44:05.706 2da8 Level-0 table #876: started
-2025/07/17-18:44:05.710 2da8 Level-0 table #876: 39139 bytes OK
-2025/07/17-18:44:05.718 2da8 Delete type=0 #874
-2025/07/17-18:44:05.718 2da8 Delete type=3 #873
-2025/07/17-19:27:53.434 f78 Compacting 2@0 + 0@1 files
-2025/07/17-19:27:53.513 f78 Generated table #878@0: 164 keys, 2110792 bytes
-2025/07/17-19:27:53.525 f78 Generated table #879@0: 4 keys, 120475 bytes
-2025/07/17-19:27:53.525 f78 Compacted 2@0 + 0@1 files => 2231267 bytes
-2025/07/17-19:27:53.529 f78 compacted to: files[ 1 2 0 0 0 0 0 ]
-2025/07/17-19:27:53.529 f78 Delete type=2 #870
-2025/07/17-19:27:53.531 f78 Delete type=2 #876
+2025/07/17-20:09:52.200 3380 Recovering log #877
+2025/07/17-20:09:52.202 3380 Level-0 table #881: started
+2025/07/17-20:09:52.207 3380 Level-0 table #881: 54831 bytes OK
+2025/07/17-20:09:52.215 3380 Delete type=0 #877
+2025/07/17-20:09:52.216 3380 Delete type=3 #875
+2025/07/17-20:14:54.973 128c Level-0 table #884: started
+2025/07/17-20:14:54.986 128c Level-0 table #884: 1406 bytes OK
+2025/07/17-20:14:54.989 128c Delete type=0 #882
+2025/07/17-20:14:55.014 128c Manual compaction at level-0 from '!fog!01ULs73E2g5PhXEZ' @ 72057594037927935 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at '!fog!oeaZK4eZImSYWzUB' @ 2186 : 1
+2025/07/17-20:14:55.014 128c Compacting 3@0 + 2@1 files
+2025/07/17-20:14:55.038 128c Generated table #885@0: 164 keys, 2105712 bytes
+2025/07/17-20:14:55.055 128c Generated table #886@0: 88 keys, 1312229 bytes
+2025/07/17-20:14:55.055 128c Compacted 3@0 + 2@1 files => 3417941 bytes
+2025/07/17-20:14:55.057 128c compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/07/17-20:14:55.057 128c Delete type=2 #871
+2025/07/17-20:14:55.057 128c Delete type=2 #878
+2025/07/17-20:14:55.057 128c Delete type=2 #879
+2025/07/17-20:14:55.058 128c Delete type=2 #881
+2025/07/17-20:14:55.058 128c Delete type=2 #884
+2025/07/17-20:14:55.070 128c Manual compaction at level-0 from '!fog!oeaZK4eZImSYWzUB' @ 2186 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at (end)

@@ -1,3 +1,13 @@
-2025/07/17-18:44:05.662 714 Recovering log #1095
-2025/07/17-18:44:05.668 714 Delete type=0 #1095
-2025/07/17-18:44:05.668 714 Delete type=3 #1094
+2025/07/17-20:09:52.135 7a4 Recovering log #1097
+2025/07/17-20:09:52.144 7a4 Delete type=0 #1097
+2025/07/17-20:09:52.144 7a4 Delete type=3 #1096
+2025/07/17-20:14:54.777 128c Level-0 table #1101: started
+2025/07/17-20:14:54.777 128c Level-0 table #1101: 0 bytes OK
+2025/07/17-20:14:54.779 128c Delete type=0 #1099
+2025/07/17-20:14:54.794 128c Manual compaction at level-0 from '!messages!0vxPBrUhaAFWXYBY' @ 72057594037927935 : 1 .. '!messages!vJyrnHctEAQLepfa' @ 0 : 0; will stop at '!messages!vJyrnHctEAQLepfa' @ 8594 : 1
+2025/07/17-20:14:54.794 128c Compacting 1@0 + 0@1 files
+2025/07/17-20:14:54.798 128c Generated table #1102@0: 15 keys, 9187 bytes
+2025/07/17-20:14:54.798 128c Compacted 1@0 + 0@1 files => 9187 bytes
+2025/07/17-20:14:54.800 128c compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/07/17-20:14:54.802 128c Delete type=2 #1092
+2025/07/17-20:14:54.888 128c Manual compaction at level-0 from '!messages!vJyrnHctEAQLepfa' @ 8594 : 1 .. '!messages!vJyrnHctEAQLepfa' @ 0 : 0; will stop at (end)
