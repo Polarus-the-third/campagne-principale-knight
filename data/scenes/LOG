@@ -1,9 +1,24 @@
-2025/07/17-18:44:05.838 2da8 Recovering log #904
-2025/07/17-18:44:05.838 2da8 Level-0 table #906: started
-2025/07/17-18:44:05.845 2da8 Level-0 table #906: 110235 bytes OK
-2025/07/17-18:44:05.852 2da8 Delete type=0 #904
-2025/07/17-18:44:05.853 2da8 Delete type=3 #903
-2025/07/17-18:44:10.722 f78 Compacting 2@0 + 0@1 files
-2025/07/17-18:44:10.745 f78 Generated table #908@0: 6713 keys, 787269 bytes
-2025/07/17-18:44:10.745 f78 Compacted 2@0 + 0@1 files => 787269 bytes
-2025/07/17-18:44:10.746 f78 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/07/17-20:09:52.412 3a8c Recovering log #907
+2025/07/17-20:09:52.415 3a8c Level-0 table #910: started
+2025/07/17-20:09:52.432 3a8c Level-0 table #910: 981837 bytes OK
+2025/07/17-20:09:52.441 3a8c Delete type=2 #901
+2025/07/17-20:09:52.441 3a8c Delete type=2 #906
+2025/07/17-20:09:52.441 3a8c Delete type=0 #907
+2025/07/17-20:09:52.442 3a8c Delete type=3 #905
+2025/07/17-20:09:59.024 128c Compacting 1@0 + 1@1 files
+2025/07/17-20:09:59.049 128c Generated table #912@0: 6938 keys, 813783 bytes
+2025/07/17-20:09:59.049 128c Compacted 1@0 + 1@1 files => 813783 bytes
+2025/07/17-20:09:59.050 128c compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/07/17-20:09:59.051 128c Delete type=2 #908
+2025/07/17-20:09:59.051 128c Delete type=2 #910
+2025/07/17-20:14:54.926 128c Level-0 table #914: started
+2025/07/17-20:14:54.931 128c Level-0 table #914: 22304 bytes OK
+2025/07/17-20:14:54.934 128c Delete type=0 #911
+2025/07/17-20:14:54.943 128c Manual compaction at level-0 from '!scenes!0LdKTkvbYcLGd0iB' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.walls!bZIKwvGrzH1arXiE.xE57kKocQdeKdKyL' @ 82977 : 1
+2025/07/17-20:14:54.943 128c Compacting 1@0 + 1@1 files
+2025/07/17-20:14:54.966 128c Generated table #915@0: 6964 keys, 817728 bytes
+2025/07/17-20:14:54.966 128c Compacted 1@0 + 1@1 files => 817728 bytes
+2025/07/17-20:14:54.968 128c compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/07/17-20:14:54.968 128c Delete type=2 #912
+2025/07/17-20:14:54.969 128c Delete type=2 #914
+2025/07/17-20:14:54.990 128c Manual compaction at level-0 from '!scenes.walls!bZIKwvGrzH1arXiE.xE57kKocQdeKdKyL' @ 82977 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)
