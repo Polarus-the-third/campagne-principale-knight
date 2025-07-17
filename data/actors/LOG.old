@@ -1,19 +1,7 @@
-2025/07/02-18:43:03.818 1544 Recovering log #1165
-2025/07/02-18:43:03.818 1544 Level-0 table #1167: started
-2025/07/02-18:43:03.825 1544 Level-0 table #1167: 3199 bytes OK
-2025/07/02-18:43:03.833 1544 Delete type=0 #1165
-2025/07/02-18:43:03.833 1544 Delete type=3 #1164
-2025/07/02-19:11:39.646 40b8 Level-0 table #1170: started
-2025/07/02-19:11:39.650 40b8 Level-0 table #1170: 103837 bytes OK
-2025/07/02-19:11:39.653 40b8 Delete type=0 #1168
-2025/07/02-19:11:39.664 40b8 Manual compaction at level-0 from '!actors!0dBrS2iiMIRD5TAy' @ 72057594037927935 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at '!actors!p8Lj0VyOe9z4es4J' @ 57542 : 1
-2025/07/02-19:11:39.664 40b8 Compacting 2@0 + 2@1 files
-2025/07/02-19:11:39.716 40b8 Generated table #1171@0: 1066 keys, 2123711 bytes
-2025/07/02-19:11:39.764 40b8 Generated table #1172@0: 1088 keys, 1153607 bytes
-2025/07/02-19:11:39.764 40b8 Compacted 2@0 + 2@1 files => 3277318 bytes
-2025/07/02-19:11:39.767 40b8 compacted to: files[ 0 2 0 0 0 0 0 ]
-2025/07/02-19:11:39.767 40b8 Delete type=2 #1158
-2025/07/02-19:11:39.767 40b8 Delete type=2 #1159
-2025/07/02-19:11:39.767 40b8 Delete type=2 #1167
-2025/07/02-19:11:39.767 40b8 Delete type=2 #1170
-2025/07/02-19:11:39.773 40b8 Manual compaction at level-0 from '!actors!p8Lj0VyOe9z4es4J' @ 57542 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at (end)
+2025/07/17-17:57:39.349 46d8 Log #1175: 0 ops saved to Table #1179 OK
+2025/07/17-17:57:39.351 46d8 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/001175.log: OK
+2025/07/17-17:57:39.383 46d8 Table #1172: 1088 entries OK
+2025/07/17-17:57:39.397 46d8 Table #1177: 1068 entries OK
+2025/07/17-17:57:39.400 46d8 Table #1178: 2 entries OK
+2025/07/17-17:57:39.405 46d8 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/MANIFEST-001173: OK
+2025/07/17-17:57:39.410 46d8 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors; recovered 3 files; 3283187 bytes. Some data may have been lost. ****

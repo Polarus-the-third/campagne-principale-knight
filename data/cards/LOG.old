@@ -1,7 +1,4 @@
-2025/07/02-18:43:03.913 1544 Recovering log #596
-2025/07/02-18:43:03.913 1544 Delete type=0 #596
-2025/07/02-18:43:03.913 1544 Delete type=3 #595
-2025/07/02-19:11:39.627 40b8 Level-0 table #600: started
-2025/07/02-19:11:39.627 40b8 Level-0 table #600: 0 bytes OK
-2025/07/02-19:11:39.629 40b8 Delete type=0 #598
-2025/07/02-19:11:39.653 40b8 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2025/07/17-17:57:39.482 46cc Log #603: 0 ops saved to Table #604 OK
+2025/07/17-17:57:39.484 46cc Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/cards/000603.log: OK
+2025/07/17-17:57:39.488 46cc Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/cards/MANIFEST-000601: OK
+2025/07/17-17:57:39.493 46cc **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/cards; recovered 0 files; 0 bytes. Some data may have been lost. ****
