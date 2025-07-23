@@ -1,24 +1,13 @@
-2025/07/17-18:50:19.253456 7f7a3cf0a0 Recovering log #883
-2025/07/17-18:50:19.279022 7f7a3cf0a0 Delete type=0 #883
-2025/07/17-18:50:19.280854 7f7a3cf0a0 Delete type=3 #880
-2025/07/17-19:55:38.020506 7e49eff0a0 Level-0 table #890: started
-2025/07/17-19:55:38.272930 7e49eff0a0 Level-0 table #890: 2251211 bytes OK
-2025/07/17-19:55:38.282368 7e49eff0a0 Delete type=0 #888
-2025/07/17-20:19:59.758884 7e49eff0a0 Level-0 table #892: started
-2025/07/17-20:19:59.994887 7e49eff0a0 Level-0 table #892: 2955572 bytes OK
-2025/07/17-20:20:00.002422 7e49eff0a0 Delete type=0 #889
-2025/07/17-22:08:24.239897 7e49eff0a0 Level-0 table #894: started
-2025/07/17-22:08:24.365392 7e49eff0a0 Level-0 table #894: 1612321 bytes OK
-2025/07/17-22:08:24.371336 7e49eff0a0 Delete type=0 #891
-2025/07/17-22:08:24.407191 7e49eff0a0 Manual compaction at level-0 from '!fog!01ULs73E2g5PhXEZ' @ 72057594037927935 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at '!fog!TnonJ1EYS7fxNH6L' @ 2251 : 1
-2025/07/17-22:08:24.407241 7e49eff0a0 Compacting 3@0 + 2@1 files
-2025/07/17-22:08:24.597554 7e49eff0a0 Generated table #895@0: 136 keys, 2107366 bytes
-2025/07/17-22:08:24.728726 7e49eff0a0 Generated table #896@0: 122 keys, 1513755 bytes
-2025/07/17-22:08:24.728837 7e49eff0a0 Compacted 3@0 + 2@1 files => 3621121 bytes
-2025/07/17-22:08:24.734530 7e49eff0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2025/07/17-22:08:24.735201 7e49eff0a0 Delete type=2 #886
-2025/07/17-22:08:24.744922 7e49eff0a0 Delete type=2 #890
-2025/07/17-22:08:24.747110 7e49eff0a0 Delete type=2 #894
-2025/07/17-22:08:24.750792 7e49eff0a0 Delete type=2 #885
-2025/07/17-22:08:24.755550 7e49eff0a0 Delete type=2 #892
-2025/07/17-22:08:24.773777 7e49eff0a0 Manual compaction at level-0 from '!fog!TnonJ1EYS7fxNH6L' @ 2251 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at (end)
+2025/07/23-19:37:24.595 44d8 Recovering log #899
+2025/07/23-19:37:24.596 44d8 Level-0 table #901: started
+2025/07/23-19:37:24.601 44d8 Level-0 table #901: 68915 bytes OK
+2025/07/23-19:37:24.613 44d8 Delete type=0 #899
+2025/07/23-19:37:24.614 44d8 Delete type=3 #898
+2025/07/23-19:38:08.131 4ecc Compacting 3@0 + 0@1 files
+2025/07/23-19:38:08.185 4ecc Generated table #903@0: 137 keys, 2141027 bytes
+2025/07/23-19:38:08.224 4ecc Generated table #904@0: 123 keys, 1515396 bytes
+2025/07/23-19:38:08.224 4ecc Compacted 3@0 + 0@1 files => 3656423 bytes
+2025/07/23-19:38:08.228 4ecc compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/07/23-19:38:08.228 4ecc Delete type=2 #895
+2025/07/23-19:38:08.231 4ecc Delete type=2 #896
+2025/07/23-19:38:08.235 4ecc Delete type=2 #901
