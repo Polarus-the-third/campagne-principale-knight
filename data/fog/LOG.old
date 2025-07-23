@@ -1,1 +1,13 @@
-2025/07/23-19:07:04.086 d90 Delete type=3 #1
+2025/07/23-19:37:24.595 44d8 Recovering log #899
+2025/07/23-19:37:24.596 44d8 Level-0 table #901: started
+2025/07/23-19:37:24.601 44d8 Level-0 table #901: 68915 bytes OK
+2025/07/23-19:37:24.613 44d8 Delete type=0 #899
+2025/07/23-19:37:24.614 44d8 Delete type=3 #898
+2025/07/23-19:38:08.131 4ecc Compacting 3@0 + 0@1 files
+2025/07/23-19:38:08.185 4ecc Generated table #903@0: 137 keys, 2141027 bytes
+2025/07/23-19:38:08.224 4ecc Generated table #904@0: 123 keys, 1515396 bytes
+2025/07/23-19:38:08.224 4ecc Compacted 3@0 + 0@1 files => 3656423 bytes
+2025/07/23-19:38:08.228 4ecc compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/07/23-19:38:08.228 4ecc Delete type=2 #895
+2025/07/23-19:38:08.231 4ecc Delete type=2 #896
+2025/07/23-19:38:08.235 4ecc Delete type=2 #901
