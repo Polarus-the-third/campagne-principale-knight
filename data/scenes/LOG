@@ -1,14 +1,14 @@
-2025/08/06-19:58:09.656 2aa0 Recovering log #945
-2025/08/06-19:58:09.662 2aa0 Delete type=0 #945
-2025/08/06-19:58:09.662 2aa0 Delete type=3 #941
-2025/08/06-20:14:43.000 230c Level-0 table #951: started
-2025/08/06-20:14:43.007 230c Level-0 table #951: 85155 bytes OK
-2025/08/06-20:14:43.010 230c Delete type=0 #949
-2025/08/06-20:14:43.020 230c Manual compaction at level-0 from '!scenes!0LdKTkvbYcLGd0iB' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.walls!pMTUPFX0X4KvIW9e.gxYgBMPyRllEnAY4' @ 87835 : 1
-2025/08/06-20:14:43.020 230c Compacting 1@0 + 1@1 files
-2025/08/06-20:14:43.037 230c Generated table #952@0: 3788 keys, 490985 bytes
-2025/08/06-20:14:43.037 230c Compacted 1@0 + 1@1 files => 490985 bytes
-2025/08/06-20:14:43.041 230c compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/08/06-20:14:43.041 230c Delete type=2 #947
-2025/08/06-20:14:43.041 230c Delete type=2 #951
-2025/08/06-20:14:43.051 230c Manual compaction at level-0 from '!scenes.walls!pMTUPFX0X4KvIW9e.gxYgBMPyRllEnAY4' @ 87835 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)
+2025/08/06-18:16:43.126904 7f8ffff0a0 Recovering log #950
+2025/08/06-18:16:43.152504 7f8ffff0a0 Delete type=3 #948
+2025/08/06-18:16:43.152894 7f8ffff0a0 Delete type=0 #950
+2025/08/06-22:14:14.067969 7f84dff0a0 Level-0 table #956: started
+2025/08/06-22:14:14.127713 7f84dff0a0 Level-0 table #956: 442694 bytes OK
+2025/08/06-22:14:14.134815 7f84dff0a0 Delete type=0 #954
+2025/08/06-22:14:14.157383 7f84dff0a0 Manual compaction at level-0 from '!scenes!0LdKTkvbYcLGd0iB' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.walls!pMTUPFX0X4KvIW9e.9R2I4VrIDb7ovZD1' @ 88580 : 1
+2025/08/06-22:14:14.157461 7f84dff0a0 Compacting 1@0 + 1@1 files
+2025/08/06-22:14:14.238528 7f84dff0a0 Generated table #957@0: 3841 keys, 500809 bytes
+2025/08/06-22:14:14.238703 7f84dff0a0 Compacted 1@0 + 1@1 files => 500809 bytes
+2025/08/06-22:14:14.245246 7f84dff0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/08/06-22:14:14.245706 7f84dff0a0 Delete type=2 #956
+2025/08/06-22:14:14.247109 7f84dff0a0 Delete type=2 #952
+2025/08/06-22:14:14.278181 7f84dff0a0 Manual compaction at level-0 from '!scenes.walls!pMTUPFX0X4KvIW9e.9R2I4VrIDb7ovZD1' @ 88580 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)

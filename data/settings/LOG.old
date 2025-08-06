@@ -1,18 +1,14 @@
-2025/08/06-18:18:58.678 2aa0 Recovering log #891
-2025/08/06-18:18:58.678 2aa0 Level-0 table #893: started
-2025/08/06-18:18:58.678 2aa0 Level-0 table #893: 4373 bytes OK
-2025/08/06-18:18:58.688 2aa0 Delete type=0 #891
-2025/08/06-18:18:58.688 2aa0 Delete type=3 #889
-2025/08/06-19:34:30.207 230c Level-0 table #896: started
-2025/08/06-19:34:30.214 230c Level-0 table #896: 4373 bytes OK
-2025/08/06-19:34:30.217 230c Delete type=0 #894
-2025/08/06-19:34:30.226 230c Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 992 : 1
-2025/08/06-19:34:30.226 230c Compacting 4@0 + 0@1 files
-2025/08/06-19:34:30.232 230c Generated table #897@0: 19 keys, 4304 bytes
-2025/08/06-19:34:30.232 230c Compacted 4@0 + 0@1 files => 4304 bytes
-2025/08/06-19:34:30.236 230c compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/08/06-19:34:30.236 230c Delete type=2 #885
-2025/08/06-19:34:30.236 230c Delete type=2 #890
-2025/08/06-19:34:30.236 230c Delete type=2 #893
-2025/08/06-19:34:30.236 230c Delete type=2 #896
-2025/08/06-19:34:30.252 230c Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 992 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)
+2025/08/06-19:58:09.709 35a8 Recovering log #895
+2025/08/06-19:58:09.717 35a8 Delete type=0 #895
+2025/08/06-19:58:09.717 35a8 Delete type=3 #892
+2025/08/06-20:14:42.991 230c Level-0 table #901: started
+2025/08/06-20:14:42.995 230c Level-0 table #901: 4373 bytes OK
+2025/08/06-20:14:43.000 230c Delete type=0 #899
+2025/08/06-20:14:43.010 230c Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 1004 : 1
+2025/08/06-20:14:43.010 230c Compacting 1@0 + 1@1 files
+2025/08/06-20:14:43.017 230c Generated table #902@0: 19 keys, 4307 bytes
+2025/08/06-20:14:43.017 230c Compacted 1@0 + 1@1 files => 4307 bytes
+2025/08/06-20:14:43.020 230c compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/08/06-20:14:43.020 230c Delete type=2 #897
+2025/08/06-20:14:43.020 230c Delete type=2 #901
+2025/08/06-20:14:43.051 230c Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 1004 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)

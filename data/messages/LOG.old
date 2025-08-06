@@ -1,17 +1,7 @@
-2025/08/06-18:18:57.972 2aa0 Recovering log #1146
-2025/08/06-18:18:57.972 2aa0 Level-0 table #1148: started
-2025/08/06-18:18:57.977 2aa0 Level-0 table #1148: 4878 bytes OK
-2025/08/06-18:18:57.986 2aa0 Delete type=0 #1146
-2025/08/06-18:18:57.986 2aa0 Delete type=3 #1145
-2025/08/06-18:18:57.987 230c Compacting 4@0 + 1@1 files
-2025/08/06-18:18:58.062 230c Compacted 4@0 + 1@1 files => 0 bytes
-2025/08/06-18:18:58.065 230c compacted to: files[ 0 0 0 0 0 0 0 ]
-2025/08/06-18:18:58.066 230c Delete type=2 #1138
-2025/08/06-18:18:58.067 230c Delete type=2 #1139
-2025/08/06-18:18:58.067 230c Delete type=2 #1140
-2025/08/06-18:18:58.068 230c Delete type=2 #1141
-2025/08/06-18:18:58.069 230c Delete type=2 #1148
-2025/08/06-19:34:29.896 230c Level-0 table #1151: started
-2025/08/06-19:34:29.896 230c Level-0 table #1151: 0 bytes OK
-2025/08/06-19:34:29.899 230c Delete type=0 #1149
-2025/08/06-19:34:29.915 230c Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2025/08/06-19:58:09.339 2aa0 Recovering log #1150
+2025/08/06-19:58:09.345 2aa0 Delete type=0 #1150
+2025/08/06-19:58:09.345 2aa0 Delete type=3 #1147
+2025/08/06-20:14:42.908 230c Level-0 table #1155: started
+2025/08/06-20:14:42.908 230c Level-0 table #1155: 0 bytes OK
+2025/08/06-20:14:42.909 230c Delete type=0 #1153
+2025/08/06-20:14:42.913 230c Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
