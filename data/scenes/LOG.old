@@ -1,1 +1,23 @@
-2025/08/05-22:02:02.993 4450 Delete type=3 #1
+2025/08/06-18:18:58.578 4b24 Recovering log #940
+2025/08/06-18:18:58.588 4b24 Level-0 table #942: started
+2025/08/06-18:18:58.593 4b24 Level-0 table #942: 83764 bytes OK
+2025/08/06-18:18:58.597 4b24 Delete type=0 #940
+2025/08/06-18:18:58.597 4b24 Delete type=3 #938
+2025/08/06-18:19:05.613 230c Compacting 3@0 + 0@1 files
+2025/08/06-18:19:05.629 230c Generated table #944@0: 3659 keys, 463750 bytes
+2025/08/06-18:19:05.629 230c Compacted 3@0 + 0@1 files => 463750 bytes
+2025/08/06-18:19:05.629 230c compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/08/06-18:19:05.629 230c Delete type=2 #934
+2025/08/06-18:19:05.629 230c Delete type=2 #939
+2025/08/06-18:19:05.629 230c Delete type=2 #942
+2025/08/06-19:34:30.138 230c Level-0 table #946: started
+2025/08/06-19:34:30.144 230c Level-0 table #946: 28951 bytes OK
+2025/08/06-19:34:30.147 230c Delete type=0 #943
+2025/08/06-19:34:30.160 230c Manual compaction at level-0 from '!scenes!0LdKTkvbYcLGd0iB' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.tokens.delta!G8bDBc1imU7YASaE.wgbLw2641jaUV1Jl.G44bY7rZj039uMve' @ 87736 : 1
+2025/08/06-19:34:30.160 230c Compacting 1@0 + 1@1 files
+2025/08/06-19:34:30.180 230c Generated table #947@0: 3692 keys, 470210 bytes
+2025/08/06-19:34:30.180 230c Compacted 1@0 + 1@1 files => 470210 bytes
+2025/08/06-19:34:30.182 230c compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/08/06-19:34:30.182 230c Delete type=2 #944
+2025/08/06-19:34:30.182 230c Delete type=2 #946
+2025/08/06-19:34:30.205 230c Manual compaction at level-0 from '!scenes.tokens.delta!G8bDBc1imU7YASaE.wgbLw2641jaUV1Jl.G44bY7rZj039uMve' @ 87736 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)
