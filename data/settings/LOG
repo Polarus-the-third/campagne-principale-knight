@@ -1,12 +1,14 @@
-2025/08/20-19:37:26.706 3a30 Delete type=3 #1
-2025/08/20-20:19:43.029 2aa4 Level-0 table #922: started
-2025/08/20-20:19:43.034 2aa4 Level-0 table #922: 4373 bytes OK
-2025/08/20-20:19:43.036 2aa4 Delete type=0 #920
-2025/08/20-20:19:43.042 2aa4 Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 1016 : 1
-2025/08/20-20:19:43.042 2aa4 Compacting 2@0 + 0@1 files
-2025/08/20-20:19:43.047 2aa4 Generated table #923@0: 19 keys, 4307 bytes
-2025/08/20-20:19:43.047 2aa4 Compacted 2@0 + 0@1 files => 4307 bytes
-2025/08/20-20:19:43.049 2aa4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/08/20-20:19:43.051 2aa4 Delete type=2 #917
-2025/08/20-20:19:43.051 2aa4 Delete type=2 #922
-2025/08/20-20:19:43.075 2aa4 Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 1016 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)
+2025/08/20-18:21:42.286600 7f8ffff0a0 Recovering log #921
+2025/08/20-18:21:42.310650 7f8ffff0a0 Delete type=3 #919
+2025/08/20-18:21:42.310920 7f8ffff0a0 Delete type=0 #921
+2025/08/20-22:13:15.993685 7f84dff0a0 Level-0 table #927: started
+2025/08/20-22:13:16.014547 7f84dff0a0 Level-0 table #927: 4373 bytes OK
+2025/08/20-22:13:16.020277 7f84dff0a0 Delete type=0 #925
+2025/08/20-22:13:16.132939 7f84dff0a0 Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 1020 : 1
+2025/08/20-22:13:16.133005 7f84dff0a0 Compacting 1@0 + 1@1 files
+2025/08/20-22:13:16.145192 7f84dff0a0 Generated table #928@0: 19 keys, 4304 bytes
+2025/08/20-22:13:16.145297 7f84dff0a0 Compacted 1@0 + 1@1 files => 4304 bytes
+2025/08/20-22:13:16.156451 7f84dff0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/08/20-22:13:16.156816 7f84dff0a0 Delete type=2 #923
+2025/08/20-22:13:16.157346 7f84dff0a0 Delete type=2 #927
+2025/08/20-22:13:16.157841 7f84dff0a0 Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 1020 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)
