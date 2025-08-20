@@ -1,7 +1,5 @@
-2025/08/14-07:05:10.524510 7f9cd3f0a0 Recovering log #733
-2025/08/14-07:05:10.550177 7f9cd3f0a0 Delete type=0 #733
-2025/08/14-07:05:10.550371 7f9cd3f0a0 Delete type=3 #731
-2025/08/14-07:05:46.725038 7f84dff0a0 Level-0 table #739: started
-2025/08/14-07:05:46.725246 7f84dff0a0 Level-0 table #739: 0 bytes OK
-2025/08/14-07:05:46.733767 7f84dff0a0 Delete type=0 #737
-2025/08/14-07:05:46.742392 7f84dff0a0 Manual compaction at level-0 from '!playlists!X7sWFavdc2V5WWDo' @ 72057594037927935 : 1 .. '!playlists.sounds!p90v4BqtJcjvnEZt.u1inFVJgAngFwqEg' @ 0 : 0; will stop at (end)
+2025/08/20-19:37:26.517 3a30 Log #742: 0 ops saved to Table #743 OK
+2025/08/20-19:37:26.518 3a30 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/playlists/000742.log: OK
+2025/08/20-19:37:26.529 3a30 Table #735: 23 entries OK
+2025/08/20-19:37:26.534 3a30 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/playlists/MANIFEST-000740: OK
+2025/08/20-19:37:26.539 3a30 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/playlists; recovered 1 files; 3382 bytes. Some data may have been lost. ****

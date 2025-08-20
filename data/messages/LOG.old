@@ -1,8 +1,5 @@
-2025/08/14-07:05:09.823421 7f8efdf0a0 Recovering log #1162
-2025/08/14-07:05:09.846642 7f8efdf0a0 Delete type=0 #1162
-2025/08/14-07:05:09.846842 7f8efdf0a0 Delete type=3 #1156
-2025/08/14-07:05:46.642512 7f84dff0a0 Level-0 table #1169: started
-2025/08/14-07:05:46.642664 7f84dff0a0 Level-0 table #1169: 0 bytes OK
-2025/08/14-07:05:46.652658 7f84dff0a0 Delete type=0 #1167
-2025/08/14-07:05:46.662587 7f84dff0a0 Manual compaction at level-0 from '!messages!0RjXuNnU8fSbeXsO' @ 72057594037927935 : 1 .. '!messages!ztTUDKzPTbgv48Nl' @ 0 : 0; will stop at (end)
-2025/08/14-07:05:46.662720 7f84dff0a0 Manual compaction at level-1 from '!messages!0RjXuNnU8fSbeXsO' @ 72057594037927935 : 1 .. '!messages!ztTUDKzPTbgv48Nl' @ 0 : 0; will stop at (end)
+2025/08/20-19:37:26.067 290 Log #1172: 0 ops saved to Table #1173 OK
+2025/08/20-19:37:26.069 290 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/001172.log: OK
+2025/08/20-19:37:26.083 290 Table #1165: 83 entries OK
+2025/08/20-19:37:26.088 290 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/MANIFEST-001170: OK
+2025/08/20-19:37:26.093 290 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages; recovered 1 files; 1915191 bytes. Some data may have been lost. ****
