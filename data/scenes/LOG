@@ -1,14 +1,14 @@
-2025/08/20-18:21:42.125589 7f8ffff0a0 Recovering log #968
-2025/08/20-18:21:42.157213 7f8ffff0a0 Delete type=3 #966
-2025/08/20-18:21:42.157453 7f8ffff0a0 Delete type=0 #968
-2025/08/20-22:13:15.957638 7f84dff0a0 Level-0 table #974: started
-2025/08/20-22:13:15.985836 7f84dff0a0 Level-0 table #974: 138617 bytes OK
-2025/08/20-22:13:15.991829 7f84dff0a0 Delete type=0 #972
-2025/08/20-22:13:16.020761 7f84dff0a0 Manual compaction at level-0 from '!scenes!0LdKTkvbYcLGd0iB' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.walls!ly516zPvhWSe1AXM.6wFankl5wjDB7Oc6' @ 89588 : 1
-2025/08/20-22:13:16.020821 7f84dff0a0 Compacting 1@0 + 1@1 files
-2025/08/20-22:13:16.106078 7f84dff0a0 Generated table #975@0: 4058 keys, 537049 bytes
-2025/08/20-22:13:16.106195 7f84dff0a0 Compacted 1@0 + 1@1 files => 537049 bytes
-2025/08/20-22:13:16.112401 7f84dff0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/08/20-22:13:16.112781 7f84dff0a0 Delete type=2 #974
-2025/08/20-22:13:16.113611 7f84dff0a0 Delete type=2 #970
-2025/08/20-22:13:16.157632 7f84dff0a0 Manual compaction at level-0 from '!scenes.walls!ly516zPvhWSe1AXM.6wFankl5wjDB7Oc6' @ 89588 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)
+2025/09/03-17:48:19.292717 7f8f7ef0a0 Recovering log #973
+2025/09/03-17:48:19.315607 7f8f7ef0a0 Delete type=3 #971
+2025/09/03-17:48:19.315853 7f8f7ef0a0 Delete type=0 #973
+2025/09/03-21:53:43.759501 7f84dff0a0 Level-0 table #979: started
+2025/09/03-21:53:43.798578 7f84dff0a0 Level-0 table #979: 273570 bytes OK
+2025/09/03-21:53:43.805256 7f84dff0a0 Delete type=0 #977
+2025/09/03-21:53:43.843748 7f84dff0a0 Manual compaction at level-0 from '!scenes!0LdKTkvbYcLGd0iB' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.walls!Bw5YlqeabRcNistG.oBDvYCLnUJ7RywBm' @ 89693 : 1
+2025/09/03-21:53:43.843808 7f84dff0a0 Compacting 1@0 + 1@1 files
+2025/09/03-21:53:43.930565 7f84dff0a0 Generated table #980@0: 4091 keys, 543734 bytes
+2025/09/03-21:53:43.930680 7f84dff0a0 Compacted 1@0 + 1@1 files => 543734 bytes
+2025/09/03-21:53:43.936623 7f84dff0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/09/03-21:53:43.937129 7f84dff0a0 Delete type=2 #979
+2025/09/03-21:53:43.938199 7f84dff0a0 Delete type=2 #975
+2025/09/03-21:53:43.968262 7f84dff0a0 Manual compaction at level-0 from '!scenes.walls!Bw5YlqeabRcNistG.oBDvYCLnUJ7RywBm' @ 89693 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)
