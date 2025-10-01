@@ -1,5 +1,1 @@
-2025/10/01-19:35:52.763 3bac Log #936: 0 ops saved to Table #939 OK
-2025/10/01-19:35:52.763 3bac Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/settings/000936.log: OK
-2025/10/01-19:35:52.763 3bac Table #938: 19 entries OK
-2025/10/01-19:35:52.775 3bac Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/settings/MANIFEST-000934: OK
-2025/10/01-19:35:52.779 3bac **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/settings; recovered 1 files; 4305 bytes. Some data may have been lost. ****
+2025/10/01-19:35:52.794 3bac Delete type=3 #1

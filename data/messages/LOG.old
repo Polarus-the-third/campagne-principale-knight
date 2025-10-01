@@ -1,7 +1,1 @@
-2025/10/01-19:35:51.773 1dcc Log #1209: 0 ops saved to Table #1214 OK
-2025/10/01-19:35:51.774 1dcc Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/001209.log: OK
-2025/10/01-19:35:51.863 1dcc Table #1211: 27 entries OK
-2025/10/01-19:35:51.883 1dcc Table #1212: 31 entries OK
-2025/10/01-19:35:51.945 1dcc Table #1213: 38 entries OK
-2025/10/01-19:35:51.946 1dcc Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/MANIFEST-001193: OK
-2025/10/01-19:35:51.953 1dcc **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages; recovered 3 files; 6156413 bytes. Some data may have been lost. ****
+2025/10/01-19:35:51.969 1dcc Delete type=3 #1
