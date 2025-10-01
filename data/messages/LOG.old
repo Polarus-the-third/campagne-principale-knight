@@ -1,22 +1,7 @@
-2025/09/03-17:48:18.612335 7f8ffff0a0 Recovering log #1181
-2025/09/03-17:48:18.637586 7f8ffff0a0 Delete type=0 #1181
-2025/09/03-17:48:18.637782 7f8ffff0a0 Delete type=3 #1179
-2025/09/03-21:27:13.903120 7f84dff0a0 Level-0 table #1187: started
-2025/09/03-21:27:14.076780 7f84dff0a0 Level-0 table #1187: 934456 bytes OK
-2025/09/03-21:27:14.083322 7f84dff0a0 Delete type=0 #1185
-2025/09/03-21:41:59.291321 7f84dff0a0 Level-0 table #1189: started
-2025/09/03-21:41:59.423736 7f84dff0a0 Level-0 table #1189: 910383 bytes OK
-2025/09/03-21:41:59.429849 7f84dff0a0 Delete type=0 #1186
-2025/09/03-21:53:44.402617 7f84dff0a0 Level-0 table #1191: started
-2025/09/03-21:53:44.462668 7f84dff0a0 Level-0 table #1191: 424888 bytes OK
-2025/09/03-21:53:44.470029 7f84dff0a0 Delete type=0 #1188
-2025/09/03-21:53:44.474899 7f84dff0a0 Manual compaction at level-0 from '!messages!bOvB2TPBbjdEyO5b' @ 72057594037927935 : 1 .. '!messages!bOvB2TPBbjdEyO5b' @ 0 : 0; will stop at '!messages!qaZohp4BfutW15fS' @ 9306 : 1
-2025/09/03-21:53:44.474943 7f84dff0a0 Compacting 3@0 + 1@1 files
-2025/09/03-21:53:44.515963 7f84dff0a0 Generated table #1192@0: 1 keys, 458 bytes
-2025/09/03-21:53:44.516089 7f84dff0a0 Compacted 3@0 + 1@1 files => 458 bytes
-2025/09/03-21:53:44.521970 7f84dff0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/09/03-21:53:44.522683 7f84dff0a0 Delete type=2 #1189
-2025/09/03-21:53:44.524923 7f84dff0a0 Delete type=2 #1183
-2025/09/03-21:53:44.525538 7f84dff0a0 Delete type=2 #1191
-2025/09/03-21:53:44.526865 7f84dff0a0 Delete type=2 #1187
-2025/09/03-21:53:44.529015 7f84dff0a0 Manual compaction at level-0 from '!messages!qaZohp4BfutW15fS' @ 9306 : 1 .. '!messages!bOvB2TPBbjdEyO5b' @ 0 : 0; will stop at (end)
+2025/10/01-19:35:51.773 1dcc Log #1209: 0 ops saved to Table #1214 OK
+2025/10/01-19:35:51.774 1dcc Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/001209.log: OK
+2025/10/01-19:35:51.863 1dcc Table #1211: 27 entries OK
+2025/10/01-19:35:51.883 1dcc Table #1212: 31 entries OK
+2025/10/01-19:35:51.945 1dcc Table #1213: 38 entries OK
+2025/10/01-19:35:51.946 1dcc Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/MANIFEST-001193: OK
+2025/10/01-19:35:51.953 1dcc **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages; recovered 3 files; 6156413 bytes. Some data may have been lost. ****

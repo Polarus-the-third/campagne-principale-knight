@@ -1,25 +1,6 @@
-2025/09/03-17:48:18.299219 7f8f7ef0a0 Recovering log #1259
-2025/09/03-17:48:18.321145 7f8f7ef0a0 Delete type=3 #1257
-2025/09/03-17:48:18.321422 7f8f7ef0a0 Delete type=0 #1259
-2025/09/03-21:40:37.423880 7f84dff0a0 Level-0 table #1266: started
-2025/09/03-21:40:37.681921 7f84dff0a0 Level-0 table #1266: 1295824 bytes OK
-2025/09/03-21:40:37.689195 7f84dff0a0 Delete type=0 #1264
-2025/09/03-21:42:22.047683 7f84dff0a0 Compacting 1@0 + 2@1 files
-2025/09/03-21:42:22.473823 7f84dff0a0 Generated table #1267@0: 1062 keys, 2121552 bytes
-2025/09/03-21:42:22.690386 7f84dff0a0 Generated table #1268@0: 1160 keys, 1229526 bytes
-2025/09/03-21:42:22.690526 7f84dff0a0 Compacted 1@0 + 2@1 files => 3351078 bytes
-2025/09/03-21:42:22.696752 7f84dff0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2025/09/03-21:42:22.697644 7f84dff0a0 Delete type=2 #1262
-2025/09/03-21:42:22.700837 7f84dff0a0 Delete type=2 #1266
-2025/09/03-21:42:22.704671 7f84dff0a0 Delete type=2 #1261
-2025/09/03-21:53:42.684897 7f84dff0a0 Level-0 table #1270: started
-2025/09/03-21:53:42.709782 7f84dff0a0 Level-0 table #1270: 80621 bytes OK
-2025/09/03-21:53:42.716145 7f84dff0a0 Delete type=0 #1265
-2025/09/03-21:53:42.755010 7f84dff0a0 Manual compaction at level-0 from '!actors!0dBrS2iiMIRD5TAy' @ 72057594037927935 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at '!actors.items!B0TwpKXULnpgfQai.yYYdO0wgUS4Nktsw' @ 58573 : 1
-2025/09/03-21:53:42.755066 7f84dff0a0 Compacting 1@0 + 1@1 files
-2025/09/03-21:53:43.039291 7f84dff0a0 Generated table #1271@0: 1062 keys, 2121570 bytes
-2025/09/03-21:53:43.039422 7f84dff0a0 Compacted 1@0 + 1@1 files => 2121570 bytes
-2025/09/03-21:53:43.045705 7f84dff0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2025/09/03-21:53:43.046064 7f84dff0a0 Delete type=2 #1270
-2025/09/03-21:53:43.047086 7f84dff0a0 Delete type=2 #1267
-2025/09/03-21:53:43.070911 7f84dff0a0 Manual compaction at level-0 from '!actors.items!B0TwpKXULnpgfQai.yYYdO0wgUS4Nktsw' @ 58573 : 1 .. '!actors.items.effects!Quyaci7FP1OVqGwG.4fNWrbGywCak4kpG.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at (end)
+2025/10/01-19:35:51.583 3bac Log #1278: 0 ops saved to Table #1282 OK
+2025/10/01-19:35:51.583 3bac Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/001278.log: OK
+2025/10/01-19:35:51.593 3bac Table #1280: 1067 entries OK
+2025/10/01-19:35:51.633 3bac Table #1281: 1161 entries OK
+2025/10/01-19:35:51.637 3bac Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/MANIFEST-001272: OK
+2025/10/01-19:35:51.637 3bac **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors; recovered 2 files; 3360661 bytes. Some data may have been lost. ****
