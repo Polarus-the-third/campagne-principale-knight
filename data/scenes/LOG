@@ -1,11 +1,14 @@
-2025/10/29-18:20:56.671 1530 Delete type=3 #1
-2025/10/29-20:38:21.251 4890 Level-0 table #1010: started
-2025/10/29-20:38:21.252 4890 Level-0 table #1010: 0 bytes OK
-2025/10/29-20:38:21.254 4890 Delete type=0 #1008
-2025/10/29-20:38:21.266 4890 Manual compaction at level-0 from '!scenes!04aSv7Ox4qdLO69c' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 29630 : 1
-2025/10/29-20:38:21.266 4890 Compacting 1@0 + 0@1 files
-2025/10/29-20:38:21.288 4890 Generated table #1011@0: 4581 keys, 646491 bytes
-2025/10/29-20:38:21.288 4890 Compacted 1@0 + 0@1 files => 646491 bytes
-2025/10/29-20:38:21.289 4890 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/10/29-20:38:21.290 4890 Delete type=2 #1005
-2025/10/29-20:38:21.319 4890 Manual compaction at level-0 from '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 29630 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)
+2025/10/29-19:42:08.207202 7f9cd3f0a0 Recovering log #1009
+2025/10/29-19:42:08.233343 7f9cd3f0a0 Delete type=0 #1009
+2025/10/29-19:42:08.233522 7f9cd3f0a0 Delete type=3 #1007
+2025/10/29-23:25:35.722324 7f84dff0a0 Level-0 table #1015: started
+2025/10/29-23:25:35.771143 7f84dff0a0 Level-0 table #1015: 339767 bytes OK
+2025/10/29-23:25:35.778416 7f84dff0a0 Delete type=0 #1013
+2025/10/29-23:25:35.817983 7f84dff0a0 Manual compaction at level-0 from '!scenes!04aSv7Ox4qdLO69c' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.walls!IRABqHCbj6Q6EvfQ.VBLcYJGqbgj0qLtd' @ 93674 : 1
+2025/10/29-23:25:35.818035 7f84dff0a0 Compacting 1@0 + 1@1 files
+2025/10/29-23:25:35.933014 7f84dff0a0 Generated table #1016@0: 4532 keys, 635714 bytes
+2025/10/29-23:25:35.933216 7f84dff0a0 Compacted 1@0 + 1@1 files => 635714 bytes
+2025/10/29-23:25:35.940581 7f84dff0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/10/29-23:25:35.940976 7f84dff0a0 Delete type=2 #1015
+2025/10/29-23:25:35.942093 7f84dff0a0 Delete type=2 #1011
+2025/10/29-23:25:35.956980 7f84dff0a0 Manual compaction at level-0 from '!scenes.walls!IRABqHCbj6Q6EvfQ.VBLcYJGqbgj0qLtd' @ 93674 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)

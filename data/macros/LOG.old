@@ -1,5 +1,11 @@
-2025/10/29-18:20:56.461 43f0 Log #750: 0 ops saved to Table #753 OK
-2025/10/29-18:20:56.461 43f0 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/macros/000750.log: OK
-2025/10/29-18:20:56.461 43f0 Table #752: 26 entries OK
-2025/10/29-18:20:56.469 43f0 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/macros/MANIFEST-000748: OK
-2025/10/29-18:20:56.471 43f0 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/macros; recovered 1 files; 11427 bytes. Some data may have been lost. ****
+2025/10/29-18:20:56.485 43f0 Delete type=3 #1
+2025/10/29-20:38:21.233 4890 Level-0 table #757: started
+2025/10/29-20:38:21.233 4890 Level-0 table #757: 0 bytes OK
+2025/10/29-20:38:21.237 4890 Delete type=0 #755
+2025/10/29-20:38:21.241 4890 Manual compaction at level-0 from '!macros!1BWLCcCMwoAnsyeJ' @ 72057594037927935 : 1 .. '!macros!zIULypgpiE964AMY' @ 0 : 0; will stop at '!macros!zIULypgpiE964AMY' @ 22 : 1
+2025/10/29-20:38:21.241 4890 Compacting 1@0 + 0@1 files
+2025/10/29-20:38:21.249 4890 Generated table #758@0: 26 keys, 11427 bytes
+2025/10/29-20:38:21.249 4890 Compacted 1@0 + 0@1 files => 11427 bytes
+2025/10/29-20:38:21.251 4890 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/10/29-20:38:21.251 4890 Delete type=2 #752
+2025/10/29-20:38:21.266 4890 Manual compaction at level-0 from '!macros!zIULypgpiE964AMY' @ 22 : 1 .. '!macros!zIULypgpiE964AMY' @ 0 : 0; will stop at (end)
