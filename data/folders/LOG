@@ -1,5 +1,5 @@
-2025/12/29-16:14:56.985 4edc Recovering log #822
-2025/12/29-16:14:56.985 4edc Level-0 table #824: started
-2025/12/29-16:14:56.997 4edc Level-0 table #824: 1092 bytes OK
-2025/12/29-16:14:57.006 4edc Delete type=0 #822
-2025/12/29-16:14:57.006 4edc Delete type=3 #821
+2025/12/29-18:24:28.718280 7f9f26f0a0 Recovering log #825
+2025/12/29-18:24:28.718466 7f9f26f0a0 Level-0 table #827: started
+2025/12/29-18:24:28.728882 7f9f26f0a0 Level-0 table #827: 444 bytes OK
+2025/12/29-18:24:28.752832 7f9f26f0a0 Delete type=3 #823
+2025/12/29-18:24:28.753070 7f9f26f0a0 Delete type=0 #825

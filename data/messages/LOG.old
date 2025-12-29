@@ -1,1 +1,5 @@
-2025/12/29-15:59:32.287 4fb4 Delete type=3 #1
+2025/12/29-16:14:56.901 4edc Recovering log #1336
+2025/12/29-16:14:56.901 4edc Level-0 table #1338: started
+2025/12/29-16:14:56.912 4edc Level-0 table #1338: 575 bytes OK
+2025/12/29-16:14:56.921 4edc Delete type=0 #1336
+2025/12/29-16:14:56.921 4edc Delete type=3 #1335
