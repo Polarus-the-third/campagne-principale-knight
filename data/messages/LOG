@@ -3,3 +3,16 @@
 2025/12/29-18:24:28.043509 7f9f26f0a0 Level-0 table #1341: 20251 bytes OK
 2025/12/29-18:24:28.065917 7f9f26f0a0 Delete type=0 #1339
 2025/12/29-18:24:28.066234 7f9f26f0a0 Delete type=3 #1337
+2025/12/29-23:19:25.978551 7f9493f0a0 Level-0 table #1344: started
+2025/12/29-23:19:25.996222 7f9493f0a0 Level-0 table #1344: 18935 bytes OK
+2025/12/29-23:19:26.010127 7f9493f0a0 Delete type=0 #1342
+2025/12/29-23:19:26.451750 7f9493f0a0 Manual compaction at level-0 from '!messages!0xyBVwAettpo8fwO' @ 72057594037927935 : 1 .. '!messages!eukiHUPYYmvC22Ns' @ 0 : 0; will stop at '!messages!feca4Z8XhTZDnSNa' @ 10957 : 1
+2025/12/29-23:19:26.451801 7f9493f0a0 Compacting 4@0 + 0@1 files
+2025/12/29-23:19:26.461693 7f9493f0a0 Generated table #1345@0: 3 keys, 1767 bytes
+2025/12/29-23:19:26.461787 7f9493f0a0 Compacted 4@0 + 0@1 files => 1767 bytes
+2025/12/29-23:19:26.467181 7f9493f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/12/29-23:19:26.467470 7f9493f0a0 Delete type=2 #1333
+2025/12/29-23:19:26.475894 7f9493f0a0 Delete type=2 #1338
+2025/12/29-23:19:26.476228 7f9493f0a0 Delete type=2 #1341
+2025/12/29-23:19:26.481169 7f9493f0a0 Delete type=2 #1344
+2025/12/29-23:19:26.481901 7f9493f0a0 Manual compaction at level-0 from '!messages!feca4Z8XhTZDnSNa' @ 10957 : 1 .. '!messages!eukiHUPYYmvC22Ns' @ 0 : 0; will stop at (end)
