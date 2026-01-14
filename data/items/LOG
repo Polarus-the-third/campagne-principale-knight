@@ -1,13 +1,11 @@
-2026/01/07-19:29:05.142475 7f9ea5f0a0 Recovering log #826
-2026/01/07-19:29:05.166268 7f9ea5f0a0 Delete type=3 #825
-2026/01/07-19:29:05.166530 7f9ea5f0a0 Delete type=0 #826
-2026/01/07-23:05:07.615078 7f9493f0a0 Level-0 table #830: started
-2026/01/07-23:05:07.615795 7f9493f0a0 Level-0 table #830: 0 bytes OK
-2026/01/07-23:05:07.626892 7f9493f0a0 Delete type=0 #828
-2026/01/07-23:05:08.163383 7f9493f0a0 Manual compaction at level-0 from '!items!02QESeIlR6ESSmex' @ 72057594037927935 : 1 .. '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 0 : 0; will stop at '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 5328 : 1
-2026/01/07-23:05:08.163430 7f9493f0a0 Compacting 1@0 + 0@1 files
-2026/01/07-23:05:08.292700 7f9493f0a0 Generated table #831@0: 930 keys, 1076668 bytes
-2026/01/07-23:05:08.292806 7f9493f0a0 Compacted 1@0 + 0@1 files => 1076668 bytes
-2026/01/07-23:05:08.298272 7f9493f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/01/07-23:05:08.298798 7f9493f0a0 Delete type=2 #823
-2026/01/07-23:05:08.319303 7f9493f0a0 Manual compaction at level-0 from '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 5328 : 1 .. '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 0 : 0; will stop at (end)
+2026/01/14-19:06:48.309 2f30 Delete type=3 #1
+2026/01/14-20:31:16.607 14cc Level-0 table #836: started
+2026/01/14-20:31:16.608 14cc Level-0 table #836: 0 bytes OK
+2026/01/14-20:31:16.609 14cc Delete type=0 #834
+2026/01/14-20:31:16.622 14cc Manual compaction at level-0 from '!items!02QESeIlR6ESSmex' @ 72057594037927935 : 1 .. '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 0 : 0; will stop at '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 5328 : 1
+2026/01/14-20:31:16.622 14cc Compacting 1@0 + 0@1 files
+2026/01/14-20:31:16.693 14cc Generated table #837@0: 930 keys, 1076668 bytes
+2026/01/14-20:31:16.693 14cc Compacted 1@0 + 0@1 files => 1076668 bytes
+2026/01/14-20:31:16.698 14cc compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/01/14-20:31:16.698 14cc Delete type=2 #831
+2026/01/14-20:31:16.716 14cc Manual compaction at level-0 from '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 5328 : 1 .. '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 0 : 0; will stop at (end)

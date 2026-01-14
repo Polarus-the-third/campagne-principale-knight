@@ -1,26 +1,16 @@
-2026/01/07-19:29:04.649946 7f9ea5f0a0 Recovering log #1070
-2026/01/07-19:29:04.650158 7f9ea5f0a0 Level-0 table #1072: started
-2026/01/07-19:29:04.661022 7f9ea5f0a0 Level-0 table #1072: 1384 bytes OK
-2026/01/07-19:29:04.680975 7f9ea5f0a0 Delete type=3 #1069
-2026/01/07-19:29:04.681219 7f9ea5f0a0 Delete type=0 #1070
-2026/01/07-19:29:04.685211 7f9493f0a0 Compacting 2@0 + 0@1 files
-2026/01/07-19:29:04.997572 7f9493f0a0 Generated table #1074@0: 160 keys, 2163394 bytes
-2026/01/07-19:29:04.997719 7f9493f0a0 Compacted 2@0 + 0@1 files => 2163394 bytes
-2026/01/07-19:29:05.026233 7f9493f0a0 compacted to: files[ 2 1 0 0 0 0 0 ]
-2026/01/07-23:05:07.459558 7f9493f0a0 Level-0 table #1076: started
-2026/01/07-23:05:07.596929 7f9493f0a0 Level-0 table #1076: 1754319 bytes OK
-2026/01/07-23:05:07.604287 7f9493f0a0 Delete type=0 #1073
-2026/01/07-23:05:07.606514 7f9493f0a0 Delete type=2 #1072
-2026/01/07-23:05:07.611918 7f9493f0a0 Delete type=2 #1065
-2026/01/07-23:05:07.654661 7f9493f0a0 Manual compaction at level-0 from '!fog!01ULs73E2g5PhXEZ' @ 72057594037927935 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at '!fog!zX1366SDnWYaVGAp' @ 1183 : 1
-2026/01/07-23:05:07.654760 7f9493f0a0 Compacting 3@0 + 1@1 files
-2026/01/07-23:05:07.839074 7f9493f0a0 Generated table #1077@0: 162 keys, 2133751 bytes
-2026/01/07-23:05:08.008555 7f9493f0a0 Generated table #1078@0: 108 keys, 2130477 bytes
-2026/01/07-23:05:08.142105 7f9493f0a0 Generated table #1079@0: 77 keys, 1423692 bytes
-2026/01/07-23:05:08.142218 7f9493f0a0 Compacted 3@0 + 1@1 files => 5687920 bytes
-2026/01/07-23:05:08.147669 7f9493f0a0 compacted to: files[ 0 3 0 0 0 0 0 ]
-2026/01/07-23:05:08.148335 7f9493f0a0 Delete type=2 #1076
-2026/01/07-23:05:08.151966 7f9493f0a0 Delete type=2 #1074
-2026/01/07-23:05:08.160180 7f9493f0a0 Delete type=2 #1066
-2026/01/07-23:05:08.162134 7f9493f0a0 Delete type=2 #1067
-2026/01/07-23:05:08.318879 7f9493f0a0 Manual compaction at level-0 from '!fog!zX1366SDnWYaVGAp' @ 1183 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at (end)
+2026/01/14-19:06:48.156 2f24 Delete type=3 #1
+2026/01/14-20:31:16.708 14cc Level-0 table #1084: started
+2026/01/14-20:31:16.713 14cc Level-0 table #1084: 33061 bytes OK
+2026/01/14-20:31:16.716 14cc Delete type=0 #1082
+2026/01/14-20:31:16.721 14cc Manual compaction at level-0 from '!fog!01ULs73E2g5PhXEZ' @ 72057594037927935 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at '!fog!wI9ch1gtS2VIagQS' @ 3512 : 1
+2026/01/14-20:31:16.721 14cc Compacting 4@0 + 0@1 files
+2026/01/14-20:31:16.742 14cc Generated table #1085@0: 162 keys, 2133751 bytes
+2026/01/14-20:31:16.767 14cc Generated table #1086@0: 108 keys, 2130477 bytes
+2026/01/14-20:31:16.783 14cc Generated table #1087@0: 77 keys, 1423750 bytes
+2026/01/14-20:31:16.783 14cc Compacted 4@0 + 0@1 files => 5687978 bytes
+2026/01/14-20:31:16.785 14cc compacted to: files[ 0 3 0 0 0 0 0 ]
+2026/01/14-20:31:16.786 14cc Delete type=2 #1077
+2026/01/14-20:31:16.788 14cc Delete type=2 #1078
+2026/01/14-20:31:16.789 14cc Delete type=2 #1079
+2026/01/14-20:31:16.789 14cc Delete type=2 #1084
+2026/01/14-20:31:16.810 14cc Manual compaction at level-0 from '!fog!wI9ch1gtS2VIagQS' @ 3512 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at (end)
