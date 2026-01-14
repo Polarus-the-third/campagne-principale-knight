@@ -1,5 +1,7 @@
-2026/01/14-19:06:48.726 2f30 Log #825: 0 ops saved to Table #828 OK
-2026/01/14-19:06:48.726 2f30 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/users/000825.log: OK
-2026/01/14-19:06:48.741 2f30 Table #827: 6 entries OK
-2026/01/14-19:06:48.742 2f30 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/users/MANIFEST-000823: OK
-2026/01/14-19:06:48.745 2f30 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/users; recovered 1 files; 2599 bytes. Some data may have been lost. ****
+2026/01/14-19:35:43.892603 7f9fa7f0a0 Recovering log #831
+2026/01/14-19:35:43.925371 7f9fa7f0a0 Delete type=0 #831
+2026/01/14-19:35:43.925560 7f9fa7f0a0 Delete type=3 #829
+2026/01/14-19:36:15.476971 7f9493f0a0 Level-0 table #837: started
+2026/01/14-19:36:15.477102 7f9493f0a0 Level-0 table #837: 0 bytes OK
+2026/01/14-19:36:15.486746 7f9493f0a0 Delete type=0 #835
+2026/01/14-19:36:15.496710 7f9493f0a0 Manual compaction at level-0 from '!users!58CcLdiQSdoQVhE5' @ 72057594037927935 : 1 .. '!users!pXlcbPywTCw2L90K' @ 0 : 0; will stop at (end)

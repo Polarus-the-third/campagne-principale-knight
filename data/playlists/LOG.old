@@ -1,5 +1,7 @@
-2026/01/14-19:06:48.465 2f24 Log #822: 0 ops saved to Table #825 OK
-2026/01/14-19:06:48.465 2f24 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/playlists/000822.log: OK
-2026/01/14-19:06:48.472 2f24 Table #824: 32 entries OK
-2026/01/14-19:06:48.476 2f24 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/playlists/MANIFEST-000820: OK
-2026/01/14-19:06:48.476 2f24 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/playlists; recovered 1 files; 4816 bytes. Some data may have been lost. ****
+2026/01/14-19:35:43.589874 7f9fa7f0a0 Recovering log #828
+2026/01/14-19:35:43.616153 7f9fa7f0a0 Delete type=3 #826
+2026/01/14-19:35:43.616388 7f9fa7f0a0 Delete type=0 #828
+2026/01/14-19:36:15.366754 7f9493f0a0 Level-0 table #834: started
+2026/01/14-19:36:15.366877 7f9493f0a0 Level-0 table #834: 0 bytes OK
+2026/01/14-19:36:15.374411 7f9493f0a0 Delete type=0 #832
+2026/01/14-19:36:15.391906 7f9493f0a0 Manual compaction at level-0 from '!playlists!X7sWFavdc2V5WWDo' @ 72057594037927935 : 1 .. '!playlists.sounds!veZYt2l9e3NZwcgL.rB7Ws76IQDPJgJMw' @ 0 : 0; will stop at (end)

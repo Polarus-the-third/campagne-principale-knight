@@ -1,11 +1,19 @@
-2026/01/14-19:06:47.971 2f0c Delete type=3 #1
-2026/01/14-20:31:16.577 14cc Level-0 table #1359: started
-2026/01/14-20:31:16.577 14cc Level-0 table #1359: 0 bytes OK
-2026/01/14-20:31:16.580 14cc Delete type=0 #1357
-2026/01/14-20:31:16.583 14cc Manual compaction at level-0 from '!messages!2Zv3fv1a2XFlIuUu' @ 72057594037927935 : 1 .. '!messages!zuvSF425li0V4xHx' @ 0 : 0; will stop at '!messages!zuvSF425li0V4xHx' @ 11002 : 1
-2026/01/14-20:31:16.583 14cc Compacting 1@0 + 0@1 files
-2026/01/14-20:31:16.602 14cc Generated table #1360@0: 46 keys, 526954 bytes
-2026/01/14-20:31:16.602 14cc Compacted 1@0 + 0@1 files => 526954 bytes
-2026/01/14-20:31:16.606 14cc compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/01/14-20:31:16.607 14cc Delete type=2 #1354
-2026/01/14-20:31:16.622 14cc Manual compaction at level-0 from '!messages!zuvSF425li0V4xHx' @ 11002 : 1 .. '!messages!zuvSF425li0V4xHx' @ 0 : 0; will stop at (end)
+2026/01/14-19:59:13.893177 7f9f26f0a0 Recovering log #1363
+2026/01/14-19:59:13.917721 7f9f26f0a0 Delete type=3 #1361
+2026/01/14-19:59:13.917951 7f9f26f0a0 Delete type=0 #1363
+2026/01/14-21:36:34.513560 7f9493f0a0 Level-0 table #1368: started
+2026/01/14-21:36:34.627607 7f9493f0a0 Level-0 table #1368: 945832 bytes OK
+2026/01/14-21:36:34.644089 7f9493f0a0 Delete type=0 #1366
+2026/01/14-22:33:50.549550 7f9493f0a0 Level-0 table #1370: started
+2026/01/14-22:33:50.646016 7f9493f0a0 Level-0 table #1370: 824937 bytes OK
+2026/01/14-22:33:50.652831 7f9493f0a0 Delete type=0 #1367
+2026/01/14-22:33:51.121416 7f9493f0a0 Manual compaction at level-0 from '!messages!02wLA7kQztF2cz3q' @ 72057594037927935 : 1 .. '!messages!zuvSF425li0V4xHx' @ 0 : 0; will stop at '!messages!z0iR8NN7tcnz03Br' @ 11095 : 1
+2026/01/14-22:33:51.121501 7f9493f0a0 Compacting 2@0 + 1@1 files
+2026/01/14-22:33:51.417595 7f9493f0a0 Generated table #1371@0: 81 keys, 2117954 bytes
+2026/01/14-22:33:51.447312 7f9493f0a0 Generated table #1372@0: 30 keys, 180420 bytes
+2026/01/14-22:33:51.447413 7f9493f0a0 Compacted 2@0 + 1@1 files => 2298374 bytes
+2026/01/14-22:33:51.454189 7f9493f0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
+2026/01/14-22:33:51.454719 7f9493f0a0 Delete type=2 #1370
+2026/01/14-22:33:51.456627 7f9493f0a0 Delete type=2 #1368
+2026/01/14-22:33:51.458403 7f9493f0a0 Delete type=2 #1360
+2026/01/14-22:33:51.490047 7f9493f0a0 Manual compaction at level-0 from '!messages!z0iR8NN7tcnz03Br' @ 11095 : 1 .. '!messages!zuvSF425li0V4xHx' @ 0 : 0; will stop at (end)
