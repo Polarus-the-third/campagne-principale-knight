@@ -1,12 +1,14 @@
-2026/01/28-17:46:50.025 840 Delete type=3 #1
-2026/01/28-20:21:11.712 46a4 Level-0 table #1024: started
-2026/01/28-20:21:11.717 46a4 Level-0 table #1024: 8520 bytes OK
-2026/01/28-20:21:11.718 46a4 Delete type=0 #1022
-2026/01/28-20:21:11.743 46a4 Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 1147 : 1
-2026/01/28-20:21:11.744 46a4 Compacting 2@0 + 0@1 files
-2026/01/28-20:21:11.750 46a4 Generated table #1025@0: 19 keys, 4388 bytes
-2026/01/28-20:21:11.750 46a4 Compacted 2@0 + 0@1 files => 4388 bytes
-2026/01/28-20:21:11.752 46a4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/01/28-20:21:11.752 46a4 Delete type=2 #1019
-2026/01/28-20:21:11.753 46a4 Delete type=2 #1024
-2026/01/28-20:21:11.772 46a4 Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 1147 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)
+2026/01/28-19:23:10.746016 7f9fa7f0a0 Recovering log #1023
+2026/01/28-19:23:10.772370 7f9fa7f0a0 Delete type=0 #1023
+2026/01/28-19:23:10.772571 7f9fa7f0a0 Delete type=3 #1021
+2026/01/28-22:41:24.631428 7f9493f0a0 Level-0 table #1029: started
+2026/01/28-22:41:24.642547 7f9493f0a0 Level-0 table #1029: 8520 bytes OK
+2026/01/28-22:41:24.649081 7f9493f0a0 Delete type=0 #1027
+2026/01/28-22:41:24.659589 7f9493f0a0 Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 1154 : 1
+2026/01/28-22:41:24.659662 7f9493f0a0 Compacting 1@0 + 1@1 files
+2026/01/28-22:41:24.677032 7f9493f0a0 Generated table #1030@0: 19 keys, 4389 bytes
+2026/01/28-22:41:24.677130 7f9493f0a0 Compacted 1@0 + 1@1 files => 4389 bytes
+2026/01/28-22:41:24.682579 7f9493f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/01/28-22:41:24.682867 7f9493f0a0 Delete type=2 #1029
+2026/01/28-22:41:24.683232 7f9493f0a0 Delete type=2 #1025
+2026/01/28-22:41:24.702112 7f9493f0a0 Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 1154 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)

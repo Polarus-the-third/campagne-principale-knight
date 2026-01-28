@@ -1,11 +1,14 @@
-2026/01/28-17:46:49.331 1184 Delete type=3 #1
-2026/01/28-20:21:11.577 46a4 Level-0 table #849: started
-2026/01/28-20:21:11.577 46a4 Level-0 table #849: 0 bytes OK
-2026/01/28-20:21:11.580 46a4 Delete type=0 #847
-2026/01/28-20:21:11.589 46a4 Manual compaction at level-0 from '!items!02QESeIlR6ESSmex' @ 72057594037927935 : 1 .. '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 0 : 0; will stop at '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 5328 : 1
-2026/01/28-20:21:11.589 46a4 Compacting 1@0 + 0@1 files
-2026/01/28-20:21:11.656 46a4 Generated table #850@0: 930 keys, 1076668 bytes
-2026/01/28-20:21:11.656 46a4 Compacted 1@0 + 0@1 files => 1076668 bytes
-2026/01/28-20:21:11.658 46a4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/01/28-20:21:11.658 46a4 Delete type=2 #837
-2026/01/28-20:21:11.666 46a4 Manual compaction at level-0 from '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 5328 : 1 .. '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 0 : 0; will stop at (end)
+2026/01/28-19:23:10.357071 7f9ea5f0a0 Recovering log #848
+2026/01/28-19:23:10.378370 7f9ea5f0a0 Delete type=3 #846
+2026/01/28-19:23:10.378713 7f9ea5f0a0 Delete type=0 #848
+2026/01/28-22:41:23.608280 7f9493f0a0 Level-0 table #854: started
+2026/01/28-22:41:23.703520 7f9493f0a0 Level-0 table #854: 794259 bytes OK
+2026/01/28-22:41:23.711699 7f9493f0a0 Delete type=0 #852
+2026/01/28-22:41:24.241702 7f9493f0a0 Manual compaction at level-0 from '!items!02QESeIlR6ESSmex' @ 72057594037927935 : 1 .. '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 0 : 0; will stop at '!items!ztAUkbMM40OwwNA2' @ 5882 : 1
+2026/01/28-22:41:24.241753 7f9493f0a0 Compacting 1@0 + 1@1 files
+2026/01/28-22:41:24.372954 7f9493f0a0 Generated table #855@0: 930 keys, 1080831 bytes
+2026/01/28-22:41:24.373066 7f9493f0a0 Compacted 1@0 + 1@1 files => 1080831 bytes
+2026/01/28-22:41:24.380420 7f9493f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/01/28-22:41:24.380988 7f9493f0a0 Delete type=2 #850
+2026/01/28-22:41:24.384634 7f9493f0a0 Delete type=2 #854
+2026/01/28-22:41:24.386854 7f9493f0a0 Manual compaction at level-0 from '!items!ztAUkbMM40OwwNA2' @ 5882 : 1 .. '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 0 : 0; will stop at (end)

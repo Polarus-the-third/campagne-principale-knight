@@ -1,5 +1,11 @@
-2026/01/28-17:46:49.236 1184 Log #844: 0 ops saved to Table #845 OK
-2026/01/28-17:46:49.237 1184 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/items/000844.log: OK
-2026/01/28-17:46:49.292 1184 Table #837: 930 entries OK
-2026/01/28-17:46:49.300 1184 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/items/MANIFEST-000842: OK
-2026/01/28-17:46:49.306 1184 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/items; recovered 1 files; 1076668 bytes. Some data may have been lost. ****
+2026/01/28-17:46:49.331 1184 Delete type=3 #1
+2026/01/28-20:21:11.577 46a4 Level-0 table #849: started
+2026/01/28-20:21:11.577 46a4 Level-0 table #849: 0 bytes OK
+2026/01/28-20:21:11.580 46a4 Delete type=0 #847
+2026/01/28-20:21:11.589 46a4 Manual compaction at level-0 from '!items!02QESeIlR6ESSmex' @ 72057594037927935 : 1 .. '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 0 : 0; will stop at '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 5328 : 1
+2026/01/28-20:21:11.589 46a4 Compacting 1@0 + 0@1 files
+2026/01/28-20:21:11.656 46a4 Generated table #850@0: 930 keys, 1076668 bytes
+2026/01/28-20:21:11.656 46a4 Compacted 1@0 + 0@1 files => 1076668 bytes
+2026/01/28-20:21:11.658 46a4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/01/28-20:21:11.658 46a4 Delete type=2 #837
+2026/01/28-20:21:11.666 46a4 Manual compaction at level-0 from '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 5328 : 1 .. '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 0 : 0; will stop at (end)
