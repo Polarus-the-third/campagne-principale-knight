@@ -1,14 +1,12 @@
-2026/01/14-19:59:14.329534 7f9e24f0a0 Recovering log #1063
-2026/01/14-19:59:14.351603 7f9e24f0a0 Delete type=0 #1063
-2026/01/14-19:59:14.351778 7f9e24f0a0 Delete type=3 #1061
-2026/01/14-22:33:52.132523 7f9493f0a0 Level-0 table #1068: started
-2026/01/14-22:33:52.160563 7f9493f0a0 Level-0 table #1068: 164703 bytes OK
-2026/01/14-22:33:52.168255 7f9493f0a0 Delete type=0 #1066
-2026/01/14-22:33:52.203918 7f9493f0a0 Manual compaction at level-0 from '!scenes!04aSv7Ox4qdLO69c' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.walls!COo8cXyUOcsCTyhE.B1gNyD0h3dN4xWQS' @ 98898 : 1
-2026/01/14-22:33:52.203963 7f9493f0a0 Compacting 1@0 + 1@1 files
-2026/01/14-22:33:52.304500 7f9493f0a0 Generated table #1069@0: 4733 keys, 688980 bytes
-2026/01/14-22:33:52.304602 7f9493f0a0 Compacted 1@0 + 1@1 files => 688980 bytes
-2026/01/14-22:33:52.312018 7f9493f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/01/14-22:33:52.312394 7f9493f0a0 Delete type=2 #1060
-2026/01/14-22:33:52.314125 7f9493f0a0 Delete type=2 #1068
-2026/01/14-22:33:52.334881 7f9493f0a0 Manual compaction at level-0 from '!scenes.walls!COo8cXyUOcsCTyhE.B1gNyD0h3dN4xWQS' @ 98898 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)
+2026/01/28-17:46:49.817 428c Delete type=3 #1
+2026/01/28-20:21:11.705 46a4 Level-0 table #1074: started
+2026/01/28-20:21:11.709 46a4 Level-0 table #1074: 9171 bytes OK
+2026/01/28-20:21:11.712 46a4 Delete type=0 #1072
+2026/01/28-20:21:11.719 46a4 Manual compaction at level-0 from '!scenes!04aSv7Ox4qdLO69c' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.tokens.delta!l63ACsfaoLNICqsy.Us7igGg26FVviu3P.ozBrryVZNynItLxf' @ 99282 : 0
+2026/01/28-20:21:11.719 46a4 Compacting 2@0 + 0@1 files
+2026/01/28-20:21:11.740 46a4 Generated table #1075@0: 4728 keys, 686162 bytes
+2026/01/28-20:21:11.740 46a4 Compacted 2@0 + 0@1 files => 686162 bytes
+2026/01/28-20:21:11.742 46a4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/01/28-20:21:11.742 46a4 Delete type=2 #1069
+2026/01/28-20:21:11.743 46a4 Delete type=2 #1074
+2026/01/28-20:21:11.772 46a4 Manual compaction at level-0 from '!scenes.tokens.delta!l63ACsfaoLNICqsy.Us7igGg26FVviu3P.ozBrryVZNynItLxf' @ 99282 : 0 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)
