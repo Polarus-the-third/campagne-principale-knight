@@ -1,11 +1,22 @@
-2026/02/25-17:51:33.178 2d30 Recovering log #1122
-2026/02/25-17:51:33.180 2d30 Level-0 table #1125: started
-2026/02/25-17:51:33.184 2d30 Level-0 table #1125: 10480 bytes OK
-2026/02/25-17:51:33.193 2d30 Delete type=0 #1122
-2026/02/25-17:51:33.193 2d30 Delete type=3 #1120
-2026/02/25-17:52:18.998 3dbc Compacting 1@0 + 1@1 files
-2026/02/25-17:52:19.023 3dbc Generated table #1127@0: 4837 keys, 719566 bytes
-2026/02/25-17:52:19.023 3dbc Compacted 1@0 + 1@1 files => 719566 bytes
-2026/02/25-17:52:19.027 3dbc compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/02/25-17:52:19.027 3dbc Delete type=2 #1123
-2026/02/25-17:52:19.027 3dbc Delete type=2 #1125
+2026/02/25-19:05:11.898271 7f9fa7f0a0 Recovering log #1126
+2026/02/25-19:05:11.899668 7f9fa7f0a0 Level-0 table #1129: started
+2026/02/25-19:05:11.918157 7f9fa7f0a0 Level-0 table #1129: 55537 bytes OK
+2026/02/25-19:05:11.938255 7f9fa7f0a0 Delete type=0 #1126
+2026/02/25-19:05:11.938882 7f9fa7f0a0 Delete type=3 #1124
+2026/02/25-19:05:20.285073 7f9493f0a0 Compacting 1@0 + 1@1 files
+2026/02/25-19:05:20.402880 7f9493f0a0 Generated table #1131@0: 4859 keys, 722982 bytes
+2026/02/25-19:05:20.403031 7f9493f0a0 Compacted 1@0 + 1@1 files => 722982 bytes
+2026/02/25-19:05:20.409951 7f9493f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/25-19:05:20.410475 7f9493f0a0 Delete type=2 #1129
+2026/02/25-19:05:20.411241 7f9493f0a0 Delete type=2 #1127
+2026/02/25-19:23:20.063211 7f9493f0a0 Level-0 table #1133: started
+2026/02/25-19:23:20.076848 7f9493f0a0 Level-0 table #1133: 19511 bytes OK
+2026/02/25-19:23:20.083351 7f9493f0a0 Delete type=0 #1130
+2026/02/25-19:23:20.093312 7f9493f0a0 Manual compaction at level-0 from '!scenes!04aSv7Ox4qdLO69c' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes!yGzc9sCCOn11lu1t' @ 102617 : 1
+2026/02/25-19:23:20.093357 7f9493f0a0 Compacting 1@0 + 1@1 files
+2026/02/25-19:23:20.192302 7f9493f0a0 Generated table #1134@0: 4872 keys, 729153 bytes
+2026/02/25-19:23:20.192404 7f9493f0a0 Compacted 1@0 + 1@1 files => 729153 bytes
+2026/02/25-19:23:20.197840 7f9493f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/25-19:23:20.198133 7f9493f0a0 Delete type=2 #1133
+2026/02/25-19:23:20.198713 7f9493f0a0 Delete type=2 #1131
+2026/02/25-19:23:20.240667 7f9493f0a0 Manual compaction at level-0 from '!scenes!yGzc9sCCOn11lu1t' @ 102617 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)

@@ -1,10 +1,17 @@
-2026/02/25-07:38:04.611 4da0 Recovering log #1486
-2026/02/25-07:38:04.611 4da0 Level-0 table #1490: started
-2026/02/25-07:38:04.617 4da0 Level-0 table #1490: 121261 bytes OK
-2026/02/25-07:38:04.622 4da0 Delete type=0 #1486
-2026/02/25-07:38:04.622 4da0 Delete type=3 #1484
-2026/02/25-07:38:10.806 3680 Compacting 1@0 + 3@1 files
-2026/02/25-07:38:10.865 3680 Generated table #1492@0: 943 keys, 2123959 bytes
-2026/02/25-07:38:10.976 3680 Generated table #1493@0: 1656 keys, 1983325 bytes
-2026/02/25-07:38:10.976 3680 Compacted 1@0 + 3@1 files => 4107284 bytes
-2026/02/25-07:38:10.976 3680 compacted to: files[ 0 2 0 0 0 0 0 ]
+2026/02/25-17:51:32.806 36d4 Recovering log #1491
+2026/02/25-17:51:32.806 36d4 Level-0 table #1495: started
+2026/02/25-17:51:32.817 36d4 Level-0 table #1495: 24841 bytes OK
+2026/02/25-17:51:32.823 36d4 Delete type=2 #1483
+2026/02/25-17:51:32.823 36d4 Delete type=2 #1487
+2026/02/25-17:51:32.823 36d4 Delete type=2 #1488
+2026/02/25-17:51:32.823 36d4 Delete type=2 #1490
+2026/02/25-17:51:32.823 36d4 Delete type=0 #1491
+2026/02/25-17:51:32.823 36d4 Delete type=3 #1489
+2026/02/25-17:52:19.212 3dbc Compacting 1@0 + 2@1 files
+2026/02/25-17:52:19.265 3dbc Generated table #1497@0: 943 keys, 2123977 bytes
+2026/02/25-17:52:19.373 3dbc Generated table #1498@0: 1656 keys, 1983325 bytes
+2026/02/25-17:52:19.373 3dbc Compacted 1@0 + 2@1 files => 4107302 bytes
+2026/02/25-17:52:19.373 3dbc compacted to: files[ 0 2 0 0 0 0 0 ]
+2026/02/25-17:52:19.373 3dbc Delete type=2 #1492
+2026/02/25-17:52:19.373 3dbc Delete type=2 #1493
+2026/02/25-17:52:19.373 3dbc Delete type=2 #1495
