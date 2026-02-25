@@ -1,17 +1,6 @@
-2026/02/25-17:51:32.806 36d4 Recovering log #1491
-2026/02/25-17:51:32.806 36d4 Level-0 table #1495: started
-2026/02/25-17:51:32.817 36d4 Level-0 table #1495: 24841 bytes OK
-2026/02/25-17:51:32.823 36d4 Delete type=2 #1483
-2026/02/25-17:51:32.823 36d4 Delete type=2 #1487
-2026/02/25-17:51:32.823 36d4 Delete type=2 #1488
-2026/02/25-17:51:32.823 36d4 Delete type=2 #1490
-2026/02/25-17:51:32.823 36d4 Delete type=0 #1491
-2026/02/25-17:51:32.823 36d4 Delete type=3 #1489
-2026/02/25-17:52:19.212 3dbc Compacting 1@0 + 2@1 files
-2026/02/25-17:52:19.265 3dbc Generated table #1497@0: 943 keys, 2123977 bytes
-2026/02/25-17:52:19.373 3dbc Generated table #1498@0: 1656 keys, 1983325 bytes
-2026/02/25-17:52:19.373 3dbc Compacted 1@0 + 2@1 files => 4107302 bytes
-2026/02/25-17:52:19.373 3dbc compacted to: files[ 0 2 0 0 0 0 0 ]
-2026/02/25-17:52:19.373 3dbc Delete type=2 #1492
-2026/02/25-17:52:19.373 3dbc Delete type=2 #1493
-2026/02/25-17:52:19.373 3dbc Delete type=2 #1495
+2026/02/25-20:24:43.059 1264 Log #1504: 0 ops saved to Table #1505 OK
+2026/02/25-20:24:43.059 1264 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/001504.log: OK
+2026/02/25-20:24:43.067 1264 Table #1502: 949 entries OK
+2026/02/25-20:24:43.084 1264 Table #1503: 1658 entries OK
+2026/02/25-20:24:43.084 1264 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/MANIFEST-001499: OK
+2026/02/25-20:24:43.101 1264 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors; recovered 2 files; 4118807 bytes. Some data may have been lost. ****
