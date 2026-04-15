@@ -1,2 +1,20 @@
-2026/04/07-21:10:52.154 1034 Delete type=3 #1
-2026/04/07-21:10:52.155 4410 Moved #1554 to level-1 2119933 bytes OK: files[ 3 1 0 0 0 0 0 ]
+2026/04/15-18:33:58.539 44b4 Recovering log #1559
+2026/04/15-18:33:58.549 44b4 Delete type=0 #1559
+2026/04/15-18:33:58.549 44b4 Delete type=3 #1558
+2026/04/15-19:28:12.491 31ac Level-0 table #1563: started
+2026/04/15-19:28:12.534 31ac Level-0 table #1563: 1228731 bytes OK
+2026/04/15-19:28:12.537 31ac Delete type=0 #1561
+2026/04/15-19:28:12.538 31ac Compacting 4@0 + 1@1 files
+2026/04/15-19:28:12.761 31ac Generated table #1564@0: 898 keys, 2119905 bytes
+2026/04/15-19:28:12.965 31ac Generated table #1565@0: 1644 keys, 2125174 bytes
+2026/04/15-19:28:12.999 31ac Generated table #1566@0: 162 keys, 285431 bytes
+2026/04/15-19:28:12.999 31ac Compacted 4@0 + 1@1 files => 4530510 bytes
+2026/04/15-19:28:13.002 31ac compacted to: files[ 0 3 0 0 0 0 0 ]
+2026/04/15-19:28:13.003 31ac Delete type=2 #1551
+2026/04/15-19:28:13.004 31ac Delete type=2 #1554
+2026/04/15-19:28:13.007 31ac Delete type=2 #1555
+2026/04/15-19:28:13.009 31ac Delete type=2 #1556
+2026/04/15-19:28:13.010 31ac Delete type=2 #1563
+2026/04/15-19:49:26.730 31ac Level-0 table #1568: started
+2026/04/15-19:49:26.762 31ac Level-0 table #1568: 1318773 bytes OK
+2026/04/15-19:49:26.765 31ac Delete type=0 #1562
