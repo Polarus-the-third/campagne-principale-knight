@@ -1,3 +1,14 @@
-2026/04/30-18:33:16.808 bcc Recovering log #948
-2026/04/30-18:33:16.817 bcc Delete type=0 #948
-2026/04/30-18:33:16.818 bcc Delete type=3 #946
+2026/04/30-17:25:59.172557 7f9e24f0a0 Recovering log #952
+2026/04/30-17:25:59.197159 7f9e24f0a0 Delete type=0 #952
+2026/04/30-17:25:59.197356 7f9e24f0a0 Delete type=3 #951
+2026/04/30-22:12:38.856774 7f9493f0a0 Level-0 table #956: started
+2026/04/30-22:12:38.869778 7f9493f0a0 Level-0 table #956: 6766 bytes OK
+2026/04/30-22:12:38.876213 7f9493f0a0 Delete type=0 #954
+2026/04/30-22:12:38.917955 7f9493f0a0 Manual compaction at level-0 from '!playlists!X7sWFavdc2V5WWDo' @ 72057594037927935 : 1 .. '!playlists.sounds!veZYt2l9e3NZwcgL.rB7Ws76IQDPJgJMw' @ 0 : 0; will stop at '!playlists.sounds!p90v4BqtJcjvnEZt.u1inFVJgAngFwqEg' @ 3231 : 1
+2026/04/30-22:12:38.918012 7f9493f0a0 Compacting 1@0 + 1@1 files
+2026/04/30-22:12:38.928640 7f9493f0a0 Generated table #957@0: 32 keys, 4815 bytes
+2026/04/30-22:12:38.928748 7f9493f0a0 Compacted 1@0 + 1@1 files => 4815 bytes
+2026/04/30-22:12:38.936093 7f9493f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/04/30-22:12:38.936417 7f9493f0a0 Delete type=2 #956
+2026/04/30-22:12:38.936802 7f9493f0a0 Delete type=2 #950
+2026/04/30-22:12:39.087314 7f9493f0a0 Manual compaction at level-0 from '!playlists.sounds!p90v4BqtJcjvnEZt.u1inFVJgAngFwqEg' @ 3231 : 1 .. '!playlists.sounds!veZYt2l9e3NZwcgL.rB7Ws76IQDPJgJMw' @ 0 : 0; will stop at (end)
