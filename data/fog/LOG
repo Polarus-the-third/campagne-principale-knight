@@ -1,17 +1,16 @@
-2026/04/30-17:25:58.903144 7f9e24f0a0 Recovering log #1245
-2026/04/30-17:25:58.932062 7f9e24f0a0 Delete type=3 #1244
-2026/04/30-17:25:58.932328 7f9e24f0a0 Delete type=0 #1245
-2026/04/30-22:12:38.095427 7f9493f0a0 Level-0 table #1249: started
-2026/04/30-22:12:38.215376 7f9493f0a0 Level-0 table #1249: 1331013 bytes OK
-2026/04/30-22:12:38.221806 7f9493f0a0 Delete type=0 #1247
-2026/04/30-22:12:38.260304 7f9493f0a0 Manual compaction at level-0 from '!fog!01ULs73E2g5PhXEZ' @ 72057594037927935 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at '!fog!lbfamjrsq8wLjuBh' @ 3835 : 1
-2026/04/30-22:12:38.260354 7f9493f0a0 Compacting 1@0 + 2@1 files
-2026/04/30-22:12:38.453707 7f9493f0a0 Generated table #1250@0: 186 keys, 2111008 bytes
-2026/04/30-22:12:38.636334 7f9493f0a0 Generated table #1251@0: 127 keys, 2110999 bytes
-2026/04/30-22:12:38.657038 7f9493f0a0 Generated table #1252@0: 14 keys, 96603 bytes
-2026/04/30-22:12:38.657142 7f9493f0a0 Compacted 1@0 + 2@1 files => 4318610 bytes
-2026/04/30-22:12:38.663401 7f9493f0a0 compacted to: files[ 0 4 0 0 0 0 0 ]
-2026/04/30-22:12:38.664242 7f9493f0a0 Delete type=2 #1241
-2026/04/30-22:12:38.666547 7f9493f0a0 Delete type=2 #1242
-2026/04/30-22:12:38.669437 7f9493f0a0 Delete type=2 #1249
-2026/04/30-22:12:38.855070 7f9493f0a0 Manual compaction at level-0 from '!fog!lbfamjrsq8wLjuBh' @ 3835 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at (end)
+2026/05/06-19:19:27.340 e34 Recovering log #1255
+2026/05/06-19:19:27.340 e34 Level-0 table #1257: started
+2026/05/06-19:19:27.357 e34 Level-0 table #1257: 1005 bytes OK
+2026/05/06-19:19:27.367 e34 Delete type=0 #1255
+2026/05/06-19:19:27.367 e34 Delete type=3 #1254
+2026/05/06-19:19:27.370 84c Compacting 4@0 + 1@1 files
+2026/05/06-19:19:27.438 84c Generated table #1259@0: 195 keys, 2529191 bytes
+2026/05/06-19:19:27.499 84c Generated table #1260@0: 178 keys, 2111291 bytes
+2026/05/06-19:19:27.508 84c Generated table #1261@0: 28 keys, 235753 bytes
+2026/05/06-19:19:27.508 84c Compacted 4@0 + 1@1 files => 4876235 bytes
+2026/05/06-19:19:27.508 84c compacted to: files[ 0 3 0 0 0 0 0 ]
+2026/05/06-19:19:27.508 84c Delete type=2 #1243
+2026/05/06-19:19:27.514 84c Delete type=2 #1250
+2026/05/06-19:19:27.515 84c Delete type=2 #1251
+2026/05/06-19:19:27.516 84c Delete type=2 #1252
+2026/05/06-19:19:27.519 84c Delete type=2 #1257
