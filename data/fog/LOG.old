@@ -1,2 +1,16 @@
-2026/05/06-19:13:44.222 3a58 Delete type=3 #1
-2026/05/06-19:13:44.226 3de8 Moved #1250 to level-1 2111008 bytes OK: files[ 3 1 0 0 0 0 0 ]
+2026/05/06-19:19:27.340 e34 Recovering log #1255
+2026/05/06-19:19:27.340 e34 Level-0 table #1257: started
+2026/05/06-19:19:27.357 e34 Level-0 table #1257: 1005 bytes OK
+2026/05/06-19:19:27.367 e34 Delete type=0 #1255
+2026/05/06-19:19:27.367 e34 Delete type=3 #1254
+2026/05/06-19:19:27.370 84c Compacting 4@0 + 1@1 files
+2026/05/06-19:19:27.438 84c Generated table #1259@0: 195 keys, 2529191 bytes
+2026/05/06-19:19:27.499 84c Generated table #1260@0: 178 keys, 2111291 bytes
+2026/05/06-19:19:27.508 84c Generated table #1261@0: 28 keys, 235753 bytes
+2026/05/06-19:19:27.508 84c Compacted 4@0 + 1@1 files => 4876235 bytes
+2026/05/06-19:19:27.508 84c compacted to: files[ 0 3 0 0 0 0 0 ]
+2026/05/06-19:19:27.508 84c Delete type=2 #1243
+2026/05/06-19:19:27.514 84c Delete type=2 #1250
+2026/05/06-19:19:27.515 84c Delete type=2 #1251
+2026/05/06-19:19:27.516 84c Delete type=2 #1252
+2026/05/06-19:19:27.519 84c Delete type=2 #1257
