@@ -1,14 +1,14 @@
-2026/06/07-08:48:23.263 21b0 Recovering log #1236
-2026/06/07-08:48:23.272 21b0 Delete type=0 #1236
-2026/06/07-08:48:23.272 21b0 Delete type=3 #1235
-2026/06/07-18:15:06.651 3d78 Level-0 table #1240: started
-2026/06/07-18:15:06.662 3d78 Level-0 table #1240: 370527 bytes OK
-2026/06/07-18:15:06.666 3d78 Delete type=0 #1238
-2026/06/07-18:15:06.684 3d78 Manual compaction at level-0 from '!scenes!04aSv7Ox4qdLO69c' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.walls!PQJy1VGADDQBcRz6.zsgbcp8uzYqLhTse' @ 110275 : 1
-2026/06/07-18:15:06.684 3d78 Compacting 2@0 + 0@1 files
-2026/06/07-18:15:06.718 3d78 Generated table #1241@0: 5019 keys, 788791 bytes
-2026/06/07-18:15:06.718 3d78 Compacted 2@0 + 0@1 files => 788791 bytes
-2026/06/07-18:15:06.720 3d78 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/06/07-18:15:06.722 3d78 Delete type=2 #1233
-2026/06/07-18:15:06.722 3d78 Delete type=2 #1240
-2026/06/07-18:15:06.745 3d78 Manual compaction at level-0 from '!scenes.walls!PQJy1VGADDQBcRz6.zsgbcp8uzYqLhTse' @ 110275 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)
+2026/06/07-18:19:58.152 4924 Recovering log #1239
+2026/06/07-18:19:58.165 4924 Delete type=0 #1239
+2026/06/07-18:19:58.166 4924 Delete type=3 #1237
+2026/06/07-19:09:36.472 4b98 Level-0 table #1245: started
+2026/06/07-19:09:36.476 4b98 Level-0 table #1245: 59994 bytes OK
+2026/06/07-19:09:36.479 4b98 Delete type=0 #1243
+2026/06/07-19:09:36.490 4b98 Manual compaction at level-0 from '!scenes!04aSv7Ox4qdLO69c' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.walls!w5MX6BipxoQW7MAW.x33olytL7nJcWcbh' @ 110783 : 1
+2026/06/07-19:09:36.490 4b98 Compacting 1@0 + 1@1 files
+2026/06/07-19:09:36.512 4b98 Generated table #1246@0: 4699 keys, 697762 bytes
+2026/06/07-19:09:36.512 4b98 Compacted 1@0 + 1@1 files => 697762 bytes
+2026/06/07-19:09:36.515 4b98 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/06/07-19:09:36.515 4b98 Delete type=2 #1241
+2026/06/07-19:09:36.516 4b98 Delete type=2 #1245
+2026/06/07-19:09:36.521 4b98 Manual compaction at level-0 from '!scenes.walls!w5MX6BipxoQW7MAW.x33olytL7nJcWcbh' @ 110783 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)

@@ -1,18 +1,14 @@
-2026/06/07-08:48:22.821 21b0 Recovering log #1285
-2026/06/07-08:48:22.831 21b0 Delete type=0 #1285
-2026/06/07-08:48:22.831 21b0 Delete type=3 #1284
-2026/06/07-18:15:06.876 3d78 Level-0 table #1289: started
-2026/06/07-18:15:06.882 3d78 Level-0 table #1289: 4246 bytes OK
-2026/06/07-18:15:06.884 3d78 Delete type=0 #1287
-2026/06/07-18:15:06.901 3d78 Manual compaction at level-0 from '!fog!01ULs73E2g5PhXEZ' @ 72057594037927935 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at '!fog!zX1366SDnWYaVGAp' @ 1183 : 1
-2026/06/07-18:15:06.902 3d78 Compacting 4@0 + 0@1 files
-2026/06/07-18:15:06.944 3d78 Generated table #1290@0: 187 keys, 2507036 bytes
-2026/06/07-18:15:06.979 3d78 Generated table #1291@0: 169 keys, 2117458 bytes
-2026/06/07-18:15:06.989 3d78 Generated table #1292@0: 30 keys, 241722 bytes
-2026/06/07-18:15:06.989 3d78 Compacted 4@0 + 0@1 files => 4866216 bytes
-2026/06/07-18:15:06.990 3d78 compacted to: files[ 0 3 0 0 0 0 0 ]
-2026/06/07-18:15:06.990 3d78 Delete type=2 #1280
-2026/06/07-18:15:06.991 3d78 Delete type=2 #1281
-2026/06/07-18:15:06.992 3d78 Delete type=2 #1282
-2026/06/07-18:15:06.993 3d78 Delete type=2 #1289
-2026/06/07-18:15:06.993 3d78 Manual compaction at level-0 from '!fog!zX1366SDnWYaVGAp' @ 1183 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at (end)
+2026/06/07-18:19:57.842 4924 Recovering log #1288
+2026/06/07-18:19:57.861 4924 Delete type=0 #1288
+2026/06/07-18:19:57.861 4924 Delete type=3 #1286
+2026/06/07-19:09:36.282 4b98 Level-0 table #1296: started
+2026/06/07-19:09:36.294 4b98 Level-0 table #1296: 1384 bytes OK
+2026/06/07-19:09:36.297 4b98 Delete type=0 #1294
+2026/06/07-19:09:36.307 4b98 Manual compaction at level-0 from '!fog!01ULs73E2g5PhXEZ' @ 72057594037927935 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at '!fog!rUNZZeWWuYEkBxYp' @ 4108 : 1
+2026/06/07-19:09:36.307 4b98 Compacting 1@0 + 1@1 files
+2026/06/07-19:09:36.337 4b98 Generated table #1297@0: 169 keys, 2117458 bytes
+2026/06/07-19:09:36.337 4b98 Compacted 1@0 + 1@1 files => 2117458 bytes
+2026/06/07-19:09:36.339 4b98 compacted to: files[ 0 3 0 0 0 0 0 ]
+2026/06/07-19:09:36.340 4b98 Delete type=2 #1291
+2026/06/07-19:09:36.340 4b98 Delete type=2 #1296
+2026/06/07-19:09:36.434 4b98 Manual compaction at level-0 from '!fog!rUNZZeWWuYEkBxYp' @ 4108 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at (end)
