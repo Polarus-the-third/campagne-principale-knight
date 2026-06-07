@@ -1,14 +1,14 @@
-2026/05/13-19:00:05.197053 7f9e24f0a0 Recovering log #1228
-2026/05/13-19:00:05.221913 7f9e24f0a0 Delete type=3 #1227
-2026/05/13-19:00:05.222170 7f9e24f0a0 Delete type=0 #1228
-2026/05/13-22:23:31.285359 7f9493f0a0 Level-0 table #1232: started
-2026/05/13-22:23:31.371170 7f9493f0a0 Level-0 table #1232: 562207 bytes OK
-2026/05/13-22:23:31.378913 7f9493f0a0 Delete type=0 #1230
-2026/05/13-22:23:31.883250 7f9493f0a0 Manual compaction at level-0 from '!scenes!04aSv7Ox4qdLO69c' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.walls!SfCMlIXOKcbW7R79.aO0lK0gaCXuE77N0' @ 109241 : 1
-2026/05/13-22:23:31.883308 7f9493f0a0 Compacting 2@0 + 0@1 files
-2026/05/13-22:23:31.990939 7f9493f0a0 Generated table #1233@0: 4904 keys, 795151 bytes
-2026/05/13-22:23:31.991050 7f9493f0a0 Compacted 2@0 + 0@1 files => 795151 bytes
-2026/05/13-22:23:31.998608 7f9493f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/05/13-22:23:31.999054 7f9493f0a0 Delete type=2 #1232
-2026/05/13-22:23:32.000506 7f9493f0a0 Delete type=2 #1225
-2026/05/13-22:23:32.001769 7f9493f0a0 Manual compaction at level-0 from '!scenes.walls!SfCMlIXOKcbW7R79.aO0lK0gaCXuE77N0' @ 109241 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)
+2026/06/07-08:48:23.263 21b0 Recovering log #1236
+2026/06/07-08:48:23.272 21b0 Delete type=0 #1236
+2026/06/07-08:48:23.272 21b0 Delete type=3 #1235
+2026/06/07-18:15:06.651 3d78 Level-0 table #1240: started
+2026/06/07-18:15:06.662 3d78 Level-0 table #1240: 370527 bytes OK
+2026/06/07-18:15:06.666 3d78 Delete type=0 #1238
+2026/06/07-18:15:06.684 3d78 Manual compaction at level-0 from '!scenes!04aSv7Ox4qdLO69c' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.walls!PQJy1VGADDQBcRz6.zsgbcp8uzYqLhTse' @ 110275 : 1
+2026/06/07-18:15:06.684 3d78 Compacting 2@0 + 0@1 files
+2026/06/07-18:15:06.718 3d78 Generated table #1241@0: 5019 keys, 788791 bytes
+2026/06/07-18:15:06.718 3d78 Compacted 2@0 + 0@1 files => 788791 bytes
+2026/06/07-18:15:06.720 3d78 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/06/07-18:15:06.722 3d78 Delete type=2 #1233
+2026/06/07-18:15:06.722 3d78 Delete type=2 #1240
+2026/06/07-18:15:06.745 3d78 Manual compaction at level-0 from '!scenes.walls!PQJy1VGADDQBcRz6.zsgbcp8uzYqLhTse' @ 110275 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)

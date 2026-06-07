@@ -1,13 +1,13 @@
-2026/05/13-19:00:05.118025 7f9e24f0a0 Recovering log #970
-2026/05/13-19:00:05.143809 7f9e24f0a0 Delete type=0 #970
-2026/05/13-19:00:05.143998 7f9e24f0a0 Delete type=3 #969
-2026/05/13-22:23:31.085731 7f9493f0a0 Level-0 table #974: started
-2026/05/13-22:23:31.086665 7f9493f0a0 Level-0 table #974: 0 bytes OK
-2026/05/13-22:23:31.098840 7f9493f0a0 Delete type=0 #972
-2026/05/13-22:23:31.379943 7f9493f0a0 Manual compaction at level-0 from '!playlists!X7sWFavdc2V5WWDo' @ 72057594037927935 : 1 .. '!playlists.sounds!veZYt2l9e3NZwcgL.rB7Ws76IQDPJgJMw' @ 0 : 0; will stop at '!playlists.sounds!veZYt2l9e3NZwcgL.rB7Ws76IQDPJgJMw' @ 2911 : 1
-2026/05/13-22:23:31.380019 7f9493f0a0 Compacting 1@0 + 0@1 files
-2026/05/13-22:23:31.392824 7f9493f0a0 Generated table #975@0: 32 keys, 4815 bytes
-2026/05/13-22:23:31.392948 7f9493f0a0 Compacted 1@0 + 0@1 files => 4815 bytes
-2026/05/13-22:23:31.398889 7f9493f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/05/13-22:23:31.399323 7f9493f0a0 Delete type=2 #967
-2026/05/13-22:23:32.001137 7f9493f0a0 Manual compaction at level-0 from '!playlists.sounds!veZYt2l9e3NZwcgL.rB7Ws76IQDPJgJMw' @ 2911 : 1 .. '!playlists.sounds!veZYt2l9e3NZwcgL.rB7Ws76IQDPJgJMw' @ 0 : 0; will stop at (end)
+2026/06/07-08:48:23.147 21b0 Recovering log #978
+2026/06/07-08:48:23.155 21b0 Delete type=0 #978
+2026/06/07-08:48:23.155 21b0 Delete type=3 #977
+2026/06/07-18:15:06.644 3d78 Level-0 table #982: started
+2026/06/07-18:15:06.645 3d78 Level-0 table #982: 0 bytes OK
+2026/06/07-18:15:06.647 3d78 Delete type=0 #980
+2026/06/07-18:15:06.666 3d78 Manual compaction at level-0 from '!playlists!X7sWFavdc2V5WWDo' @ 72057594037927935 : 1 .. '!playlists.sounds!veZYt2l9e3NZwcgL.rB7Ws76IQDPJgJMw' @ 0 : 0; will stop at '!playlists.sounds!veZYt2l9e3NZwcgL.rB7Ws76IQDPJgJMw' @ 2911 : 1
+2026/06/07-18:15:06.666 3d78 Compacting 1@0 + 0@1 files
+2026/06/07-18:15:06.671 3d78 Generated table #983@0: 32 keys, 4815 bytes
+2026/06/07-18:15:06.671 3d78 Compacted 1@0 + 0@1 files => 4815 bytes
+2026/06/07-18:15:06.674 3d78 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/06/07-18:15:06.674 3d78 Delete type=2 #975
+2026/06/07-18:15:06.722 3d78 Manual compaction at level-0 from '!playlists.sounds!veZYt2l9e3NZwcgL.rB7Ws76IQDPJgJMw' @ 2911 : 1 .. '!playlists.sounds!veZYt2l9e3NZwcgL.rB7Ws76IQDPJgJMw' @ 0 : 0; will stop at (end)
