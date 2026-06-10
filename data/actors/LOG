@@ -1,19 +1,8 @@
-2026/06/07-18:19:57.529 4924 Recovering log #1724
-2026/06/07-18:19:57.539 4924 Delete type=0 #1724
-2026/06/07-18:19:57.539 4924 Delete type=3 #1704
-2026/06/07-19:09:35.819 4b98 Level-0 table #1733: started
-2026/06/07-19:09:35.830 4b98 Level-0 table #1733: 350614 bytes OK
-2026/06/07-19:09:35.831 4b98 Delete type=0 #1731
-2026/06/07-19:09:35.835 4b98 Manual compaction at level-0 from '!actors!0NYw75D8mpTvcG9J' @ 72057594037927935 : 1 .. '!actors.items.effects!xVycekWvaDtuNliM.MLRfJiRsAmaSuhAF.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at '!actors.items!p0llnqHqUvC2f2jC.xYEU3P1YWObe57QJ' @ 69668 : 1
-2026/06/07-19:09:35.835 4b98 Compacting 1@0 + 3@1 files
-2026/06/07-19:09:35.982 4b98 Generated table #1734@0: 844 keys, 2214098 bytes
-2026/06/07-19:09:36.123 4b98 Generated table #1735@0: 1107 keys, 2120334 bytes
-2026/06/07-19:09:36.257 4b98 Generated table #1736@0: 971 keys, 2118595 bytes
-2026/06/07-19:09:36.270 4b98 Generated table #1737@0: 56 keys, 172357 bytes
-2026/06/07-19:09:36.271 4b98 Compacted 1@0 + 3@1 files => 6625384 bytes
-2026/06/07-19:09:36.272 4b98 compacted to: files[ 0 5 0 0 0 0 0 ]
-2026/06/07-19:09:36.273 4b98 Delete type=2 #1726
-2026/06/07-19:09:36.273 4b98 Delete type=2 #1727
-2026/06/07-19:09:36.274 4b98 Delete type=2 #1728
-2026/06/07-19:09:36.274 4b98 Delete type=2 #1733
-2026/06/07-19:09:36.297 4b98 Manual compaction at level-0 from '!actors.items!p0llnqHqUvC2f2jC.xYEU3P1YWObe57QJ' @ 69668 : 1 .. '!actors.items.effects!xVycekWvaDtuNliM.MLRfJiRsAmaSuhAF.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at (end)
+2026/06/10-17:39:25.877 2474 Delete type=3 #1
+2026/06/10-17:39:25.877 37d4 Moved #1755 to level-1 2222208 bytes OK: files[ 5 1 0 0 0 0 0 ]
+2026/06/10-17:39:25.877 37d4 Moved #1751 to level-1 2118308 bytes OK: files[ 4 2 0 0 0 0 0 ]
+2026/06/10-17:39:25.877 37d4 Moved #1752 to level-1 2117743 bytes OK: files[ 3 3 0 0 0 0 0 ]
+2026/06/10-18:02:26.756 37d4 Level-0 table #1760: started
+2026/06/10-18:02:26.801 37d4 Level-0 table #1760: 1339931 bytes OK
+2026/06/10-18:02:26.804 37d4 Delete type=0 #1758
+2026/06/10-18:02:26.806 37d4 Moved #1747 to level-1 10012 bytes OK: files[ 3 4 0 0 0 0 0 ]
