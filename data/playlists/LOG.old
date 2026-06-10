@@ -1,4 +1,1 @@
-2026/06/10-17:39:26.485 2474 Log #990: 0 ops saved to Table #991 OK
-2026/06/10-17:39:26.485 2474 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/playlists/000990.log: OK
-2026/06/10-17:39:26.485 2474 Table #983: 32 entries OK
-2026/06/10-17:39:26.502 2474 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/playlists; recovered 1 files; 4815 bytes. Some data may have been lost. ****
+2026/06/10-17:39:26.515 2474 Delete type=3 #1

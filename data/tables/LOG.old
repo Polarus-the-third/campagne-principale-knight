@@ -1,4 +1,1 @@
-2026/06/10-17:39:26.535 3530 Log #958: 0 ops saved to Table #959 OK
-2026/06/10-17:39:26.539 3530 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/tables/000958.log: OK
-2026/06/10-17:39:26.539 3530 Table #951: 76 entries OK
-2026/06/10-17:39:26.552 3530 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/tables; recovered 1 files; 11482 bytes. Some data may have been lost. ****
+2026/06/10-17:39:26.567 3530 Delete type=3 #1

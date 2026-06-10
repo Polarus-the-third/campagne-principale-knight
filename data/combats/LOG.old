@@ -1,4 +1,1 @@
-2026/06/10-17:39:26.067 4ea4 Log #1016: 0 ops saved to Table #1017 OK
-2026/06/10-17:39:26.067 4ea4 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/combats/001016.log: OK
-2026/06/10-17:39:26.067 4ea4 Table #1009: 38 entries OK
-2026/06/10-17:39:26.084 4ea4 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/combats; recovered 1 files; 4705 bytes. Some data may have been lost. ****
+2026/06/10-17:39:26.098 4ea4 Delete type=3 #1
