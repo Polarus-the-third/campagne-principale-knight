@@ -1,46 +1,8 @@
-2026/07/02-18:48:43.119580 7f9068f0a0 Recovering log #1800
-2026/07/02-18:48:43.143190 7f9068f0a0 Delete type=0 #1800
-2026/07/02-18:48:43.143399 7f9068f0a0 Delete type=3 #1787
-2026/07/02-19:54:54.214035 7e6763f0a0 Level-0 table #1807: started
-2026/07/02-19:54:54.359385 7e6763f0a0 Level-0 table #1807: 1125603 bytes OK
-2026/07/02-19:54:54.367834 7e6763f0a0 Delete type=0 #1805
-2026/07/02-20:00:22.005384 7e6763f0a0 Compacting 1@0 + 4@1 files
-2026/07/02-20:00:22.281946 7e6763f0a0 Generated table #1808@0: 799 keys, 2123249 bytes
-2026/07/02-20:00:22.553667 7e6763f0a0 Generated table #1809@0: 969 keys, 2119756 bytes
-2026/07/02-20:00:22.860655 7e6763f0a0 Generated table #1810@0: 813 keys, 2132079 bytes
-2026/07/02-20:00:23.052139 7e6763f0a0 Generated table #1811@0: 598 keys, 1030658 bytes
-2026/07/02-20:00:23.052392 7e6763f0a0 Compacted 1@0 + 4@1 files => 7405742 bytes
-2026/07/02-20:00:23.060684 7e6763f0a0 compacted to: files[ 0 4 0 0 0 0 0 ]
-2026/07/02-20:00:23.061512 7e6763f0a0 Delete type=2 #1807
-2026/07/02-20:00:23.064503 7e6763f0a0 Delete type=2 #1803
-2026/07/02-20:00:23.067585 7e6763f0a0 Delete type=2 #1802
-2026/07/02-20:00:23.070429 7e6763f0a0 Delete type=2 #1798
-2026/07/02-20:00:23.073711 7e6763f0a0 Delete type=2 #1799
-2026/07/02-21:09:13.221800 7e6763f0a0 Level-0 table #1813: started
-2026/07/02-21:09:13.348570 7e6763f0a0 Level-0 table #1813: 1103566 bytes OK
-2026/07/02-21:09:13.355179 7e6763f0a0 Delete type=0 #1806
-2026/07/02-21:12:51.779938 7e6763f0a0 Compacting 1@0 + 4@1 files
-2026/07/02-21:12:52.087199 7e6763f0a0 Generated table #1814@0: 804 keys, 2225568 bytes
-2026/07/02-21:12:52.364913 7e6763f0a0 Generated table #1815@0: 1004 keys, 2183317 bytes
-2026/07/02-21:12:52.625743 7e6763f0a0 Generated table #1816@0: 796 keys, 2131571 bytes
-2026/07/02-21:12:52.740453 7e6763f0a0 Generated table #1817@0: 574 keys, 852251 bytes
-2026/07/02-21:12:52.740573 7e6763f0a0 Compacted 1@0 + 4@1 files => 7392707 bytes
-2026/07/02-21:12:52.746943 7e6763f0a0 compacted to: files[ 0 4 0 0 0 0 0 ]
-2026/07/02-21:12:52.747943 7e6763f0a0 Delete type=2 #1809
-2026/07/02-21:12:52.752922 7e6763f0a0 Delete type=2 #1811
-2026/07/02-21:12:52.755668 7e6763f0a0 Delete type=2 #1810
-2026/07/02-21:12:52.760424 7e6763f0a0 Delete type=2 #1813
-2026/07/02-21:12:52.763300 7e6763f0a0 Delete type=2 #1808
-2026/07/02-22:10:27.608456 7e6763f0a0 Level-0 table #1819: started
-2026/07/02-22:10:27.653948 7e6763f0a0 Level-0 table #1819: 327221 bytes OK
-2026/07/02-22:10:27.659778 7e6763f0a0 Delete type=0 #1812
-2026/07/02-22:10:27.783483 7e6763f0a0 Manual compaction at level-0 from '!actors!0E18LoZKPx92MbPV' @ 72057594037927935 : 1 .. '!actors.items.effects!xVycekWvaDtuNliM.MLRfJiRsAmaSuhAF.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at '!actors.items!QcMiNBlY3Wy1eFrP.luMQJ0OiriJGBJFJ' @ 71575 : 1
-2026/07/02-22:10:27.783543 7e6763f0a0 Compacting 1@0 + 2@1 files
-2026/07/02-22:10:28.098626 7e6763f0a0 Generated table #1820@0: 803 keys, 2225406 bytes
-2026/07/02-22:10:28.415126 7e6763f0a0 Generated table #1821@0: 1004 keys, 2183344 bytes
-2026/07/02-22:10:28.415249 7e6763f0a0 Compacted 1@0 + 2@1 files => 4408750 bytes
-2026/07/02-22:10:28.444267 7e6763f0a0 compacted to: files[ 0 4 0 0 0 0 0 ]
-2026/07/02-22:10:28.445170 7e6763f0a0 Delete type=2 #1814
-2026/07/02-22:10:28.449925 7e6763f0a0 Delete type=2 #1819
-2026/07/02-22:10:28.451345 7e6763f0a0 Delete type=2 #1815
-2026/07/02-22:10:28.507211 7e6763f0a0 Manual compaction at level-0 from '!actors.items!QcMiNBlY3Wy1eFrP.luMQJ0OiriJGBJFJ' @ 71575 : 1 .. '!actors.items.effects!xVycekWvaDtuNliM.MLRfJiRsAmaSuhAF.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at (end)
+2026/07/15-17:51:15.376 45cc Log #1824: 0 ops saved to Table #1828 OK
+2026/07/15-17:51:15.377 45cc Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/001824.log: OK
+2026/07/15-17:51:15.482 45cc Table #1816: 796 entries OK
+2026/07/15-17:51:15.530 45cc Table #1817: 574 entries OK
+2026/07/15-17:51:15.544 45cc Table #1826: 803 entries OK
+2026/07/15-17:51:15.671 45cc Table #1827: 1004 entries OK
+2026/07/15-17:51:15.676 45cc Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/MANIFEST-001822: OK
+2026/07/15-17:51:15.685 45cc **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors; recovered 4 files; 7392606 bytes. Some data may have been lost. ****
