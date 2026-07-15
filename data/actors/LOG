@@ -1,2 +1,30 @@
-2026/07/15-17:51:15.708 45cc Delete type=3 #1
-2026/07/15-17:51:15.711 34a4 Moved #1826 to level-1 2225449 bytes OK: files[ 3 1 0 0 0 0 0 ]
+2026/07/15-18:34:28.043554 7f91ebf0a0 Recovering log #1830
+2026/07/15-18:34:28.106293 7f91ebf0a0 Level-0 table #1832: started
+2026/07/15-18:34:28.208534 7f91ebf0a0 Level-0 table #1832: 765590 bytes OK
+2026/07/15-18:34:28.228884 7f91ebf0a0 Delete type=3 #1829
+2026/07/15-18:34:28.229151 7f91ebf0a0 Delete type=0 #1830
+2026/07/15-18:34:28.232868 7e6763f0a0 Compacting 4@0 + 1@1 files
+2026/07/15-18:34:28.515798 7e6763f0a0 Generated table #1834@0: 798 keys, 2118698 bytes
+2026/07/15-18:34:28.839305 7e6763f0a0 Generated table #1835@0: 975 keys, 2132960 bytes
+2026/07/15-18:34:29.286296 7e6763f0a0 Generated table #1836@0: 821 keys, 2145789 bytes
+2026/07/15-18:34:29.506525 7e6763f0a0 Generated table #1837@0: 608 keys, 1051402 bytes
+2026/07/15-18:34:29.506658 7e6763f0a0 Compacted 4@0 + 1@1 files => 7448849 bytes
+2026/07/15-18:34:29.518939 7e6763f0a0 compacted to: files[ 0 4 0 0 0 0 0 ]
+2026/07/15-18:34:29.519976 7e6763f0a0 Delete type=2 #1827
+2026/07/15-18:34:29.526899 7e6763f0a0 Delete type=2 #1817
+2026/07/15-18:34:29.529482 7e6763f0a0 Delete type=2 #1832
+2026/07/15-18:34:29.532021 7e6763f0a0 Delete type=2 #1826
+2026/07/15-18:34:29.538885 7e6763f0a0 Delete type=2 #1816
+2026/07/15-21:49:19.116911 7e6763f0a0 Level-0 table #1839: started
+2026/07/15-21:49:19.153132 7e6763f0a0 Level-0 table #1839: 241279 bytes OK
+2026/07/15-21:49:19.160785 7e6763f0a0 Delete type=0 #1833
+2026/07/15-21:49:19.190497 7e6763f0a0 Manual compaction at level-0 from '!actors!0E18LoZKPx92MbPV' @ 72057594037927935 : 1 .. '!actors.items.effects!xVycekWvaDtuNliM.MLRfJiRsAmaSuhAF.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at '!actors.items!Quyaci7FP1OVqGwG.Jox1VfcMivHQ548m' @ 71889 : 1
+2026/07/15-21:49:19.190551 7e6763f0a0 Compacting 1@0 + 2@1 files
+2026/07/15-21:49:19.445302 7e6763f0a0 Generated table #1840@0: 798 keys, 2118936 bytes
+2026/07/15-21:49:19.695357 7e6763f0a0 Generated table #1841@0: 981 keys, 2143517 bytes
+2026/07/15-21:49:19.695480 7e6763f0a0 Compacted 1@0 + 2@1 files => 4262453 bytes
+2026/07/15-21:49:19.701185 7e6763f0a0 compacted to: files[ 0 4 0 0 0 0 0 ]
+2026/07/15-21:49:19.702020 7e6763f0a0 Delete type=2 #1835
+2026/07/15-21:49:19.706917 7e6763f0a0 Delete type=2 #1834
+2026/07/15-21:49:19.711500 7e6763f0a0 Delete type=2 #1839
+2026/07/15-21:49:19.741680 7e6763f0a0 Manual compaction at level-0 from '!actors.items!Quyaci7FP1OVqGwG.Jox1VfcMivHQ548m' @ 71889 : 1 .. '!actors.items.effects!xVycekWvaDtuNliM.MLRfJiRsAmaSuhAF.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at (end)

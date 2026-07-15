@@ -1,8 +1,2 @@
-2026/07/15-17:51:15.376 45cc Log #1824: 0 ops saved to Table #1828 OK
-2026/07/15-17:51:15.377 45cc Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/001824.log: OK
-2026/07/15-17:51:15.482 45cc Table #1816: 796 entries OK
-2026/07/15-17:51:15.530 45cc Table #1817: 574 entries OK
-2026/07/15-17:51:15.544 45cc Table #1826: 803 entries OK
-2026/07/15-17:51:15.671 45cc Table #1827: 1004 entries OK
-2026/07/15-17:51:15.676 45cc Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors/MANIFEST-001822: OK
-2026/07/15-17:51:15.685 45cc **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/actors; recovered 4 files; 7392606 bytes. Some data may have been lost. ****
+2026/07/15-17:51:15.708 45cc Delete type=3 #1
+2026/07/15-17:51:15.711 34a4 Moved #1826 to level-1 2225449 bytes OK: files[ 3 1 0 0 0 0 0 ]

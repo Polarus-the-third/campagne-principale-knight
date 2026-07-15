@@ -1,5 +1,1 @@
-2026/07/15-17:51:16.592 45c8 Log #1017: 0 ops saved to Table #1018 OK
-2026/07/15-17:51:16.595 45c8 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/playlists/001017.log: OK
-2026/07/15-17:51:16.601 45c8 Table #1014: 32 entries OK
-2026/07/15-17:51:16.605 45c8 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/playlists/MANIFEST-001015: OK
-2026/07/15-17:51:16.614 45c8 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/playlists; recovered 1 files; 4814 bytes. Some data may have been lost. ****
+2026/07/15-17:51:16.635 45c8 Delete type=3 #1
