@@ -1,11 +1,3 @@
-2026/08/20-18:54:28.265 27e4 Delete type=3 #1
-2026/08/20-18:56:54.008 dc4 Level-0 table #992: started
-2026/08/20-18:56:54.008 dc4 Level-0 table #992: 0 bytes OK
-2026/08/20-18:56:54.012 dc4 Delete type=0 #990
-2026/08/20-18:56:54.149 dc4 Manual compaction at level-0 from '!macros!1BWLCcCMwoAnsyeJ' @ 72057594037927935 : 1 .. '!macros!zIULypgpiE964AMY' @ 0 : 0; will stop at '!macros!zIULypgpiE964AMY' @ 22 : 1
-2026/08/20-18:56:54.149 dc4 Compacting 1@0 + 0@1 files
-2026/08/20-18:56:54.155 dc4 Generated table #993@0: 26 keys, 11427 bytes
-2026/08/20-18:56:54.155 dc4 Compacted 1@0 + 0@1 files => 11427 bytes
-2026/08/20-18:56:54.157 dc4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/08/20-18:56:54.157 dc4 Delete type=2 #980
-2026/08/20-18:56:54.158 dc4 Manual compaction at level-0 from '!macros!zIULypgpiE964AMY' @ 22 : 1 .. '!macros!zIULypgpiE964AMY' @ 0 : 0; will stop at (end)
+2026/08/20-19:22:46.424 3604 Recovering log #991
+2026/08/20-19:22:46.435 3604 Delete type=0 #991
+2026/08/20-19:22:46.436 3604 Delete type=3 #989

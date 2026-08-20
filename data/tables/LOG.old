@@ -1,11 +1,3 @@
-2026/08/20-18:54:28.529 27e4 Delete type=3 #1
-2026/08/20-18:56:54.167 dc4 Level-0 table #1004: started
-2026/08/20-18:56:54.168 dc4 Level-0 table #1004: 0 bytes OK
-2026/08/20-18:56:54.171 dc4 Delete type=0 #1002
-2026/08/20-18:56:54.200 dc4 Manual compaction at level-0 from '!tables!ErNIiQyToQGLyaJO' @ 72057594037927935 : 1 .. '!tables.results!wIh5zDWwti4SRd9v.y63JtSNupP6bC1jE' @ 0 : 0; will stop at '!tables.results!wIh5zDWwti4SRd9v.y63JtSNupP6bC1jE' @ 94 : 1
-2026/08/20-18:56:54.200 dc4 Compacting 1@0 + 0@1 files
-2026/08/20-18:56:54.205 dc4 Generated table #1005@0: 76 keys, 11482 bytes
-2026/08/20-18:56:54.205 dc4 Compacted 1@0 + 0@1 files => 11482 bytes
-2026/08/20-18:56:54.207 dc4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/08/20-18:56:54.207 dc4 Delete type=2 #992
-2026/08/20-18:56:54.255 dc4 Manual compaction at level-0 from '!tables.results!wIh5zDWwti4SRd9v.y63JtSNupP6bC1jE' @ 94 : 1 .. '!tables.results!wIh5zDWwti4SRd9v.y63JtSNupP6bC1jE' @ 0 : 0; will stop at (end)
+2026/08/20-19:22:46.459 3604 Recovering log #1003
+2026/08/20-19:22:46.470 3604 Delete type=0 #1003
+2026/08/20-19:22:46.470 3604 Delete type=3 #1001
