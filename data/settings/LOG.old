@@ -1,14 +1,12 @@
-2026/07/29-18:52:31.682181 7f916af0a0 Recovering log #1238
-2026/07/29-18:52:31.727136 7f916af0a0 Delete type=0 #1238
-2026/07/29-18:52:31.727350 7f916af0a0 Delete type=3 #1235
-2026/07/29-21:33:37.181345 7e6763f0a0 Level-0 table #1244: started
-2026/07/29-21:33:37.196160 7e6763f0a0 Level-0 table #1244: 21573 bytes OK
-2026/07/29-21:33:37.203880 7e6763f0a0 Delete type=0 #1242
-2026/07/29-21:33:37.344383 7e6763f0a0 Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 1592 : 1
-2026/07/29-21:33:37.344447 7e6763f0a0 Compacting 1@0 + 1@1 files
-2026/07/29-21:33:37.356434 7e6763f0a0 Generated table #1245@0: 19 keys, 4463 bytes
-2026/07/29-21:33:37.356550 7e6763f0a0 Compacted 1@0 + 1@1 files => 4463 bytes
-2026/07/29-21:33:37.361958 7e6763f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/07/29-21:33:37.362301 7e6763f0a0 Delete type=2 #1240
-2026/07/29-21:33:37.362762 7e6763f0a0 Delete type=2 #1244
-2026/07/29-21:33:37.374455 7e6763f0a0 Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 1592 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)
+2026/08/20-18:54:28.786 47f4 Delete type=3 #1
+2026/08/20-18:56:54.174 dc4 Level-0 table #1255: started
+2026/08/20-18:56:54.185 dc4 Level-0 table #1255: 8597 bytes OK
+2026/08/20-18:56:54.188 dc4 Delete type=0 #1253
+2026/08/20-18:56:54.245 dc4 Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 1616 : 1
+2026/08/20-18:56:54.245 dc4 Compacting 2@0 + 0@1 files
+2026/08/20-18:56:54.251 dc4 Generated table #1256@0: 19 keys, 4463 bytes
+2026/08/20-18:56:54.251 dc4 Compacted 2@0 + 0@1 files => 4463 bytes
+2026/08/20-18:56:54.254 dc4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/08/20-18:56:54.254 dc4 Delete type=2 #1250
+2026/08/20-18:56:54.254 dc4 Delete type=2 #1255
+2026/08/20-18:56:54.255 dc4 Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 1616 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)

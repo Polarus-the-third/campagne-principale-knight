@@ -1,7 +1,11 @@
-2026/07/29-18:52:30.621867 7f9068f0a0 Recovering log #1049
-2026/07/29-18:52:30.648475 7f9068f0a0 Delete type=3 #1047
-2026/07/29-18:52:30.648721 7f9068f0a0 Delete type=0 #1049
-2026/07/29-21:33:35.472114 7e6763f0a0 Level-0 table #1055: started
-2026/07/29-21:33:35.472913 7e6763f0a0 Level-0 table #1055: 0 bytes OK
-2026/07/29-21:33:35.483616 7e6763f0a0 Delete type=0 #1053
-2026/07/29-21:33:36.550285 7e6763f0a0 Manual compaction at level-0 from '!combats!7UeMLk0QvoKNtUvL' @ 72057594037927935 : 1 .. '!combats.combatants!lvjXBkN8MIcRtWVd.bkFO0pqA34HgzNdb' @ 0 : 0; will stop at (end)
+2026/08/20-18:54:27.647 47f4 Delete type=3 #1
+2026/08/20-18:56:53.955 dc4 Level-0 table #1063: started
+2026/08/20-18:56:53.955 dc4 Level-0 table #1063: 0 bytes OK
+2026/08/20-18:56:53.958 dc4 Delete type=0 #1061
+2026/08/20-18:56:53.971 dc4 Manual compaction at level-0 from '!combats!7UeMLk0QvoKNtUvL' @ 72057594037927935 : 1 .. '!combats.combatants!lvjXBkN8MIcRtWVd.bkFO0pqA34HgzNdb' @ 0 : 0; will stop at '!combats.combatants!lvjXBkN8MIcRtWVd.bkFO0pqA34HgzNdb' @ 565 : 1
+2026/08/20-18:56:53.971 dc4 Compacting 1@0 + 0@1 files
+2026/08/20-18:56:53.975 dc4 Generated table #1064@0: 38 keys, 4705 bytes
+2026/08/20-18:56:53.975 dc4 Compacted 1@0 + 0@1 files => 4705 bytes
+2026/08/20-18:56:53.978 dc4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/08/20-18:56:53.979 dc4 Delete type=2 #1051
+2026/08/20-18:56:53.992 dc4 Manual compaction at level-0 from '!combats.combatants!lvjXBkN8MIcRtWVd.bkFO0pqA34HgzNdb' @ 565 : 1 .. '!combats.combatants!lvjXBkN8MIcRtWVd.bkFO0pqA34HgzNdb' @ 0 : 0; will stop at (end)
