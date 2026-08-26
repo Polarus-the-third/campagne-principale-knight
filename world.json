@@ -3,15 +3,16 @@
   "id": "campagne-principale-knight",
   "system": "knight",
   "description": "<p>Campagne principale de knight avec Rémi et Florian</p>",
-  "coreVersion": "11.313",
+  "coreVersion": "14.359",
   "compatibility": {
-    "minimum": "11",
-    "verified": "11.313"
+    "minimum": "14",
+    "verified": "14.359"
   },
-  "systemVersion": "3.43.2",
-  "lastPlayed": "Thu Aug 20 2026 22:30:19 GMT+0000 (Coordinated Universal Time)",
+  "systemVersion": "3.58.35",
+  "lastPlayed": "Wed Aug 26 2026 22:34:35 GMT+0000 (Coordinated Universal Time)",
   "safeMode": false,
-  "playtime": 2097299,
+  "playtime": 2112580,
   "background": "modules/knight-compendium/assets/npc/arthur.webp",
-  "joinTheme": "default"
+  "joinTheme": "default",
+  "flags": {}
 }
