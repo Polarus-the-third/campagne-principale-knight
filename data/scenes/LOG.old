@@ -1,18 +1,7 @@
-2026/08/26-18:23:31.982018 7f79f3ef40 Recovering log #1322
-2026/08/26-18:23:32.008084 7f79f3ef40 Delete type=3 #1320
-2026/08/26-18:23:32.008333 7f79f3ef40 Delete type=0 #1322
-2026/08/26-20:38:13.505691 7d629fef40 Level-0 table #1328: started
-2026/08/26-20:38:13.652308 7d629fef40 Level-0 table #1328: 1210549 bytes OK
-2026/08/26-20:38:13.660785 7d629fef40 Delete type=0 #1326
-2026/08/26-22:30:29.501612 7d629fef40 Level-0 table #1330: started
-2026/08/26-22:30:29.607183 7d629fef40 Level-0 table #1330: 878598 bytes OK
-2026/08/26-22:30:29.614276 7d629fef40 Delete type=0 #1327
-2026/08/26-22:30:29.725081 7d629fef40 Manual compaction at level-0 from '!scenes!04aSv7Ox4qdLO69c' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.walls!hDfJgVTmkxBOnVtn.y63fUeta5meUZJkV' @ 127821 : 1
-2026/08/26-22:30:29.725153 7d629fef40 Compacting 2@0 + 1@1 files
-2026/08/26-22:30:29.918340 7d629fef40 Generated table #1331@0: 5818 keys, 1092705 bytes
-2026/08/26-22:30:29.918457 7d629fef40 Compacted 2@0 + 1@1 files => 1092705 bytes
-2026/08/26-22:30:29.924119 7d629fef40 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/08/26-22:30:29.924789 7d629fef40 Delete type=2 #1328
-2026/08/26-22:30:29.927471 7d629fef40 Delete type=2 #1324
-2026/08/26-22:30:29.928225 7d629fef40 Delete type=2 #1330
-2026/08/26-22:30:31.208119 7d629fef40 Manual compaction at level-0 from '!scenes.walls!hDfJgVTmkxBOnVtn.y63fUeta5meUZJkV' @ 127821 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)
+2026/08/26-22:32:01.744043 7f78f1ef40 Recovering log #1329
+2026/08/26-22:32:01.767844 7f78f1ef40 Delete type=0 #1329
+2026/08/26-22:32:01.768031 7f78f1ef40 Delete type=3 #1325
+2026/08/26-22:34:36.952552 7d629fef40 Level-0 table #1335: started
+2026/08/26-22:34:36.960234 7d629fef40 Level-0 table #1335: 0 bytes OK
+2026/08/26-22:34:36.970021 7d629fef40 Delete type=0 #1333
+2026/08/26-22:34:36.994787 7d629fef40 Manual compaction at level-0 from '!scenes!04aSv7Ox4qdLO69c' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)

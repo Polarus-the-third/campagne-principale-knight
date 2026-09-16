@@ -1,29 +1,7 @@
-2026/08/26-18:23:31.346844 7f63ffef40 Recovering log #1393
-2026/08/26-18:23:31.370243 7f63ffef40 Delete type=0 #1393
-2026/08/26-18:23:31.370440 7f63ffef40 Delete type=3 #1391
-2026/08/26-20:06:58.433806 7d629fef40 Level-0 table #1401: started
-2026/08/26-20:06:58.792429 7d629fef40 Level-0 table #1401: 1884050 bytes OK
-2026/08/26-20:06:58.809984 7d629fef40 Delete type=0 #1399
-2026/08/26-21:50:52.757150 7d629fef40 Compacting 1@0 + 2@1 files
-2026/08/26-21:50:53.008821 7d629fef40 Generated table #1402@0: 209 keys, 2109419 bytes
-2026/08/26-21:50:53.244503 7d629fef40 Generated table #1403@0: 151 keys, 2109696 bytes
-2026/08/26-21:50:53.280219 7d629fef40 Generated table #1404@0: 22 keys, 232303 bytes
-2026/08/26-21:50:53.280332 7d629fef40 Compacted 1@0 + 2@1 files => 4451418 bytes
-2026/08/26-21:50:53.290393 7d629fef40 compacted to: files[ 0 4 0 0 0 0 0 ]
-2026/08/26-21:50:53.291232 7d629fef40 Delete type=2 #1396
-2026/08/26-21:50:53.299354 7d629fef40 Delete type=2 #1401
-2026/08/26-21:50:53.304004 7d629fef40 Delete type=2 #1395
-2026/08/26-22:30:28.657149 7d629fef40 Level-0 table #1406: started
-2026/08/26-22:30:28.871429 7d629fef40 Level-0 table #1406: 2109581 bytes OK
-2026/08/26-22:30:28.877268 7d629fef40 Delete type=0 #1400
-2026/08/26-22:30:28.954637 7d629fef40 Manual compaction at level-0 from '!fog!01ULs73E2g5PhXEZ' @ 72057594037927935 : 1 .. '!fog!zygT8z3dELa4V4j9' @ 0 : 0; will stop at '!fog!lWBbrub8o69JA4c5' @ 4947 : 1
-2026/08/26-22:30:28.954686 7d629fef40 Compacting 1@0 + 2@1 files
-2026/08/26-22:30:29.164174 7d629fef40 Generated table #1407@0: 189 keys, 2107544 bytes
-2026/08/26-22:30:29.354864 7d629fef40 Generated table #1408@0: 162 keys, 2107019 bytes
-2026/08/26-22:30:29.384713 7d629fef40 Generated table #1409@0: 14 keys, 150708 bytes
-2026/08/26-22:30:29.384820 7d629fef40 Compacted 1@0 + 2@1 files => 4365271 bytes
-2026/08/26-22:30:29.390971 7d629fef40 compacted to: files[ 0 5 0 0 0 0 0 ]
-2026/08/26-22:30:29.391812 7d629fef40 Delete type=2 #1402
-2026/08/26-22:30:29.396600 7d629fef40 Delete type=2 #1403
-2026/08/26-22:30:29.401310 7d629fef40 Delete type=2 #1406
-2026/08/26-22:30:29.427347 7d629fef40 Manual compaction at level-0 from '!fog!lWBbrub8o69JA4c5' @ 4947 : 1 .. '!fog!zygT8z3dELa4V4j9' @ 0 : 0; will stop at (end)
+2026/08/26-22:32:01.406111 7f78f1ef40 Recovering log #1405
+2026/08/26-22:32:01.428058 7f78f1ef40 Delete type=3 #1398
+2026/08/26-22:32:01.428335 7f78f1ef40 Delete type=0 #1405
+2026/08/26-22:34:36.364715 7d629fef40 Level-0 table #1413: started
+2026/08/26-22:34:36.365515 7d629fef40 Level-0 table #1413: 0 bytes OK
+2026/08/26-22:34:36.404267 7d629fef40 Delete type=0 #1411
+2026/08/26-22:34:36.560240 7d629fef40 Manual compaction at level-0 from '!fog!01ULs73E2g5PhXEZ' @ 72057594037927935 : 1 .. '!fog!zygT8z3dELa4V4j9' @ 0 : 0; will stop at (end)
