@@ -1,14 +1,14 @@
-2026/10/03-16:50:07.831 5838 Recovering log #1094
-2026/10/03-16:50:07.831 5838 Delete type=0 #1094
-2026/10/03-16:50:07.831 5838 Delete type=3 #1092
-2026/10/03-17:29:15.627 4998 Level-0 table #1099: started
-2026/10/03-17:29:15.628 4998 Level-0 table #1099: 3881 bytes OK
-2026/10/03-17:29:15.629 4998 Delete type=0 #1097
-2026/10/03-17:29:15.697 4998 Manual compaction at level-0 from '!items!02QESeIlR6ESSmex' @ 72057594037927935 : 1 .. '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 0 : 0; will stop at '!items!fmI2DHS1YN4HMt2H' @ 9437 : 1
-2026/10/03-17:29:15.697 4998 Compacting 1@0 + 1@1 files
-2026/10/03-17:29:15.709 4998 Generated table #1100@0: 937 keys, 1103588 bytes
-2026/10/03-17:29:15.709 4998 Compacted 1@0 + 1@1 files => 1103588 bytes
-2026/10/03-17:29:15.710 4998 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/10/03-17:29:15.710 4998 Delete type=2 #1091
-2026/10/03-17:29:15.710 4998 Delete type=2 #1099
-2026/10/03-17:29:15.713 4998 Manual compaction at level-0 from '!items!fmI2DHS1YN4HMt2H' @ 9437 : 1 .. '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 0 : 0; will stop at (end)
+2026/10/03-16:08:56.956246 7f7afdef40 Recovering log #1098
+2026/10/03-16:08:56.980910 7f7afdef40 Delete type=3 #1096
+2026/10/03-16:08:56.981166 7f7afdef40 Delete type=0 #1098
+2026/10/03-18:22:12.050068 7f79247f40 Level-0 table #1104: started
+2026/10/03-18:22:12.060085 7f79247f40 Level-0 table #1104: 9640 bytes OK
+2026/10/03-18:22:12.066507 7f79247f40 Delete type=0 #1102
+2026/10/03-18:22:12.667264 7f79247f40 Manual compaction at level-0 from '!items!02QESeIlR6ESSmex' @ 72057594037927935 : 1 .. '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 0 : 0; will stop at '!items!ji5da5nK5sex3QfS' @ 9444 : 1
+2026/10/03-18:22:12.667311 7f79247f40 Compacting 1@0 + 1@1 files
+2026/10/03-18:22:12.807632 7f79247f40 Generated table #1105@0: 937 keys, 1103679 bytes
+2026/10/03-18:22:12.807746 7f79247f40 Compacted 1@0 + 1@1 files => 1103679 bytes
+2026/10/03-18:22:12.815453 7f79247f40 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/10/03-18:22:12.815827 7f79247f40 Delete type=2 #1104
+2026/10/03-18:22:12.816550 7f79247f40 Delete type=2 #1100
+2026/10/03-18:22:12.817690 7f79247f40 Manual compaction at level-0 from '!items!ji5da5nK5sex3QfS' @ 9444 : 1 .. '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 0 : 0; will stop at (end)

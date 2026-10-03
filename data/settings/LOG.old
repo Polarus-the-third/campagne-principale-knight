@@ -1,14 +1,14 @@
-2026/10/03-16:49:21.208 5dc4 Recovering log #1309
-2026/10/03-16:49:21.211 5dc4 Delete type=0 #1309
-2026/10/03-16:49:21.211 5dc4 Delete type=3 #1307
-2026/10/03-16:49:38.909 4998 Level-0 table #1315: started
-2026/10/03-16:49:38.913 4998 Level-0 table #1315: 26504 bytes OK
-2026/10/03-16:49:38.913 4998 Delete type=0 #1313
-2026/10/03-16:49:38.913 4998 Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 2052 : 1
-2026/10/03-16:49:38.913 4998 Compacting 1@0 + 1@1 files
-2026/10/03-16:49:38.913 4998 Generated table #1316@0: 23 keys, 6656 bytes
-2026/10/03-16:49:38.913 4998 Compacted 1@0 + 1@1 files => 6656 bytes
-2026/10/03-16:49:38.913 4998 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/10/03-16:49:38.913 4998 Delete type=2 #1311
-2026/10/03-16:49:38.913 4998 Delete type=2 #1315
-2026/10/03-16:49:38.913 4998 Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 2052 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)
+2026/10/03-16:50:07.878 2080 Recovering log #1314
+2026/10/03-16:50:07.881 2080 Delete type=0 #1314
+2026/10/03-16:50:07.881 2080 Delete type=3 #1312
+2026/10/03-17:29:15.728 4998 Level-0 table #1320: started
+2026/10/03-17:29:15.730 4998 Level-0 table #1320: 106960 bytes OK
+2026/10/03-17:29:15.731 4998 Delete type=0 #1318
+2026/10/03-17:29:15.732 4998 Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!yJJ0hUOGPWueKnCT' @ 0 : 0; will stop at '!settings!yJJ0hUOGPWueKnCT' @ 2136 : 1
+2026/10/03-17:29:15.732 4998 Compacting 1@0 + 1@1 files
+2026/10/03-17:29:15.735 4998 Generated table #1321@0: 68 keys, 10744 bytes
+2026/10/03-17:29:15.735 4998 Compacted 1@0 + 1@1 files => 10744 bytes
+2026/10/03-17:29:15.736 4998 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/10/03-17:29:15.736 4998 Delete type=2 #1316
+2026/10/03-17:29:15.736 4998 Delete type=2 #1320
+2026/10/03-17:29:15.742 4998 Manual compaction at level-0 from '!settings!yJJ0hUOGPWueKnCT' @ 2136 : 1 .. '!settings!yJJ0hUOGPWueKnCT' @ 0 : 0; will stop at (end)

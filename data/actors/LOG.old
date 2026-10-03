@@ -1,7 +1,62 @@
-2026/10/03-16:49:21.088 2080 Recovering log #2057
-2026/10/03-16:49:21.089 2080 Delete type=0 #2057
-2026/10/03-16:49:21.089 2080 Delete type=3 #2055
-2026/10/03-16:49:38.889 4998 Level-0 table #2066: started
-2026/10/03-16:49:38.889 4998 Level-0 table #2066: 0 bytes OK
-2026/10/03-16:49:38.889 4998 Delete type=0 #2064
-2026/10/03-16:49:38.899 4998 Manual compaction at level-0 from '!actors!0E18LoZKPx92MbPV' @ 72057594037927935 : 1 .. '!actors.items.effects!xVycekWvaDtuNliM.MLRfJiRsAmaSuhAF.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at (end)
+2026/10/03-16:50:07.758 5838 Recovering log #2065
+2026/10/03-16:50:07.760 5838 Delete type=0 #2065
+2026/10/03-16:50:07.760 5838 Delete type=3 #2063
+2026/10/03-16:58:05.993 4998 Level-0 table #2070: started
+2026/10/03-16:58:06.003 4998 Level-0 table #2070: 1646851 bytes OK
+2026/10/03-16:58:06.005 4998 Delete type=0 #2068
+2026/10/03-16:58:45.352 4998 Compacting 1@0 + 4@1 files
+2026/10/03-16:58:45.374 4998 Generated table #2071@0: 655 keys, 2118964 bytes
+2026/10/03-16:58:45.395 4998 Generated table #2072@0: 1102 keys, 2121637 bytes
+2026/10/03-16:58:45.412 4998 Generated table #2073@0: 872 keys, 2117550 bytes
+2026/10/03-16:58:45.419 4998 Generated table #2074@0: 588 keys, 959113 bytes
+2026/10/03-16:58:45.419 4998 Compacted 1@0 + 4@1 files => 7317264 bytes
+2026/10/03-16:58:45.420 4998 compacted to: files[ 0 4 0 0 0 0 0 ]
+2026/10/03-16:58:45.420 4998 Delete type=2 #2059
+2026/10/03-16:58:45.420 4998 Delete type=2 #2060
+2026/10/03-16:58:45.421 4998 Delete type=2 #2061
+2026/10/03-16:58:45.421 4998 Delete type=2 #2062
+2026/10/03-16:58:45.421 4998 Delete type=2 #2070
+2026/10/03-17:02:35.004 4998 Level-0 table #2076: started
+2026/10/03-17:02:35.013 4998 Level-0 table #2076: 2035167 bytes OK
+2026/10/03-17:02:35.014 4998 Delete type=0 #2069
+2026/10/03-17:05:14.011 4998 Compacting 1@0 + 4@1 files
+2026/10/03-17:05:14.032 4998 Generated table #2077@0: 655 keys, 2118995 bytes
+2026/10/03-17:05:14.050 4998 Generated table #2078@0: 1067 keys, 2121003 bytes
+2026/10/03-17:05:14.069 4998 Generated table #2079@0: 888 keys, 2206387 bytes
+2026/10/03-17:05:14.080 4998 Generated table #2080@0: 608 keys, 1019547 bytes
+2026/10/03-17:05:14.080 4998 Compacted 1@0 + 4@1 files => 7465932 bytes
+2026/10/03-17:05:14.081 4998 compacted to: files[ 0 4 0 0 0 0 0 ]
+2026/10/03-17:16:58.809 4998 Level-0 table #2082: started
+2026/10/03-17:16:58.818 4998 Level-0 table #2082: 2573642 bytes OK
+2026/10/03-17:16:58.819 4998 Delete type=2 #2071
+2026/10/03-17:16:58.819 4998 Delete type=2 #2072
+2026/10/03-17:16:58.820 4998 Delete type=2 #2073
+2026/10/03-17:16:58.820 4998 Delete type=2 #2074
+2026/10/03-17:16:58.820 4998 Delete type=0 #2075
+2026/10/03-17:16:58.821 4998 Delete type=2 #2076
+2026/10/03-17:26:50.903 4998 Level-0 table #2084: started
+2026/10/03-17:26:50.914 4998 Level-0 table #2084: 2173221 bytes OK
+2026/10/03-17:26:50.915 4998 Delete type=0 #2081
+2026/10/03-17:27:51.857 4998 Level-0 table #2086: started
+2026/10/03-17:27:51.867 4998 Level-0 table #2086: 2074144 bytes OK
+2026/10/03-17:27:51.868 4998 Delete type=0 #2083
+2026/10/03-17:29:15.623 4998 Level-0 table #2088: started
+2026/10/03-17:29:15.626 4998 Level-0 table #2088: 224749 bytes OK
+2026/10/03-17:29:15.627 4998 Delete type=0 #2085
+2026/10/03-17:29:15.629 4998 Manual compaction at level-0 from '!actors!0E18LoZKPx92MbPV' @ 72057594037927935 : 1 .. '!actors.items.effects!xVycekWvaDtuNliM.MLRfJiRsAmaSuhAF.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at '!actors.items!3Odx1lj5o67BunHG.yDAgk89qkdwk6LwB' @ 96091 : 1
+2026/10/03-17:29:15.629 4998 Compacting 4@0 + 4@1 files
+2026/10/03-17:29:15.650 4998 Generated table #2089@0: 652 keys, 2117590 bytes
+2026/10/03-17:29:15.671 4998 Generated table #2090@0: 1074 keys, 2123365 bytes
+2026/10/03-17:29:15.685 4998 Generated table #2091@0: 870 keys, 2117056 bytes
+2026/10/03-17:29:15.694 4998 Generated table #2092@0: 651 keys, 1167481 bytes
+2026/10/03-17:29:15.694 4998 Compacted 4@0 + 4@1 files => 7525492 bytes
+2026/10/03-17:29:15.695 4998 compacted to: files[ 0 4 0 0 0 0 0 ]
+2026/10/03-17:29:15.695 4998 Delete type=2 #2077
+2026/10/03-17:29:15.695 4998 Delete type=2 #2078
+2026/10/03-17:29:15.695 4998 Delete type=2 #2079
+2026/10/03-17:29:15.695 4998 Delete type=2 #2080
+2026/10/03-17:29:15.696 4998 Delete type=2 #2082
+2026/10/03-17:29:15.696 4998 Delete type=2 #2084
+2026/10/03-17:29:15.696 4998 Delete type=2 #2086
+2026/10/03-17:29:15.697 4998 Delete type=2 #2088
+2026/10/03-17:29:15.713 4998 Manual compaction at level-0 from '!actors.items!3Odx1lj5o67BunHG.yDAgk89qkdwk6LwB' @ 96091 : 1 .. '!actors.items.effects!xVycekWvaDtuNliM.MLRfJiRsAmaSuhAF.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at (end)
