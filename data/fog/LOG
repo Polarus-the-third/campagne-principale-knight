@@ -1,19 +1,15 @@
-2026/10/02-15:11:30.081387 7f657aef40 Recovering log #1434
-2026/10/02-15:11:30.103824 7f657aef40 Delete type=0 #1434
-2026/10/02-15:11:30.104018 7f657aef40 Delete type=3 #1431
-2026/10/02-21:33:46.209399 7d47295f40 Level-0 table #1442: started
-2026/10/02-21:33:46.229027 7d47295f40 Level-0 table #1442: 93345 bytes OK
-2026/10/02-21:33:46.235902 7d47295f40 Delete type=0 #1440
-2026/10/02-21:33:46.287339 7d47295f40 Manual compaction at level-0 from '!fog!01ULs73E2g5PhXEZ' @ 72057594037927935 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at '!fog!uGWyyL2Rr24Y9PYq' @ 4993 : 1
-2026/10/02-21:33:46.287396 7d47295f40 Compacting 1@0 + 4@1 files
-2026/10/02-21:33:46.707851 7d47295f40 Generated table #1443@0: 175 keys, 2106673 bytes
-2026/10/02-21:33:46.942601 7d47295f40 Generated table #1444@0: 138 keys, 2107849 bytes
-2026/10/02-21:33:47.086409 7d47295f40 Generated table #1445@0: 133 keys, 1599015 bytes
-2026/10/02-21:33:47.086522 7d47295f40 Compacted 1@0 + 4@1 files => 5813537 bytes
-2026/10/02-21:33:47.091983 7d47295f40 compacted to: files[ 0 3 0 0 0 0 0 ]
-2026/10/02-21:33:47.092351 7d47295f40 Delete type=2 #1438
-2026/10/02-21:33:47.093082 7d47295f40 Delete type=2 #1430
-2026/10/02-21:33:47.094659 7d47295f40 Delete type=2 #1437
-2026/10/02-21:33:47.096288 7d47295f40 Delete type=2 #1442
-2026/10/02-21:33:47.097231 7d47295f40 Delete type=2 #1436
-2026/10/02-21:33:47.100013 7d47295f40 Manual compaction at level-0 from '!fog!uGWyyL2Rr24Y9PYq' @ 4993 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at (end)
+2026/10/03-16:50:07.814 2080 Recovering log #1456
+2026/10/03-16:50:07.814 2080 Delete type=0 #1456
+2026/10/03-16:50:07.814 2080 Delete type=3 #1454
+2026/10/03-17:29:15.711 4998 Level-0 table #1461: started
+2026/10/03-17:29:15.712 4998 Level-0 table #1461: 24062 bytes OK
+2026/10/03-17:29:15.713 4998 Delete type=0 #1459
+2026/10/03-17:29:15.713 4998 Manual compaction at level-0 from '!fog!01ULs73E2g5PhXEZ' @ 72057594037927935 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at '!fog!K1WoYlUNHAiAH475' @ 4997 : 1
+2026/10/03-17:29:15.713 4998 Compacting 1@0 + 1@1 files
+2026/10/03-17:29:15.724 4998 Generated table #1462@0: 172 keys, 2108475 bytes
+2026/10/03-17:29:15.726 4998 Generated table #1463@0: 3 keys, 20894 bytes
+2026/10/03-17:29:15.726 4998 Compacted 1@0 + 1@1 files => 2129369 bytes
+2026/10/03-17:29:15.726 4998 compacted to: files[ 0 4 0 0 0 0 0 ]
+2026/10/03-17:29:15.727 4998 Delete type=2 #1451
+2026/10/03-17:29:15.727 4998 Delete type=2 #1461
+2026/10/03-17:29:15.732 4998 Manual compaction at level-0 from '!fog!K1WoYlUNHAiAH475' @ 4997 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at (end)

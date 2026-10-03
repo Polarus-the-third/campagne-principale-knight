@@ -1,14 +1,14 @@
-2026/10/02-15:11:30.946233 7f65fbef40 Recovering log #1357
-2026/10/02-15:11:30.969725 7f65fbef40 Delete type=0 #1357
-2026/10/02-15:11:30.969919 7f65fbef40 Delete type=3 #1353
-2026/10/02-21:33:47.944429 7d47295f40 Level-0 table #1363: started
-2026/10/02-21:33:47.971963 7d47295f40 Level-0 table #1363: 122418 bytes OK
-2026/10/02-21:33:47.979450 7d47295f40 Delete type=0 #1361
-2026/10/02-21:33:48.011880 7d47295f40 Manual compaction at level-0 from '!scenes!0EKuiMlUj7NoUNRP' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.walls!RaoTGOKlAF2EFk4t.TKprVsse5oQFn3bB' @ 138216 : 1
-2026/10/02-21:33:48.011965 7d47295f40 Compacting 1@0 + 1@1 files
-2026/10/02-21:33:48.111024 7d47295f40 Generated table #1364@0: 4036 keys, 651821 bytes
-2026/10/02-21:33:48.111158 7d47295f40 Compacted 1@0 + 1@1 files => 651821 bytes
-2026/10/02-21:33:48.117517 7d47295f40 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/10/02-21:33:48.118068 7d47295f40 Delete type=2 #1359
-2026/10/02-21:33:48.118923 7d47295f40 Delete type=2 #1363
-2026/10/02-21:33:48.132416 7d47295f40 Manual compaction at level-0 from '!scenes.walls!RaoTGOKlAF2EFk4t.TKprVsse5oQFn3bB' @ 138216 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)
+2026/10/03-16:50:07.861 2080 Recovering log #1373
+2026/10/03-16:50:07.864 2080 Delete type=0 #1373
+2026/10/03-16:50:07.864 2080 Delete type=3 #1371
+2026/10/03-17:29:15.736 4998 Level-0 table #1378: started
+2026/10/03-17:29:15.739 4998 Level-0 table #1378: 55422 bytes OK
+2026/10/03-17:29:15.740 4998 Delete type=0 #1376
+2026/10/03-17:29:15.744 4998 Manual compaction at level-0 from '!scenes!0EKuiMlUj7NoUNRP' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.tokens!RaoTGOKlAF2EFk4t.xZHHMx1kLSfgH8Dh' @ 138747 : 1
+2026/10/03-17:29:15.744 4998 Compacting 1@0 + 1@1 files
+2026/10/03-17:29:15.754 4998 Generated table #1379@0: 4037 keys, 653920 bytes
+2026/10/03-17:29:15.754 4998 Compacted 1@0 + 1@1 files => 653920 bytes
+2026/10/03-17:29:15.755 4998 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/10/03-17:29:15.756 4998 Delete type=2 #1370
+2026/10/03-17:29:15.756 4998 Delete type=2 #1378
+2026/10/03-17:29:15.787 4998 Manual compaction at level-0 from '!scenes.tokens!RaoTGOKlAF2EFk4t.xZHHMx1kLSfgH8Dh' @ 138747 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)

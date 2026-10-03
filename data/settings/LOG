@@ -1,14 +1,14 @@
-2026/10/02-15:11:31.114455 7f65fbef40 Recovering log #1298
-2026/10/02-15:11:31.140893 7f65fbef40 Delete type=3 #1294
-2026/10/02-15:11:31.141145 7f65fbef40 Delete type=0 #1298
-2026/10/02-21:33:47.914218 7d47295f40 Level-0 table #1304: started
-2026/10/02-21:33:47.932234 7d47295f40 Level-0 table #1304: 50626 bytes OK
-2026/10/02-21:33:47.943744 7d47295f40 Delete type=0 #1302
-2026/10/02-21:33:47.982699 7d47295f40 Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 1997 : 1
-2026/10/02-21:33:47.982776 7d47295f40 Compacting 1@0 + 1@1 files
-2026/10/02-21:33:48.002547 7d47295f40 Generated table #1305@0: 22 keys, 5568 bytes
-2026/10/02-21:33:48.002678 7d47295f40 Compacted 1@0 + 1@1 files => 5568 bytes
-2026/10/02-21:33:48.010196 7d47295f40 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/10/02-21:33:48.010684 7d47295f40 Delete type=2 #1304
-2026/10/02-21:33:48.011321 7d47295f40 Delete type=2 #1300
-2026/10/02-21:33:48.132320 7d47295f40 Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 1997 : 1 .. '!settings!wt4fRi68Yc8xqAzq' @ 0 : 0; will stop at (end)
+2026/10/03-16:50:07.878 2080 Recovering log #1314
+2026/10/03-16:50:07.881 2080 Delete type=0 #1314
+2026/10/03-16:50:07.881 2080 Delete type=3 #1312
+2026/10/03-17:29:15.728 4998 Level-0 table #1320: started
+2026/10/03-17:29:15.730 4998 Level-0 table #1320: 106960 bytes OK
+2026/10/03-17:29:15.731 4998 Delete type=0 #1318
+2026/10/03-17:29:15.732 4998 Manual compaction at level-0 from '!settings!3hFiW0YoObW4acsj' @ 72057594037927935 : 1 .. '!settings!yJJ0hUOGPWueKnCT' @ 0 : 0; will stop at '!settings!yJJ0hUOGPWueKnCT' @ 2136 : 1
+2026/10/03-17:29:15.732 4998 Compacting 1@0 + 1@1 files
+2026/10/03-17:29:15.735 4998 Generated table #1321@0: 68 keys, 10744 bytes
+2026/10/03-17:29:15.735 4998 Compacted 1@0 + 1@1 files => 10744 bytes
+2026/10/03-17:29:15.736 4998 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/10/03-17:29:15.736 4998 Delete type=2 #1316
+2026/10/03-17:29:15.736 4998 Delete type=2 #1320
+2026/10/03-17:29:15.742 4998 Manual compaction at level-0 from '!settings!yJJ0hUOGPWueKnCT' @ 2136 : 1 .. '!settings!yJJ0hUOGPWueKnCT' @ 0 : 0; will stop at (end)
