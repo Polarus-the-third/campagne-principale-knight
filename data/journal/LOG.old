@@ -1,1 +1,11 @@
-2026/10/21-19:27:01.690 5cb0 Delete type=3 #1
+2026/10/28-18:03:37.477 7420 Delete type=3 #1
+2026/10/28-18:04:11.126 5124 Level-0 table #1080: started
+2026/10/28-18:04:11.126 5124 Level-0 table #1080: 0 bytes OK
+2026/10/28-18:04:11.126 5124 Delete type=0 #1078
+2026/10/28-18:04:11.142 5124 Manual compaction at level-0 from '!journal!2ZoOlTA6VBxoZA0E' @ 72057594037927935 : 1 .. '!journal.pages!mk0SgTJZ66eUm9hC.CoOorwnYC9voeuqx' @ 0 : 0; will stop at '!journal.pages!mk0SgTJZ66eUm9hC.CoOorwnYC9voeuqx' @ 320 : 1
+2026/10/28-18:04:11.142 5124 Compacting 1@0 + 0@1 files
+2026/10/28-18:04:11.145 5124 Generated table #1081@0: 14 keys, 10026 bytes
+2026/10/28-18:04:11.145 5124 Compacted 1@0 + 0@1 files => 10026 bytes
+2026/10/28-18:04:11.145 5124 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/10/28-18:04:11.145 5124 Delete type=2 #1075
+2026/10/28-18:04:11.148 5124 Manual compaction at level-0 from '!journal.pages!mk0SgTJZ66eUm9hC.CoOorwnYC9voeuqx' @ 320 : 1 .. '!journal.pages!mk0SgTJZ66eUm9hC.CoOorwnYC9voeuqx' @ 0 : 0; will stop at (end)

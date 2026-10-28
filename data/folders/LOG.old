@@ -1,1 +1,11 @@
-2026/10/21-19:27:01.661 5cb0 Delete type=3 #1
+2026/10/28-18:03:37.440 9fc Delete type=3 #1
+2026/10/28-18:04:11.121 5124 Level-0 table #1134: started
+2026/10/28-18:04:11.121 5124 Level-0 table #1134: 0 bytes OK
+2026/10/28-18:04:11.121 5124 Delete type=0 #1132
+2026/10/28-18:04:11.124 5124 Manual compaction at level-0 from '!folders!0Icdx6VeonbDxm5y' @ 72057594037927935 : 1 .. '!folders!yTsXpRYx1kWFl03w' @ 0 : 0; will stop at '!folders!yTsXpRYx1kWFl03w' @ 482 : 1
+2026/10/28-18:04:11.124 5124 Compacting 1@0 + 0@1 files
+2026/10/28-18:04:11.126 5124 Generated table #1135@0: 85 keys, 11642 bytes
+2026/10/28-18:04:11.126 5124 Compacted 1@0 + 0@1 files => 11642 bytes
+2026/10/28-18:04:11.126 5124 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/10/28-18:04:11.126 5124 Delete type=2 #1129
+2026/10/28-18:04:11.142 5124 Manual compaction at level-0 from '!folders!yTsXpRYx1kWFl03w' @ 482 : 1 .. '!folders!yTsXpRYx1kWFl03w' @ 0 : 0; will stop at (end)

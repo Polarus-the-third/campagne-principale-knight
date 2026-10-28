@@ -1,2 +1,11 @@
-2026/10/21-19:27:01.595 19a4 Delete type=3 #1
-2026/10/21-19:27:01.595 4abc Moved #1937 to level-1 2281977 bytes OK: files[ 3 1 0 0 0 0 0 ]
+2026/10/28-18:03:37.370 27e0 Delete type=3 #1
+2026/10/28-18:04:11.115 5124 Level-0 table #1952: started
+2026/10/28-18:04:11.115 5124 Level-0 table #1952: 0 bytes OK
+2026/10/28-18:04:11.115 5124 Delete type=0 #1950
+2026/10/28-18:04:11.115 5124 Manual compaction at level-0 from '!messages!4dhihQLBvflKcrP1' @ 72057594037927935 : 1 .. '!messages!y6xaWxDYZ4Gz5jAk' @ 0 : 0; will stop at '!messages!y6xaWxDYZ4Gz5jAk' @ 17537 : 1
+2026/10/28-18:04:11.115 5124 Compacting 1@0 + 0@1 files
+2026/10/28-18:04:11.115 5124 Generated table #1953@0: 11 keys, 6008 bytes
+2026/10/28-18:04:11.115 5124 Compacted 1@0 + 0@1 files => 6008 bytes
+2026/10/28-18:04:11.115 5124 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/10/28-18:04:11.115 5124 Delete type=2 #1947
+2026/10/28-18:04:11.121 5124 Manual compaction at level-0 from '!messages!y6xaWxDYZ4Gz5jAk' @ 17537 : 1 .. '!messages!y6xaWxDYZ4Gz5jAk' @ 0 : 0; will stop at (end)

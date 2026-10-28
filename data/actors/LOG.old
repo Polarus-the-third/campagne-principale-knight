@@ -1,17 +1,16 @@
-2026/10/21-19:27:01.525 19a4 Delete type=3 #1
-2026/10/21-19:27:01.525 4abc Moved #2121 to level-1 2118696 bytes OK: files[ 3 1 0 0 0 0 0 ]
-2026/10/21-19:56:10.853 4abc Level-0 table #2129: started
-2026/10/21-19:56:10.868 4abc Level-0 table #2129: 1825756 bytes OK
-2026/10/21-19:56:10.869 4abc Delete type=0 #2127
-2026/10/21-19:56:10.870 4abc Compacting 4@0 + 1@1 files
-2026/10/21-19:56:10.896 4abc Generated table #2130@0: 652 keys, 2118698 bytes
-2026/10/21-19:56:10.921 4abc Generated table #2131@0: 1081 keys, 2121177 bytes
-2026/10/21-19:56:10.947 4abc Generated table #2132@0: 885 keys, 2131194 bytes
-2026/10/21-19:56:10.964 4abc Generated table #2133@0: 655 keys, 1181304 bytes
-2026/10/21-19:56:10.964 4abc Compacted 4@0 + 1@1 files => 7552373 bytes
-2026/10/21-19:56:10.964 4abc compacted to: files[ 0 4 0 0 0 0 0 ]
-2026/10/21-19:56:10.964 4abc Delete type=2 #2121
-2026/10/21-19:56:10.965 4abc Delete type=2 #2122
-2026/10/21-19:56:10.965 4abc Delete type=2 #2123
-2026/10/21-19:56:10.965 4abc Delete type=2 #2124
-2026/10/21-19:56:10.966 4abc Delete type=2 #2129
+2026/10/28-18:03:37.312 70c0 Delete type=3 #1
+2026/10/28-18:03:37.312 5124 Moved #2151 to level-1 2118804 bytes OK: files[ 3 1 0 0 0 0 0 ]
+2026/10/28-18:04:11.148 5124 Level-0 table #2159: started
+2026/10/28-18:04:11.148 5124 Level-0 table #2159: 0 bytes OK
+2026/10/28-18:04:11.148 5124 Delete type=0 #2157
+2026/10/28-18:04:11.151 5124 Manual compaction at level-0 from '!actors!0E18LoZKPx92MbPV' @ 72057594037927935 : 1 .. '!actors.items.effects!xVycekWvaDtuNliM.MLRfJiRsAmaSuhAF.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at '!actors.items.effects!xVycekWvaDtuNliM.MLRfJiRsAmaSuhAF.I1GIl8Fsk9J6moK9' @ 101048 : 1
+2026/10/28-18:04:11.151 5124 Compacting 3@0 + 0@1 files
+2026/10/28-18:04:11.171 5124 Generated table #2160@0: 1081 keys, 2121176 bytes
+2026/10/28-18:04:11.191 5124 Generated table #2161@0: 885 keys, 2131247 bytes
+2026/10/28-18:04:11.201 5124 Generated table #2162@0: 655 keys, 1181307 bytes
+2026/10/28-18:04:11.201 5124 Compacted 3@0 + 0@1 files => 5433730 bytes
+2026/10/28-18:04:11.201 5124 compacted to: files[ 0 4 0 0 0 0 0 ]
+2026/10/28-18:04:11.201 5124 Delete type=2 #2152
+2026/10/28-18:04:11.201 5124 Delete type=2 #2153
+2026/10/28-18:04:11.201 5124 Delete type=2 #2154
+2026/10/28-18:04:11.201 5124 Manual compaction at level-0 from '!actors.items.effects!xVycekWvaDtuNliM.MLRfJiRsAmaSuhAF.I1GIl8Fsk9J6moK9' @ 101048 : 1 .. '!actors.items.effects!xVycekWvaDtuNliM.MLRfJiRsAmaSuhAF.I1GIl8Fsk9J6moK9' @ 0 : 0; will stop at (end)
