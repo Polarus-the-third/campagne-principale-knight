@@ -1,24 +1,3 @@
-2026/11/04-19:25:44.401 2b48 Recovering log #1358
-2026/11/04-19:25:44.402 2b48 Level-0 table #1360: started
-2026/11/04-19:25:44.404 2b48 Level-0 table #1360: 26454 bytes OK
-2026/11/04-19:25:44.407 2b48 Delete type=0 #1358
-2026/11/04-19:25:44.408 2b48 Delete type=3 #1356
-2026/11/04-19:25:44.408 6c40 Compacting 4@0 + 0@1 files
-2026/11/04-19:25:44.411 6c40 Generated table #1362@0: 82 keys, 12400 bytes
-2026/11/04-19:25:44.411 6c40 Compacted 4@0 + 0@1 files => 12400 bytes
-2026/11/04-19:25:44.411 6c40 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/11/04-19:25:44.412 6c40 Delete type=2 #1349
-2026/11/04-19:25:44.412 6c40 Delete type=2 #1354
-2026/11/04-19:25:44.412 6c40 Delete type=2 #1357
-2026/11/04-19:25:44.412 6c40 Delete type=2 #1360
-2026/11/04-19:28:00.549 6c40 Level-0 table #1364: started
-2026/11/04-19:28:00.550 6c40 Level-0 table #1364: 26454 bytes OK
-2026/11/04-19:28:00.551 6c40 Delete type=0 #1361
-2026/11/04-19:28:00.555 6c40 Manual compaction at level-0 from '!settings!1ErCuNDklfA7trdl' @ 72057594037927935 : 1 .. '!settings!yJJ0hUOGPWueKnCT' @ 0 : 0; will stop at '!settings!ukOHfoj4y3Mw4Io6' @ 2380 : 1
-2026/11/04-19:28:00.555 6c40 Compacting 1@0 + 1@1 files
-2026/11/04-19:28:00.557 6c40 Generated table #1365@0: 82 keys, 12400 bytes
-2026/11/04-19:28:00.557 6c40 Compacted 1@0 + 1@1 files => 12400 bytes
-2026/11/04-19:28:00.557 6c40 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/11/04-19:28:00.557 6c40 Delete type=2 #1362
-2026/11/04-19:28:00.558 6c40 Delete type=2 #1364
-2026/11/04-19:28:00.570 6c40 Manual compaction at level-0 from '!settings!ukOHfoj4y3Mw4Io6' @ 2380 : 1 .. '!settings!yJJ0hUOGPWueKnCT' @ 0 : 0; will stop at (end)
+2026/11/04-19:28:03.393 1ca0 Recovering log #1363
+2026/11/04-19:28:03.396 1ca0 Delete type=0 #1363
+2026/11/04-19:28:03.396 1ca0 Delete type=3 #1359
