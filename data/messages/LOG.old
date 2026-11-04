@@ -1,3 +1,7 @@
-2026/10/28-18:07:26.599 37f0 Recovering log #1951
-2026/10/28-18:07:26.601 37f0 Delete type=0 #1951
-2026/10/28-18:07:26.601 37f0 Delete type=3 #1949
+2026/11/04-19:25:44.261 1458 Recovering log #1971
+2026/11/04-19:25:44.264 1458 Delete type=0 #1971
+2026/11/04-19:25:44.264 1458 Delete type=3 #1969
+2026/11/04-19:28:00.517 6c40 Level-0 table #1976: started
+2026/11/04-19:28:00.517 6c40 Level-0 table #1976: 0 bytes OK
+2026/11/04-19:28:00.518 6c40 Delete type=0 #1974
+2026/11/04-19:28:00.548 6c40 Manual compaction at level-0 from '!messages!6yvNIMNsbQGWZKiV' @ 72057594037927935 : 1 .. '!messages!cP1QHZL6wCa8dRuh' @ 0 : 0; will stop at (end)
