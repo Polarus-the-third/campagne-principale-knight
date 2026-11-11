@@ -1,22 +1,9 @@
-2026/11/04-19:40:15.345902 7f5df3ef40 Recovering log #1427
-2026/11/04-19:40:15.373942 7f5df3ef40 Level-0 table #1429: started
-2026/11/04-19:40:15.420197 7f5df3ef40 Level-0 table #1429: 33001 bytes OK
-2026/11/04-19:40:15.490858 7f5df3ef40 Delete type=0 #1427
-2026/11/04-19:40:15.491362 7f5df3ef40 Delete type=3 #1426
-2026/11/04-19:40:36.011188 7f5c8bff40 Compacting 1@0 + 1@1 files
-2026/11/04-19:40:37.360570 7f5c8bff40 Generated table #1431@0: 3720 keys, 570754 bytes
-2026/11/04-19:40:37.360730 7f5c8bff40 Compacted 1@0 + 1@1 files => 570754 bytes
-2026/11/04-19:40:37.395906 7f5c8bff40 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/11/04-19:40:37.397218 7f5c8bff40 Delete type=2 #1429
-2026/11/04-19:40:37.398170 7f5c8bff40 Delete type=2 #1425
-2026/11/04-23:00:43.300616 7f5c8bff40 Level-0 table #1433: started
-2026/11/04-23:00:43.404068 7f5c8bff40 Level-0 table #1433: 824585 bytes OK
-2026/11/04-23:00:43.412728 7f5c8bff40 Delete type=0 #1430
-2026/11/04-23:00:43.456515 7f5c8bff40 Manual compaction at level-0 from '!scenes!0EKuiMlUj7NoUNRP' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.walls!OphOT3IZ3jLeZVUR.Fa32qa8RtgeqcFHb' @ 142311 : 1
-2026/11/04-23:00:43.456585 7f5c8bff40 Compacting 1@0 + 1@1 files
-2026/11/04-23:00:43.567222 7f5c8bff40 Generated table #1434@0: 3831 keys, 601459 bytes
-2026/11/04-23:00:43.567347 7f5c8bff40 Compacted 1@0 + 1@1 files => 601459 bytes
-2026/11/04-23:00:43.578996 7f5c8bff40 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/11/04-23:00:43.579459 7f5c8bff40 Delete type=2 #1431
-2026/11/04-23:00:43.580315 7f5c8bff40 Delete type=2 #1433
-2026/11/04-23:00:43.582595 7f5c8bff40 Manual compaction at level-0 from '!scenes.walls!OphOT3IZ3jLeZVUR.Fa32qa8RtgeqcFHb' @ 142311 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)
+2026/11/11-19:43:54.023 198c Recovering log #1437
+2026/11/11-19:43:54.024 198c Level-0 table #1439: started
+2026/11/11-19:43:54.025 198c Level-0 table #1439: 151910 bytes OK
+2026/11/11-19:43:54.030 198c Delete type=0 #1437
+2026/11/11-19:43:54.030 198c Delete type=3 #1436
+2026/11/11-19:43:54.500 3518 Compacting 2@0 + 0@1 files
+2026/11/11-19:43:54.510 3518 Generated table #1441@0: 3849 keys, 611897 bytes
+2026/11/11-19:43:54.510 3518 Compacted 2@0 + 0@1 files => 611897 bytes
+2026/11/11-19:43:54.510 3518 compacted to: files[ 0 1 0 0 0 0 0 ]

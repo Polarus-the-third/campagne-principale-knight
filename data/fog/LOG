@@ -1,28 +1,6 @@
-2026/11/04-19:40:06.850768 7f5df3ef40 Recovering log #1520
-2026/11/04-19:40:06.933097 7f5df3ef40 Delete type=3 #1519
-2026/11/04-19:40:06.933509 7f5df3ef40 Delete type=0 #1520
-2026/11/04-21:17:38.238005 7f5c8bff40 Level-0 table #1524: started
-2026/11/04-21:17:38.691972 7f5c8bff40 Level-0 table #1524: 1735395 bytes OK
-2026/11/04-21:17:38.699582 7f5c8bff40 Delete type=0 #1522
-2026/11/04-21:31:08.538872 7f5c8bff40 Level-0 table #1526: started
-2026/11/04-21:31:08.761957 7f5c8bff40 Level-0 table #1526: 1890229 bytes OK
-2026/11/04-21:31:08.769882 7f5c8bff40 Delete type=0 #1523
-2026/11/04-23:00:41.453780 7f5c8bff40 Level-0 table #1528: started
-2026/11/04-23:00:41.612748 7f5c8bff40 Level-0 table #1528: 1551384 bytes OK
-2026/11/04-23:00:41.619222 7f5c8bff40 Delete type=0 #1525
-2026/11/04-23:00:41.689894 7f5c8bff40 Manual compaction at level-0 from '!fog!01ULs73E2g5PhXEZ' @ 72057594037927935 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at '!fog!wTVn9CsEHqZE7nmT' @ 5119 : 1
-2026/11/04-23:00:41.689957 7f5c8bff40 Compacting 3@0 + 4@1 files
-2026/11/04-23:00:41.899565 7f5c8bff40 Generated table #1529@0: 151 keys, 2125347 bytes
-2026/11/04-23:00:42.111900 7f5c8bff40 Generated table #1530@0: 126 keys, 2126869 bytes
-2026/11/04-23:00:42.319332 7f5c8bff40 Generated table #1531@0: 143 keys, 2126743 bytes
-2026/11/04-23:00:42.356242 7f5c8bff40 Generated table #1532@0: 25 keys, 220038 bytes
-2026/11/04-23:00:42.356359 7f5c8bff40 Compacted 3@0 + 4@1 files => 6598997 bytes
-2026/11/04-23:00:42.362790 7f5c8bff40 compacted to: files[ 0 4 0 0 0 0 0 ]
-2026/11/04-23:00:42.363223 7f5c8bff40 Delete type=2 #1510
-2026/11/04-23:00:42.364049 7f5c8bff40 Delete type=2 #1518
-2026/11/04-23:00:42.365894 7f5c8bff40 Delete type=2 #1526
-2026/11/04-23:00:42.370048 7f5c8bff40 Delete type=2 #1524
-2026/11/04-23:00:42.374400 7f5c8bff40 Delete type=2 #1509
-2026/11/04-23:00:42.377706 7f5c8bff40 Delete type=2 #1528
-2026/11/04-23:00:42.381770 7f5c8bff40 Delete type=2 #1517
-2026/11/04-23:00:42.590068 7f5c8bff40 Manual compaction at level-0 from '!fog!wTVn9CsEHqZE7nmT' @ 5119 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at (end)
+2026/11/11-19:43:53.942 f88 Recovering log #1535
+2026/11/11-19:43:53.942 f88 Level-0 table #1537: started
+2026/11/11-19:43:53.942 f88 Level-0 table #1537: 24879 bytes OK
+2026/11/11-19:43:53.942 f88 Delete type=0 #1535
+2026/11/11-19:43:53.942 f88 Delete type=3 #1534
+2026/11/11-19:43:53.955 3518 Moved #1530 to level-1 2126869 bytes OK: files[ 3 2 0 0 0 0 0 ]
